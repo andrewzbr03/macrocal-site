@@ -119,8 +119,8 @@ const FED_CONTEXT_RE = /\b(?:fomc|federal reserve|fed chair|fed governor|fed pre
 const FOREIGN_CENTRAL_BANK_RE = /\b(?:riksbank|ecb|european central bank|bank of england|boe|bank of japan|boj|reserve bank of australia|rba|reserve bank of new zealand|rbnz|bank of canada|boc|swiss national bank|snb|norges bank|people'?s bank of china|pboc|bank of korea)\b/i;
 const US_COUNTRY_RE = /^(?:us|usa|u s|u\.s\.|united states|united states of america)$/i;
 const US_TITLE_RE = /^(?:us|u\.s\.|united states)\b/i;
-const EXTRA_RELEVANCE_RE = /\b(?:trade balance|industrial production|empire state|philly fed|philadelphia fed|new home sales|existing home sales|pending home sales|import prices|export prices|productivity|unit labor costs|beige book|factory orders|business inventories|construction spending|fed chair|fed governor|fed president|federal reserve.*speech|treasury refunding)\b/i;
-const GLOBAL_CONTEXT_RE = /\b(?:ecb|european central bank|bank of england|boe|bank of japan|boj|pboc|people'?s bank of china|china.*(?:gdp|cpi|pmi)|euro(?:zone| area).*(?:gdp|cpi|pmi)|opec|crude oil|geopolit|government shutdown|debt ceiling)\b/i;
+const EXTRA_RELEVANCE_RE = /\b(?:trade balance|industrial production|empire state|philly fed|philadelphia fed|new home sales|existing home sales|pending home sales|import prices|export prices|productivity|unit labor costs|beige book|factory orders|business inventories|construction spending|fed chair|fed governor|fed president|federal reserve.*speech|powell.*speech|treasury refunding|treasury.*auction|2.?year.*auction|5.?year.*auction|7.?year.*auction|10.?year.*auction|30.?year.*auction)\b/i;
+const GLOBAL_CONTEXT_RE = /\b(?:ecb|european central bank|bank of england|boe|bank of japan|boj|pboc|people'?s bank of china|bank of canada|boc|reserve bank of australia|rba|reserve bank of new zealand|rbnz|swiss national bank|snb|riksbank|norges bank|china.*(?:gdp|cpi|pmi)|euro(?:zone| area).*(?:gdp|cpi|pmi)|(?:central bank|interest )?rate decision|opec|crude oil|geopolit|government shutdown|debt ceiling)\b/i;
 
 // Verified near-term fallback; live data can enrich it and add history/future occurrences.
 const CANONICAL_SEED = [
@@ -343,7 +343,7 @@ function renderSummary(){const monthList=monthEvents();els.eventCount.textConten
 function renderCoverage(){const list=filteredAll();if(!list.length){els.coverageRange.textContent='—';els.coverageCount.textContent='No dates loaded';return;}const first=parseEventDate(list[0]),last=parseEventDate(list[list.length-1]);els.coverageRange.textContent=`${first.toLocaleDateString('en-US',{month:'short',year:'numeric'})} → ${last.toLocaleDateString('en-US',{month:'short',year:'numeric'})}`;els.coverageCount.textContent=`${list.length} occurrences · built-in history + shared live archive`;}
 function renderUpcoming(){const nowMs=Date.now()-60*60*1000,list=filteredAll().filter(ev=>(parseEventDate(ev)?.getTime()||0)>=nowMs).slice(0,20);els.upcomingList.innerHTML=list.length?list.map(rowHtml).join(''):'<div class="empty-state">No upcoming matching events have been published yet.</div>';}
 function renderHistory(){const all=filteredAll().filter(ev=>isArchiveEligible(ev)&&(parseEventDate(ev)?.getTime()||0)<Date.now()).reverse(),list=all.slice(0,state.historyLimit);els.historyList.innerHTML=list.length?list.map(rowHtml).join(''):`<div class="empty-state">No previous occurrences loaded for the selected filters.</div>`;els.historyMore.classList.toggle('hidden',all.length<=state.historyLimit);if(all.length>state.historyLimit)els.historyMore.textContent=`Show ${Math.min(25,all.length-state.historyLimit)} more`;}
-function rowHtml(ev){const d=parseEventDate(ev),rows=buildMetricRows(ev),primary=rows.find(r=>r.primary)||rows[0];const vals=state.showActual&&primary?`Actual ${esc(valueOrDash(primary.actual))} · Forecast ${esc(valueOrDash(primary.forecast))} · Previous ${esc(valueOrDash(primary.previous))}`:'';return `<button class="upcoming-row row-button" data-open-event="${esc(eventKey(ev))}"><div class="upcoming-date">${esc(fmtDate(d))}<br><span class="muted">${esc(eventET(ev))} ET</span></div><div><div class="upcoming-name">${esc(ev.name||'Economic event')}</div>${vals?`<div class="upcoming-values">${vals}</div>`:''}<div class="source-status">${esc(ev.sourceStatus||(ev.live?'Live':'Verified'))}</div></div><span class="impact-badge ${eventImpact(ev)}">${esc(ev.impact||'event')}</span></button>`;}
+function rowHtml(ev){const d=parseEventDate(ev),rows=buildMetricRows(ev),primary=rows.find(r=>r.primary)||rows[0];const actual=primary?.actual??ev.actual,forecast=primary?.forecast??ev.forecast??ev.consensus,previous=primary?.previous??ev.previous??ev.prior;const future=(parseEventDate(ev)?.getTime()||0)>Date.now();const hasAny=[actual,forecast,previous].some(v=>v!==null&&v!==undefined&&v!=='')||future;const actualText=future&&(actual===null||actual===undefined||actual==='')?'Pending':valueOrDash(actual);const forecastText=future&&(forecast===null||forecast===undefined||forecast==='')?'Not yet published':valueOrDash(forecast);const vals=state.showActual&&hasAny?`Actual ${esc(actualText)} · Forecast ${esc(forecastText)} · Previous ${esc(valueOrDash(previous))}`:'';return `<button class="upcoming-row row-button" data-open-event="${esc(eventKey(ev))}"><div class="upcoming-date">${esc(fmtDate(d))}<br><span class="muted">${esc(eventET(ev))} ET</span></div><div><div class="upcoming-name">${esc(ev.name||'Economic event')}</div>${vals?`<div class="upcoming-values">${vals}</div>`:''}<div class="source-status">${esc(ev.sourceStatus||(ev.live?'Live':'Verified'))}</div></div><span class="impact-badge ${eventImpact(ev)}">${esc(ev.impact||'event')}</span></button>`;}
 function wireRowButtons(){document.querySelectorAll('[data-open-event]').forEach(btn=>btn.addEventListener('click',()=>openEvent(btn.dataset.openEvent)));}
 function renderAll(){renderCalendar();renderSummary();renderUpcoming();renderHistory();wireRowButtons();}
 
@@ -357,9 +357,24 @@ function extractSummaryValue(text,spec){
   // Sometimes period comes before the value.
   const re2=new RegExp(`${prefix}[^;,.]{0,20}?${period}[^;,.]{0,15}?([+-]?\\d+(?:\\.\\d+)?)%?`,'i');const m2=s.match(re2);return m2?`${m2[1]}%`:null;
 }
+function latestPriorOccurrence(ev){
+  const t=parseEventDate(ev)?.getTime()||0;
+  return state.allEvents
+    .filter(x=>x.filterId===ev.filterId && (parseEventDate(x)?.getTime()||0)<t)
+    .sort((a,b)=>(parseEventDate(b)?.getTime()||0)-(parseEventDate(a)?.getTime()||0))[0]||null;
+}
+function actualForSpec(occ,spec){
+  if(!occ||!spec)return null;
+  const specs=METRIC_SPECS[occ.filterId]||[];
+  const c=findComponent(occ,spec);
+  const useTop=!c&&specs.length===1;
+  return c?.actual??(useTop?occ.actual:null)??extractSummaryValue(occ.actual,spec);
+}
 function buildMetricRows(ev){
   const specs=METRIC_SPECS[ev.filterId]||[]; if(!specs.length)return [];
   const singleMetric=specs.length===1;
+  const priorOcc=latestPriorOccurrence(ev);
+  const isFuture=(parseEventDate(ev)?.getTime()||0)>Date.now();
   return specs.map((spec,idx)=>{
     const c=findComponent(ev,spec);
     // Never push a generic family-level number into a specific Core/Headline/MoM/YoY row.
@@ -368,9 +383,19 @@ function buildMetricRows(ev){
     const actual=c?.actual??(useTop?ev.actual:null);
     const forecast=c?.forecast??c?.consensus??(useTop?(ev.forecast??ev.consensus):null);
     const previous=c?.previous??c?.prior??(useTop?(ev.previous??ev.prior):null);
-    const actual2=actual??extractSummaryValue(ev.actual,spec),forecast2=forecast??extractSummaryValue(ev.forecast??ev.consensus,spec),previous2=previous??extractSummaryValue(ev.previous??ev.prior,spec);
+    const actual2=actual??extractSummaryValue(ev.actual,spec);
+    const forecast2=forecast??extractSummaryValue(ev.forecast??ev.consensus,spec);
+    let previous2=previous??extractSummaryValue(ev.previous??ev.prior,spec);
+    let previousFallback=false;
+    if(isFuture && (previous2===null||previous2===undefined||previous2==='')){
+      const lastActual=actualForSpec(priorOcc,spec);
+      if(lastActual!==null&&lastActual!==undefined&&lastActual!==''){
+        previous2=lastActual;
+        previousFallback=true;
+      }
+    }
     const original=c?.originalPrevious??(useTop?ev.originalPrevious:null);
-    return {id:spec.id,label:spec.label,source:spec.source,official:spec.official,primary:Boolean(spec.primary),noForecast:Boolean(spec.noForecast),actual:actual2,forecast:spec.noForecast?null:forecast2,previous:previous2,originalPrevious:original,surprise:spec.noForecast?'—':surpriseValue(actual2,forecast2)};
+    return {id:spec.id,label:spec.label,source:spec.source,official:spec.official,primary:Boolean(spec.primary),noForecast:Boolean(spec.noForecast),actual:actual2,forecast:spec.noForecast?null:forecast2,previous:previous2,previousFallback,originalPrevious:original,surprise:spec.noForecast?'—':surpriseValue(actual2,forecast2)};
   });
 }
 function detailMetricRows(ev){
@@ -383,40 +408,51 @@ function detailMetricRows(ev){
   return combined.sort((a,b)=>order.indexOf(a.id)-order.indexOf(b.id));
 }
 function revisionHtml(row){if(row.originalPrevious===null||row.originalPrevious===undefined||row.originalPrevious===''||String(row.originalPrevious)===String(row.previous))return '';return `<span class="revision-note">was ${esc(row.originalPrevious)}</span>`;}
-function metricTableHtml(rows){if(!rows.length)return '';return `<div class="detail-section"><div class="detail-section-title">Report data</div><div class="metric-table"><div class="metric-head"><span>Metric</span><span>Previous</span><span>Forecast</span><span>Actual</span><span>Surprise</span><span>Sources</span></div>${rows.map(r=>`<div class="metric-row"><span class="metric-name">${esc(r.label)}</span><span>${esc(valueOrDash(r.previous))}${revisionHtml(r)}</span><span>${r.noForecast?'<span class="muted">N/A</span>':esc(valueOrDash(r.forecast))}</span><span>${esc(valueOrDash(r.actual))}</span><span class="surprise-cell">${esc(r.surprise)}</span><span class="source-links">${r.source?`<a class="metric-link" href="${esc(r.source)}" target="_blank" rel="noreferrer">Investing</a>`:''}${r.official?`<a class="metric-link official-link" href="${esc(r.official)}" target="_blank" rel="noreferrer">Official</a>`:''}</span></div>`).join('')}</div></div>`;}
+function metricTableHtml(rows,ev){if(!rows.length)return '';const future=(parseEventDate(ev)?.getTime()||0)>Date.now();return `<div class="detail-section"><div class="detail-section-title">Report data</div><div class="metric-table"><div class="metric-head"><span>Metric</span><span>Previous</span><span>Forecast</span><span>Actual</span><span>Surprise</span><span>Sources</span></div>${rows.map(r=>`<div class="metric-row"><span class="metric-name">${esc(r.label)}</span><span>${esc(valueOrDash(r.previous))}${r.previousFallback?'<span class="revision-note">latest stored actual</span>':''}${revisionHtml(r)}</span><span>${r.noForecast?'<span class="muted">N/A</span>':(future&&(r.forecast===null||r.forecast===undefined||r.forecast==='')?'<span class="muted">Not yet published</span>':esc(valueOrDash(r.forecast)))}</span><span>${future&&(r.actual===null||r.actual===undefined||r.actual==='')?'<span class="muted">Pending</span>':esc(valueOrDash(r.actual))}</span><span class="surprise-cell">${esc(r.surprise)}</span><span class="source-links">${r.source?`<a class="metric-link" href="${esc(r.source)}" target="_blank" rel="noreferrer">Investing</a>`:''}${r.official?`<a class="metric-link official-link" href="${esc(r.official)}" target="_blank" rel="noreferrer">Official</a>`:''}</span></div>`).join('')}</div></div>`;}
+function reportLevelHtml(ev,rows){const multi=(METRIC_SPECS[ev.filterId]||[]).length>1;if(!multi||ev.chatHistorical)return '';const actual=ev.actual,forecast=ev.forecast??ev.consensus;const primary=rows.find(r=>r.primary)||rows[0];const previous=ev.previous??ev.prior??primary?.previous;const isFuture=(parseEventDate(ev)?.getTime()||0)>Date.now();const hasAny=[actual,forecast,previous].some(v=>v!==null&&v!==undefined&&v!=='')||isFuture;if(!hasAny)return '';const feedSpecificHasAny=rows.some(r=>[r.actual,r.forecast].some(v=>v!==null&&v!==undefined&&v!==''));if(feedSpecificHasAny)return '';return `<div class="detail-section report-level"><div class="detail-section-title">Report-level calendar data</div><div class="report-level-grid"><div><span>Previous</span><strong>${esc(valueOrDash(previous))}</strong></div><div><span>Forecast</span><strong>${isFuture&&(forecast===null||forecast===undefined||forecast==='')?'Not yet published':esc(valueOrDash(forecast))}</strong></div><div><span>Actual</span><strong>${isFuture&&(actual===null||actual===undefined||actual==='')?'Pending':esc(valueOrDash(actual))}</strong></div></div><div class="context-footnote">Previous falls back to MacroCal’s latest stored actual when the live calendar does not provide it. Forecast stays blank until FinanceCalendar publishes a real consensus; MacroCal does not invent estimates.</div></div>`;}
+function contextDayDiff(baseDate,otherDate){
+  const a=new Date(`${baseDate}T12:00:00Z`),b=new Date(`${otherDate}T12:00:00Z`);
+  if(Number.isNaN(a.getTime())||Number.isNaN(b.getTime()))return 99;
+  return Math.round((b-a)/86400000);
+}
 function relevantContextFor(ev){
-  const d=eventDateET(ev),t=eventET(ev),selfKey=eventKey(ev); const same=[]; const nearby=[]; const headlines=[]; const seen=new Set();
-  // All other approved calendar events at the exact same timestamp are important context.
-  for(const x of state.allEvents){
-    if(eventKey(x)===selfKey||eventDateET(x)!==d||eventET(x)!==t)continue;
-    const k=occurrenceKey(x);if(seen.has(k))continue;seen.add(k);same.push({name:x.name,time:eventET(x),impact:x.impact,url:primarySource(x.filterId),country:'United States'});
-  }
-  // Related scheduled context can be broader than the permanent main-calendar whitelist.
-  for(const x of state.contextEvents){
-    if(x.filterId||x.date!==d)continue;
-    const item={name:x.name,time:eventET(x),impact:x.impact,url:x.url,country:x.country||'United States'};const k=normalize(`${item.time}|${item.name}`);if(seen.has(k))continue;
-    if(item.time===t){seen.add(k);same.push(item);}
-    else if((isHighImpact(x)||normalize(x.impact).includes('medium'))&&nearby.length<5){seen.add(k);nearby.push(item);}
-  }
-  // Headlines are retained centrally by the scheduled updater. Only headlines whose text explicitly
-  // reports a market move are labeled as market-impact headlines.
+  const d=eventDateET(ev),t=eventET(ev),selfKey=eventKey(ev); const scheduled=[]; const headlines=[]; const seen=new Set();
+  const addScheduled=(x,{outsideWhitelist=false}={})=>{
+    if(eventKey(x)===selfKey)return;
+    const xd=eventDateET(x)||x.date;if(!xd)return;
+    const diff=contextDayDiff(d,xd);if(Math.abs(diff)>1)return;
+    const impact=normalize(x.impact||'');
+    const major=isHighImpact(x)||impact.includes('medium')||GLOBAL_CONTEXT_RE.test(x.name||'')||EXTRA_RELEVANCE_RE.test(x.name||'');
+    if(!major)return;
+    const time=eventET(x),name=x.name||x.title||'Relevant event';
+    const k=normalize(`${xd}|${time}|${name}`);if(seen.has(k))return;seen.add(k);
+    let tag='Same day';
+    if(diff===0&&time===t)tag='Same time'; else if(diff<0)tag='Previous day'; else if(diff>0)tag='Next day';
+    scheduled.push({name,time,impact:x.impact,url:outsideWhitelist?(x.url||'https://www.financecalendar.com/'):primarySource(x.filterId),country:x.country||'United States',tag,diff});
+  };
+  // Approved MacroCal releases within one day of the selected event.
+  for(const x of state.allEvents)addScheduled(x);
+  // Broader scheduled context from the shared feed: Fed speakers, secondary U.S. data,
+  // Treasury events, and major global central-bank/data catalysts.
+  for(const x of state.contextEvents)addScheduled(x,{outsideWhitelist:true});
+  scheduled.sort((a,b)=>Math.abs(a.diff)-Math.abs(b.diff)||String(a.time).localeCompare(String(b.time)));
+  // Stored headlines are retrospective by design: they appear only after a headline has actually
+  // reported a market move on the selected date. We do not fabricate future headline context.
   for(const h of state.marketHeadlines||[]){
     if(h.date_et!==d || !h.effect_reported) continue;
     const k=normalize(h.url||h.title); if(seen.has(k))continue; seen.add(k);
-    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||'News'});
-    if(headlines.length>=4)break;
+    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||'News',tag:'Market move',headline:true});
+    if(headlines.length>=6)break;
   }
-  return {same,nearby,headlines};
+  return {scheduled:scheduled.slice(0,12),headlines};
 }
+
 function contextHtml(ev){
-  const {same,nearby,headlines}=relevantContextFor(ev);
-  const items=[
-    ...same.map(x=>({...x,tag:'Same time'})),
-    ...nearby.map(x=>({...x,tag:x.country&&x.country!=='United States'?'Global catalyst':'Same day'})),
-    ...headlines.map(x=>({...x,tag:'Market move',headline:true}))
-  ];
-  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-empty">No other material scheduled catalysts or market-impact headlines are stored for this date yet.</div></div>`;
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">“Market move” means the saved headline itself explicitly reported a move in stocks, Nasdaq/S&amp;P, futures, Treasury yields, or the dollar; it is not an automated claim that the headline was the sole cause.</div></div>`;
+  const {scheduled,headlines}=relevantContextFor(ev);
+  const items=[...scheduled,...headlines];
+  const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
+  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-empty">No other major scheduled catalysts are currently published within one day of this event.${future?' Market-impact headlines will be added after the date occurs and a headline explicitly reports a market move.':''}</div></div>`;
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">Scheduled context covers major catalysts from the previous day through the next day. “Market move” is retrospective and means the saved headline itself explicitly reported a move in stocks, Nasdaq/S&amp;P, futures, Treasury yields, or the dollar; it is not an automated claim that the headline was the sole cause.</div></div>`;
 }
 
 function previousFomcDecision(ev){
@@ -438,11 +474,11 @@ function specialEventHtml(ev){
   }
   if(ev.filterId==='fed-presser')return `<div class="special-note"><strong>Fed Press Conference</strong><span>No numeric release. Follow the live Fed broadcast together with US02Y and NQ/ES.</span></div>`;return '';
 }
-function openEvent(id){const ev=state.allEvents.find(e=>eventKey(e)===id);if(!ev)return;const d=parseEventDate(ev),rows=detailMetricRows(ev);els.dialogDate.textContent=`${fmtDate(d)} · ${eventET(ev)} ET`;els.dialogTitle.textContent=['housing-starts','permits'].includes(ev.filterId)?'Housing Starts + Building Permits':(ev.name||'Economic event');els.dialogBody.innerHTML=`<div class="event-meta-strip"><span>${esc(ev.impact||'—')} impact</span><span>${esc(ev.sourceStatus||'Live')}</span></div>${specialEventHtml(ev)}${metricTableHtml(rows)}${contextHtml(ev)}${['fomc-minutes','fed-presser'].includes(ev.filterId)?`<div class="detail-section"><div class="detail-section-title">Sources</div><div class="special-source-links"><a class="metric-link" href="${esc(SPECIAL_INVESTING_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Investing.com</a><a class="metric-link official-link" href="${esc(ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):SPECIAL_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Official Federal Reserve</a></div></div>`:''}<div class="data-note"><strong>Source policy:</strong> ${ev.chatHistorical?'older historical values shown here are the verified values collected in this ChatGPT conversation;':'automated fields are merged from the shared machine-readable calendar archive when available;'} every metric also includes the approved Investing.com page and the official primary-source release for verification. Missing values are left blank rather than guessed.</div>`;els.dialogSource.href=ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):primarySource(ev.filterId);els.dialogSource.textContent=ev.filterId==='fed-presser'?'Fed live video':ev.filterId==='fomc-minutes'?'Specific Fed minutes PDF':'Investing.com';els.eventDialog.showModal();}
+function openEvent(id){const ev=state.allEvents.find(e=>eventKey(e)===id);if(!ev)return;const d=parseEventDate(ev),rows=detailMetricRows(ev);els.dialogDate.textContent=`${fmtDate(d)} · ${eventET(ev)} ET`;els.dialogTitle.textContent=['housing-starts','permits'].includes(ev.filterId)?'Housing Starts + Building Permits':(ev.name||'Economic event');els.dialogBody.innerHTML=`<div class="event-meta-strip"><span>${esc(ev.impact||'—')} impact</span><span>${esc(ev.sourceStatus||'Live')}</span></div>${specialEventHtml(ev)}${reportLevelHtml(ev,rows)}${metricTableHtml(rows,ev)}${contextHtml(ev)}${['fomc-minutes','fed-presser'].includes(ev.filterId)?`<div class="detail-section"><div class="detail-section-title">Sources</div><div class="special-source-links"><a class="metric-link" href="${esc(SPECIAL_INVESTING_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Investing.com</a><a class="metric-link official-link" href="${esc(ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):SPECIAL_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Official Federal Reserve</a></div></div>`:''}<div class="data-note"><strong>Source policy:</strong> ${ev.chatHistorical?'older historical values shown here are the verified values collected in this ChatGPT conversation;':'automated fields are merged from the shared machine-readable calendar archive when available;'} every metric also includes the approved Investing.com page and the official primary-source release for verification. Missing values are left blank rather than guessed.</div>`;els.dialogSource.href=ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):primarySource(ev.filterId);els.dialogSource.textContent=ev.filterId==='fed-presser'?'Fed live video':ev.filterId==='fomc-minutes'?'Specific Fed minutes PDF':'Investing.com';els.eventDialog.showModal();}
 
 function localPromptToSelection(prompt){const p=normalize(prompt),selected=new Set();FILTER_DEFS.forEach(def=>{if(def.terms.some(t=>p.includes(normalize(t)))||p.includes(normalize(def.label)))selected.add(def.id);});if(/major.*es nq|es nq.*major|all.*macro|my es nq list/.test(p))DEFAULT_IDS.forEach(x=>selected.add(x));if(p.includes('inflation only'))['cpi','ppi','pce'].forEach(x=>selected.add(x));if(p.includes('labor only')||p.includes('jobs only'))['jolts','adp','jobs','claims','eci'].forEach(x=>selected.add(x));if(p.includes('fed only'))['fomc-decision','fomc-minutes','fed-presser'].forEach(x=>selected.add(x));return selected.size?selected:new Set(DEFAULT_IDS);}
 async function applyAiFilter(){const prompt=els.aiPrompt.value.trim();if(!prompt)return;els.applyAi.disabled=true;els.applyAi.textContent='Thinking…';try{const res=await fetch('/api/filter',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({prompt,filters:FILTER_DEFS.map(({id,label})=>({id,label}))})});if(!res.ok)throw new Error('AI endpoint not configured');const data=await res.json(),ids=(data.selected||[]).filter(id=>FILTER_DEFS.some(d=>d.id===id));if(!ids.length)throw new Error('AI returned no matches');state.selected=new Set(ids);state.highOnly=Boolean(data.highOnly);state.mode='AI';els.aiStatus.textContent=`AI selected ${ids.length} event families.`;}catch(_){state.selected=localPromptToSelection(prompt);state.mode='Smart local';els.aiStatus.textContent='Using local smart matching. Deploy the included Cloudflare AI function for true natural-language AI filtering.';}finally{persist();renderFilters();renderAll();els.applyAi.disabled=false;els.applyAi.textContent='Apply AI filter';}}
-function exportIcs(){const events=filteredAll(),lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//MacroCal//ESNQ Calendar//EN','CALSCALE:GREGORIAN'];for(const ev of events){const d=parseEventDate(ev);if(!d)continue;const dt=d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),end=new Date(d.getTime()+30*60000).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z');lines.push('BEGIN:VEVENT',`UID:${btoa(unescape(encodeURIComponent(eventKey(ev)))).replace(/=/g,'')}@macrolens`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z')}`,`DTSTART:${dt}`,`DTEND:${end}`,`SUMMARY:${String(ev.name||'Economic event').replace(/,/g,'\\,')}`,'END:VEVENT');}lines.push('END:VCALENDAR');const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='esnq-macro-all-published.ics';a.click();URL.revokeObjectURL(a.href);}
+function exportIcs(){const events=filteredAll(),lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//MacroCal//ESNQ Calendar//EN','CALSCALE:GREGORIAN'];for(const ev of events){const d=parseEventDate(ev);if(!d)continue;const dt=d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),end=new Date(d.getTime()+30*60000).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z');lines.push('BEGIN:VEVENT',`UID:${btoa(unescape(encodeURIComponent(eventKey(ev)))).replace(/=/g,'')}@macrocal`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z')}`,`DTSTART:${dt}`,`DTEND:${end}`,`SUMMARY:${String(ev.name||'Economic event').replace(/,/g,'\\,')}`,'END:VEVENT');}lines.push('END:VCALENDAR');const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='esnq-macro-all-published.ics';a.click();URL.revokeObjectURL(a.href);}
 
 els.applyAi.addEventListener('click',applyAiFilter);
 els.resetFilter.addEventListener('click',()=>{state.selected=new Set(DEFAULT_IDS);state.highOnly=false;state.mode='ES/NQ';persist();renderFilters();renderAll();els.aiStatus.textContent='Reset to your full ES/NQ macro list.';});

@@ -8,7 +8,7 @@ const FUTURE_DAYS=180;
 const US_COUNTRY_RE=/^(?:us|usa|u s|u\.s\.|united states|united states of america)$/i;
 const FED_RE=/\b(?:fomc|federal reserve|fed chair|fed governor|fed president|federal funds)\b/i;
 const US_TITLE_RE=/^(?:us|u\.s\.|united states)\b/i;
-const GLOBAL_CONTEXT_RE=/\b(?:ecb|european central bank|bank of england|boe|bank of japan|boj|pboc|people'?s bank of china|china.*(?:gdp|cpi|pmi)|euro(?:zone| area).*(?:gdp|cpi|pmi)|opec|crude oil|geopolit|government shutdown|debt ceiling)\b/i;
+const GLOBAL_CONTEXT_RE=/\b(?:ecb|european central bank|bank of england|boe|bank of japan|boj|pboc|people'?s bank of china|bank of canada|boc|reserve bank of australia|rba|reserve bank of new zealand|rbnz|swiss national bank|snb|riksbank|norges bank|china.*(?:gdp|cpi|pmi)|euro(?:zone| area).*(?:gdp|cpi|pmi)|(?:central bank|interest )?rate decision|opec|crude oil|geopolit|government shutdown|debt ceiling)\b/i;
 const TRUSTED_DOMAINS=['reuters.com','cnbc.com','bloomberg.com','wsj.com','ft.com','marketwatch.com','apnews.com','barrons.com','finance.yahoo.com'];
 const MARKET_MOVE_RE=/(?:\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b.{0,80}\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b)|(?:\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b.{0,80}\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b)/i;
 
@@ -57,14 +57,38 @@ function gdeltDateToET(v){
   const parts=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).formatToParts(d);
   const o=Object.fromEntries(parts.map(p=>[p.type,p.value]));return {date_et:`${o.year}-${o.month}-${o.day}`,time_et:`${o.hour}:${o.minute}`};
 }
+const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function fetchWithRetry(url,options={},attempts=3,timeoutMs=20000){
+  let lastErr;
+  for(let i=1;i<=attempts;i++){
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),timeoutMs);
+    try{
+      const r=await fetch(url,{...options,signal:controller.signal});
+      if(!r.ok)throw new Error(`HTTP ${r.status}`);
+      return r;
+    }catch(err){
+      lastErr=err;
+      if(i<attempts)await sleep(1500*i);
+    }finally{clearTimeout(timer);}
+  }
+  throw lastErr;
+}
 async function fetchHeadlines(){
   const q='("S&P 500" OR Nasdaq OR "Wall Street" OR "Treasury yields" OR futures) (Fed OR inflation OR jobs OR payrolls OR tariffs OR trade OR oil OR war OR "interest rates" OR recession OR shutdown OR "debt ceiling")';
-  const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=75&timespan=3d&sort=datedesc&format=json`;
-  const r=await fetch(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/1.0'}});if(!r.ok)throw new Error(`GDELT ${r.status}`);const j=await r.json();return j.articles||[];
+  const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=250&timespan=7d&sort=datedesc&format=json`;
+  const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/1.0'}},3,20000);
+  const j=await r.json();return j.articles||[];
 }
 async function updateHeadlines(){
   const old=await readJson('data/market-headlines.json',{articles:[]});const map=new Map((old.articles||[]).map(a=>[a.url||a.title,a]));
-  const rows=await fetchHeadlines();
+  let rows=[];
+  try{
+    rows=await fetchHeadlines();
+  }catch(err){
+    console.warn(`Headline refresh skipped: ${err?.message||err}. Keeping ${map.size} previously stored headlines.`);
+    return map.size;
+  }
   for(const a of rows){
     const domain=String(a.domain||'').toLowerCase();if(!TRUSTED_DOMAINS.some(d=>domain===d||domain.endsWith('.'+d)))continue;
     const title=String(a.title||'').trim();if(!title||!MARKET_MOVE_RE.test(title))continue;
@@ -75,5 +99,6 @@ async function updateHeadlines(){
   const articles=[...map.values()].sort((a,b)=>String(b.seendate||'').localeCompare(String(a.seendate||'')));
   await fs.writeFile('data/market-headlines.json',JSON.stringify({generated_at:new Date().toISOString(),articles},null,2)+'\n');return articles.length;
 }
-const [eventCount,headlineCount]=await Promise.all([updateCalendar(),updateHeadlines()]);
+const eventCount=await updateCalendar();
+const headlineCount=await updateHeadlines();
 console.log(`Shared archive: ${eventCount} calendar rows; ${headlineCount} retained market-impact headlines.`);

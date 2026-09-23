@@ -100,3 +100,11 @@ This build can run as a completely free public site using GitHub Pages.
 - The main calendar remains the strict ES/NQ whitelist. Broader releases, Fed events, selected global catalysts, and market-impact headlines appear only inside an event's **Other relevant market events** section.
 
 The built-in historical dataset remains available even before the first scheduled update runs.
+
+
+## V13 related-market-context fix
+
+- Related scheduled catalysts now span the selected event date plus the previous and next day.
+- Approved MacroCal releases, material U.S. releases/Fed events, Treasury auctions/refunding, and selected major global catalysts can appear.
+- Context items are labeled Same time, Same day, Previous day, or Next day.
+- Market-impact headlines remain retrospective: they appear only after a stored headline explicitly reports a move in stocks, Nasdaq/S&P, futures, Treasury yields, or the dollar.
