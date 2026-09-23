@@ -17,6 +17,8 @@ test('category follows the article title, not the search that found it',()=>{
   assert.equal(classify('PMI data and crude oil inventories highlight Wednesday’s economic calendar'),'');
   assert.notEqual(classify('Fed rate hike jolts markets after new guidance'),'Labor');
   assert.notEqual(classify('Dollar General CEO comments on shoppers'),'Fed / Rates');
+  assert.equal(classify('What is a good savings account interest rate in 2026?'),'');
+  assert.equal(classify('Hilton Gets 15,000 Applications as AI Fuels Hiring Frenzy'),'');
 });
 
 test('JOLTS context excludes generic GDP/PMI headlines and retains job-opening coverage',()=>{

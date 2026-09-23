@@ -10,7 +10,7 @@ const FED_RE=/\b(?:fomc|federal reserve|fed chair|fed governor|fed president|fed
 const US_TITLE_RE=/^(?:us|u\.s\.|united states)\b/i;
 const GLOBAL_CONTEXT_RE=/\b(?:ecb|european central bank|bank of england|boe|bank of japan|boj|pboc|people'?s bank of china|bank of canada|boc|reserve bank of australia|rba|reserve bank of new zealand|rbnz|swiss national bank|snb|riksbank|norges bank|china.*(?:gdp|cpi|pmi)|euro(?:zone| area).*(?:gdp|cpi|pmi)|(?:central bank|interest )?rate decision|opec|crude oil|geopolit|government shutdown|debt ceiling)\b/i;
 const TRUSTED_DOMAINS=['reuters.com','cnbc.com','bloomberg.com','wsj.com','ft.com','marketwatch.com','apnews.com','barrons.com','finance.yahoo.com'];
-const MARKET_MOVE_RE=/(?:\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b.{0,80}\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b)|(?:\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b.{0,80}\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b)/i;
+const MARKET_MOVE_RE=/(?:\b(?:stocks|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b.{0,80}\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b)|(?:\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b.{0,80}\b(?:stocks|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b)/i;
 
 // Unscheduled macro/geopolitical catalysts that can matter for ES/NQ, rates, the dollar, or oil
 // even when the headline does not literally say that markets moved.
@@ -19,7 +19,7 @@ const GEOPOLITICAL_RE=/\b(?:iran|israel|middle east|gaza|lebanon|hezbollah|yemen
 const TRADE_POLICY_RE=/\b(?:tariff|trade war|export control|sanction|embargo|import ban|trade deal)\b/i;
 const FISCAL_RISK_RE=/\b(?:government shutdown|debt ceiling|sovereign default|default risk|treasury funding crisis)\b/i;
 const FINANCIAL_STRESS_RE=/\b(?:bank failure|bank run|bank stress|liquidity crisis|credit crisis|credit stress|regional bank|systemic risk)\b/i;
-const MACRO_POLICY_RE=/\b(?:federal reserve|fed chair|jerome powell|fed governor|fed president|rate cut|rate hike|interest rates?|treasury yields?|bond yields?|inflation outlook|labor market|jobs growth|payrolls|unemployment)\b/i;
+const MACRO_POLICY_RE=/\b(?:federal reserve|fed chair|jerome powell|fed governor|fed president|rate cut|rate hike|treasury yields?|bond yields?|inflation outlook|labor market|jobs growth|payrolls|unemployment)\b/i;
 const TRUMP_POLICY_RE=/\btrump\b.{0,120}\b(?:truth social|post|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b|\b(?:truth social|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b.{0,120}\btrump\b/i;
 function catalystTag(title=''){
   if(OIL_SUPPLY_RE.test(title))return 'Oil / Supply';
@@ -30,7 +30,7 @@ function catalystTag(title=''){
   if(TRUMP_POLICY_RE.test(title))return 'Trump / Policy';
   // Search provenance is never evidence that a story belongs to a topic.
   if(/\b(?:cpi|pce|ppi|inflation|consumer price|producer price|personal consumption expenditures?)\b/i.test(title))return 'Inflation';
-  if(/\bJOLTS\b/.test(title)||/\b(?:job openings?|nonfarm payrolls?|jobs report|layoffs?|hiring|unemployment|jobless claims|labor market|wage growth)\b/i.test(title))return 'Labor';
+  if(/\bJOLTS\b/.test(title)||/\b(?:nonfarm payrolls?|jobs report|layoffs?|unemployment|jobless claims|labor market|wage growth)\b/i.test(title)||/\b(?:U\.S\.|US|national|BLS)\b.{0,75}\b(?:job openings?|hiring)\b|\b(?:job openings?|hiring)\b.{0,75}\b(?:U\.S\.|US|national|BLS)\b/i.test(title))return 'Labor';
   if(/\b(?:consumer confidence|consumer sentiment|retail sales|consumer spending|household spending)\b/i.test(title))return 'Consumer';
   if(/\b(?:gdp|gross domestic product|economic growth|business investment)\b/i.test(title))return 'Growth / Demand';
   if(/\b(?:manufacturing pmi|ism manufacturing|factory orders?|durable goods|capital goods|industrial production)\b/i.test(title))return 'Manufacturing';
