@@ -415,8 +415,14 @@ function contextDayDiff(baseDate,otherDate){
   if(Number.isNaN(a.getTime())||Number.isNaN(b.getTime()))return 99;
   return Math.round((b-a)/86400000);
 }
+function headlineTimestamp(h){
+  if(h.seendate){const m=String(h.seendate).match(/(\d{4})(\d{2})(\d{2})T?(\d{2})(\d{2})(\d{2})?Z?/);if(m)return Date.UTC(+m[1],+m[2]-1,+m[3],+m[4],+m[5],+(m[6]||0));}
+  if(h.date_et){const d=new Date(`${h.date_et}T${h.time_et||'12:00'}:00-04:00`);if(!Number.isNaN(d.getTime()))return d.getTime();}
+  return 0;
+}
 function relevantContextFor(ev){
   const d=eventDateET(ev),t=eventET(ev),selfKey=eventKey(ev); const scheduled=[]; const headlines=[]; const seen=new Set();
+  const eventTime=parseEventDate(ev)?.getTime()||0; const future=eventTime>Date.now();
   const addScheduled=(x,{outsideWhitelist=false}={})=>{
     if(eventKey(x)===selfKey)return;
     const xd=eventDateET(x)||x.date;if(!xd)return;
@@ -430,34 +436,43 @@ function relevantContextFor(ev){
     if(diff===0&&time===t)tag='Same time'; else if(diff<0)tag='Previous day'; else if(diff>0)tag='Next day';
     scheduled.push({name,time,impact:x.impact,url:outsideWhitelist?(x.url||'https://www.financecalendar.com/'):primarySource(x.filterId),country:x.country||'United States',tag,diff});
   };
-  // Approved MacroCal releases within one day of the selected event.
+  // Scheduled context is secondary: it can still show major releases, but the section is no longer
+  // dependent on the calendar feed and external headlines are prioritized above it.
   for(const x of state.allEvents)addScheduled(x);
-  // Broader scheduled context from the shared feed: Fed speakers, secondary U.S. data,
-  // Treasury events, and major global central-bank/data catalysts.
   for(const x of state.contextEvents)addScheduled(x,{outsideWhitelist:true});
   scheduled.sort((a,b)=>Math.abs(a.diff)-Math.abs(b.diff)||String(a.time).localeCompare(String(b.time)));
-  // Stored news is retrospective. Keep both explicit market-move headlines and major
-  // macro/geopolitical catalysts (oil supply, ceasefires/escalation, tariffs/sanctions,
-  // shutdown/debt-ceiling risk, bank stress). Catalyst labels describe relevance, not causation.
-  for(const h of state.marketHeadlines||[]){
-    const hd=h.date_et||''; const diff=contextDayDiff(d,hd);
-    if(Math.abs(diff)>1 || (!h.effect_reported&&!h.major_catalyst)) continue;
-    const k=normalize(h.url||h.title); if(seen.has(k))continue; seen.add(k);
-    let tag=h.effect_reported?'Market move':(h.catalyst_tag||'Major headline');
-    if(diff<0)tag=`${tag} · Prev day`; else if(diff>0)tag=`${tag} · Next day`;
-    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||'News',tag,headline:true,priority:h.effect_reported?0:1});
+
+  const candidates=(state.marketHeadlines||[]).filter(h=>h.effect_reported||h.major_catalyst);
+  if(future){
+    // For an upcoming release, show CURRENT market context rather than trying to match a future date.
+    // These are independent external links and do not need to correspond to a calendar "event".
+    const cutoff=Date.now()-7*86400000;
+    for(const h of candidates.sort((a,b)=>headlineTimestamp(b)-headlineTimestamp(a))){
+      const ts=headlineTimestamp(h);if(ts&&ts<cutoff)continue;
+      const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
+      const tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
+      headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,priority:h.effect_reported?0:1});
+      if(headlines.length>=8)break;
+    }
+  }else{
+    // For backtesting, use the headlines captured around that historical release date.
+    for(const h of candidates){
+      const hd=h.date_et||'';const diff=contextDayDiff(d,hd);if(Math.abs(diff)>1)continue;
+      const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
+      let tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
+      if(diff<0)tag=`${tag} · Prev day`;else if(diff>0)tag=`${tag} · Next day`;
+      headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,priority:h.effect_reported?0:1});
+    }
+    headlines.sort((a,b)=>(a.priority||0)-(b.priority||0)||String(a.time).localeCompare(String(b.time)));headlines.splice(8);
   }
-  headlines.sort((a,b)=>(a.priority||0)-(b.priority||0)||String(a.time).localeCompare(String(b.time)));
-  headlines.splice(8);
-  return {scheduled:scheduled.slice(0,12),headlines};
+  return {scheduled:scheduled.slice(0,6),headlines};
 }
 
 function contextHtml(ev){
-  const {scheduled,headlines}=relevantContextFor(ev);
-  const items=[...scheduled,...headlines];
-  const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
-  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-empty">No other major scheduled catalysts or retained macro/geopolitical headlines are stored within one day of this event.${future?' News headlines are retrospective and will appear after they are published.':''}</div></div>`;
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">Scheduled context covers major catalysts from the previous day through the next day. “Market move” means the headline explicitly reported a market reaction. Labels such as “Geopolitical,” “Oil / Supply,” “Trade / Sanctions,” and “Fiscal risk” mean the headline is potentially material to ES/NQ, rates, the dollar, or oil; they do not claim the headline was the sole cause of any move.</div></div>`;
+  const {scheduled,headlines}=relevantContextFor(ev);const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
+  const items=[...headlines,...scheduled];
+  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-empty">No independent market-context headlines are stored yet. The hourly updater will keep trying external news sources; scheduled calendar items are only a fallback.</div></div>`;
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">${future?'For upcoming releases, this prioritizes current external market context from the last 7 days; it does not need to match the release date or be an economic-calendar event.':'For past releases, external headlines are matched to roughly one day around the release for backtesting.'} Scheduled releases appear only as secondary context. Labels describe potential relevance to ES/NQ, rates, the dollar, or oil—not proven causation.</div></div>`;
 }
 
 function previousFomcDecision(ev){

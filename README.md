@@ -115,3 +115,12 @@ The built-in historical dataset remains available even before the first schedule
 - Retains trusted-source headlines for major geopolitical and macro catalysts even when the title does not explicitly say markets moved.
 - Examples include ceasefire/peace-deal breakdowns or escalation involving Iran/Middle East and other major conflicts, oil/OPEC/Strait of Hormuz supply disruptions, tariffs/sanctions/export controls, government shutdown/debt-ceiling risk, and major banking/credit stress.
 - Explicit market-reaction headlines keep the `Market move` label. Catalyst-only headlines are labeled by theme such as `Geopolitical`, `Oil / Supply`, `Trade / Sanctions`, `Fiscal risk`, or `Financial stress`. These labels indicate potential market relevance, not proven causation.
+
+
+## V15 independent market context
+
+- `Relevant market context` is now independent of the main economic-calendar whitelist.
+- Upcoming events show recent external macro/geopolitical/oil/trade/fiscal/financial-stress headlines from the last 7 days even when those headlines have no calendar event ID or matching release date.
+- Historical events continue to use captured headlines around the release date for backtesting.
+- Scheduled releases remain secondary context rather than the primary source of related items.
+- The updater uses GDELT when available and a Google News RSS search as a fallback so a GDELT outage does not leave the context feed empty.
