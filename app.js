@@ -610,17 +610,43 @@ function relevantContextFor(ev){
   for(const h of headlines){const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=5)break;}
   return {headlines:selected,fallback:selected.length?[]:staticContextLinks(ev)};
 }
-function contextDateLabel(x){
-  if(!x.ts)return '';
-  const d=new Date(x.ts);if(Number.isNaN(d.getTime()))return '';
-  return d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}).replace(',',' ·')+' ET';
+function contextPublishedLabel(ts){
+  if(!ts)return '';
+  const d=new Date(ts);if(Number.isNaN(d.getTime()))return '';
+  const date=d.toLocaleDateString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',year:'numeric'});
+  const time=d.toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit'});
+  return `Published ${date} · ${time} ET`;
+}
+function contextFreshness(ts,referenceTs){
+  if(!ts||!referenceTs)return {id:'background',label:'BACKGROUND',ageMs:Infinity};
+  const ageMs=Math.max(0,referenceTs-ts);
+  if(ageMs<=2*60*60*1000)return {id:'active',label:'LIVE / ACTIVE',ageMs};
+  if(ageMs<=24*60*60*1000)return {id:'recent',label:'RECENT CONTEXT',ageMs};
+  return {id:'background',label:'BACKGROUND',ageMs};
+}
+function contextAgeLabel(ageMs,historical=false){
+  if(!Number.isFinite(ageMs))return '';
+  const mins=Math.max(0,Math.floor(ageMs/60000));
+  let value;
+  if(mins<60)value=`${Math.max(1,mins)}m`;
+  else if(mins<1440){const h=Math.floor(mins/60),m=mins%60;value=m?`${h}h ${m}m`:`${h}h`;}
+  else{const d=Math.floor(mins/1440),h=Math.floor((mins%1440)/60);value=h?`${d}d ${h}h`:`${d}d`;}
+  return historical?`${value} before release`:`${value} old`;
 }
 function contextHtml(ev){
-  const {headlines,fallback}=relevantContextFor(ev);const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
+  const {headlines,fallback}=relevantContextFor(ev);
+  const eventTime=parseEventDate(ev)?.getTime()||0;
+  const future=eventTime>Date.now();
+  const referenceTs=future?Date.now():eventTime;
   const items=headlines.length?headlines:fallback;
-  const rows=items.map(x=>`<a class="context-card context-relevance-${esc(x.level||'low')}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(x.fallback?'SOURCE':relevanceLabel(x.level))}</span><span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${x.ts?`${esc(contextDateLabel(x))} · `:''}${esc(x.source||'')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`).join('');
-  const note=headlines.length?(future?'Specific external headlines published before now, ranked by relevance to this upcoming release. The lookback is up to seven days and future information is excluded.':'Point-in-time context only: each item was published at or before this historical release, with a three-day lookback. Later headlines and next-day events are excluded.'):'No specific stored headline matched yet, so these are live topic searches for the most relevant report-specific themes.';
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list context-card-list">${rows||'<div class="context-empty">No matching context available.</div>'}</div><div class="context-footnote">${note} Red intensity reflects relevance to this report, not a prediction of market direction.</div></div>`;
+  const rows=items.map(x=>{
+    const freshness=x.ts?contextFreshness(x.ts,referenceTs):null;
+    const status=freshness?`<span class="context-freshness context-freshness-${esc(freshness.id)}">${esc(freshness.label)}</span>`:'';
+    const timing=x.ts?`${esc(contextPublishedLabel(x.ts))}${freshness?` · ${esc(contextAgeLabel(freshness.ageMs,!future))}`:''}`:'';
+    return `<a class="context-card context-relevance-${esc(x.level||'low')} ${freshness?`context-stage-${esc(freshness.id)}`:''}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(x.fallback?'SOURCE':relevanceLabel(x.level))}</span>${status}<span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${timing?`${timing} · `:''}${esc(x.source||'')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`;
+  }).join('');
+  const note=headlines.length?(future?'Specific external headlines published before now, ranked by relevance to this upcoming release. LIVE / ACTIVE means published within the last two hours; RECENT CONTEXT means two to 24 hours old; BACKGROUND means older than 24 hours. The lookback is up to seven days and future information is excluded.':'Point-in-time context only: each item was published at or before this historical release, with a three-day lookback. Freshness is measured relative to the release time: LIVE / ACTIVE is within two hours before release, RECENT CONTEXT is two to 24 hours before, and BACKGROUND is older than 24 hours. Later headlines and next-day events are excluded.'):'No specific stored headline matched yet, so these are live topic searches for the most relevant report-specific themes.';
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list context-card-list">${rows||'<div class="context-empty">No matching context available.</div>'}</div><div class="context-footnote">${note} Freshness is a timing guide, not a guarantee that information is unpriced. Red intensity reflects relevance to this report, not a prediction of market direction.</div></div>`;
 }
 function confirmationHtml(){
   return `<div class="detail-section event-confirmation"><div class="detail-section-title">Confirmation</div><div class="event-confirmation-links"><a href="https://www.tradingview.com/symbols/TVC-US02Y/" target="_blank" rel="noreferrer">US02Y</a><a href="https://www.tradingview.com/symbols/CME_MINI-ES1%21/" target="_blank" rel="noreferrer">ES</a><a href="https://www.tradingview.com/symbols/CME_MINI-NQ1%21/" target="_blank" rel="noreferrer">NQ</a><a href="https://www.tradingview.com/symbols/TVC-DXY/" target="_blank" rel="noreferrer">DXY</a><a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noreferrer">FedWatch</a></div><div class="context-footnote">Use these as confirmation tools after the release: surprise vs. forecast → rates/yields → ES/NQ reaction and retest.</div></div>`;

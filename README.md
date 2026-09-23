@@ -156,3 +156,12 @@ The built-in historical dataset remains available even before the first schedule
 - Point-in-time protection is strict: upcoming releases use only already-published information from the previous seven days; historical releases use only information published at or before that release, with a three-day lookback. Future/next-day information is excluded.
 - Each event detail now ends with a **Confirmation** section linking US02Y, ES, NQ, DXY, and CME FedWatch. The separate homepage confirmation strip remains available too.
 - The main MacroCal calendar whitelist is unchanged.
+
+## V19 context freshness states
+
+- Event-level **Relevant Market Context** now separates relevance from freshness. Red intensity still means HIGH / MEDIUM / LOW relevance to the selected macro report.
+- Every specific headline is also labeled **LIVE / ACTIVE**, **RECENT CONTEXT**, or **BACKGROUND**.
+- LIVE / ACTIVE = published within two hours of the relevant reference time; RECENT CONTEXT = two to 24 hours; BACKGROUND = older than 24 hours.
+- For upcoming events, freshness is measured from the current time. For historical events, freshness is reconstructed relative to that release time so the page does not use hindsight.
+- Specific headlines show the exact Eastern-time publication date and time. Historical rows also show how long before the macro release the headline appeared.
+- The freshness label is explicitly a timing aid, not a claim that a headline is still unpriced by the market.
