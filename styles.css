@@ -195,3 +195,23 @@ dialog { width: min(900px, calc(100vw - 30px)); }
 .context-source{color:var(--muted);font-size:.82em}.context-footnote{margin-top:9px;color:var(--muted);font-size:12px;line-height:1.45}
 
 .report-level-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding:10px}.report-level-grid>div{border:1px solid var(--line);border-radius:10px;padding:9px;background:#0b121e}.report-level-grid span{display:block;color:var(--muted);font-size:9px;text-transform:uppercase;letter-spacing:.05em}.report-level-grid strong{display:block;margin-top:4px;font-size:12px}.report-level .context-footnote{padding:0 10px 10px}@media(max-width:760px){.report-level-grid{grid-template-columns:1fr}}
+
+/* V17: Market Context sidebar + one-click confirmation tools */
+.text-btn { border:0; background:transparent; color:var(--accent-2); cursor:pointer; font:inherit; font-size:11px; font-weight:800; padding:2px 0; }
+.text-btn:hover { text-decoration:underline; }
+.market-context-panel p { margin:0 0 10px; font-size:12px; line-height:1.45; }
+.market-context-list { display:grid; gap:7px; }
+.market-context-item { display:grid; grid-template-columns:1fr; gap:3px; border:1px solid var(--line); border-radius:10px; padding:9px 10px; background:#0b121e; color:inherit; text-decoration:none; }
+.market-context-item:hover { border-color:#3d5477; background:#111b2a; }
+.market-context-tag { color:#9fb0c8; font-size:9px; font-weight:850; text-transform:uppercase; letter-spacing:.055em; }
+.market-context-title { color:#e7edf7; font-size:11.5px; line-height:1.35; font-weight:700; }
+.market-context-meta { color:var(--muted); font-size:9.5px; }
+.market-context-footer { display:flex; justify-content:space-between; align-items:center; gap:8px; margin-top:9px; }
+.market-context-footer .status { margin:0; }
+.context-source-link { font-size:10px; font-weight:800; text-decoration:none; white-space:nowrap; }
+.context-source-link:hover { text-decoration:underline; }
+.quick-tools-strip { display:flex; flex-wrap:wrap; gap:8px; align-items:center; border:1px solid var(--line); background:#0f1623; border-radius:14px; padding:9px 11px; margin:-6px 0 18px; }
+.quick-tools-label { color:var(--muted); font-size:10px; font-weight:850; text-transform:uppercase; letter-spacing:.07em; margin-right:2px; }
+.quick-tools-strip a { display:inline-flex; align-items:center; min-height:30px; padding:6px 9px; border:1px solid #33435e; border-radius:9px; background:#151e2e; color:#dce7ff; text-decoration:none; font-size:11px; font-weight:800; }
+.quick-tools-strip a:hover { border-color:#5871ac; background:#1a2537; }
+@media (max-width:760px){ .quick-tools-strip { margin-top:0; } .market-context-footer { align-items:flex-start; flex-direction:column; } }

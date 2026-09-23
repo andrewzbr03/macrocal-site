@@ -20,7 +20,9 @@ const TRADE_POLICY_RE=/\b(?:tariff|trade war|export control|sanction|embargo|imp
 const FISCAL_RISK_RE=/\b(?:government shutdown|debt ceiling|sovereign default|default risk|treasury funding crisis)\b/i;
 const FINANCIAL_STRESS_RE=/\b(?:bank failure|bank run|bank stress|liquidity crisis|credit crisis|credit stress|regional bank|systemic risk)\b/i;
 const MACRO_POLICY_RE=/\b(?:federal reserve|fed chair|jerome powell|fed governor|fed president|rate cut|rate hike|interest rates?|treasury yields?|bond yields?|inflation outlook|labor market|jobs growth|payrolls|unemployment|dollar)\b/i;
+const TRUMP_POLICY_RE=/\btrump\b.{0,120}\b(?:truth social|post|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b|\b(?:truth social|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b.{0,120}\btrump\b/i;
 function catalystTag(title=''){
+  if(TRUMP_POLICY_RE.test(title))return 'Trump / Policy';
   if(OIL_SUPPLY_RE.test(title))return 'Oil / Supply';
   if(GEOPOLITICAL_RE.test(title))return 'Geopolitical';
   if(TRADE_POLICY_RE.test(title))return 'Trade / Sanctions';
@@ -98,6 +100,7 @@ function xmlTag(block,tag){const m=String(block).match(new RegExp(`<${tag}(?:\\s
 const NEWS_TOPICS = [
   {tag:'Inflation', q:'US inflation CPI PCE prices Federal Reserve inflation outlook when:7d'},
   {tag:'Fed / Rates', q:'Federal Reserve Powell interest rates Treasury yields rate cuts rate hikes when:7d'},
+  {tag:'Trump / Policy', q:'Trump Truth Social post tariffs trade sanctions Federal Reserve Powell interest rates oil Iran China markets when:7d'},
   {tag:'Oil / Supply', q:'oil supply OPEC Iran Strait of Hormuz Red Sea crude disruption when:7d'},
   {tag:'Geopolitical', q:'Iran Israel Middle East ceasefire attack escalation Ukraine Russia Taiwan markets when:7d'},
   {tag:'Trade / Sanctions', q:'US tariffs sanctions export controls trade war China markets when:7d'},
@@ -109,7 +112,7 @@ const NEWS_TOPICS = [
 ];
 const TRUSTED_GOOGLE_SOURCES = [
   'Reuters','CNBC','Bloomberg','The Wall Street Journal','Wall Street Journal','Financial Times',
-  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','CBS News','NBC News','ABC News'
+  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','Fox Business','CBS News','NBC News','ABC News'
 ];
 function trustedGoogleSource(name=''){
   const n=String(name).trim().toLowerCase();
@@ -130,7 +133,7 @@ async function fetchGoogleTopic(topic){
   });
 }
 async function fetchGdeltHeadlines(){
-  const q='("S&P 500" OR Nasdaq OR "Treasury yields" OR futures OR Iran OR Israel OR "Middle East" OR "Strait of Hormuz" OR OPEC OR oil OR tariffs OR sanctions OR "government shutdown" OR "debt ceiling" OR "bank failure" OR Taiwan OR Ukraine OR Russia OR "Federal Reserve" OR Powell) (Fed OR inflation OR jobs OR oil OR war OR ceasefire OR peace OR attack OR strike OR sanctions OR tariffs OR disruption OR shutdown OR debt OR rates)';
+  const q='("S&P 500" OR Nasdaq OR "Treasury yields" OR futures OR Trump OR "Truth Social" OR Iran OR Israel OR "Middle East" OR "Strait of Hormuz" OR OPEC OR oil OR tariffs OR sanctions OR "government shutdown" OR "debt ceiling" OR "bank failure" OR Taiwan OR Ukraine OR Russia OR "Federal Reserve" OR Powell) (Fed OR inflation OR jobs OR oil OR war OR ceasefire OR peace OR attack OR strike OR sanctions OR tariffs OR trade OR disruption OR shutdown OR debt OR rates)';
   const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=100&timespan=7d&sort=datedesc&format=json`;
   const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/2.0'}},2,15000);
   const j=await r.json();return (j.articles||[]).map(a=>({...a,provider:'GDELT'}));

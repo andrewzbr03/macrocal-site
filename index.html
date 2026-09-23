@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>MacroCal — ES/NQ Macro Calendar</title>
-  <meta name="description" content="A focused U.S. macro calendar for ES/NQ traders with AI-editable filters." />
+  <meta name="description" content="A focused U.S. macro calendar for ES/NQ traders with live market context and one-click confirmation tools." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -18,22 +18,24 @@
         </div>
       </div>
 
-      <section class="panel ai-panel">
+      <section class="panel market-context-panel">
         <div class="panel-title-row">
-          <h2>AI filter</h2>
-          <span class="pill">free-ready</span>
+          <h2>Market Context</h2>
+          <span class="pill">live</span>
         </div>
-        <p class="muted">Describe exactly what you want on the calendar.</p>
-        <textarea id="aiPrompt" rows="6">Show only major U.S. macro events I use for ES/NQ: CPI, PPI, PCE, NFP/jobs report, unemployment, wages, JOLTS, ADP, ISM manufacturing, ISM services, FOMC decisions, FOMC minutes, Fed press conferences, GDP, retail sales, durable goods, Michigan consumer sentiment, Conference Board consumer confidence, housing starts, building permits, employment cost index, and initial jobless claims.</textarea>
-        <div class="button-row">
-          <button id="applyAi" class="btn primary">Apply AI filter</button>
-          <button id="resetFilter" class="btn secondary">My ES/NQ list</button>
+        <p class="muted">Current outside headlines that may matter for ES/NQ, rates, the dollar, or oil.</p>
+        <div id="marketContextList" class="market-context-list"></div>
+        <div class="market-context-footer">
+          <span id="marketContextUpdated" class="status">Updates with the shared news feed.</span>
+          <a class="context-source-link" href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noreferrer">Trump posts ↗</a>
         </div>
-        <div id="aiStatus" class="status">AI endpoint optional. Local smart matching works immediately.</div>
       </section>
 
       <section class="panel">
-        <h2>Event filters</h2>
+        <div class="panel-title-row">
+          <h2>Event filters</h2>
+          <button id="resetFilter" class="text-btn">Reset</button>
+        </div>
         <div id="filterList" class="filter-list"></div>
       </section>
 
@@ -61,6 +63,16 @@
           <button id="refreshBtn" class="btn primary">Sync all dates</button>
         </div>
       </header>
+
+      <section class="quick-tools-strip" aria-label="Confirmation tools">
+        <span class="quick-tools-label">Confirmation tools</span>
+        <a href="https://www.tradingview.com/symbols/TVC-US02Y/" target="_blank" rel="noreferrer">US02Y</a>
+        <a href="https://www.tradingview.com/symbols/CME_MINI-NQ1%21/" target="_blank" rel="noreferrer">NQ</a>
+        <a href="https://www.tradingview.com/symbols/CME_MINI-ES1%21/" target="_blank" rel="noreferrer">ES</a>
+        <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noreferrer">FedWatch</a>
+        <a href="https://www.tradingview.com/symbols/TVC-DXY/" target="_blank" rel="noreferrer">DXY</a>
+        <a href="https://www.investing.com/economic-calendar/" target="_blank" rel="noreferrer">Investing Calendar</a>
+      </section>
 
       <section class="summary-grid">
         <article class="metric-card"><span>This month</span><strong id="eventCount">0</strong><small>matching events</small></article>

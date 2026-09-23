@@ -169,14 +169,14 @@ const HISTORICAL_CHAT_DATA = HISTORICAL_CHAT_ROWS.map((r,i)=>makeChatHistoryEven
 
 const DEFAULT_IDS = FILTER_DEFS.map(x=>x.id);
 const els = Object.fromEntries([
-  'aiPrompt','applyAi','resetFilter','aiStatus','filterList','highOnly','showActual','exportIcs','prevMonth','todayBtn','nextMonth','refreshBtn',
+  'resetFilter','filterList','highOnly','showActual','exportIcs','prevMonth','todayBtn','nextMonth','refreshBtn','marketContextList','marketContextUpdated',
   'monthTitle','eventCount','nextEventName','nextEventTime','filterMode','filterSummary','notice','calendarGrid','upcomingList','syncTime',
   'historyList','historyMore','coverageRange','coverageCount','eventDialog','dialogDate','dialogTitle','dialogBody','dialogSource'
 ].map(id=>[id,document.getElementById(id)]));
 
 const now = new Date();
 let state = {
-  month:new Date(now.getFullYear(),now.getMonth(),1), allEvents:[], contextEvents:[], marketHeadlines:[],
+  month:new Date(now.getFullYear(),now.getMonth(),1), allEvents:[], contextEvents:[], marketHeadlines:[], marketHeadlinesGeneratedAt:'',
   selected:new Set(JSON.parse(localStorage.getItem('macroSelected')||'null')||DEFAULT_IDS),
   highOnly:localStorage.getItem('macroHighOnly')==='true', showActual:localStorage.getItem('macroShowActual')!=='false',
   mode:localStorage.getItem('macroMode')||'ES/NQ', historyLimit:25, syncing:false, lastSync:0
@@ -305,6 +305,7 @@ async function loadSharedData(){
     if(headlineRes.ok){
       const payload=await headlineRes.json();
       state.marketHeadlines=Array.isArray(payload)?payload:(payload.articles||[]);
+      state.marketHeadlinesGeneratedAt=Array.isArray(payload)?'':(payload.generated_at||'');
     }
   }catch(_){ /* static/local copies still work without the shared JSON */ }
 }
@@ -338,6 +339,37 @@ async function syncCatchup(){
 }
 async function syncCoverage({force=false,quiet=false}={}){if(state.syncing)return;if(!force&&state.lastSync&&Date.now()-state.lastSync<CACHE_TTL_MS){renderAll();return;}state.syncing=true;els.refreshBtn.disabled=true;els.refreshBtn.textContent='Searching…';hideNotice();if(!quiet)els.syncTime.textContent='Catching up archive and scanning published future dates…';try{await syncCatchup();await scanFuture();state.lastSync=Date.now();saveCache();els.syncTime.textContent=`Auto-synced ${new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;}catch(err){showNotice(`Live schedule search is unavailable right now: ${err.message}. Cached and verified dates remain usable.`);}finally{state.syncing=false;els.refreshBtn.disabled=false;els.refreshBtn.textContent='Sync all dates';renderAll();}}
 
+function relativeAge(ts){
+  const diff=Math.max(0,Date.now()-ts);const min=Math.floor(diff/60000);if(min<60)return `${Math.max(1,min)}m ago`;const hr=Math.floor(min/60);if(hr<24)return `${hr}h ago`;const d=Math.floor(hr/24);return `${d}d ago`;
+}
+function marketContextFallback(){
+  return [
+    {tag:'Fed / Rates',name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
+    {tag:'Trump / Policy',name:'Latest Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
+    {tag:'Oil / Supply',name:'Latest oil-supply, OPEC and shipping-risk coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz%20Red%20Sea&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
+    {tag:'Geopolitical',name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
+    {tag:'Inflation',name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'}
+  ];
+}
+function renderMarketContextPanel(){
+  if(!els.marketContextList)return;
+  const nowMs=Date.now(),cutoff=nowMs-7*86400000,seen=new Set(),rows=[];
+  for(const h of state.marketHeadlines||[]){
+    if(!(h.effect_reported||h.major_catalyst))continue;const ts=headlineTimestamp(h);if(!ts||ts>nowMs||ts<cutoff)continue;
+    const key=normalize(h.url||h.title);if(!key||seen.has(key))continue;seen.add(key);
+    rows.push({tag:h.effect_reported?'Market move':(h.catalyst_tag||'Market context'),name:h.title,url:h.url,source:h.domain||h.source||h.provider||'News',ts});
+  }
+  rows.sort((a,b)=>b.ts-a.ts);
+  const selected=[],perTag=new Map();
+  for(const row of rows){const n=perTag.get(row.tag)||0;if(n>=1&&selected.length<4)continue;perTag.set(row.tag,n+1);selected.push(row);if(selected.length>=5)break;}
+  const items=selected.length?selected:marketContextFallback();
+  els.marketContextList.innerHTML=items.map(x=>`<a class="market-context-item" href="${esc(x.url)}" target="_blank" rel="noreferrer"><span class="market-context-tag">${esc(x.tag)}</span><span class="market-context-title">${esc(x.name)}</span><span class="market-context-meta">${x.ts?`${esc(relativeAge(x.ts))} · `:''}${esc(x.source||'')}</span></a>`).join('');
+  if(els.marketContextUpdated){
+    if(state.marketHeadlinesGeneratedAt){const d=new Date(state.marketHeadlinesGeneratedAt);els.marketContextUpdated.textContent=Number.isNaN(d.getTime())?'Updates hourly':`Feed updated ${d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;}
+    else els.marketContextUpdated.textContent=selected.length?'Current stored headlines':'Live topic links until the shared feed updates';
+  }
+}
+
 function renderCalendar(){els.monthTitle.textContent=monthLabel(state.month);const first=new Date(state.month.getFullYear(),state.month.getMonth(),1),gridStart=new Date(first);gridStart.setDate(1-first.getDay());const byDay=new Map();for(const ev of monthEvents()){const d=parseEventDate(ev);if(!d)continue;const key=dateKeyET(d);if(!byDay.has(key))byDay.set(key,[]);byDay.get(key).push(ev);}const todayKey=dateKeyET(new Date());let html='';for(let i=0;i<42;i++){const d=new Date(gridStart);d.setDate(gridStart.getDate()+i);const key=ymdLocal(d),outside=d.getMonth()!==state.month.getMonth(),list=byDay.get(key)||[];html+=`<div class="day-cell ${outside?'outside':''} ${key===todayKey?'today':''}"><div class="day-number">${d.getDate()}</div>${list.slice(0,3).map(ev=>`<button class="event-chip ${eventImpact(ev)}" data-event-id="${esc(eventKey(ev))}"><span class="event-time">${esc(eventET(ev))}</span>${esc(ev.name||'Economic event')}</button>`).join('')}${list.length>3?`<div class="more-chip">+${list.length-3} more</div>`:''}</div>`;}els.calendarGrid.innerHTML=html;els.calendarGrid.querySelectorAll('[data-event-id]').forEach(btn=>btn.addEventListener('click',()=>openEvent(btn.dataset.eventId)));}
 function renderSummary(){const monthList=monthEvents();els.eventCount.textContent=monthList.length;const nowMs=Date.now(),next=filteredAll().find(ev=>(parseEventDate(ev)?.getTime()||0)>=nowMs);els.nextEventName.textContent=next?(next.name||'Event'):'—';els.nextEventTime.textContent=next?`${fmtDate(parseEventDate(next))} · ${eventET(next)} ET`:'No published next event';els.filterMode.textContent=state.mode;els.filterSummary.textContent=`${state.selected.size} event families selected${state.highOnly?' · high impact only':''}`;renderCoverage();}
 function renderCoverage(){const list=filteredAll();if(!list.length){els.coverageRange.textContent='—';els.coverageCount.textContent='No dates loaded';return;}const first=parseEventDate(list[0]),last=parseEventDate(list[list.length-1]);els.coverageRange.textContent=`${first.toLocaleDateString('en-US',{month:'short',year:'numeric'})} → ${last.toLocaleDateString('en-US',{month:'short',year:'numeric'})}`;els.coverageCount.textContent=`${list.length} occurrences · built-in history + shared live archive`;}
@@ -345,7 +377,7 @@ function renderUpcoming(){const nowMs=Date.now()-60*60*1000,list=filteredAll().f
 function renderHistory(){const all=filteredAll().filter(ev=>isArchiveEligible(ev)&&(parseEventDate(ev)?.getTime()||0)<Date.now()).reverse(),list=all.slice(0,state.historyLimit);els.historyList.innerHTML=list.length?list.map(rowHtml).join(''):`<div class="empty-state">No previous occurrences loaded for the selected filters.</div>`;els.historyMore.classList.toggle('hidden',all.length<=state.historyLimit);if(all.length>state.historyLimit)els.historyMore.textContent=`Show ${Math.min(25,all.length-state.historyLimit)} more`;}
 function rowHtml(ev){const d=parseEventDate(ev),rows=buildMetricRows(ev),primary=rows.find(r=>r.primary)||rows[0];const actual=primary?.actual??ev.actual,forecast=primary?.forecast??ev.forecast??ev.consensus,previous=primary?.previous??ev.previous??ev.prior;const future=(parseEventDate(ev)?.getTime()||0)>Date.now();const hasAny=[actual,forecast,previous].some(v=>v!==null&&v!==undefined&&v!=='')||future;const actualText=future&&(actual===null||actual===undefined||actual==='')?'Pending':valueOrDash(actual);const forecastText=future&&(forecast===null||forecast===undefined||forecast==='')?'Not yet published':valueOrDash(forecast);const vals=state.showActual&&hasAny?`Actual ${esc(actualText)} · Forecast ${esc(forecastText)} · Previous ${esc(valueOrDash(previous))}`:'';return `<button class="upcoming-row row-button" data-open-event="${esc(eventKey(ev))}"><div class="upcoming-date">${esc(fmtDate(d))}<br><span class="muted">${esc(eventET(ev))} ET</span></div><div><div class="upcoming-name">${esc(ev.name||'Economic event')}</div>${vals?`<div class="upcoming-values">${vals}</div>`:''}<div class="source-status">${esc(ev.sourceStatus||(ev.live?'Live':'Verified'))}</div></div><span class="impact-badge ${eventImpact(ev)}">${esc(ev.impact||'event')}</span></button>`;}
 function wireRowButtons(){document.querySelectorAll('[data-open-event]').forEach(btn=>btn.addEventListener('click',()=>openEvent(btn.dataset.openEvent)));}
-function renderAll(){renderCalendar();renderSummary();renderUpcoming();renderHistory();wireRowButtons();}
+function renderAll(){renderMarketContextPanel();renderCalendar();renderSummary();renderUpcoming();renderHistory();wireRowButtons();}
 
 function findComponent(ev,spec){return (ev.components||[]).find(c=>metricMatch(spec,c));}
 function parseNumberWithUnit(v){if(v===null||v===undefined||v==='')return null;const s=String(v).replace(/,/g,'').trim();const m=s.match(/([+-]?\d+(?:\.\d+)?)\s*(%|[KMB])?/i);if(!m)return null;return {n:Number(m[1]),unit:(m[2]||'').toUpperCase()};}
@@ -421,7 +453,7 @@ function headlineTimestamp(h){
   return 0;
 }
 function topicPriorityForEvent(filterId){
-  const base=['Geopolitical','Oil / Supply','Trade / Sanctions','Fed / Rates','Market move','Fiscal risk','Financial stress'];
+  const base=['Trump / Policy','Geopolitical','Oil / Supply','Trade / Sanctions','Fed / Rates','Market move','Fiscal risk','Financial stress'];
   const specific={
     cpi:['Inflation','Fed / Rates','Oil / Supply','Trade / Sanctions'],
     ppi:['Inflation','Oil / Supply','Trade / Sanctions','Fed / Rates'],
@@ -449,6 +481,7 @@ function topicPriorityForEvent(filterId){
 function staticContextLinks(ev){
   const links={
     'Inflation':{name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Trump / Policy':{name:'Latest Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
     'Fed / Rates':{name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen'},
     'Oil / Supply':{name:'Latest oil-supply and OPEC coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz&hl=en-US&gl=US&ceid=US%3Aen'},
     'Geopolitical':{name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
@@ -518,12 +551,9 @@ function specialEventHtml(ev){
 }
 function openEvent(id){const ev=state.allEvents.find(e=>eventKey(e)===id);if(!ev)return;const d=parseEventDate(ev),rows=detailMetricRows(ev);els.dialogDate.textContent=`${fmtDate(d)} · ${eventET(ev)} ET`;els.dialogTitle.textContent=['housing-starts','permits'].includes(ev.filterId)?'Housing Starts + Building Permits':(ev.name||'Economic event');els.dialogBody.innerHTML=`<div class="event-meta-strip"><span>${esc(ev.impact||'—')} impact</span><span>${esc(ev.sourceStatus||'Live')}</span></div>${specialEventHtml(ev)}${reportLevelHtml(ev,rows)}${metricTableHtml(rows,ev)}${contextHtml(ev)}${['fomc-minutes','fed-presser'].includes(ev.filterId)?`<div class="detail-section"><div class="detail-section-title">Sources</div><div class="special-source-links"><a class="metric-link" href="${esc(SPECIAL_INVESTING_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Investing.com</a><a class="metric-link official-link" href="${esc(ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):SPECIAL_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Official Federal Reserve</a></div></div>`:''}<div class="data-note"><strong>Source policy:</strong> ${ev.chatHistorical?'older historical values shown here are the verified values collected in this ChatGPT conversation;':'automated fields are merged from the shared machine-readable calendar archive when available;'} every metric also includes the approved Investing.com page and the official primary-source release for verification. Missing values are left blank rather than guessed.</div>`;els.dialogSource.href=ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):primarySource(ev.filterId);els.dialogSource.textContent=ev.filterId==='fed-presser'?'Fed live video':ev.filterId==='fomc-minutes'?'Specific Fed minutes PDF':'Investing.com';els.eventDialog.showModal();}
 
-function localPromptToSelection(prompt){const p=normalize(prompt),selected=new Set();FILTER_DEFS.forEach(def=>{if(def.terms.some(t=>p.includes(normalize(t)))||p.includes(normalize(def.label)))selected.add(def.id);});if(/major.*es nq|es nq.*major|all.*macro|my es nq list/.test(p))DEFAULT_IDS.forEach(x=>selected.add(x));if(p.includes('inflation only'))['cpi','ppi','pce'].forEach(x=>selected.add(x));if(p.includes('labor only')||p.includes('jobs only'))['jolts','adp','jobs','claims','eci'].forEach(x=>selected.add(x));if(p.includes('fed only'))['fomc-decision','fomc-minutes','fed-presser'].forEach(x=>selected.add(x));return selected.size?selected:new Set(DEFAULT_IDS);}
-async function applyAiFilter(){const prompt=els.aiPrompt.value.trim();if(!prompt)return;els.applyAi.disabled=true;els.applyAi.textContent='Thinking…';try{const res=await fetch('/api/filter',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({prompt,filters:FILTER_DEFS.map(({id,label})=>({id,label}))})});if(!res.ok)throw new Error('AI endpoint not configured');const data=await res.json(),ids=(data.selected||[]).filter(id=>FILTER_DEFS.some(d=>d.id===id));if(!ids.length)throw new Error('AI returned no matches');state.selected=new Set(ids);state.highOnly=Boolean(data.highOnly);state.mode='AI';els.aiStatus.textContent=`AI selected ${ids.length} event families.`;}catch(_){state.selected=localPromptToSelection(prompt);state.mode='Smart local';els.aiStatus.textContent='Using local smart matching. Deploy the included Cloudflare AI function for true natural-language AI filtering.';}finally{persist();renderFilters();renderAll();els.applyAi.disabled=false;els.applyAi.textContent='Apply AI filter';}}
 function exportIcs(){const events=filteredAll(),lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//MacroCal//ESNQ Calendar//EN','CALSCALE:GREGORIAN'];for(const ev of events){const d=parseEventDate(ev);if(!d)continue;const dt=d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),end=new Date(d.getTime()+30*60000).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z');lines.push('BEGIN:VEVENT',`UID:${btoa(unescape(encodeURIComponent(eventKey(ev)))).replace(/=/g,'')}@macrocal`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z')}`,`DTSTART:${dt}`,`DTEND:${end}`,`SUMMARY:${String(ev.name||'Economic event').replace(/,/g,'\\,')}`,'END:VEVENT');}lines.push('END:VCALENDAR');const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='esnq-macro-all-published.ics';a.click();URL.revokeObjectURL(a.href);}
 
-els.applyAi.addEventListener('click',applyAiFilter);
-els.resetFilter.addEventListener('click',()=>{state.selected=new Set(DEFAULT_IDS);state.highOnly=false;state.mode='ES/NQ';persist();renderFilters();renderAll();els.aiStatus.textContent='Reset to your full ES/NQ macro list.';});
+els.resetFilter.addEventListener('click',()=>{state.selected=new Set(DEFAULT_IDS);state.highOnly=false;state.mode='ES/NQ';persist();renderFilters();renderAll();});
 els.highOnly.addEventListener('change',e=>{state.highOnly=e.target.checked;persist();renderAll();});els.showActual.addEventListener('change',e=>{state.showActual=e.target.checked;persist();renderAll();});
 els.prevMonth.addEventListener('click',()=>{state.month=new Date(state.month.getFullYear(),state.month.getMonth()-1,1);syncVisibleMonth();});els.nextMonth.addEventListener('click',()=>{state.month=new Date(state.month.getFullYear(),state.month.getMonth()+1,1);syncVisibleMonth();});els.todayBtn.addEventListener('click',()=>{const n=new Date();state.month=new Date(n.getFullYear(),n.getMonth(),1);syncVisibleMonth();});els.refreshBtn.addEventListener('click',()=>syncCoverage({force:true}));els.exportIcs.addEventListener('click',exportIcs);els.historyMore.addEventListener('click',()=>{state.historyLimit+=25;renderHistory();wireRowButtons();});
 

@@ -135,3 +135,11 @@ The built-in historical dataset remains available even before the first schedule
 - The shared updater now runs separate targeted news searches for inflation, Fed/rates, oil/supply, geopolitics, trade/sanctions, fiscal risk, financial stress, labor, growth/demand, and broad market moves.
 - If the hourly headline archive is temporarily empty, the UI shows live outside-source news-search links for the topics most relevant to the selected macro release instead of falling back to economic-calendar events.
 - FinancialJuice is not scraped into the public site because its terms prohibit automated collection/display without permission; it can still be linked manually as a separate live-news resource.
+
+## V17 homepage market context + confirmation tools
+
+- Replaces the old AI filter box with a **Market Context** panel showing up to five recent external headlines/catalysts from the shared news archive.
+- Adds targeted coverage for market-sensitive Trump posts/statements through trusted-source news searches, plus a direct link to the public Trump Truth Social profile. The feed only treats these as context when the topic is tied to rates, tariffs/trade, sanctions, oil/Iran, China, fiscal policy, the dollar, or Treasuries; it does not assume every post is market-moving.
+- Keeps the normal event checkbox filters and adds a simple Reset control; visitors still cannot change the permanent MacroCal whitelist or edit the public site.
+- Adds a **Confirmation tools** strip with one-click links to TradingView US02Y, NQ, ES, DXY, CME FedWatch, and the Investing.com economic calendar.
+- Market Context is shared/public: it reads `data/market-headlines.json`, which the hourly GitHub updater refreshes for all visitors.
