@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:25:18.217Z",
+  "generated_at": "2026-09-23T22:24:19.049Z",
   "articles": [
     {
       "title": "Inflation could cost Republicans the Senate &#x2014; this chart shows how",
@@ -34,7 +34,7 @@
     {
       "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXNtQjh4dXNZWDNiM3lNUzE5MTlwUVdBYWl0b3hCX3cwMzA3NHJmOTlDSWtqWnV4TGd4aENYNDhoekdJTHFTN2tMN0l0WS1nQ0psck94LW9lVm5IbG8xTEZRLVdsRDBWVWtfTW5LSUN3NlhDdDVjdDBLenhCWGRTamdiVWJRLXg1bmpSM0ppSlk1ZmRIdVJoNHB0UHFYZVh0WnhSZWVIclhVcWU4?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260923T092800Z",
       "date_et": "2026-09-23",
       "time_et": "05:28",
@@ -42,7 +42,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -59,6 +59,21 @@
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Dollar Climbs on Hawkish Fed President Collins",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-hawkish-fed-president-144430362.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260922T144430Z",
+      "date_et": "2026-09-22",
+      "time_et": "10:44",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "finance.yahoo.com",
+      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
@@ -109,7 +124,7 @@
     {
       "title": "Global diesel shortage likely to last into 2027 as storage tanks drain",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260921T101757Z",
       "date_et": "2026-09-21",
       "time_et": "06:17",
@@ -117,7 +132,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Oil / Supply",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -137,7 +152,7 @@
     {
       "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260917T193200Z",
       "date_et": "2026-09-17",
       "time_et": "15:32",
@@ -145,14 +160,29 @@
       "major_catalyst": true,
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Why the Federal Reserve is lifting rates now, and what it means",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEZzZmpKTVFsbm4weV84ZGFVUHRFNHE5dzJCOWgxbFViemNyWFpQaXVQOXJIVWo4ZWVaVHc1elItbUYya3RpekEwdzFadWJLMVo0NFhZWk8xdkhBV2Jkd0I4MjdYNDBRVm9IWGlDdmhVVllMYW1uT3Y5XzRTbWFicDVVUkpuWGdoWUVYYWUtUEdONExlN3k3eEg5WTVhdw?oc=5",
+      "domain": "AP News",
+      "seendate": "20260917T183000Z",
+      "date_et": "2026-09-17",
+      "time_et": "14:30",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260917T170847Z",
       "date_et": "2026-09-17",
       "time_et": "13:08",
@@ -160,7 +190,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -240,7 +270,7 @@
     {
       "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260917T012249Z",
       "date_et": "2026-09-16",
       "time_et": "21:22",
@@ -248,7 +278,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
