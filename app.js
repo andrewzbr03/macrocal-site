@@ -420,59 +420,81 @@ function headlineTimestamp(h){
   if(h.date_et){const d=new Date(`${h.date_et}T${h.time_et||'12:00'}:00-04:00`);if(!Number.isNaN(d.getTime()))return d.getTime();}
   return 0;
 }
-function relevantContextFor(ev){
-  const d=eventDateET(ev),t=eventET(ev),selfKey=eventKey(ev); const scheduled=[]; const headlines=[]; const seen=new Set();
-  const eventTime=parseEventDate(ev)?.getTime()||0; const future=eventTime>Date.now();
-  const addScheduled=(x,{outsideWhitelist=false}={})=>{
-    if(eventKey(x)===selfKey)return;
-    const xd=eventDateET(x)||x.date;if(!xd)return;
-    const diff=contextDayDiff(d,xd);if(Math.abs(diff)>1)return;
-    const impact=normalize(x.impact||'');
-    const major=isHighImpact(x)||impact.includes('medium')||GLOBAL_CONTEXT_RE.test(x.name||'')||EXTRA_RELEVANCE_RE.test(x.name||'');
-    if(!major)return;
-    const time=eventET(x),name=x.name||x.title||'Relevant event';
-    const k=normalize(`${xd}|${time}|${name}`);if(seen.has(k))return;seen.add(k);
-    let tag='Same day';
-    if(diff===0&&time===t)tag='Same time'; else if(diff<0)tag='Previous day'; else if(diff>0)tag='Next day';
-    scheduled.push({name,time,impact:x.impact,url:outsideWhitelist?(x.url||'https://www.financecalendar.com/'):primarySource(x.filterId),country:x.country||'United States',tag,diff});
+function topicPriorityForEvent(filterId){
+  const base=['Geopolitical','Oil / Supply','Trade / Sanctions','Fed / Rates','Market move','Fiscal risk','Financial stress'];
+  const specific={
+    cpi:['Inflation','Fed / Rates','Oil / Supply','Trade / Sanctions'],
+    ppi:['Inflation','Oil / Supply','Trade / Sanctions','Fed / Rates'],
+    pce:['Inflation','Fed / Rates','Oil / Supply'],
+    michigan:['Inflation','Growth / Demand','Fed / Rates'],
+    jobs:['Labor','Fed / Rates','Market move'],
+    jolts:['Labor','Fed / Rates'],
+    adp:['Labor','Fed / Rates'],
+    claims:['Labor','Fed / Rates'],
+    eci:['Labor','Inflation','Fed / Rates'],
+    gdp:['Growth / Demand','Fed / Rates','Trade / Sanctions'],
+    retail:['Growth / Demand','Inflation','Fed / Rates'],
+    confidence:['Growth / Demand','Fed / Rates'],
+    durable:['Growth / Demand','Trade / Sanctions','Fed / Rates'],
+    'ism-manufacturing':['Growth / Demand','Inflation','Trade / Sanctions','Fed / Rates'],
+    'ism-services':['Growth / Demand','Inflation','Fed / Rates'],
+    'housing-starts':['Growth / Demand','Fed / Rates'],
+    permits:['Growth / Demand','Fed / Rates'],
+    'fomc-decision':['Fed / Rates','Inflation','Labor','Market move'],
+    'fomc-minutes':['Fed / Rates','Inflation','Labor'],
+    'fed-presser':['Fed / Rates','Inflation','Labor','Market move']
   };
-  // Scheduled context is secondary: it can still show major releases, but the section is no longer
-  // dependent on the calendar feed and external headlines are prioritized above it.
-  for(const x of state.allEvents)addScheduled(x);
-  for(const x of state.contextEvents)addScheduled(x,{outsideWhitelist:true});
-  scheduled.sort((a,b)=>Math.abs(a.diff)-Math.abs(b.diff)||String(a.time).localeCompare(String(b.time)));
-
-  const candidates=(state.marketHeadlines||[]).filter(h=>h.effect_reported||h.major_catalyst);
-  if(future){
-    // For an upcoming release, show CURRENT market context rather than trying to match a future date.
-    // These are independent external links and do not need to correspond to a calendar "event".
-    const cutoff=Date.now()-7*86400000;
-    for(const h of candidates.sort((a,b)=>headlineTimestamp(b)-headlineTimestamp(a))){
-      const ts=headlineTimestamp(h);if(ts&&ts<cutoff)continue;
-      const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
-      const tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
-      headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,priority:h.effect_reported?0:1});
-      if(headlines.length>=8)break;
-    }
-  }else{
-    // For backtesting, use the headlines captured around that historical release date.
-    for(const h of candidates){
-      const hd=h.date_et||'';const diff=contextDayDiff(d,hd);if(Math.abs(diff)>1)continue;
-      const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
-      let tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
-      if(diff<0)tag=`${tag} · Prev day`;else if(diff>0)tag=`${tag} · Next day`;
-      headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,priority:h.effect_reported?0:1});
-    }
-    headlines.sort((a,b)=>(a.priority||0)-(b.priority||0)||String(a.time).localeCompare(String(b.time)));headlines.splice(8);
-  }
-  return {scheduled:scheduled.slice(0,6),headlines};
+  return [...new Set([...(specific[filterId]||[]),...base])];
 }
-
+function staticContextLinks(ev){
+  const links={
+    'Inflation':{name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Fed / Rates':{name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Oil / Supply':{name:'Latest oil-supply and OPEC coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Geopolitical':{name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Trade / Sanctions':{name:'Latest tariffs, trade and sanctions coverage',url:'https://news.google.com/search?q=US%20tariffs%20sanctions%20trade%20China%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Labor':{name:'Latest U.S. labor-market coverage',url:'https://news.google.com/search?q=US%20labor%20market%20jobs%20unemployment%20wages%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Growth / Demand':{name:'Latest U.S. growth and consumer-demand coverage',url:'https://news.google.com/search?q=US%20economy%20GDP%20consumer%20spending%20retail%20sales%20PMI&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Fiscal risk':{name:'Latest shutdown, debt-ceiling and fiscal-risk coverage',url:'https://news.google.com/search?q=US%20government%20shutdown%20debt%20ceiling%20Treasury%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Financial stress':{name:'Latest bank and credit-stress coverage',url:'https://news.google.com/search?q=bank%20credit%20stress%20liquidity%20markets%20US&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Market move':{name:'Latest Nasdaq, S&P 500 and Treasury market moves',url:'https://news.google.com/search?q=Nasdaq%20S%26P%20500%20Treasury%20yields%20futures%20markets&hl=en-US&gl=US&ceid=US%3Aen'}
+  };
+  return topicPriorityForEvent(ev.filterId).slice(0,4).map(tag=>({...links[tag],tag,headline:true,source:'News search',fallback:true})).filter(x=>x.url);
+}
+function relevantContextFor(ev){
+  const eventTime=parseEventDate(ev)?.getTime()||0;
+  const future=eventTime>Date.now();
+  const nowMs=Date.now();
+  const priorities=topicPriorityForEvent(ev.filterId);
+  const priorityIndex=new Map(priorities.map((x,i)=>[x,i]));
+  const seen=new Set();
+  const headlines=[];
+  for(const h of state.marketHeadlines||[]){
+    if(!(h.effect_reported||h.major_catalyst))continue;
+    const ts=headlineTimestamp(h);if(!ts)continue;
+    // Context must already exist. Never show future-dated news/events as though they affected the release.
+    if(ts>nowMs)continue;
+    if(future){
+      if(ts<nowMs-7*86400000)continue;
+    }else{
+      // Historical context: only information that existed by the release time, up to 3 days before it.
+      if(ts>eventTime || ts<eventTime-3*86400000)continue;
+    }
+    const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
+    const tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
+    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,rank:priorityIndex.has(tag)?priorityIndex.get(tag):99});
+  }
+  headlines.sort((a,b)=>a.rank-b.rank||b.ts-a.ts);
+  const selected=[];const perTag=new Map();
+  for(const h of headlines){
+    const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=8)break;
+  }
+  return {headlines:selected,fallback:selected.length?[]:staticContextLinks(ev)};
+}
 function contextHtml(ev){
-  const {scheduled,headlines}=relevantContextFor(ev);const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
-  const items=[...headlines,...scheduled];
-  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-empty">No independent market-context headlines are stored yet. The hourly updater will keep trying external news sources; scheduled calendar items are only a fallback.</div></div>`;
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">${future?'For upcoming releases, this prioritizes current external market context from the last 7 days; it does not need to match the release date or be an economic-calendar event.':'For past releases, external headlines are matched to roughly one day around the release for backtesting.'} Scheduled releases appear only as secondary context. Labels describe potential relevance to ES/NQ, rates, the dollar, or oil—not proven causation.</div></div>`;
+  const {headlines,fallback}=relevantContextFor(ev);const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
+  const items=headlines.length?headlines:fallback;
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}</span></a>`).join('')}</div><div class="context-footnote">${headlines.length?(future?'These are external headlines published before now, prioritized by relevance to this upcoming release. Future scheduled calendar events are never treated as current context.':'These are external headlines that were already published by the time of this historical release, looking back up to three days. No next-day events are included.'):'No stored headline matched yet, so MacroCal is showing live outside-source searches for the most relevant current topics instead.'} This section is independent from the MacroCal economic-calendar whitelist.</div></div>`;
 }
 
 function previousFomcDecision(ev){

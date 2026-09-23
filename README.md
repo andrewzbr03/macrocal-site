@@ -124,3 +124,14 @@ The built-in historical dataset remains available even before the first schedule
 - Historical events continue to use captured headlines around the release date for backtesting.
 - Scheduled releases remain secondary context rather than the primary source of related items.
 - The updater uses GDELT when available and a Google News RSS search as a fallback so a GDELT outage does not leave the context feed empty.
+
+
+## V16 independent context feed
+
+- Relevant market context no longer reads from the calendar event arrays at all.
+- Future scheduled releases are never shown as if they affected the current market.
+- For upcoming events, context is built only from already-published external headlines from the prior 7 days.
+- For historical events, context only uses headlines published at or before the release, looking back up to 3 days; next-day items are excluded.
+- The shared updater now runs separate targeted news searches for inflation, Fed/rates, oil/supply, geopolitics, trade/sanctions, fiscal risk, financial stress, labor, growth/demand, and broad market moves.
+- If the hourly headline archive is temporarily empty, the UI shows live outside-source news-search links for the topics most relevant to the selected macro release instead of falling back to economic-calendar events.
+- FinancialJuice is not scraped into the public site because its terms prohibit automated collection/display without permission; it can still be linked manually as a separate live-news resource.

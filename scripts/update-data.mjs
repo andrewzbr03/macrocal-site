@@ -95,23 +95,56 @@ async function fetchWithRetry(url,options={},attempts=3,timeoutMs=20000){
 function decodeXml(s=''){return String(s).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');}
 function stripTags(s=''){return decodeXml(String(s).replace(/<[^>]+>/g,'')).trim();}
 function xmlTag(block,tag){const m=String(block).match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`,'i'));return m?stripTags(m[1]):'';}
+const NEWS_TOPICS = [
+  {tag:'Inflation', q:'US inflation CPI PCE prices Federal Reserve inflation outlook when:7d'},
+  {tag:'Fed / Rates', q:'Federal Reserve Powell interest rates Treasury yields rate cuts rate hikes when:7d'},
+  {tag:'Oil / Supply', q:'oil supply OPEC Iran Strait of Hormuz Red Sea crude disruption when:7d'},
+  {tag:'Geopolitical', q:'Iran Israel Middle East ceasefire attack escalation Ukraine Russia Taiwan markets when:7d'},
+  {tag:'Trade / Sanctions', q:'US tariffs sanctions export controls trade war China markets when:7d'},
+  {tag:'Fiscal risk', q:'US government shutdown debt ceiling Treasury fiscal markets when:7d'},
+  {tag:'Financial stress', q:'bank stress credit stress liquidity crisis regional banks markets when:7d'},
+  {tag:'Labor', q:'US labor market jobs unemployment wages payrolls Federal Reserve when:7d'},
+  {tag:'Growth / Demand', q:'US economy GDP retail sales consumer spending PMI growth outlook when:7d'},
+  {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar market move when:7d'}
+];
+const TRUSTED_GOOGLE_SOURCES = [
+  'Reuters','CNBC','Bloomberg','The Wall Street Journal','Wall Street Journal','Financial Times',
+  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','CBS News','NBC News','ABC News'
+];
+function trustedGoogleSource(name=''){
+  const n=String(name).trim().toLowerCase();
+  return TRUSTED_GOOGLE_SOURCES.some(x=>n===x.toLowerCase() || n.includes(x.toLowerCase()));
+}
+async function fetchGoogleTopic(topic){
+  const u=`https://news.google.com/rss/search?q=${encodeURIComponent(topic.q)}&hl=en-US&gl=US&ceid=US:en`;
+  const r=await fetchWithRetry(u,{headers:{Accept:'application/rss+xml, application/xml, text/xml','User-Agent':'MacroCal-Market-Context/2.0'}},3,20000);
+  const xml=await r.text();
+  const items=[...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(m=>m[1]);
+  return items.slice(0,60).map(block=>{
+    const rawTitle=xmlTag(block,'title');
+    const link=xmlTag(block,'link');
+    const pubDate=xmlTag(block,'pubDate');
+    const source=xmlTag(block,'source');
+    const title=rawTitle.replace(/\s+-\s+[^-]{2,80}$/,'').trim()||rawTitle;
+    return {title,url:link,domain:source||'Google News',seendate:pubDate?new Date(pubDate).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'):'',provider:'Google News',topic_tag:topic.tag};
+  });
+}
 async function fetchGdeltHeadlines(){
   const q='("S&P 500" OR Nasdaq OR "Treasury yields" OR futures OR Iran OR Israel OR "Middle East" OR "Strait of Hormuz" OR OPEC OR oil OR tariffs OR sanctions OR "government shutdown" OR "debt ceiling" OR "bank failure" OR Taiwan OR Ukraine OR Russia OR "Federal Reserve" OR Powell) (Fed OR inflation OR jobs OR oil OR war OR ceasefire OR peace OR attack OR strike OR sanctions OR tariffs OR disruption OR shutdown OR debt OR rates)';
-  const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=250&timespan=7d&sort=datedesc&format=json`;
-  const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/1.0'}},3,20000);
+  const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=100&timespan=7d&sort=datedesc&format=json`;
+  const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/2.0'}},2,15000);
   const j=await r.json();return (j.articles||[]).map(a=>({...a,provider:'GDELT'}));
-}
-async function fetchGoogleNewsHeadlines(){
-  const q='(Iran OR Israel OR "Middle East" OR OPEC OR oil OR tariffs OR sanctions OR "Federal Reserve" OR Powell OR "Treasury yields" OR "government shutdown" OR "debt ceiling" OR "bank stress" OR Taiwan OR Ukraine) markets';
-  const u=`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
-  const r=await fetchWithRetry(u,{headers:{Accept:'application/rss+xml, application/xml, text/xml','User-Agent':'MacroCal-Market-Context/1.0'}},2,15000);
-  const xml=await r.text();const items=[...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(m=>m[1]);
-  return items.slice(0,200).map(block=>{const rawTitle=xmlTag(block,'title');const link=xmlTag(block,'link');const pubDate=xmlTag(block,'pubDate');const source=xmlTag(block,'source');const title=rawTitle.replace(/\s+-\s+[^-]{2,80}$/,'').trim()||rawTitle;return {title,url:link,domain:source||'Google News',seendate:pubDate?new Date(pubDate).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'):'',provider:'Google News'};});
 }
 async function fetchHeadlines(){
   const all=[];
+  // Primary context source: targeted external-news RSS searches, one topic at a time.
+  // These are independent from the economic-calendar feed.
+  for(const topic of NEWS_TOPICS){
+    try{all.push(...await fetchGoogleTopic(topic));}
+    catch(err){console.warn(`Google News ${topic.tag} refresh failed: ${err?.message||err}`);}
+  }
+  // Optional fallback/extra coverage only; a GDELT outage must never block the archive.
   try{all.push(...await fetchGdeltHeadlines());}catch(err){console.warn(`GDELT headline refresh failed: ${err?.message||err}`);}
-  try{all.push(...await fetchGoogleNewsHeadlines());}catch(err){console.warn(`Google News headline refresh failed: ${err?.message||err}`);}
   if(!all.length)throw new Error('All external headline sources failed');
   return all;
 }
@@ -125,15 +158,18 @@ async function updateHeadlines(){
     return map.size;
   }
   for(const a of rows){
-    const domain=String(a.domain||'').toLowerCase();
+    const domain=String(a.domain||'').trim();
     const fromGoogle=a.provider==='Google News';
-    if(!fromGoogle&&!TRUSTED_DOMAINS.some(d=>domain===d||domain.endsWith('.'+d)))continue;
-    const title=String(a.title||'').trim();if(!title)continue;
+    if(fromGoogle && !trustedGoogleSource(domain))continue;
+    if(!fromGoogle){const dl=domain.toLowerCase();if(!TRUSTED_DOMAINS.some(d=>dl===d||dl.endsWith('.'+d)))continue;}
+    const title=String(a.title||'').trim();if(!title||!a.url)continue;
     const effectReported=MARKET_MOVE_RE.test(title);
-    const catalyst=catalystTag(title);
+    const inferredCatalyst=catalystTag(title);
+    const topicTag=String(a.topic_tag||'').trim();
+    const catalyst=topicTag||inferredCatalyst;
     if(!effectReported&&!catalyst)continue;
     const et=gdeltDateToET(a.seendate||a.date||a.datetime);
-    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:effectReported,major_catalyst:Boolean(catalyst),catalyst_tag:catalyst||'',provider:a.provider||'',source:a.domain||''};
+    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:effectReported,major_catalyst:Boolean(catalyst),catalyst_tag:catalyst||'',provider:a.provider||'',source:domain};
     map.set(item.url||item.title,{...(map.get(item.url||item.title)||{}),...item});
   }
   const articles=[...map.values()].sort((a,b)=>String(b.seendate||'').localeCompare(String(a.seendate||'')));
