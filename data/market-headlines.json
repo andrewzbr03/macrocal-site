@@ -1,18 +1,35 @@
 {
-  "generated_at": "2026-09-23T20:26:22.347Z",
+  "generated_at": "2026-09-23T20:32:58.232Z",
   "articles": [
     {
-      "title": "Trump plans grand spectacle for potentially tense Xi talks",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260923T170739Z",
+      "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
+      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260923T194800Z",
       "date_et": "2026-09-23",
-      "time_et": "13:07",
+      "time_et": "15:48",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXNtQjh4dXNZWDNiM3lNUzE5MTlwUVdBYWl0b3hCX3cwMzA3NHJmOTlDSWtqWnV4TGd4aENYNDhoekdJTHFTN2tMN0l0WS1nQ0psck94LW9lVm5IbG8xTEZRLVdsRDBWVWtfTW5LSUN3NlhDdDVjdDBLenhCWGRTamdiVWJRLXg1bmpSM0ppSlk1ZmRIdVJoNHB0UHFYZVh0WnhSZWVIclhVcWU4?oc=5",
+      "domain": "MarketWatch",
+      "seendate": "20260923T092800Z",
+      "date_et": "2026-09-23",
+      "time_et": "05:28",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Trade / Sanctions",
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters"
+      "source": "MarketWatch",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "Opinion: Is the Trump administration prepared to collide with the debt ceiling?",
@@ -28,17 +45,34 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "PMI data and crude oil inventories highlight Wednesday’s economic calendar",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnh4WDlfNDBzN19NdFdUZWRvajdSNTZ1Q2hxMDQ2YmpSR19IaW5BRTVsLVJXWXFHMGw1d2RFLTExaVBpVnNiSWtSWVF3blF6aXl3cE5mYjQ5dnJGajZLM0hzd1B1b3dLQjdNZ0Y1YVBjUmlMYThsLWtva0ZHTHE3LTJKNTdxeDZ6MFZmTnZVd1hiWGxaWjFrcWdMcXBpNk1Da1NpRTkzNTFlM2N0cTBWcWNfSGVVckZOSG1ac2dWQi1SMXhPdi1PZ2hST05GSUVS?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260922T180443Z",
+      "title": "'We simply don't know': JPMorgan waves the white flag forecasting where oil prices will go due to Iran War",
+      "url": "https://finance.yahoo.com/energy/articles/simply-dont-know-jpmorgan-waves-120000153.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260922T120000Z",
       "date_et": "2026-09-22",
-      "time_et": "14:04",
+      "time_et": "08:00",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Investing.com"
+      "catalyst_tag": "Geopolitical",
+      "provider": "Publisher RSS",
+      "source": "finance.yahoo.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "ING: Supply-Side Risks Stay Elevated Even as Oil Prices Pull Back",
+      "url": "https://finance.yahoo.com/energy/articles/ing-supply-side-risks-stay-113000679.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260922T113000Z",
+      "date_et": "2026-09-22",
+      "time_et": "07:30",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Oil / Supply",
+      "provider": "Publisher RSS",
+      "source": "finance.yahoo.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
     },
     {
       "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
@@ -49,22 +83,11 @@
       "time_et": "17:21",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Trade / Sanctions",
+      "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "CNBC"
-    },
-    {
-      "title": "Trump administration sued over withheld federal grants for US community lenders",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDVtcTJyeWFkZmRxXzVCR2hpS1dpU0VNc2lDbGxmdkU5Mk5BLXBDb2hrQmdGazRDLUV2LUtRUXdtbUN2NWw4N042TWU1QS1odUo4UXFYWnd1bGFuTExmZzdtQzRqRE5XNzVGd2ROY2tCalhwM2J5QzNiSkJBa0Z3NGQzckl5dF9pU1h2Q2QtREM1TkpBVGp1amF2Vmh6aWtYR1RXbW9GSGl0WkY3WlRWd2p3a0FFRkxOZ3daUzRraXJ2NWIzeUhn?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260921T182523Z",
-      "date_et": "2026-09-21",
-      "time_et": "14:25",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Fiscal risk",
-      "provider": "Google News",
-      "source": "Reuters"
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "Global diesel shortage likely to last into 2027 as storage tanks drain",
@@ -75,22 +98,11 @@
       "time_et": "06:17",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
+      "catalyst_tag": "Oil / Supply",
       "provider": "Google News",
-      "source": "Reuters"
-    },
-    {
-      "title": "Dollar General CEO says consumers making $100,000 a year don't feel high income anymore",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWJSd29sMHl2Yk1CYmQtdm9uUFlQZlZaeDJXdHlrX2E1UGIzUDgtZTZDQVBzbl9GT244eW91b0dZdlBpeTI0VFVXdlRrMzB1ZG5OWmh2Y2lnZGc5NWsyVlQ3eXlXZHZBRGI0Q3hBeGF5UnVGSE1mS3AxYjdLZk82ZEdGS1NyNEt0YWhzUVNadHB6eTVxQmtXWFJzUVhoMTB5eFE?oc=5",
-      "domain": "Fortune",
-      "seendate": "20260920T230300Z",
-      "date_et": "2026-09-20",
-      "time_et": "19:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Fortune"
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "3 U.S. Retail Stocks Investors Are Watching As Higher Rates Reshape Consumer Spending",
@@ -106,32 +118,6 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "What commodity markets can expect from the Trump-Xi summit",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260918T054520Z",
-      "date_et": "2026-09-18",
-      "time_et": "01:45",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Trade / Sanctions",
-      "provider": "Google News",
-      "source": "Reuters"
-    },
-    {
-      "title": "Key issues for this week's Trump-Xi summit in Washington",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHdmMERXdzJrTFFzNkJOSXZhblo3Tkp1YXctZHBVQU9jdHR0TTZhUmFiYjVMRmsxaGhhbHFEMUdMd2daWVJzcnU0NUZGQTd0bGk0WjBIa0xWRkdGaHRWa2doWU11dGlTRW44ZFRhdmhFYm1ad3NDVV9ndTZQd1VoWXdUcXB1N0JZZ1FGWkJ0b2plUHJTVGk3dnowWQ?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260917T210300Z",
-      "date_et": "2026-09-17",
-      "time_et": "17:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Trade / Sanctions",
-      "provider": "Google News",
-      "source": "Reuters"
-    },
-    {
       "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
       "domain": "Reuters",
@@ -140,7 +126,7 @@
       "time_et": "15:32",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
+      "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Reuters"
     },
@@ -155,7 +141,9 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters"
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "US single-family housing starts rebound in August; building permits fall",
@@ -179,9 +167,11 @@
       "time_et": "04:50",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Investing.com"
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "Donald Trump fails to bend the Federal Reserve to his will",
@@ -192,22 +182,26 @@
       "time_et": "00:01",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
+      "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Financial Times"
+      "source": "Financial Times",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
-      "title": "EU asks China to voluntarily limit hybrid car exports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXBHVk1XNnktaWhhOWNac0M0R0k3bE0zNXdabHE0SHJiNWhxaGxGTWdraVZfdWJOa1NRcFo1dGlSZjFzTGhUMC1XV2owXzliTDlfalFROWQyUjBOWUNZcFRUY1FPZkt0WXh3UzA2cGcyaDBqMnRyYVZvb29FTDFsd21YYy0?oc=5",
-      "domain": "Financial Times",
-      "seendate": "20260917T040105Z",
-      "date_et": "2026-09-17",
-      "time_et": "00:01",
+      "title": "Fed rate hike jolts markets after it signals a huge shock",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHd6TkRpdTc4V09RZW1yMkJKZjNqeWZ3dTBPbG5tZnlFRFMzUVpHRzM0bmYxR2Q0Tkt5d2FDMzVGSFBIOHl3RjQ2YjFvR19PQjdZanBiakNucmZGWGRQVDFWR0R0M05HS3VkcnlkQ3VMSzZ4cU5YZFJVNmNRSmhFc1R3?oc=5",
+      "domain": "Yahoo Finance Singapore",
+      "seendate": "20260917T031700Z",
+      "date_et": "2026-09-16",
+      "time_et": "23:17",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Trade / Sanctions",
+      "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
-      "source": "Financial Times"
+      "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
@@ -218,35 +212,26 @@
       "time_et": "21:22",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters"
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
-      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260916T201010Z",
+      "title": "Fed predicts PCE inflation at 2.3% in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WR3pkQy1fSmJ5YU1Yd3VXNHQ3WHM3Y3poQ0FNVnZpZVlIdHdXTk5KcldWWk1IX2VTOEx4a19PaXp4bnRIZlBodk9uUmY4R21RX3R2REJmSUowNUE?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20260916T224702Z",
       "date_et": "2026-09-16",
-      "time_et": "16:10",
+      "time_et": "18:47",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters"
-    },
-    {
-      "title": "Boeing at Morgan Stanley’s 14th Annual Laguna Conference: cash flow path",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0ZwQXpQcEdVQlNzNmM3OWtjX0Y1MGJra3BtSEF6RThoeG9OQkhScVJGbXo0NnM1SVJfUG9DRkhncURfVEpaWFFRaVQwMUVSdGZWV0VIRlJVV3NNZ3hQT3ZqMG10NmNodkttWmU5bWFZR0NSTm5Zd181YmpHdm5BTndGaFZlbkgyVi1KcEhSdklhbTNjcGNWRGNMMUVLUy1XMk5MOEp5ekYyVjJZaVZ0dVl3UUJVZVJISGFrLTJ4VnU3UEgz?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260916T195139Z",
-      "date_et": "2026-09-16",
-      "time_et": "15:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com"
+      "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     }
   ]
 }
