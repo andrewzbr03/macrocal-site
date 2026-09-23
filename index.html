@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MacroCal — ES/NQ Macro Calendar</title>
+  <meta name="description" content="A focused U.S. macro calendar for ES/NQ traders with AI-editable filters." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">M</div>
+        <div>
+          <h1>MacroCal</h1>
+          <p>ES/NQ calendar</p>
+        </div>
+      </div>
+
+      <section class="panel ai-panel">
+        <div class="panel-title-row">
+          <h2>AI filter</h2>
+          <span class="pill">free-ready</span>
+        </div>
+        <p class="muted">Describe exactly what you want on the calendar.</p>
+        <textarea id="aiPrompt" rows="6">Show only major U.S. macro events I use for ES/NQ: CPI, PPI, PCE, NFP/jobs report, unemployment, wages, JOLTS, ADP, ISM manufacturing, ISM services, FOMC decisions, FOMC minutes, Fed press conferences, GDP, retail sales, durable goods, Michigan consumer sentiment, Conference Board consumer confidence, housing starts, building permits, employment cost index, and initial jobless claims.</textarea>
+        <div class="button-row">
+          <button id="applyAi" class="btn primary">Apply AI filter</button>
+          <button id="resetFilter" class="btn secondary">My ES/NQ list</button>
+        </div>
+        <div id="aiStatus" class="status">AI endpoint optional. Local smart matching works immediately.</div>
+      </section>
+
+      <section class="panel">
+        <h2>Event filters</h2>
+        <div id="filterList" class="filter-list"></div>
+      </section>
+
+      <section class="panel compact-panel">
+        <label class="check-row"><input id="highOnly" type="checkbox" /> High impact only</label>
+        <label class="check-row"><input id="showActual" type="checkbox" checked /> Show Actual / Forecast / Previous</label>
+      </section>
+
+      <div class="sidebar-footer">
+        <button id="exportIcs" class="btn secondary full">Export visible events (.ics)</button>
+        <p>Auto-syncs future dates hourly and preserves them after release. Older history is built into the site from the verified data collected in this chat. Live schedule data: <a href="https://www.financecalendar.com/" target="_blank" rel="noreferrer">FinanceCalendar.com</a>.</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">United States · Eastern Time</div>
+          <h2 id="monthTitle">Calendar</h2>
+        </div>
+        <div class="top-actions">
+          <button id="prevMonth" class="icon-btn" aria-label="Previous month">←</button>
+          <button id="todayBtn" class="btn secondary">Today</button>
+          <button id="nextMonth" class="icon-btn" aria-label="Next month">→</button>
+          <button id="refreshBtn" class="btn primary">Sync all dates</button>
+        </div>
+      </header>
+
+      <section class="summary-grid">
+        <article class="metric-card"><span>This month</span><strong id="eventCount">0</strong><small>matching events</small></article>
+        <article class="metric-card"><span>Next event</span><strong id="nextEventName">—</strong><small id="nextEventTime">No event loaded</small></article>
+        <article class="metric-card"><span>Published coverage</span><strong id="coverageRange">—</strong><small id="coverageCount">Searching available dates</small></article>
+        <article class="metric-card"><span>Filter mode</span><strong id="filterMode">ES/NQ</strong><small id="filterSummary">Focused macro list</small></article>
+      </section>
+
+      <div id="notice" class="notice hidden"></div>
+
+      <section class="calendar-wrap">
+        <div class="weekday-row">
+          <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div>
+        </div>
+        <div id="calendarGrid" class="calendar-grid"></div>
+      </section>
+
+      <section class="upcoming-section">
+        <div class="section-heading">
+          <div>
+            <div class="eyebrow">Fast view</div>
+            <h3>Upcoming matching events</h3>
+          </div>
+          <span id="syncTime" class="muted">Searching published schedules…</span>
+        </div>
+        <div id="upcomingList" class="upcoming-list"></div>
+      </section>
+
+      <section class="upcoming-section history-section">
+        <div class="section-heading">
+          <div>
+            <div class="eyebrow">Backtest archive</div>
+            <h3>Previous occurrences</h3>
+          </div>
+          <span class="muted">Chat-collected history + captured events going forward</span>
+        </div>
+        <div id="historyList" class="upcoming-list"></div>
+        <div class="history-actions"><button id="historyMore" class="btn secondary hidden">Show 25 more</button></div>
+      </section>
+
+
+    </main>
+  </div>
+
+  <dialog id="eventDialog">
+    <form method="dialog" class="dialog-card">
+      <div class="dialog-head">
+        <div>
+          <div class="eyebrow" id="dialogDate">Event</div>
+          <h3 id="dialogTitle"></h3>
+        </div>
+        <button class="icon-btn" value="cancel" aria-label="Close">×</button>
+      </div>
+      <div id="dialogBody" class="dialog-body"></div>
+      <div class="dialog-actions">
+        <a id="dialogSource" class="btn secondary" target="_blank" rel="noreferrer">Source</a>
+        <button class="btn primary" value="cancel">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
