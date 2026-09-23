@@ -96,8 +96,8 @@ This build can run as a completely free public site using GitHub Pages.
 - `.github/workflows/update-data.yml` runs hourly and updates `data/shared-feed.json` from FinanceCalendar.
 - The updater never deletes older stored rows, so releases captured after Sep. 23, 2026 become a shared history for every visitor.
 - It also retains selected market-impact headlines in `data/market-headlines.json` when the headline itself explicitly reports a move in stocks, Nasdaq/S&P, futures, Treasury yields, or the dollar.
-- `.github/workflows/deploy-pages.yml` publishes the same files to GitHub Pages after updates.
-- The main calendar remains the strict ES/NQ whitelist. Broader releases, Fed events, selected global catalysts, and market-impact headlines appear only inside an event's **Other relevant market events** section.
+- GitHub Pages should be configured to **Deploy from a branch → `main` → `/ (root)`**. This package intentionally does not include a competing Pages deployment workflow.
+- The main calendar remains the strict ES/NQ whitelist. External market context is separate from the calendar whitelist and cannot add new calendar event families.
 
 The built-in historical dataset remains available even before the first scheduled update runs.
 
@@ -143,3 +143,16 @@ The built-in historical dataset remains available even before the first schedule
 - Keeps the normal event checkbox filters and adds a simple Reset control; visitors still cannot change the permanent MacroCal whitelist or edit the public site.
 - Adds a **Confirmation tools** strip with one-click links to TradingView US02Y, NQ, ES, DXY, CME FedWatch, and the Investing.com economic calendar.
 - Market Context is shared/public: it reads `data/market-headlines.json`, which the hourly GitHub updater refreshes for all visitors.
+
+
+## V18 catalyst-weighted context
+
+- Homepage **Market Context** now favors specific recent headlines/policy statements rather than generic topic links whenever the shared feed has matching items.
+- Homepage context is ranked by **general market impact** and shown with three visual levels: dark red = high impact, medium red = medium impact, light red = lower impact. Every card also has a text label and a one-line **Why it matters** explanation.
+- The updater adds targeted searches for consumer spending, manufacturing/supply chains/Boeing, and housing/mortgage conditions, in addition to inflation, Fed/rates, Trump policy posts/statements, oil/supply, geopolitics, trade/sanctions, fiscal risk, financial stress, labor, growth, and broad market moves.
+- **Relevant Market Context** inside each calendar event is now report-specific. CPI, PPI, PCE, labor reports, Retail Sales, GDP, Durable Goods, ISM, housing, sentiment/confidence, and FOMC each use their own topic and keyword weights.
+- Event context is capped at five specific links and displays **HIGH / MEDIUM / LOW RELEVANCE**. Darker red means more directly relevant to that selected report; it does not predict bullish/bearish direction.
+- Each event-context item shows headline, source, Eastern-time timestamp, category, direct source link, and a short **Why it matters** line.
+- Point-in-time protection is strict: upcoming releases use only already-published information from the previous seven days; historical releases use only information published at or before that release, with a three-day lookback. Future/next-day information is excluded.
+- Each event detail now ends with a **Confirmation** section linking US02Y, ES, NQ, DXY, and CME FedWatch. The separate homepage confirmation strip remains available too.
+- The main MacroCal calendar whitelist is unchanged.

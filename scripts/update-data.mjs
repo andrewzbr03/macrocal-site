@@ -28,7 +28,7 @@ function catalystTag(title=''){
   if(TRADE_POLICY_RE.test(title))return 'Trade / Sanctions';
   if(FISCAL_RISK_RE.test(title))return 'Fiscal risk';
   if(FINANCIAL_STRESS_RE.test(title))return 'Financial stress';
-  if(MACRO_POLICY_RE.test(title))return 'Macro / Rates';
+  if(MACRO_POLICY_RE.test(title))return 'Fed / Rates';
   return '';
 }
 
@@ -98,21 +98,24 @@ function decodeXml(s=''){return String(s).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,
 function stripTags(s=''){return decodeXml(String(s).replace(/<[^>]+>/g,'')).trim();}
 function xmlTag(block,tag){const m=String(block).match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`,'i'));return m?stripTags(m[1]):'';}
 const NEWS_TOPICS = [
-  {tag:'Inflation', q:'US inflation CPI PCE prices Federal Reserve inflation outlook when:7d'},
-  {tag:'Fed / Rates', q:'Federal Reserve Powell interest rates Treasury yields rate cuts rate hikes when:7d'},
-  {tag:'Trump / Policy', q:'Trump Truth Social post tariffs trade sanctions Federal Reserve Powell interest rates oil Iran China markets when:7d'},
-  {tag:'Oil / Supply', q:'oil supply OPEC Iran Strait of Hormuz Red Sea crude disruption when:7d'},
-  {tag:'Geopolitical', q:'Iran Israel Middle East ceasefire attack escalation Ukraine Russia Taiwan markets when:7d'},
-  {tag:'Trade / Sanctions', q:'US tariffs sanctions export controls trade war China markets when:7d'},
-  {tag:'Fiscal risk', q:'US government shutdown debt ceiling Treasury fiscal markets when:7d'},
+  {tag:'Inflation', q:'US inflation CPI PCE prices shelter rents gasoline Federal Reserve inflation outlook when:7d'},
+  {tag:'Fed / Rates', q:'Federal Reserve Powell Fed official statement interest rates Treasury yields rate cuts rate hikes when:7d'},
+  {tag:'Trump / Policy', q:'Trump Truth Social post statement tariffs trade sanctions Federal Reserve Powell rates oil Iran China dollar Treasury when:7d'},
+  {tag:'Oil / Supply', q:'oil crude supply OPEC Iran Strait of Hormuz Red Sea tanker shipping disruption when:7d'},
+  {tag:'Geopolitical', q:'Iran Israel Middle East ceasefire peace attack escalation Ukraine Russia Taiwan markets when:7d'},
+  {tag:'Trade / Sanctions', q:'US tariffs sanctions export controls trade war China imports markets when:7d'},
+  {tag:'Fiscal risk', q:'US government shutdown debt ceiling Treasury financing fiscal markets when:7d'},
   {tag:'Financial stress', q:'bank stress credit stress liquidity crisis regional banks markets when:7d'},
-  {tag:'Labor', q:'US labor market jobs unemployment wages payrolls Federal Reserve when:7d'},
-  {tag:'Growth / Demand', q:'US economy GDP retail sales consumer spending PMI growth outlook when:7d'},
-  {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar market move when:7d'}
+  {tag:'Labor', q:'US labor market layoffs hiring job openings unemployment wages payrolls strikes when:7d'},
+  {tag:'Growth / Demand', q:'US economy GDP growth business investment inventories trade demand outlook when:7d'},
+  {tag:'Consumer', q:'US consumer spending retail credit cards retailers gasoline demand when:7d'},
+  {tag:'Manufacturing', q:'US manufacturing factories supply chain Boeing aircraft orders capital goods tariffs when:7d'},
+  {tag:'Housing / Mortgage', q:'US mortgage rates housing homebuilder housing starts building permits construction demand when:7d'},
+  {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar oil market move catalyst when:7d'}
 ];
 const TRUSTED_GOOGLE_SOURCES = [
   'Reuters','CNBC','Bloomberg','The Wall Street Journal','Wall Street Journal','Financial Times',
-  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','Fox Business','CBS News','NBC News','ABC News'
+  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','Fox Business','CBS News','NBC News','ABC News','The White House','Federal Reserve','U.S. Department of the Treasury'
 ];
 function trustedGoogleSource(name=''){
   const n=String(name).trim().toLowerCase();

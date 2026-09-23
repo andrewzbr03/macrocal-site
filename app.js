@@ -342,13 +342,43 @@ async function syncCoverage({force=false,quiet=false}={}){if(state.syncing)retur
 function relativeAge(ts){
   const diff=Math.max(0,Date.now()-ts);const min=Math.floor(diff/60000);if(min<60)return `${Math.max(1,min)}m ago`;const hr=Math.floor(min/60);if(hr<24)return `${hr}h ago`;const d=Math.floor(hr/24);return `${d}d ago`;
 }
+function impactLevelForHeadline(h){
+  const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
+  const base={
+    'Market move':3,'Fed / Rates':2,'Trump / Policy':2,'Oil / Supply':2,'Geopolitical':2,
+    'Financial stress':3,'Fiscal risk':2,'Trade / Sanctions':2,'Inflation':2,'Labor':1,
+    'Growth / Demand':1,'Manufacturing':1,'Consumer':1,'Housing / Mortgage':1
+  }[tag]||1;
+  const title=String(h.title||'');
+  const strong=/\b(?:emergency|attack|strike|missile|war|ceasefire.*(?:collapse|break)|shutdown|default|debt ceiling|bank failure|tariff|sanction|embargo|rate (?:cut|hike)|powell|fomc|opec|hormuz|surge|plunge|selloff|rally)\b/i.test(title)?1:0;
+  const score=Math.min(3,base+strong);
+  return score>=3?'high':score===2?'medium':'low';
+}
+function impactLabel(level){return level==='high'?'HIGH IMPACT':level==='medium'?'MEDIUM IMPACT':'LOW IMPACT';}
+function generalWhyItMatters(tag,title=''){
+  if(tag==='Fed / Rates')return 'Can quickly change rate-cut or rate-hike expectations, Treasury yields, and equity valuation.';
+  if(tag==='Trump / Policy')return 'Market-sensitive policy statements can reprice trade, inflation, oil, the dollar, or rate expectations.';
+  if(tag==='Oil / Supply')return 'Energy-supply changes can move oil, inflation expectations, Treasury yields, and equity risk sentiment.';
+  if(tag==='Geopolitical')return 'Escalation or de-escalation can change risk appetite, oil pricing, safe-haven demand, and index futures.';
+  if(tag==='Trade / Sanctions')return 'Tariffs, sanctions, and export controls can change growth, inflation, supply-chain, and company-profit expectations.';
+  if(tag==='Inflation')return 'Inflation developments can change the expected Fed path and move US02Y, NQ, and ES.';
+  if(tag==='Labor')return 'Labor-market strength or weakness can change growth and Fed expectations.';
+  if(tag==='Growth / Demand')return 'Growth and demand news can change earnings expectations and the expected path of interest rates.';
+  if(tag==='Manufacturing')return 'Factory demand, supply chains, and input costs can affect growth and inflation expectations.';
+  if(tag==='Consumer')return 'Consumer spending is a major driver of U.S. growth and can change growth and earnings expectations.';
+  if(tag==='Housing / Mortgage')return 'Mortgage rates and housing demand are sensitive to Treasury yields and broader financial conditions.';
+  if(tag==='Fiscal risk')return 'Shutdown, debt, or Treasury-financing risk can move yields, the dollar, and equity risk sentiment.';
+  if(tag==='Financial stress')return 'Credit or banking stress can rapidly change liquidity, rate expectations, and equity risk appetite.';
+  if(tag==='Market move')return 'Shows a reported cross-market reaction that may help explain current ES/NQ price action.';
+  return 'Potentially relevant to current ES/NQ, rates, dollar, or oil price action.';
+}
 function marketContextFallback(){
   return [
-    {tag:'Fed / Rates',name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
-    {tag:'Trump / Policy',name:'Latest Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
-    {tag:'Oil / Supply',name:'Latest oil-supply, OPEC and shipping-risk coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz%20Red%20Sea&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
-    {tag:'Geopolitical',name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'},
-    {tag:'Inflation',name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen',source:'News search'}
+    {tag:'Fed / Rates',name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen',source:'News search',fallback:true},
+    {tag:'Trump / Policy',name:'Latest Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search',fallback:true},
+    {tag:'Oil / Supply',name:'Latest oil-supply, OPEC and shipping-risk coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz%20Red%20Sea&hl=en-US&gl=US&ceid=US%3Aen',source:'News search',fallback:true},
+    {tag:'Geopolitical',name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen',source:'News search',fallback:true},
+    {tag:'Inflation',name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen',source:'News search',fallback:true}
   ];
 }
 function renderMarketContextPanel(){
@@ -357,16 +387,19 @@ function renderMarketContextPanel(){
   for(const h of state.marketHeadlines||[]){
     if(!(h.effect_reported||h.major_catalyst))continue;const ts=headlineTimestamp(h);if(!ts||ts>nowMs||ts<cutoff)continue;
     const key=normalize(h.url||h.title);if(!key||seen.has(key))continue;seen.add(key);
-    rows.push({tag:h.effect_reported?'Market move':(h.catalyst_tag||'Market context'),name:h.title,url:h.url,source:h.domain||h.source||h.provider||'News',ts});
+    const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
+    const level=impactLevelForHeadline(h);
+    rows.push({tag,name:h.title,url:h.url,source:h.domain||h.source||h.provider||'News',ts,level,why:generalWhyItMatters(tag,h.title)});
   }
-  rows.sort((a,b)=>b.ts-a.ts);
+  const order={high:0,medium:1,low:2};
+  rows.sort((a,b)=>order[a.level]-order[b.level]||b.ts-a.ts);
   const selected=[],perTag=new Map();
-  for(const row of rows){const n=perTag.get(row.tag)||0;if(n>=1&&selected.length<4)continue;perTag.set(row.tag,n+1);selected.push(row);if(selected.length>=5)break;}
-  const items=selected.length?selected:marketContextFallback();
-  els.marketContextList.innerHTML=items.map(x=>`<a class="market-context-item" href="${esc(x.url)}" target="_blank" rel="noreferrer"><span class="market-context-tag">${esc(x.tag)}</span><span class="market-context-title">${esc(x.name)}</span><span class="market-context-meta">${x.ts?`${esc(relativeAge(x.ts))} · `:''}${esc(x.source||'')}</span></a>`).join('');
+  for(const row of rows){const n=perTag.get(row.tag)||0;if(n>=2)continue;perTag.set(row.tag,n+1);selected.push(row);if(selected.length>=5)break;}
+  const items=selected.length?selected:marketContextFallback().map(x=>({...x,level:'low',why:'Live source search shown until the shared headline feed has a specific matching item.'}));
+  els.marketContextList.innerHTML=items.map(x=>`<a class="market-context-item context-impact-${esc(x.level)}" href="${esc(x.url)}" target="_blank" rel="noreferrer"><span class="context-impact-label">${esc(x.fallback?'SOURCE':impactLabel(x.level))}</span><span class="market-context-tag">${esc(x.tag)}</span><span class="market-context-title">${esc(x.name)}</span><span class="market-context-why"><strong>Why it matters:</strong> ${esc(x.why)}</span><span class="market-context-meta">${x.ts?`${esc(relativeAge(x.ts))} · `:''}${esc(x.source||'')}</span></a>`).join('');
   if(els.marketContextUpdated){
     if(state.marketHeadlinesGeneratedAt){const d=new Date(state.marketHeadlinesGeneratedAt);els.marketContextUpdated.textContent=Number.isNaN(d.getTime())?'Updates hourly':`Feed updated ${d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;}
-    else els.marketContextUpdated.textContent=selected.length?'Current stored headlines':'Live topic links until the shared feed updates';
+    else els.marketContextUpdated.textContent=selected.length?'Current stored headlines':'Live source links until the shared feed updates';
   }
 }
 
@@ -452,82 +485,145 @@ function headlineTimestamp(h){
   if(h.date_et){const d=new Date(`${h.date_et}T${h.time_et||'12:00'}:00-04:00`);if(!Number.isNaN(d.getTime()))return d.getTime();}
   return 0;
 }
+const EVENT_CONTEXT_PROFILES = {
+  cpi:{topics:{'Inflation':4,'Oil / Supply':4,'Trade / Sanctions':3,'Trump / Policy':3,'Fed / Rates':2,'Housing / Mortgage':2,'Labor':1}},
+  ppi:{topics:{'Inflation':4,'Oil / Supply':4,'Trade / Sanctions':4,'Manufacturing':3,'Trump / Policy':3,'Fed / Rates':2}},
+  pce:{topics:{'Inflation':4,'Fed / Rates':3,'Oil / Supply':3,'Consumer':3,'Labor':2,'Trade / Sanctions':2,'Trump / Policy':2}},
+  michigan:{topics:{'Inflation':4,'Consumer':4,'Growth / Demand':3,'Labor':2,'Fed / Rates':2,'Market move':1}},
+  jobs:{topics:{'Labor':5,'Fed / Rates':3,'Growth / Demand':2,'Consumer':1,'Market move':1}},
+  jolts:{topics:{'Labor':5,'Fed / Rates':3,'Growth / Demand':2}},
+  adp:{topics:{'Labor':5,'Fed / Rates':3,'Growth / Demand':2}},
+  claims:{topics:{'Labor':5,'Fed / Rates':3,'Growth / Demand':2}},
+  eci:{topics:{'Labor':5,'Inflation':4,'Fed / Rates':3}},
+  gdp:{topics:{'Growth / Demand':5,'Consumer':4,'Trade / Sanctions':3,'Fiscal risk':3,'Fed / Rates':2,'Manufacturing':2}},
+  retail:{topics:{'Consumer':5,'Growth / Demand':4,'Inflation':2,'Fed / Rates':2,'Oil / Supply':1}},
+  confidence:{topics:{'Consumer':5,'Growth / Demand':4,'Labor':3,'Inflation':2,'Market move':1}},
+  durable:{topics:{'Manufacturing':5,'Growth / Demand':4,'Trade / Sanctions':4,'Trump / Policy':3,'Fed / Rates':2}},
+  'ism-manufacturing':{topics:{'Manufacturing':5,'Growth / Demand':4,'Inflation':3,'Trade / Sanctions':4,'Oil / Supply':2,'Fed / Rates':2}},
+  'ism-services':{topics:{'Growth / Demand':5,'Consumer':3,'Inflation':3,'Labor':3,'Fed / Rates':2}},
+  'housing-starts':{topics:{'Housing / Mortgage':5,'Fed / Rates':4,'Growth / Demand':3,'Inflation':1}},
+  permits:{topics:{'Housing / Mortgage':5,'Fed / Rates':4,'Growth / Demand':3,'Inflation':1}},
+  'fomc-decision':{topics:{'Fed / Rates':5,'Inflation':4,'Labor':4,'Growth / Demand':3,'Fiscal risk':2,'Trade / Sanctions':2,'Trump / Policy':2,'Market move':2}},
+  'fomc-minutes':{topics:{'Fed / Rates':5,'Inflation':4,'Labor':4,'Growth / Demand':3,'Market move':1}},
+  'fed-presser':{topics:{'Fed / Rates':5,'Inflation':4,'Labor':4,'Growth / Demand':3,'Market move':2}}
+};
 function topicPriorityForEvent(filterId){
-  const base=['Trump / Policy','Geopolitical','Oil / Supply','Trade / Sanctions','Fed / Rates','Market move','Fiscal risk','Financial stress'];
-  const specific={
-    cpi:['Inflation','Fed / Rates','Oil / Supply','Trade / Sanctions'],
-    ppi:['Inflation','Oil / Supply','Trade / Sanctions','Fed / Rates'],
-    pce:['Inflation','Fed / Rates','Oil / Supply'],
-    michigan:['Inflation','Growth / Demand','Fed / Rates'],
-    jobs:['Labor','Fed / Rates','Market move'],
-    jolts:['Labor','Fed / Rates'],
-    adp:['Labor','Fed / Rates'],
-    claims:['Labor','Fed / Rates'],
-    eci:['Labor','Inflation','Fed / Rates'],
-    gdp:['Growth / Demand','Fed / Rates','Trade / Sanctions'],
-    retail:['Growth / Demand','Inflation','Fed / Rates'],
-    confidence:['Growth / Demand','Fed / Rates'],
-    durable:['Growth / Demand','Trade / Sanctions','Fed / Rates'],
-    'ism-manufacturing':['Growth / Demand','Inflation','Trade / Sanctions','Fed / Rates'],
-    'ism-services':['Growth / Demand','Inflation','Fed / Rates'],
-    'housing-starts':['Growth / Demand','Fed / Rates'],
-    permits:['Growth / Demand','Fed / Rates'],
-    'fomc-decision':['Fed / Rates','Inflation','Labor','Market move'],
-    'fomc-minutes':['Fed / Rates','Inflation','Labor'],
-    'fed-presser':['Fed / Rates','Inflation','Labor','Market move']
-  };
-  return [...new Set([...(specific[filterId]||[]),...base])];
+  const p=EVENT_CONTEXT_PROFILES[filterId];
+  return p?Object.entries(p.topics).sort((a,b)=>b[1]-a[1]).map(([k])=>k):['Fed / Rates','Inflation','Labor','Growth / Demand'];
 }
+function contextKeywordBonus(filterId,title=''){
+  const t=String(title);
+  const rules={
+    cpi:[[/\b(?:cpi|consumer price index)\b/i,3],[/\b(?:oil|crude|gasoline|energy)\b/i,2],[/\b(?:tariff|import prices?|china|trade)\b/i,2],[/\b(?:rent|shelter|housing cost|owners'? equivalent rent)\b/i,2],[/\b(?:wage|pay)\b/i,1]],
+    ppi:[[/\b(?:ppi|producer price index)\b/i,3],[/\b(?:oil|crude|energy|commodity|input cost)\b/i,2],[/\b(?:tariff|import|supply chain|shipping|freight)\b/i,2],[/\b(?:factory|manufactur|producer)\b/i,2]],
+    pce:[[/\b(?:pce|personal consumption expenditures?)\b/i,3],[/\b(?:consumer spending|personal income|wage|pay)\b/i,2],[/\b(?:oil|gasoline|energy)\b/i,1],[/\b(?:tariff|import)\b/i,1]],
+    michigan:[[/\b(?:gasoline|inflation expectations?|consumer mood|sentiment)\b/i,2],[/\b(?:stocks?|market selloff|market rally)\b/i,1],[/\b(?:layoff|jobs?|unemployment)\b/i,1]],
+    jobs:[[/\b(?:nonfarm payrolls?|nfp|jobs report)\b/i,3],[/\b(?:layoff|hiring|payroll|unemployment|wages?|labor|jobs?)\b/i,3],[/\b(?:strike|immigration|labor supply)\b/i,2]],
+    jolts:[[/\b(?:jolts|job openings?|quit rate|hiring|layoff|labor demand)\b/i,3]],
+    adp:[[/\b(?:adp|private payroll|private employment|hiring|layoff|wages?)\b/i,3]],
+    claims:[[/\b(?:claims|layoff|job cuts?|unemployment)\b/i,3]],
+    eci:[[/\b(?:employment cost index|eci|wages?|compensation|labor costs?|pay growth)\b/i,3]],
+    gdp:[[/\b(?:gdp|gross domestic product)\b/i,3],[/\b(?:consumer spending|business investment|inventor|trade deficit|exports?|imports?|government spending)\b/i,2]],
+    retail:[[/\b(?:retail sales|consumer spending|credit card|retailer|retail|gasoline prices?)\b/i,3]],
+    confidence:[[/\b(?:consumer confidence|consumer sentiment|layoff|jobs?|gasoline|stocks?)\b/i,2]],
+    durable:[[/\b(?:durable goods|boeing|aircraft|defense orders?|capital goods|factory orders?|business investment)\b/i,3]],
+    'ism-manufacturing':[[/\b(?:ism manufacturing|manufacturing pmi|factory|manufactur|input prices?|new orders?|supply chain|tariff)\b/i,3]],
+    'ism-services':[[/\b(?:ism services|services pmi|services?|wages?|consumer demand|employment|prices paid)\b/i,3]],
+    'housing-starts':[[/\b(?:housing starts|mortgage rates?|homebuilder|housing demand|home sales?|construction)\b/i,3]],
+    permits:[[/\b(?:building permits?|mortgage rates?|homebuilder|housing demand|permits?|construction)\b/i,3]],
+    'fomc-decision':[[/\b(?:powell|fomc|rate cuts?|rate hikes?|inflation|payroll|unemployment|treasury yields?)\b/i,2]],
+    'fomc-minutes':[[/\b(?:powell|fomc|rate cuts?|rate hikes?|inflation|payroll|unemployment|treasury yields?)\b/i,2]],
+    'fed-presser':[[/\b(?:powell|fomc|rate cuts?|rate hikes?|inflation|payroll|unemployment|treasury yields?)\b/i,2]]
+  };
+  return (rules[filterId]||[]).reduce((sum,[re,n])=>sum+(re.test(t)?n:0),0);
+}
+function whyForEventContext(ev,tag,title=''){
+  const id=ev.filterId,t=String(title);
+  if(['cpi','ppi','pce'].includes(id)){
+    if(/\b(?:oil|crude|gasoline|energy)\b/i.test(t))return `Energy-price changes can feed into ${id.toUpperCase()} inflation and change the market's inflation path.`;
+    if(/\b(?:tariff|import|trade|china)\b/i.test(t))return `Tariffs and import-cost changes can affect goods prices and inflation expectations going into ${id.toUpperCase()}.`;
+    if(id==='cpi'&&/\b(?:rent|shelter|housing cost)\b/i.test(t))return 'Shelter is a major CPI component, so rent and housing-cost trends are directly relevant.';
+    if(id==='pce'&&/\b(?:wage|income|consumer spending)\b/i.test(t))return 'Income and spending conditions can affect demand-driven inflation and the PCE outlook.';
+    return `${tag} developments can change inflation expectations and how traders interpret this ${id.toUpperCase()} release.`;
+  }
+  if(['jobs','jolts','adp','claims','eci'].includes(id)){
+    if(/\b(?:layoff|job cuts?|unemployment)\b/i.test(t))return 'Layoffs and unemployment signals can indicate weakening labor demand before this labor-market release.';
+    if(/\b(?:wage|pay|compensation)\b/i.test(t))return 'Wage pressure matters for labor-market strength, inflation, and Fed expectations.';
+    if(/\b(?:hiring|job openings?|payroll)\b/i.test(t))return 'Hiring and labor-demand signals can help frame expectations for this labor-market report.';
+    return 'Labor-market developments can change growth and Fed expectations before this release.';
+  }
+  if(id==='retail')return 'Consumer-spending conditions can affect expectations for retail demand and broader U.S. growth.';
+  if(id==='confidence'||id==='michigan')return 'Consumer, labor, inflation, and market conditions can influence household sentiment and expectations.';
+  if(id==='gdp')return 'Changes in consumption, investment, trade, inventories, or government activity can alter GDP expectations.';
+  if(id==='durable')return 'Aircraft, defense, capital-goods, trade, and factory-demand news can materially affect durable-goods expectations.';
+  if(id==='ism-manufacturing')return 'Factory demand, supply chains, tariffs, and input costs can influence manufacturing activity and prices paid.';
+  if(id==='ism-services')return 'Services demand, employment, wages, and prices can shape expectations for the services PMI.';
+  if(id==='housing-starts'||id==='permits')return 'Mortgage rates and housing demand directly affect construction activity and permit/start expectations.';
+  if(['fomc-decision','fomc-minutes','fed-presser'].includes(id))return 'Inflation, labor, growth, fiscal, and policy developments can change expected Fed policy and Treasury yields.';
+  return `${tag} is relevant context for interpreting this release and its potential rates/equity reaction.`;
+}
+function relevanceLevel(score){return score>=6?'high':score>=3?'medium':'low';}
+function relevanceLabel(level){return level==='high'?'HIGH RELEVANCE':level==='medium'?'MEDIUM RELEVANCE':'LOW RELEVANCE';}
 function staticContextLinks(ev){
   const links={
-    'Inflation':{name:'Latest U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Trump / Policy':{name:'Latest Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Fed / Rates':{name:'Latest Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Oil / Supply':{name:'Latest oil-supply and OPEC coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Geopolitical':{name:'Latest geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Trade / Sanctions':{name:'Latest tariffs, trade and sanctions coverage',url:'https://news.google.com/search?q=US%20tariffs%20sanctions%20trade%20China%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Labor':{name:'Latest U.S. labor-market coverage',url:'https://news.google.com/search?q=US%20labor%20market%20jobs%20unemployment%20wages%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Growth / Demand':{name:'Latest U.S. growth and consumer-demand coverage',url:'https://news.google.com/search?q=US%20economy%20GDP%20consumer%20spending%20retail%20sales%20PMI&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Fiscal risk':{name:'Latest shutdown, debt-ceiling and fiscal-risk coverage',url:'https://news.google.com/search?q=US%20government%20shutdown%20debt%20ceiling%20Treasury%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Financial stress':{name:'Latest bank and credit-stress coverage',url:'https://news.google.com/search?q=bank%20credit%20stress%20liquidity%20markets%20US&hl=en-US&gl=US&ceid=US%3Aen'},
-    'Market move':{name:'Latest Nasdaq, S&P 500 and Treasury market moves',url:'https://news.google.com/search?q=Nasdaq%20S%26P%20500%20Treasury%20yields%20futures%20markets&hl=en-US&gl=US&ceid=US%3Aen'}
+    'Inflation':{name:'Search current U.S. inflation coverage',url:'https://news.google.com/search?q=US%20inflation%20CPI%20PCE%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Trump / Policy':{name:'Search current Trump policy posts and market-sensitive coverage',url:'https://news.google.com/search?q=Trump%20Truth%20Social%20tariffs%20Federal%20Reserve%20oil%20Iran%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Fed / Rates':{name:'Search current Fed, rates and Treasury-yield coverage',url:'https://news.google.com/search?q=Federal%20Reserve%20Powell%20Treasury%20yields%20interest%20rates&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Oil / Supply':{name:'Search current oil-supply and OPEC coverage',url:'https://news.google.com/search?q=oil%20supply%20OPEC%20Iran%20Strait%20of%20Hormuz&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Geopolitical':{name:'Search current geopolitical market-risk coverage',url:'https://news.google.com/search?q=Iran%20Israel%20Middle%20East%20Ukraine%20Taiwan%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Trade / Sanctions':{name:'Search current tariffs, trade and sanctions coverage',url:'https://news.google.com/search?q=US%20tariffs%20sanctions%20trade%20China%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Labor':{name:'Search current U.S. labor-market coverage',url:'https://news.google.com/search?q=US%20labor%20market%20jobs%20unemployment%20wages%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Growth / Demand':{name:'Search current U.S. growth coverage',url:'https://news.google.com/search?q=US%20economy%20GDP%20growth%20demand%20Federal%20Reserve&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Consumer':{name:'Search current U.S. consumer-spending coverage',url:'https://news.google.com/search?q=US%20consumer%20spending%20retail%20credit%20cards%20demand&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Manufacturing':{name:'Search current U.S. manufacturing and supply-chain coverage',url:'https://news.google.com/search?q=US%20manufacturing%20factory%20orders%20supply%20chain%20Boeing%20tariffs&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Housing / Mortgage':{name:'Search current mortgage-rate and housing coverage',url:'https://news.google.com/search?q=US%20mortgage%20rates%20housing%20homebuilder%20construction&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Fiscal risk':{name:'Search shutdown, debt-ceiling and fiscal-risk coverage',url:'https://news.google.com/search?q=US%20government%20shutdown%20debt%20ceiling%20Treasury%20markets&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Financial stress':{name:'Search bank and credit-stress coverage',url:'https://news.google.com/search?q=bank%20credit%20stress%20liquidity%20markets%20US&hl=en-US&gl=US&ceid=US%3Aen'},
+    'Market move':{name:'Search current Nasdaq, S&P 500 and Treasury market moves',url:'https://news.google.com/search?q=Nasdaq%20S%26P%20500%20Treasury%20yields%20futures%20markets&hl=en-US&gl=US&ceid=US%3Aen'}
   };
-  return topicPriorityForEvent(ev.filterId).slice(0,4).map(tag=>({...links[tag],tag,headline:true,source:'News search',fallback:true})).filter(x=>x.url);
+  return topicPriorityForEvent(ev.filterId).slice(0,4).map((tag,i)=>({...links[tag],tag,headline:true,source:'News search',fallback:true,level:i<2?'medium':'low',why:whyForEventContext(ev,tag,links[tag]?.name||'')})).filter(x=>x.url);
 }
 function relevantContextFor(ev){
   const eventTime=parseEventDate(ev)?.getTime()||0;
   const future=eventTime>Date.now();
   const nowMs=Date.now();
-  const priorities=topicPriorityForEvent(ev.filterId);
-  const priorityIndex=new Map(priorities.map((x,i)=>[x,i]));
-  const seen=new Set();
-  const headlines=[];
+  const profile=EVENT_CONTEXT_PROFILES[ev.filterId]||{topics:{'Fed / Rates':2,'Growth / Demand':2}};
+  const seen=new Set(),headlines=[];
   for(const h of state.marketHeadlines||[]){
     if(!(h.effect_reported||h.major_catalyst))continue;
     const ts=headlineTimestamp(h);if(!ts)continue;
-    // Context must already exist. Never show future-dated news/events as though they affected the release.
     if(ts>nowMs)continue;
-    if(future){
-      if(ts<nowMs-7*86400000)continue;
-    }else{
-      // Historical context: only information that existed by the release time, up to 3 days before it.
-      if(ts>eventTime || ts<eventTime-3*86400000)continue;
-    }
-    const k=normalize(h.url||h.title);if(seen.has(k))continue;seen.add(k);
-    const tag=h.effect_reported?'Market move':(h.catalyst_tag||'Market context');
-    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,rank:priorityIndex.has(tag)?priorityIndex.get(tag):99});
+    if(future){if(ts<nowMs-7*86400000)continue;}
+    else{if(ts>eventTime||ts<eventTime-3*86400000)continue;}
+    const key=normalize(h.url||h.title);if(!key||seen.has(key))continue;seen.add(key);
+    const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
+    const topicWeight=profile.topics[tag]||0;
+    const keywordBonus=contextKeywordBonus(ev.filterId,h.title);
+    if(topicWeight<=0&&keywordBonus<=0)continue;
+    const general=impactLevelForHeadline(h)==='high'?1:0;
+    const score=topicWeight+keywordBonus+general;
+    const level=relevanceLevel(score);
+    headlines.push({name:h.title,time:h.time_et||'',date:h.date_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,score,level,why:whyForEventContext(ev,tag,h.title)});
   }
-  headlines.sort((a,b)=>a.rank-b.rank||b.ts-a.ts);
-  const selected=[];const perTag=new Map();
-  for(const h of headlines){
-    const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=8)break;
-  }
+  headlines.sort((a,b)=>b.score-a.score||b.ts-a.ts);
+  const selected=[],perTag=new Map();
+  for(const h of headlines){const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=5)break;}
   return {headlines:selected,fallback:selected.length?[]:staticContextLinks(ev)};
+}
+function contextDateLabel(x){
+  if(!x.ts)return '';
+  const d=new Date(x.ts);if(Number.isNaN(d.getTime()))return '';
+  return d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}).replace(',',' ·')+' ET';
 }
 function contextHtml(ev){
   const {headlines,fallback}=relevantContextFor(ev);const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
   const items=headlines.length?headlines:fallback;
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}</span></a>`).join('')}</div><div class="context-footnote">${headlines.length?(future?'These are external headlines published before now, prioritized by relevance to this upcoming release. Future scheduled calendar events are never treated as current context.':'These are external headlines that were already published by the time of this historical release, looking back up to three days. No next-day events are included.'):'No stored headline matched yet, so MacroCal is showing live outside-source searches for the most relevant current topics instead.'} This section is independent from the MacroCal economic-calendar whitelist.</div></div>`;
+  const rows=items.map(x=>`<a class="context-card context-relevance-${esc(x.level||'low')}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(x.fallback?'SOURCE':relevanceLabel(x.level))}</span><span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${x.ts?`${esc(contextDateLabel(x))} · `:''}${esc(x.source||'')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`).join('');
+  const note=headlines.length?(future?'Specific external headlines published before now, ranked by relevance to this upcoming release. The lookback is up to seven days and future information is excluded.':'Point-in-time context only: each item was published at or before this historical release, with a three-day lookback. Later headlines and next-day events are excluded.'):'No specific stored headline matched yet, so these are live topic searches for the most relevant report-specific themes.';
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list context-card-list">${rows||'<div class="context-empty">No matching context available.</div>'}</div><div class="context-footnote">${note} Red intensity reflects relevance to this report, not a prediction of market direction.</div></div>`;
+}
+function confirmationHtml(){
+  return `<div class="detail-section event-confirmation"><div class="detail-section-title">Confirmation</div><div class="event-confirmation-links"><a href="https://www.tradingview.com/symbols/TVC-US02Y/" target="_blank" rel="noreferrer">US02Y</a><a href="https://www.tradingview.com/symbols/CME_MINI-ES1%21/" target="_blank" rel="noreferrer">ES</a><a href="https://www.tradingview.com/symbols/CME_MINI-NQ1%21/" target="_blank" rel="noreferrer">NQ</a><a href="https://www.tradingview.com/symbols/TVC-DXY/" target="_blank" rel="noreferrer">DXY</a><a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noreferrer">FedWatch</a></div><div class="context-footnote">Use these as confirmation tools after the release: surprise vs. forecast → rates/yields → ES/NQ reaction and retest.</div></div>`;
 }
 
 function previousFomcDecision(ev){
@@ -549,7 +645,7 @@ function specialEventHtml(ev){
   }
   if(ev.filterId==='fed-presser')return `<div class="special-note"><strong>Fed Press Conference</strong><span>No numeric release. Follow the live Fed broadcast together with US02Y and NQ/ES.</span></div>`;return '';
 }
-function openEvent(id){const ev=state.allEvents.find(e=>eventKey(e)===id);if(!ev)return;const d=parseEventDate(ev),rows=detailMetricRows(ev);els.dialogDate.textContent=`${fmtDate(d)} · ${eventET(ev)} ET`;els.dialogTitle.textContent=['housing-starts','permits'].includes(ev.filterId)?'Housing Starts + Building Permits':(ev.name||'Economic event');els.dialogBody.innerHTML=`<div class="event-meta-strip"><span>${esc(ev.impact||'—')} impact</span><span>${esc(ev.sourceStatus||'Live')}</span></div>${specialEventHtml(ev)}${reportLevelHtml(ev,rows)}${metricTableHtml(rows,ev)}${contextHtml(ev)}${['fomc-minutes','fed-presser'].includes(ev.filterId)?`<div class="detail-section"><div class="detail-section-title">Sources</div><div class="special-source-links"><a class="metric-link" href="${esc(SPECIAL_INVESTING_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Investing.com</a><a class="metric-link official-link" href="${esc(ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):SPECIAL_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Official Federal Reserve</a></div></div>`:''}<div class="data-note"><strong>Source policy:</strong> ${ev.chatHistorical?'older historical values shown here are the verified values collected in this ChatGPT conversation;':'automated fields are merged from the shared machine-readable calendar archive when available;'} every metric also includes the approved Investing.com page and the official primary-source release for verification. Missing values are left blank rather than guessed.</div>`;els.dialogSource.href=ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):primarySource(ev.filterId);els.dialogSource.textContent=ev.filterId==='fed-presser'?'Fed live video':ev.filterId==='fomc-minutes'?'Specific Fed minutes PDF':'Investing.com';els.eventDialog.showModal();}
+function openEvent(id){const ev=state.allEvents.find(e=>eventKey(e)===id);if(!ev)return;const d=parseEventDate(ev),rows=detailMetricRows(ev);els.dialogDate.textContent=`${fmtDate(d)} · ${eventET(ev)} ET`;els.dialogTitle.textContent=['housing-starts','permits'].includes(ev.filterId)?'Housing Starts + Building Permits':(ev.name||'Economic event');els.dialogBody.innerHTML=`<div class="event-meta-strip"><span>${esc(ev.impact||'—')} impact</span><span>${esc(ev.sourceStatus||'Live')}</span></div>${specialEventHtml(ev)}${reportLevelHtml(ev,rows)}${metricTableHtml(rows,ev)}${contextHtml(ev)}${confirmationHtml(ev)}${['fomc-minutes','fed-presser'].includes(ev.filterId)?`<div class="detail-section"><div class="detail-section-title">Sources</div><div class="special-source-links"><a class="metric-link" href="${esc(SPECIAL_INVESTING_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Investing.com</a><a class="metric-link official-link" href="${esc(ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):SPECIAL_LINKS[ev.filterId])}" target="_blank" rel="noreferrer">Official Federal Reserve</a></div></div>`:''}<div class="data-note"><strong>Source policy:</strong> ${ev.chatHistorical?'older historical values shown here are the verified values collected in this ChatGPT conversation;':'automated fields are merged from the shared machine-readable calendar archive when available;'} every metric also includes the approved Investing.com page and the official primary-source release for verification. Missing values are left blank rather than guessed.</div>`;els.dialogSource.href=ev.filterId==='fomc-minutes'?fomcMinutesUrl(ev):primarySource(ev.filterId);els.dialogSource.textContent=ev.filterId==='fed-presser'?'Fed live video':ev.filterId==='fomc-minutes'?'Specific Fed minutes PDF':'Investing.com';els.eventDialog.showModal();}
 
 function exportIcs(){const events=filteredAll(),lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//MacroCal//ESNQ Calendar//EN','CALSCALE:GREGORIAN'];for(const ev of events){const d=parseEventDate(ev);if(!d)continue;const dt=d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),end=new Date(d.getTime()+30*60000).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z');lines.push('BEGIN:VEVENT',`UID:${btoa(unescape(encodeURIComponent(eventKey(ev)))).replace(/=/g,'')}@macrocal`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z')}`,`DTSTART:${dt}`,`DTEND:${end}`,`SUMMARY:${String(ev.name||'Economic event').replace(/,/g,'\\,')}`,'END:VEVENT');}lines.push('END:VCALENDAR');const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='esnq-macro-all-published.ics';a.click();URL.revokeObjectURL(a.href);}
 
