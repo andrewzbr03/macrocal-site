@@ -633,20 +633,42 @@ function contextAgeLabel(ageMs,historical=false){
   else{const d=Math.floor(mins/1440),h=Math.floor((mins%1440)/60);value=h?`${d}d ${h}h`:`${d}d`;}
   return historical?`${value} before release`:`${value} old`;
 }
+function contextCardHtml(x,referenceTs,future){
+  const freshness=contextFreshness(x.ts,referenceTs);
+  const timing=`${esc(contextPublishedLabel(x.ts))} · ${esc(contextAgeLabel(freshness.ageMs,!future))}`;
+  return `<a class="context-card context-relevance-${esc(x.level||'low')} context-stage-${esc(freshness.id)}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(relevanceLabel(x.level))}</span><span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${timing} · ${esc(x.source||'News')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`;
+}
+function contextStageSection(id,label,description,items,referenceTs,future){
+  const body=items.length
+    ? items.map(x=>contextCardHtml(x,referenceTs,future)).join('')
+    : `<div class="context-stage-empty">No ${label.toLowerCase()} headline matched this report yet.</div>`;
+  return `<section class="context-stage-group context-stage-group-${esc(id)}"><div class="context-stage-heading"><div><span class="context-stage-title">${esc(label)}</span><span class="context-stage-description">${esc(description)}</span></div><span class="context-stage-count">${items.length}</span></div><div class="context-card-list">${body}</div></section>`;
+}
+function contextSearchLinksHtml(ev){
+  const links=staticContextLinks(ev).slice(0,4);
+  if(!links.length)return '';
+  return `<div class="context-search-more"><div class="context-search-more-title">Find more report-specific coverage</div><div class="context-search-links">${links.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noreferrer">${esc(x.tag)} ↗</a>`).join('')}</div><div class="context-search-note">These are topic searches only. They are not treated as news events and do not receive a freshness or relevance classification.</div></div>`;
+}
 function contextHtml(ev){
-  const {headlines,fallback}=relevantContextFor(ev);
+  const {headlines}=relevantContextFor(ev);
   const eventTime=parseEventDate(ev)?.getTime()||0;
   const future=eventTime>Date.now();
   const referenceTs=future?Date.now():eventTime;
-  const items=headlines.length?headlines:fallback;
-  const rows=items.map(x=>{
-    const freshness=x.ts?contextFreshness(x.ts,referenceTs):null;
-    const status=freshness?`<span class="context-freshness context-freshness-${esc(freshness.id)}">${esc(freshness.label)}</span>`:'';
-    const timing=x.ts?`${esc(contextPublishedLabel(x.ts))}${freshness?` · ${esc(contextAgeLabel(freshness.ageMs,!future))}`:''}`:'';
-    return `<a class="context-card context-relevance-${esc(x.level||'low')} ${freshness?`context-stage-${esc(freshness.id)}`:''}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(x.fallback?'SEARCH FALLBACK':relevanceLabel(x.level))}</span>${status}<span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${timing?`${timing} · `:''}${esc(x.source||'')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`;
-  }).join('');
-  const note=headlines.length?(future?'Specific external headlines published before now, ranked by relevance to this upcoming release. LIVE / ACTIVE means published within the last two hours; RECENT CONTEXT means two to 24 hours old; BACKGROUND means older than 24 hours. The lookback is up to seven days and future information is excluded.':'Point-in-time context only: each item was published at or before this historical release, with a three-day lookback. Freshness is measured relative to the release time: LIVE / ACTIVE is within two hours before release, RECENT CONTEXT is two to 24 hours before, and BACKGROUND is older than 24 hours. Later headlines and next-day events are excluded.'):'No timestamped headline matched yet, so these are search fallbacks for the most relevant report-specific themes. Search fallbacks are not assigned a freshness state because they are not individual published articles.';
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-list context-card-list">${rows||'<div class="context-empty">No matching context available.</div>'}</div><div class="context-footnote">${note} Freshness is a timing guide, not a guarantee that information is unpriced. Red intensity reflects relevance to this report, not a prediction of market direction.</div></div>`;
+  const groups={active:[],recent:[],background:[]};
+  for(const x of headlines){
+    const f=contextFreshness(x.ts,referenceTs);
+    groups[f.id].push(x);
+  }
+  const intro=future
+    ? 'Only already-published information is used. Future headlines and next-day events are excluded.'
+    : 'Point-in-time view: only information published at or before this release is used. Later headlines are excluded.';
+  const sections=[
+    contextStageSection('active','LIVE / ACTIVE','Published within 2 hours of the current moment or historical release.',groups.active,referenceTs,future),
+    contextStageSection('recent','RECENT CONTEXT','Published 2–24 hours earlier; relevant, but the initial market reaction may already be reflected.',groups.recent,referenceTs,future),
+    contextStageSection('background','BACKGROUND','Published more than 24 hours earlier; useful for framing the report rather than as an immediate catalyst.',groups.background,referenceTs,future)
+  ].join('');
+  const emptyNote=headlines.length?'':`<div class="context-no-headlines"><strong>No timestamped specific headlines are stored for this report yet.</strong> The three sections remain visible so MacroCal does not mistake a generic search page for a live catalyst.</div>`;
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-framework-note">${intro} <strong>Red intensity = relevance to this report.</strong> Freshness is separate and does not mean a headline is unpriced.</div>${emptyNote}<div class="context-stage-groups">${sections}</div>${contextSearchLinksHtml(ev)}</div>`;
 }
 function confirmationHtml(){
   return `<div class="detail-section event-confirmation"><div class="detail-section-title">Confirmation</div><div class="event-confirmation-links"><a href="https://www.tradingview.com/symbols/TVC-US02Y/" target="_blank" rel="noreferrer">US02Y</a><a href="https://www.tradingview.com/symbols/CME_MINI-ES1%21/" target="_blank" rel="noreferrer">ES</a><a href="https://www.tradingview.com/symbols/CME_MINI-NQ1%21/" target="_blank" rel="noreferrer">NQ</a><a href="https://www.tradingview.com/symbols/TVC-DXY/" target="_blank" rel="noreferrer">DXY</a><a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noreferrer">FedWatch</a></div><div class="context-footnote">Use these as confirmation tools after the release: surprise vs. forecast → rates/yields → ES/NQ reaction and retest.</div></div>`;

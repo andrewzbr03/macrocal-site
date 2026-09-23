@@ -294,3 +294,114 @@ dialog { width: min(900px, calc(100vw - 30px)); }
   border-color:#394254;
 }
 .context-stage-active .context-meta { color:#c9d7e8; font-weight:700; }
+
+/* V21: explicit event-context freshness sections */
+.context-framework-note {
+  margin: 8px 10px 10px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+.context-no-headlines {
+  margin: 8px 10px 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #0b121e;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+.context-stage-groups {
+  display: grid;
+  gap: 12px;
+  padding: 0 9px 10px;
+}
+.context-stage-group {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(7, 14, 24, .5);
+}
+.context-stage-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+}
+.context-stage-heading > div {
+  display: grid;
+  gap: 2px;
+}
+.context-stage-title {
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .08em;
+}
+.context-stage-description {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+.context-stage-count {
+  min-width: 24px;
+  height: 24px;
+  display: inline-grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+}
+.context-stage-group-active .context-stage-title { color: #ff8d95; }
+.context-stage-group-recent .context-stage-title { color: #ffb1b6; }
+.context-stage-group-background .context-stage-title { color: #c8a2a7; }
+.context-stage-group .context-card-list {
+  padding: 8px;
+}
+.context-stage-empty {
+  padding: 12px;
+  border: 1px dashed var(--line);
+  border-radius: 9px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+.context-search-more {
+  margin: 0 9px 10px;
+  padding: 10px 12px;
+  border-top: 1px solid var(--line);
+}
+.context-search-more-title {
+  margin-bottom: 7px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}
+.context-search-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.context-search-links a {
+  padding: 6px 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: #a9c2ff;
+  background: #0b121e;
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 800;
+}
+.context-search-links a:hover { text-decoration: underline; }
+.context-search-note {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.4;
+}

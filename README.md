@@ -176,3 +176,9 @@ The built-in historical dataset remains available even before the first schedule
 - For upcoming events, freshness is measured from the current time. For historical events, freshness is reconstructed relative to that release time so the page does not use hindsight.
 - Specific headlines show the exact Eastern-time publication date and time. Historical rows also show how long before the macro release the headline appeared.
 - The freshness label is explicitly a timing aid, not a claim that a headline is still unpriced by the market.
+
+## V21 event-context layout
+- Event detail always renders three explicit freshness groups: LIVE / ACTIVE, RECENT CONTEXT, and BACKGROUND.
+- Real timestamped headlines are assigned to exactly one group based on age relative to now (upcoming events) or the historical release time.
+- Generic topic searches are no longer rendered as context cards. They appear only as small optional "Find more report-specific coverage" links below the three groups.
+- Relevance remains a separate HIGH / MEDIUM / LOW red-intensity signal.
