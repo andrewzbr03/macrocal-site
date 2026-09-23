@@ -38,3 +38,35 @@ test('JOLTS context excludes generic GDP/PMI headlines and retains job-opening c
   const result=select({filterId:'jolts'}).headlines;
   assert.deepEqual(Array.from(result,h=>h.name),['JOLTS job openings fall as hiring slows']);
 });
+
+test('next JOLTS release can show last month’s article once and prefer a publisher link',()=>{
+  const now=Date.now(),old=now-20*86400000;
+  const headline={title:'US job openings rise in July after revision',date_et:new Date(old).toISOString().slice(0,10),catalyst_tag:'Labor',major_catalyst:true};
+  const scope={state:{marketHeadlines:[
+    {...headline,url:'https://news.google.com/rss/articles/example',link_type:'google_news'},
+    {...headline,url:'https://publisher.example/jolts',link_type:'publisher'}
+  ]},parseEventDate:()=>new Date(now+86400000),normalize:s=>String(s).toLowerCase(),
+  headlineTimestamp:()=>old,contextKeywordBonus:()=>3,impactLevelForHeadline:()=> 'medium',
+  relevanceLevel:()=> 'high',whyForEventContext:()=> '',staticContextLinks:()=>[]};
+  const select=vm.runInNewContext(`${appRules}\n${matchFunction}\nrelevantContextFor`,scope);
+  const result=select({filterId:'jolts'}).headlines;
+  assert.equal(result.length,1);
+  assert.equal(result[0].url,'https://publisher.example/jolts');
+});
+
+test('report matches exclude foreign, regional, and speculative lookalikes',()=>{
+  const matches=vm.runInNewContext(`${appRules}\nheadlineMatchesEvent`);
+  assert.equal(matches('jolts','U.S. job openings rise in July'),true);
+  assert.equal(matches('jolts','KC tech job openings jumped'),false);
+  assert.equal(matches('cpi','China CPI inflation rebounds in August'),false);
+  assert.equal(matches('cpi','US consumer prices accelerate in August'),true);
+  assert.equal(matches('cpi','Consumer Price Index, New York-Newark-Jersey City'),false);
+  assert.equal(matches('cpi','Consumer Price Index, Anchorage area — August 2026'),false);
+  assert.equal(matches('confidence','Florida consumer sentiment falls'),false);
+  assert.equal(matches('confidence','US consumer confidence falls, Conference Board says'),true);
+  assert.equal(matches('gdp','US GDP growth scenario with humanoid robots'),false);
+  assert.equal(matches('gdp','Anthropic Says Its Market Is $30 Trillion, Same As US GDP'),false);
+  assert.equal(matches('durable','2 Funds to Boost Your Portfolio on Durable Goods Orders'),false);
+  assert.equal(matches('pce','3 U.S. Retail Stocks Investors Are Watching As Consumer Spending Changes'),false);
+  assert.equal(matches('gdp','Trump says U.S. GDP could grow 20%'),false);
+});
