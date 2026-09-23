@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>MacroCal — ES/NQ Macro Calendar</title>
   <meta name="description" content="A focused U.S. macro calendar for ES/NQ traders with live market context and one-click confirmation tools." />
-  <link rel="stylesheet" href="styles.css?v=22" />
+  <link rel="stylesheet" href="styles.css?v=23" />
 </head>
 <body>
   <div class="app-shell">
@@ -82,6 +82,20 @@
       </section>
 
       <div id="notice" class="notice hidden"></div>
+
+      <details class="investing-calendar" open>
+        <summary>Live U.S. forecasts from Investing.com <span class="investing-calendar-hint">Collapse</span></summary>
+        <p>Investing.com updates this weekly calendar directly. Use its time zone control to match Eastern Time. MacroCal's event cards and archive still use the separate FinanceCalendar feed.</p>
+        <div class="investing-calendar-scroll">
+          <iframe
+            title="Investing.com U.S. economic calendar with actual, forecast, and previous values"
+            src="https://sslecal2.investing.com/?columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&amp;features=datepicker,timezone&amp;countries=5&amp;calType=week&amp;lang=1"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+          ></iframe>
+        </div>
+        <div class="investing-calendar-credit">Real Time Economic Calendar provided by <a href="https://www.investing.com/webmaster-tools/economic-calendar" target="_blank" rel="nofollow noopener noreferrer">Investing.com</a>.</div>
+      </details>
 
       <section class="calendar-wrap">
         <div class="weekday-row">
