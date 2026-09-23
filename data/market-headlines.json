@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-23T20:32:58.232Z",
+  "generated_at": "2026-09-23T21:25:18.217Z",
   "articles": [
+    {
+      "title": "Inflation could cost Republicans the Senate &#x2014; this chart shows how",
+      "url": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260923T211300Z",
+      "date_et": "2026-09-23",
+      "time_et": "17:13",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
       "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
@@ -19,7 +34,7 @@
     {
       "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXNtQjh4dXNZWDNiM3lNUzE5MTlwUVdBYWl0b3hCX3cwMzA3NHJmOTlDSWtqWnV4TGd4aENYNDhoekdJTHFTN2tMN0l0WS1nQ0psck94LW9lVm5IbG8xTEZRLVdsRDBWVWtfTW5LSUN3NlhDdDVjdDBLenhCWGRTamdiVWJRLXg1bmpSM0ppSlk1ZmRIdVJoNHB0UHFYZVh0WnhSZWVIclhVcWU4?oc=5",
-      "domain": "MarketWatch",
+      "domain": "marketwatch.com",
       "seendate": "20260923T092800Z",
       "date_et": "2026-09-23",
       "time_et": "05:28",
@@ -27,7 +42,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -42,7 +57,9 @@
       "major_catalyst": true,
       "catalyst_tag": "Fiscal risk",
       "provider": "Google News",
-      "source": "Yahoo Finance"
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "'We simply don't know': JPMorgan waves the white flag forecasting where oil prices will go due to Iran War",
@@ -92,7 +109,7 @@
     {
       "title": "Global diesel shortage likely to last into 2027 as storage tanks drain",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260921T101757Z",
       "date_et": "2026-09-21",
       "time_et": "06:17",
@@ -100,7 +117,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Oil / Supply",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -120,7 +137,7 @@
     {
       "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260917T193200Z",
       "date_et": "2026-09-17",
       "time_et": "15:32",
@@ -128,12 +145,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
-      "source": "Reuters"
+      "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
     },
     {
       "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260917T170847Z",
       "date_et": "2026-09-17",
       "time_et": "13:08",
@@ -141,7 +160,22 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Florida consumer sentiment falls for 6th straight month as US confidence slides again",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1lXbnpaMjdzUkVhU2dsc2thRml3dVpBOS14QmRFNHp1NldrdUIzb3ZMeHo1dXI1NFhwaFVqRzc5Zm9ZZlBlVnpMVUN6c0sxQ3lKY29aX2p5T2EtTTRlOGNRXzVIejlaWEEwUld1cnVZd2tFaThvazhfejVsSWtTTE9DSkRqZzBZX09WcUg5M0o5SjJBNGk3allR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T150500Z",
+      "date_et": "2026-09-17",
+      "time_et": "11:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -206,7 +240,7 @@
     {
       "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260917T012249Z",
       "date_et": "2026-09-16",
       "time_et": "21:22",
@@ -214,7 +248,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -230,6 +264,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Fed predicts PCE inflation at 2.3% in 2027",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0Zpc2NHbDFBa3RoR2lyX0ZpekxlUmZQZ2NKX0M2cHFiRGNsS0tkU1JxeVYxRDZpRjZYaEJVOTl5cy15NmVTbUNXUmVJR0syX2l2c0d5SUVLelFfMTFyd1prWTI2M0VNZzRsQWZZMGJpQ0RfSmhqdGNfTXQ3WDlvdg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T224650Z",
+      "date_et": "2026-09-16",
+      "time_et": "18:46",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     }
