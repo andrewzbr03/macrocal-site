@@ -511,6 +511,34 @@ function topicPriorityForEvent(filterId){
   const p=EVENT_CONTEXT_PROFILES[filterId];
   return p?Object.entries(p.topics).sort((a,b)=>b[1]-a[1]).map(([k])=>k):['Fed / Rates','Inflation','Labor','Growth / Demand'];
 }
+// An article must mention the release or a recognizable component of it.
+// Topic tags alone are too broad: a GDP/PMI story is not JOLTS context.
+const EVENT_HEADLINE_SIGNALS={
+  cpi:/\b(?:cpi|consumer price index|consumer prices?|shelter inflation|rent inflation|gasoline prices?)\b/i,
+  ppi:/\b(?:ppi|producer price index|producer prices?|input costs?|wholesale prices?)\b/i,
+  pce:/\b(?:pce|personal consumption expenditures?|consumer spending|personal income)\b/i,
+  michigan:/\b(?:michigan sentiment|consumer sentiment|inflation expectations?|consumer mood)\b/i,
+  jobs:/\b(?:nonfarm payrolls?|nfp|jobs report|payrolls?|unemployment|wages?|hiring|layoffs?)\b/i,
+  jolts:/\bJOLTS\b|\b(?:U\.S\.|US|national|BLS)\b.{0,75}\b(?:job openings?|job vacancies|quit rate|quits rate)\b|\b(?:job openings?|job vacancies|quit rate|quits rate)\b.{0,75}\b(?:U\.S\.|US|national|BLS)\b/,
+  adp:/\b(?:adp|private payrolls?|private employment|private hiring)\b/i,
+  claims:/\b(?:jobless claims|unemployment claims|initial claims|continuing claims|layoffs?|job cuts?)\b/i,
+  eci:/\b(?:employment cost index|\beci\b|labor costs?|wages?|compensation|pay growth)\b/i,
+  gdp:/\b(?:\bgdp\b|gross domestic product|consumer spending|business investment|inventor(?:y|ies)|trade deficit|exports?|imports?)\b/i,
+  retail:/\b(?:retail sales|consumer spending|credit cards?|retailers?|store sales)\b/i,
+  confidence:/\b(?:consumer confidence|conference board|consumer sentiment|consumer expectations?|household mood)\b/i,
+  durable:/\b(?:durable goods|capital goods|factory orders?|aircraft orders?|boeing orders?|business investment)\b/i,
+  'ism-manufacturing':/\b(?:ism manufacturing|manufacturing pmi|factory activity|factory orders?|manufacturing output|new orders|prices paid)\b/i,
+  'ism-services':/\b(?:ism services|services pmi|service sector|nonmanufacturing|non-manufacturing)\b/i,
+  'housing-starts':/\b(?:housing starts|building permits?|homebuilders?|home construction|mortgage rates?)\b/i,
+  permits:/\b(?:building permits?|housing starts|homebuilders?|home construction|mortgage rates?)\b/i,
+  'fomc-decision':/\b(?:fed|fomc|federal reserve|powell|interest rates?|rate cuts?|rate hikes?|inflation|payrolls?|treasury yields?)\b/i,
+  'fomc-minutes':/\b(?:fed|fomc|federal reserve|powell|interest rates?|rate cuts?|rate hikes?|inflation|payrolls?|treasury yields?)\b/i,
+  'fed-presser':/\b(?:fed|fomc|federal reserve|powell|interest rates?|rate cuts?|rate hikes?|inflation|payrolls?|treasury yields?)\b/i
+};
+function headlineMatchesEvent(filterId,title){
+  const signal=EVENT_HEADLINE_SIGNALS[filterId];
+  return Boolean(signal&&signal.test(String(title||'')));
+}
 function contextKeywordBonus(filterId,title=''){
   const t=String(title);
   const rules={
@@ -595,6 +623,7 @@ function relevantContextFor(ev){
     if(ts>nowMs)continue;
     if(future){if(ts<nowMs-7*86400000)continue;}
     else{if(ts>eventTime||ts<eventTime-3*86400000)continue;}
+    if(!headlineMatchesEvent(ev.filterId,h.title))continue;
     const key=normalize(h.url||h.title);if(!key||seen.has(key))continue;seen.add(key);
     const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
     const topicWeight=profile.topics[tag]||0;
@@ -603,19 +632,19 @@ function relevantContextFor(ev){
     const general=impactLevelForHeadline(h)==='high'?1:0;
     const score=topicWeight+keywordBonus+general;
     const level=relevanceLevel(score);
-    headlines.push({name:h.title,time:h.time_et||'',date:h.date_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,score,level,why:whyForEventContext(ev,tag,h.title)});
+    headlines.push({name:h.title,time:h.time_et||'',date:h.date_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,score,level,why:whyForEventContext(ev,tag,h.title),linkType:h.link_type||(/news\.google\.com/i.test(h.url||'')?'google_news':'publisher'),timestampType:h.timestamp_type||'published'});
   }
   headlines.sort((a,b)=>b.score-a.score||b.ts-a.ts);
   const selected=[],perTag=new Map();
   for(const h of headlines){const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=5)break;}
   return {headlines:selected,fallback:selected.length?[]:staticContextLinks(ev)};
 }
-function contextPublishedLabel(ts){
+function contextPublishedLabel(ts,timestampType='published'){
   if(!ts)return '';
   const d=new Date(ts);if(Number.isNaN(d.getTime()))return '';
   const date=d.toLocaleDateString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',year:'numeric'});
   const time=d.toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit'});
-  return `Published ${date} · ${time} ET`;
+  return `${timestampType==='indexed'?'Indexed':'Published'} ${date} · ${time} ET`;
 }
 function contextFreshness(ts,referenceTs){
   if(!ts||!referenceTs)return {id:'background',label:'BACKGROUND',ageMs:Infinity};
@@ -635,8 +664,9 @@ function contextAgeLabel(ageMs,historical=false){
 }
 function contextCardHtml(x,referenceTs,future){
   const freshness=contextFreshness(x.ts,referenceTs);
-  const timing=`${esc(contextPublishedLabel(x.ts))} · ${esc(contextAgeLabel(freshness.ageMs,!future))}`;
-  return `<a class="context-card context-relevance-${esc(x.level||'low')} context-stage-${esc(freshness.id)}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(relevanceLabel(x.level))}</span><span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${timing} · ${esc(x.source||'News')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">Open source ↗</div></a>`;
+  const timing=`${esc(contextPublishedLabel(x.ts,x.timestampType))} · ${esc(contextAgeLabel(freshness.ageMs,!future))}`;
+  const openLabel=x.linkType==='google_news'?'Open via Google News ↗':'Open publisher article ↗';
+  return `<a class="context-card context-relevance-${esc(x.level||'low')} context-stage-${esc(freshness.id)}" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><div class="context-card-top"><span class="context-relevance-label">${esc(relevanceLabel(x.level))}</span><span class="context-tag">${esc(x.tag)}</span></div><div class="context-headline">${esc(x.name)}</div><div class="context-meta">${timing} · ${esc(x.source||'News')}</div><div class="context-why"><strong>Why it matters:</strong> ${esc(x.why||'Relevant to this release.')}</div><div class="context-open">${openLabel}</div></a>`;
 }
 function contextStageSection(id,label,description,items,referenceTs,future){
   const body=items.length

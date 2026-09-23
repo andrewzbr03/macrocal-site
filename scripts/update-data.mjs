@@ -14,20 +14,27 @@ const MARKET_MOVE_RE=/(?:\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yi
 
 // Unscheduled macro/geopolitical catalysts that can matter for ES/NQ, rates, the dollar, or oil
 // even when the headline does not literally say that markets moved.
-const OIL_SUPPLY_RE=/\b(?:oil|crude|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b.{0,90}\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk)\b|\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk)\b.{0,90}\b(?:oil|crude|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b/i;
+const OIL_SUPPLY_RE=/\b(?:oil|crude|diesel|gasoline|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b.{0,90}\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk|storage)\b|\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk|storage)\b.{0,90}\b(?:oil|crude|diesel|gasoline|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b/i;
 const GEOPOLITICAL_RE=/\b(?:iran|israel|middle east|gaza|lebanon|hezbollah|yemen|houthi|russia|ukraine|taiwan|china|north korea)\b.{0,110}\b(?:ceasefire|peace (?:deal|agreement|treaty)|talks? collapse|breaks? down|broken|attack|strike|missile|drone|war|escalat|invasion|retaliat|sanction|blockade|conflict)\b|\b(?:ceasefire|peace (?:deal|agreement|treaty)|talks? collapse|breaks? down|broken|attack|strike|missile|drone|war|escalat|invasion|retaliat|sanction|blockade|conflict)\b.{0,110}\b(?:iran|israel|middle east|gaza|lebanon|hezbollah|yemen|houthi|russia|ukraine|taiwan|china|north korea)\b/i;
 const TRADE_POLICY_RE=/\b(?:tariff|trade war|export control|sanction|embargo|import ban|trade deal)\b/i;
 const FISCAL_RISK_RE=/\b(?:government shutdown|debt ceiling|sovereign default|default risk|treasury funding crisis)\b/i;
 const FINANCIAL_STRESS_RE=/\b(?:bank failure|bank run|bank stress|liquidity crisis|credit crisis|credit stress|regional bank|systemic risk)\b/i;
-const MACRO_POLICY_RE=/\b(?:federal reserve|fed chair|jerome powell|fed governor|fed president|rate cut|rate hike|interest rates?|treasury yields?|bond yields?|inflation outlook|labor market|jobs growth|payrolls|unemployment|dollar)\b/i;
+const MACRO_POLICY_RE=/\b(?:federal reserve|fed chair|jerome powell|fed governor|fed president|rate cut|rate hike|interest rates?|treasury yields?|bond yields?|inflation outlook|labor market|jobs growth|payrolls|unemployment)\b/i;
 const TRUMP_POLICY_RE=/\btrump\b.{0,120}\b(?:truth social|post|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b|\b(?:truth social|tariff|trade|sanction|export control|federal reserve|fed|powell|interest rate|rate cut|rate hike|oil|iran|china|tax|budget|debt|dollar|treasury)\b.{0,120}\btrump\b/i;
 function catalystTag(title=''){
-  if(TRUMP_POLICY_RE.test(title))return 'Trump / Policy';
   if(OIL_SUPPLY_RE.test(title))return 'Oil / Supply';
-  if(GEOPOLITICAL_RE.test(title))return 'Geopolitical';
-  if(TRADE_POLICY_RE.test(title))return 'Trade / Sanctions';
   if(FISCAL_RISK_RE.test(title))return 'Fiscal risk';
   if(FINANCIAL_STRESS_RE.test(title))return 'Financial stress';
+  if(TRADE_POLICY_RE.test(title))return 'Trade / Sanctions';
+  if(GEOPOLITICAL_RE.test(title))return 'Geopolitical';
+  if(TRUMP_POLICY_RE.test(title))return 'Trump / Policy';
+  // Search provenance is never evidence that a story belongs to a topic.
+  if(/\b(?:cpi|pce|ppi|inflation|consumer price|producer price|personal consumption expenditures?)\b/i.test(title))return 'Inflation';
+  if(/\bJOLTS\b/.test(title)||/\b(?:job openings?|nonfarm payrolls?|jobs report|layoffs?|hiring|unemployment|jobless claims|labor market|wage growth)\b/i.test(title))return 'Labor';
+  if(/\b(?:consumer confidence|consumer sentiment|retail sales|consumer spending|household spending)\b/i.test(title))return 'Consumer';
+  if(/\b(?:gdp|gross domestic product|economic growth|business investment)\b/i.test(title))return 'Growth / Demand';
+  if(/\b(?:manufacturing pmi|ism manufacturing|factory orders?|durable goods|capital goods|industrial production)\b/i.test(title))return 'Manufacturing';
+  if(/\b(?:housing starts|building permits?|mortgage rates?|homebuilders?|home sales)\b/i.test(title))return 'Housing / Mortgage';
   if(MACRO_POLICY_RE.test(title))return 'Fed / Rates';
   return '';
 }
@@ -111,7 +118,13 @@ const NEWS_TOPICS = [
   {tag:'Consumer', q:'US consumer spending retail credit cards retailers gasoline demand when:7d'},
   {tag:'Manufacturing', q:'US manufacturing factories supply chain Boeing aircraft orders capital goods tariffs when:7d'},
   {tag:'Housing / Mortgage', q:'US mortgage rates housing homebuilder housing starts building permits construction demand when:7d'},
-  {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar oil market move catalyst when:7d'}
+  {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar oil market move catalyst when:7d'},
+  {tag:'JOLTS',q:'"JOLTS" OR "job openings" when:7d'},
+  {tag:'Consumer Confidence',q:'"consumer confidence" "Conference Board" when:7d'},
+  {tag:'NFP',q:'"nonfarm payrolls" OR "jobs report" when:7d'},
+  {tag:'CPI',q:'"consumer price index" OR "CPI inflation" when:7d'},
+  {tag:'PCE',q:'"PCE inflation" OR "personal consumption expenditures" when:7d'},
+  {tag:'ISM',q:'"ISM manufacturing" OR "ISM services" when:7d'}
 ];
 const TRUSTED_GOOGLE_SOURCES = [
   'Reuters','CNBC','Bloomberg','The Wall Street Journal','Wall Street Journal','Financial Times',
@@ -132,17 +145,49 @@ async function fetchGoogleTopic(topic){
     const pubDate=xmlTag(block,'pubDate');
     const source=xmlTag(block,'source');
     const title=rawTitle.replace(/\s+-\s+[^-]{2,80}$/,'').trim()||rawTitle;
-    return {title,url:link,domain:source||'Google News',seendate:pubDate?new Date(pubDate).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'):'',provider:'Google News',topic_tag:topic.tag};
+    const published=new Date(pubDate);
+    return {title,url:link,domain:source||'Google News',seendate:Number.isNaN(published.getTime())?'':published.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),provider:'Google News',topic_tag:topic.tag};
+  });
+}
+async function fetchPublisherFeed(url,domain){
+  const r=await fetchWithRetry(url,{headers:{Accept:'application/rss+xml, application/xml, text/xml','User-Agent':'MacroCal-Market-Context/2.0'}},2,15000);
+  const xml=await r.text();
+  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(([,block])=>{
+    const published=new Date(xmlTag(block,'pubDate'));
+    return {title:xmlTag(block,'title'),url:xmlTag(block,'link'),domain,
+      seendate:Number.isNaN(published.getTime())?'':published.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}Z$/,'Z'),provider:'Publisher RSS'};
   });
 }
 async function fetchGdeltHeadlines(){
-  const q='("S&P 500" OR Nasdaq OR "Treasury yields" OR futures OR Trump OR "Truth Social" OR Iran OR Israel OR "Middle East" OR "Strait of Hormuz" OR OPEC OR oil OR tariffs OR sanctions OR "government shutdown" OR "debt ceiling" OR "bank failure" OR Taiwan OR Ukraine OR Russia OR "Federal Reserve" OR Powell) (Fed OR inflation OR jobs OR oil OR war OR ceasefire OR peace OR attack OR strike OR sanctions OR tariffs OR trade OR disruption OR shutdown OR debt OR rates)';
-  const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=100&timespan=7d&sort=datedesc&format=json`;
-  const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/2.0'}},2,15000);
-  const j=await r.json();return (j.articles||[]).map(a=>({...a,provider:'GDELT'}));
+  // Keep queries short. A malformed/overly complex GDELT query returns plain text
+  // even with format=json; isolate failures so the other query still contributes.
+  const queries=['"Federal Reserve" OR "Treasury yields" OR "S&P 500"','inflation OR payrolls OR oil OR tariffs'];
+  const results=[];
+  for(const q of queries){
+    try{
+      const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=100&timespan=7d&sort=datedesc&format=json`;
+      const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/2.0'}},1,12000);
+      const body=await r.text();
+      let j;
+      try{j=JSON.parse(body);}catch{throw new Error(`non-JSON response: ${body.slice(0,120)}`);}
+      if(!Array.isArray(j.articles))throw new Error('no articles in response');
+      results.push(...j.articles.map(a=>({...a,provider:'GDELT'})));
+    }catch(err){
+      console.warn(`GDELT query ${q} failed: ${err?.message||err}`);
+      if(/429/.test(String(err?.message)))break; // Honor upstream rate limits.
+    }
+  }
+  return results;
 }
 async function fetchHeadlines(){
   const all=[];
+  for(const [url,domain] of [
+    ['https://feeds.content.dowjones.io/public/rss/mw_topstories','marketwatch.com'],
+    ['https://finance.yahoo.com/rss/topstories','finance.yahoo.com']
+  ]){
+    try{all.push(...await fetchPublisherFeed(url,domain));}
+    catch(err){console.warn(`Publisher RSS ${domain} refresh failed: ${err?.message||err}`);}
+  }
   // Primary context source: targeted external-news RSS searches, one topic at a time.
   // These are independent from the economic-calendar feed.
   for(const topic of NEWS_TOPICS){
@@ -155,7 +200,11 @@ async function fetchHeadlines(){
   return all;
 }
 async function updateHeadlines(){
-  const old=await readJson('data/market-headlines.json',{articles:[]});const map=new Map((old.articles||[]).map(a=>[a.url||a.title,a]));
+  const old=await readJson('data/market-headlines.json',{articles:[]});
+  const map=new Map((old.articles||[]).filter(a=>a.url&&a.title).map(a=>{
+    const tag=catalystTag(a.title);
+    return [a.url,{...a,catalyst_tag:tag||'Market move',major_catalyst:Boolean(tag)}];
+  }).filter(([,a])=>a.effect_reported||a.major_catalyst));
   let rows=[];
   try{
     rows=await fetchHeadlines();
@@ -171,11 +220,11 @@ async function updateHeadlines(){
     const title=String(a.title||'').trim();if(!title||!a.url)continue;
     const effectReported=MARKET_MOVE_RE.test(title);
     const inferredCatalyst=catalystTag(title);
-    const topicTag=String(a.topic_tag||'').trim();
-    const catalyst=topicTag||inferredCatalyst;
+    const catalyst=inferredCatalyst;
     if(!effectReported&&!catalyst)continue;
     const et=gdeltDateToET(a.seendate||a.date||a.datetime);
-    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:effectReported,major_catalyst:Boolean(catalyst),catalyst_tag:catalyst||'',provider:a.provider||'',source:domain};
+    if(!et.date_et)continue;
+    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:effectReported,major_catalyst:Boolean(catalyst),catalyst_tag:catalyst||'Market move',provider:a.provider||'',source:domain,link_type:fromGoogle?'google_news':'publisher',timestamp_type:a.provider==='GDELT'?'indexed':'published'};
     map.set(item.url||item.title,{...(map.get(item.url||item.title)||{}),...item});
   }
   const articles=[...map.values()].sort((a,b)=>String(b.seendate||'').localeCompare(String(a.seendate||'')));
