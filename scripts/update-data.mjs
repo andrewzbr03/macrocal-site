@@ -181,6 +181,23 @@ async function updateHeadlines(){
   const articles=[...map.values()].sort((a,b)=>String(b.seendate||'').localeCompare(String(a.seendate||'')));
   await fs.writeFile('data/market-headlines.json',JSON.stringify({generated_at:new Date().toISOString(),articles},null,2)+'\n');return articles.length;
 }
-const eventCount=await updateCalendar();
-const headlineCount=await updateHeadlines();
+// Refresh the economic calendar and market headlines independently. A failure in one
+// upstream source must never prevent the other dataset from updating.
+const [calendarResult, headlineResult] = await Promise.allSettled([
+  updateCalendar(),
+  updateHeadlines()
+]);
+
+let eventCount='unchanged';
+let headlineCount='unchanged';
+if(calendarResult.status==='fulfilled'){
+  eventCount=calendarResult.value;
+}else{
+  console.warn(`Calendar refresh failed: ${calendarResult.reason?.message||calendarResult.reason}. Keeping the previously stored shared calendar archive.`);
+}
+if(headlineResult.status==='fulfilled'){
+  headlineCount=headlineResult.value;
+}else{
+  console.warn(`Headline refresh failed: ${headlineResult.reason?.message||headlineResult.reason}. Keeping the previously stored headline archive.`);
+}
 console.log(`Shared archive: ${eventCount} calendar rows; ${headlineCount} retained market-impact headlines.`);

@@ -1,4 +1,7 @@
-# MacroCal — ES/NQ Macro Calendar
+# MacroCal
+> **Deployment safeguard:** this package intentionally does not include `data/shared-feed.json` or `data/market-headlines.json`. Copying V20 into an existing MacroCal repo will preserve the live/shared archive already stored on GitHub. The updater will continue refreshing those files in place.
+
+ — ES/NQ Macro Calendar
 
 A free-hostable, focused U.S. macro calendar built around the exact ES/NQ event list and report sub-metrics defined in `Trading.docx`.
 
@@ -157,7 +160,15 @@ The built-in historical dataset remains available even before the first schedule
 - Each event detail now ends with a **Confirmation** section linking US02Y, ES, NQ, DXY, and CME FedWatch. The separate homepage confirmation strip remains available too.
 - The main MacroCal calendar whitelist is unchanged.
 
-## V19 context freshness states
+## V20 context freshness + resilient headline updater
+
+### V20 updater fix
+
+- Calendar and market-headline refreshes run independently. A FinanceCalendar outage no longer prevents the news feed from updating.
+- Existing saved calendar/headline data is preserved when an upstream source fails.
+- Generic topic-search cards are explicitly labeled **SEARCH FALLBACK** and receive no fake freshness state.
+- LIVE / ACTIVE, RECENT CONTEXT, and BACKGROUND are reserved for real timestamped headlines/posts.
+
 
 - Event-level **Relevant Market Context** now separates relevance from freshness. Red intensity still means HIGH / MEDIUM / LOW relevance to the selected macro report.
 - Every specific headline is also labeled **LIVE / ACTIVE**, **RECENT CONTEXT**, or **BACKGROUND**.
