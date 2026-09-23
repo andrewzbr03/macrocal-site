@@ -30,7 +30,7 @@ function catalystTag(title=''){
   if(TRUMP_POLICY_RE.test(title))return 'Trump / Policy';
   // Search provenance is never evidence that a story belongs to a topic.
   if(/\b(?:cpi|pce|ppi|inflation|consumer price|producer price|personal consumption expenditures?)\b/i.test(title))return 'Inflation';
-  if(/\bJOLTS\b/.test(title)||/\b(?:nonfarm payrolls?|jobs report|layoffs?|unemployment|jobless claims|labor market|wage growth)\b/i.test(title)||/\b(?:U\.S\.|US|national|BLS)\b.{0,75}\b(?:job openings?|hiring)\b|\b(?:job openings?|hiring)\b.{0,75}\b(?:U\.S\.|US|national|BLS)\b/i.test(title))return 'Labor';
+  if(/\bJOLTS\b/.test(title)||/\b(?:nonfarm payrolls?|jobs report|layoffs?|unemployment|jobless claims|labor market|wage growth)\b/i.test(title)||/\b(?:U\.S\.|US\b|national\b|BLS\b).{0,75}\b(?:job openings?|hiring)\b|\b(?:job openings?|hiring)\b.{0,75}\b(?:U\.S\.|US\b|national\b|BLS\b)/i.test(title))return 'Labor';
   if(/\b(?:consumer confidence|consumer sentiment|retail sales|consumer spending|household spending)\b/i.test(title))return 'Consumer';
   if(/\b(?:gdp|gross domestic product|economic growth|business investment)\b/i.test(title))return 'Growth / Demand';
   if(/\b(?:manufacturing pmi|ism manufacturing|factory orders?|durable goods|capital goods|industrial production)\b/i.test(title))return 'Manufacturing';
@@ -119,16 +119,25 @@ const NEWS_TOPICS = [
   {tag:'Manufacturing', q:'US manufacturing factories supply chain Boeing aircraft orders capital goods tariffs when:7d'},
   {tag:'Housing / Mortgage', q:'US mortgage rates housing homebuilder housing starts building permits construction demand when:7d'},
   {tag:'Market move', q:'Nasdaq S&P 500 futures Treasury yields dollar oil market move catalyst when:7d'},
-  {tag:'JOLTS',q:'"JOLTS" OR "job openings" when:7d'},
-  {tag:'Consumer Confidence',q:'"consumer confidence" "Conference Board" when:7d'},
-  {tag:'NFP',q:'"nonfarm payrolls" OR "jobs report" when:7d'},
-  {tag:'CPI',q:'"consumer price index" OR "CPI inflation" when:7d'},
-  {tag:'PCE',q:'"PCE inflation" OR "personal consumption expenditures" when:7d'},
-  {tag:'ISM',q:'"ISM manufacturing" OR "ISM services" when:7d'}
+  // Preserve last month's report coverage as BACKGROUND for the next release.
+  {tag:'JOLTS',q:'"JOLTS" OR "job openings" when:30d'},
+  {tag:'Consumer Confidence',q:'"consumer confidence" "Conference Board" when:30d'},
+  {tag:'NFP',q:'"nonfarm payrolls" OR "jobs report" when:30d'},
+  {tag:'CPI',q:'"CPI inflation" OR "consumer price index" when:30d'},
+  {tag:'PCE',q:'"PCE inflation" OR "personal consumption expenditures" when:30d'},
+  {tag:'ISM',q:'"ISM manufacturing" OR "ISM services" when:30d'},
+  {tag:'Durable Goods',q:'"durable goods orders" when:30d'},
+  {tag:'ADP',q:'"ADP employment" OR "ADP private payrolls" when:30d'},
+  {tag:'GDP',q:'"US GDP" OR "gross domestic product" when:30d'},
+  {tag:'PPI',q:'"US producer price index" OR "PPI inflation" when:30d'},
+  {tag:'Retail Sales',q:'"US retail sales" when:30d'},
+  {tag:'Housing',q:'"US housing starts" OR "US building permits" when:30d'},
+  {tag:'Jobless Claims',q:'"US jobless claims" when:30d'},
+  {tag:'Michigan Sentiment',q:'"Michigan consumer sentiment" when:30d'}
 ];
 const TRUSTED_GOOGLE_SOURCES = [
   'Reuters','CNBC','Bloomberg','The Wall Street Journal','Wall Street Journal','Financial Times',
-  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','Fox Business','CBS News','NBC News','ABC News','The White House','Federal Reserve','U.S. Department of the Treasury'
+  'Associated Press','AP News','MarketWatch',"Barron's",'Yahoo Finance','Investing.com','Fortune','Axios','Fox Business','CBS News','NBC News','ABC News','The White House','Federal Reserve','U.S. Department of the Treasury','Bureau of Labor Statistics','U.S. Census Bureau','Bureau of Economic Analysis','The Conference Board'
 ];
 function trustedGoogleSource(name=''){
   const n=String(name).trim().toLowerCase();

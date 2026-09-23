@@ -517,15 +517,15 @@ const EVENT_HEADLINE_SIGNALS={
   cpi:/\b(?:cpi|consumer price index|consumer prices?|shelter inflation|rent inflation|gasoline prices?)\b/i,
   ppi:/\b(?:ppi|producer price index|producer prices?|input costs?|wholesale prices?)\b/i,
   pce:/\b(?:pce|personal consumption expenditures?|consumer spending|personal income)\b/i,
-  michigan:/\b(?:michigan sentiment|consumer sentiment|inflation expectations?|consumer mood)\b/i,
+  michigan:/\b(?:michigan (?:consumer )?sentiment|university of michigan|michigan inflation expectations?)\b/i,
   jobs:/\b(?:nonfarm payrolls?|nfp|jobs report|payrolls?|unemployment|wages?|hiring|layoffs?)\b/i,
-  jolts:/\bJOLTS\b|\b(?:U\.S\.|US|national|BLS)\b.{0,75}\b(?:job openings?|job vacancies|quit rate|quits rate)\b|\b(?:job openings?|job vacancies|quit rate|quits rate)\b.{0,75}\b(?:U\.S\.|US|national|BLS)\b/,
+  jolts:/\bJOLTS\b|\b(?:U\.S\.|US\b|national\b|BLS\b).{0,75}\b(?:job openings?|job vacancies|quit rate|quits rate)\b|\b(?:job openings?|job vacancies|quit rate|quits rate)\b.{0,75}\b(?:U\.S\.|US\b|national\b|BLS\b)/,
   adp:/\b(?:adp|private payrolls?|private employment|private hiring)\b/i,
   claims:/\b(?:jobless claims|unemployment claims|initial claims|continuing claims|layoffs?|job cuts?)\b/i,
   eci:/\b(?:employment cost index|\beci\b|labor costs?|wages?|compensation|pay growth)\b/i,
   gdp:/\b(?:\bgdp\b|gross domestic product|consumer spending|business investment|inventor(?:y|ies)|trade deficit|exports?|imports?)\b/i,
   retail:/\b(?:retail sales|consumer spending|credit cards?|retailers?|store sales)\b/i,
-  confidence:/\b(?:consumer confidence|conference board|consumer sentiment|consumer expectations?|household mood)\b/i,
+  confidence:/\b(?:consumer confidence|conference board)\b/i,
   durable:/\b(?:durable goods|capital goods|factory orders?|aircraft orders?|boeing orders?|business investment)\b/i,
   'ism-manufacturing':/\b(?:ism manufacturing|manufacturing pmi|factory activity|factory orders?|manufacturing output|new orders|prices paid)\b/i,
   'ism-services':/\b(?:ism services|services pmi|service sector|nonmanufacturing|non-manufacturing)\b/i,
@@ -535,9 +535,32 @@ const EVENT_HEADLINE_SIGNALS={
   'fomc-minutes':/\b(?:fed|fomc|federal reserve|powell|interest rates?|rate cuts?|rate hikes?|inflation|payrolls?|treasury yields?)\b/i,
   'fed-presser':/\b(?:fed|fomc|federal reserve|powell|interest rates?|rate cuts?|rate hikes?|inflation|payrolls?|treasury yields?)\b/i
 };
+const DIRECT_REPORT_SIGNALS={
+  cpi:/\b(?:cpi|consumer price index)\b/i,ppi:/\b(?:ppi|producer price index)\b/i,
+  pce:/\b(?:pce|personal consumption expenditures?)\b/i,
+  michigan:/\b(?:michigan (?:consumer )?sentiment|university of michigan)\b/i,
+  jobs:/\b(?:nonfarm payrolls?|nfp|jobs report)\b/i,
+  jolts:/\bJOLTS\b|\b(?:U\.S\.|US\b).{0,60}\bjob openings?\b/i,
+  confidence:/\b(?:consumer confidence|conference board)\b/i,
+  adp:/\bADP\b/,gdp:/\bGDP\b/i,retail:/\bretail sales\b/i,
+  durable:/\bdurable goods\b/i,'ism-manufacturing':/\b(?:ism manufacturing|manufacturing pmi)\b/i,
+  'ism-services':/\b(?:ism services|services pmi)\b/i,
+  'housing-starts':/\bhousing starts\b/i,permits:/\bbuilding permits\b/i,
+  claims:/\b(?:jobless claims|unemployment claims|initial claims)\b/i,
+  'fomc-decision':/\b(?:fomc|federal reserve|fed rate)\b/i,
+  'fomc-minutes':/\b(?:fomc|federal reserve|fed minutes)\b/i,
+  'fed-presser':/\b(?:fomc|federal reserve|powell)\b/i
+};
 function headlineMatchesEvent(filterId,title){
   const signal=EVENT_HEADLINE_SIGNALS[filterId];
-  return Boolean(signal&&signal.test(String(title||'')));
+  const t=String(title||'');
+  if(!signal||!signal.test(t))return false;
+  if(/\b(?:stocks? (?:to (?:buy|watch|own|grab)|investors? are watching)|funds? to (?:buy|boost)|portfolio|stock picks?)\b/i.test(t))return false;
+  if(/\b(?:china|chinese|britain|british|eurozone|europe|japan|india|canada|canadian|australia|germany|france|south korea|nigeria)\b/i.test(t)&&!/\b(?:U\.S\.|US\b|United States\b|American\b|BLS\b)/i.test(t))return false;
+  if(['cpi','michigan','confidence'].includes(filterId)&&/\b(?:new york-newark|northeast region|midwest region|south region|west region|florida|ohio|california)\b|consumer price index,\s+[^—-]{2,60}\b(?:area|region)\b/i.test(t))return false;
+  if(filterId==='gdp'&&(/\b(?:scenario|humanoid robots?|hypothetical|same as US GDP)\b/i.test(t)||/\bcould grow \d+%/i.test(t)))return false;
+  if(filterId==='durable'&&/\b(?:stocks?|funds?|portfolio|etfs?)\b/i.test(t))return false;
+  return true;
 }
 function contextKeywordBonus(filterId,title=''){
   const t=String(title);
@@ -616,27 +639,34 @@ function relevantContextFor(ev){
   const future=eventTime>Date.now();
   const nowMs=Date.now();
   const profile=EVENT_CONTEXT_PROFILES[ev.filterId]||{topics:{'Fed / Rates':2,'Growth / Demand':2}};
-  const seen=new Set(),headlines=[];
+  const headlines=[];
   for(const h of state.marketHeadlines||[]){
     if(!(h.effect_reported||h.major_catalyst))continue;
     const ts=headlineTimestamp(h);if(!ts)continue;
     if(ts>nowMs)continue;
-    if(future){if(ts<nowMs-7*86400000)continue;}
-    else{if(ts>eventTime||ts<eventTime-3*86400000)continue;}
+    if(future){if(ts<nowMs-30*86400000)continue;}
+    else{if(ts>eventTime||ts<eventTime-30*86400000)continue;}
     if(!headlineMatchesEvent(ev.filterId,h.title))continue;
-    const key=normalize(h.url||h.title);if(!key||seen.has(key))continue;seen.add(key);
+    if(!h.url||!h.title)continue;
     const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
     const topicWeight=profile.topics[tag]||0;
     const keywordBonus=contextKeywordBonus(ev.filterId,h.title);
     if(topicWeight<=0&&keywordBonus<=0)continue;
     const general=impactLevelForHeadline(h)==='high'?1:0;
-    const score=topicWeight+keywordBonus+general;
+    const directBonus=DIRECT_REPORT_SIGNALS[ev.filterId]?.test(h.title)?4:0;
+    const resultBonus=directBonus&&/\b(?:rise|rises|rose|fell|falls|drop|dropped|held|tops|beat|beats|exceed|slows|slowed|accelerat\w*|increased|decreased|hit|surpris\w*|hotter|weaker)\b|(?:more|less) than expected/i.test(h.title)?3:0;
+    const score=topicWeight+keywordBonus+general+directBonus+resultBonus;
     const level=relevanceLevel(score);
     headlines.push({name:h.title,time:h.time_et||'',date:h.date_et||'',url:h.url,source:h.domain||h.source||h.provider||'News',tag,headline:true,ts,score,level,why:whyForEventContext(ev,tag,h.title),linkType:h.link_type||(/news\.google\.com/i.test(h.url||'')?'google_news':'publisher'),timestampType:h.timestamp_type||'published'});
   }
-  headlines.sort((a,b)=>b.score-a.score||b.ts-a.ts);
-  const selected=[],perTag=new Map();
-  for(const h of headlines){const n=perTag.get(h.tag)||0;if(n>=2)continue;perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=5)break;}
+  headlines.sort((a,b)=>b.score-a.score||Number(b.linkType==='publisher')-Number(a.linkType==='publisher')||b.ts-a.ts);
+  const selected=[],perTag=new Map(),seen=new Set();
+  for(const h of headlines){
+    const key=`${normalize(h.name)}|${h.date}`;
+    if(seen.has(key))continue;
+    const n=perTag.get(h.tag)||0;if(n>=2)continue;
+    seen.add(key);perTag.set(h.tag,n+1);selected.push(h);if(selected.length>=5)break;
+  }
   return {headlines:selected,fallback:selected.length?[]:staticContextLinks(ev)};
 }
 function contextPublishedLabel(ts,timestampType='published'){
@@ -697,7 +727,8 @@ function contextHtml(ev){
     contextStageSection('recent','RECENT CONTEXT','Published 2–24 hours earlier; relevant, but the initial market reaction may already be reflected.',groups.recent,referenceTs,future),
     contextStageSection('background','BACKGROUND','Published more than 24 hours earlier; useful for framing the report rather than as an immediate catalyst.',groups.background,referenceTs,future)
   ].join('');
-  const emptyNote=headlines.length?'':`<div class="context-no-headlines"><strong>No timestamped specific headlines are stored for this report yet.</strong> The three sections remain visible so MacroCal does not mistake a generic search page for a live catalyst.</div>`;
+  const archiveNote=eventDateET(ev)<ARCHIVE_START_DATE?' The headline archive began September 23, 2026, so earlier releases do not have collected article history.':'';
+  const emptyNote=headlines.length?'':`<div class="context-no-headlines"><strong>No matching report-specific headlines are stored for this event yet.</strong>${archiveNote} You can use the dated source searches below for more coverage.</div>`;
   return `<div class="detail-section compact-context"><div class="detail-section-title">Relevant market context</div><div class="context-framework-note">${intro} <strong>Red intensity = relevance to this report.</strong> Freshness is separate and does not mean a headline is unpriced.</div>${emptyNote}<div class="context-stage-groups">${sections}</div>${contextSearchLinksHtml(ev)}</div>`;
 }
 function confirmationHtml(){
