@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-23T19:24:34.750Z",
+  "generated_at": "2026-09-23T19:41:18.162Z",
   "articles": [
+    {
+      "title": "Trump plans grand spectacle for potentially tense Xi talks",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260923T170739Z",
+      "date_et": "2026-09-23",
+      "time_et": "13:07",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trade / Sanctions",
+      "provider": "Google News",
+      "source": "Reuters"
+    },
     {
       "title": "Opinion: Is the Trump administration prepared to collide with the debt ceiling?",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDBDdnVkZ1oyMnJfREVFX1ByQ24wQTRxT2ZsMm9PN0lPWmV0d2tJYmwtQW5zQmxBanU3VVlPZnlXUmtwZElRRDhyVmZuM0ZUQVJWaWV2b3hMZTN1ZUltZHlwZG5tUTZ2NndWaVJtN1BLeVRFUndTMVl5Q2xjdzk5WUE4YWFMLVpvRWNkWk1QeW1ZYThZbGFMQmJpanE0bXc4eEkwUFQxVmhLY0FkN0RR?oc=5",
@@ -30,7 +43,7 @@
     {
       "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5",
-      "domain": "CNBC",
+      "domain": "cnbc.com",
       "seendate": "20260921T212121Z",
       "date_et": "2026-09-21",
       "time_et": "17:21",
@@ -38,7 +51,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trade / Sanctions",
       "provider": "Google News",
-      "source": "CNBC"
+      "source": "cnbc.com"
     },
     {
       "title": "Trump administration sued over withheld federal grants for US community lenders",
@@ -78,6 +91,19 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Fortune"
+    },
+    {
+      "title": "3 U.S. Retail Stocks Investors Are Watching As Higher Rates Reshape Consumer Spending",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOU5FUEVXdklkOVVTWXpmT3V2SXNIdGxTeU5kcmhBV1JvN0lobF9SMXpUTTA1NlFHQUszb3Q1VTBpcHJnR2pUd3ota2dwNV9EMDkzUGRGSngwTDVDQnRQekduYm9Ma2NPRV9CN3VSRWotZ2hLRWdCemdmQW1udzFWMWZlWGJEMUlNTlpVVWNkS28tN0R0V29r?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260920T032000Z",
+      "date_et": "2026-09-19",
+      "time_et": "23:20",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance"
     },
     {
       "title": "What commodity markets can expect from the Trump-Xi summit",
