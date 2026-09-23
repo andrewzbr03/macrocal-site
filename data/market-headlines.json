@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-23T19:15:40.766Z",
+  "generated_at": "2026-09-23T19:24:34.750Z",
   "articles": [
+    {
+      "title": "Opinion: Is the Trump administration prepared to collide with the debt ceiling?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDBDdnVkZ1oyMnJfREVFX1ByQ24wQTRxT2ZsMm9PN0lPWmV0d2tJYmwtQW5zQmxBanU3VVlPZnlXUmtwZElRRDhyVmZuM0ZUQVJWaWV2b3hMZTN1ZUltZHlwZG5tUTZ2NndWaVJtN1BLeVRFUndTMVl5Q2xjdzk5WUE4YWFMLVpvRWNkWk1QeW1ZYThZbGFMQmJpanE0bXc4eEkwUFQxVmhLY0FkN0RR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260922T181222Z",
+      "date_et": "2026-09-22",
+      "time_et": "14:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fiscal risk",
+      "provider": "Google News",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "PMI data and crude oil inventories highlight Wednesday’s economic calendar",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnh4WDlfNDBzN19NdFdUZWRvajdSNTZ1Q2hxMDQ2YmpSR19IaW5BRTVsLVJXWXFHMGw1d2RFLTExaVBpVnNiSWtSWVF3blF6aXl3cE5mYjQ5dnJGajZLM0hzd1B1b3dLQjdNZ0Y1YVBjUmlMYThsLWtva0ZHTHE3LTJKNTdxeDZ6MFZmTnZVd1hiWGxaWjFrcWdMcXBpNk1Da1NpRTkzNTFlM2N0cTBWcWNfSGVVckZOSG1ac2dWQi1SMXhPdi1PZ2hST05GSUVS?oc=5",
@@ -17,7 +30,7 @@
     {
       "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260921T212121Z",
       "date_et": "2026-09-21",
       "time_et": "17:21",
@@ -25,7 +38,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trade / Sanctions",
       "provider": "Google News",
-      "source": "cnbc.com"
+      "source": "CNBC"
     },
     {
       "title": "Trump administration sued over withheld federal grants for US community lenders",
@@ -102,6 +115,19 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Reuters"
+    },
+    {
+      "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260917T170847Z",
+      "date_et": "2026-09-17",
+      "time_et": "13:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters"
     },
