@@ -436,14 +436,19 @@ function relevantContextFor(ev){
   // Treasury events, and major global central-bank/data catalysts.
   for(const x of state.contextEvents)addScheduled(x,{outsideWhitelist:true});
   scheduled.sort((a,b)=>Math.abs(a.diff)-Math.abs(b.diff)||String(a.time).localeCompare(String(b.time)));
-  // Stored headlines are retrospective by design: they appear only after a headline has actually
-  // reported a market move on the selected date. We do not fabricate future headline context.
+  // Stored news is retrospective. Keep both explicit market-move headlines and major
+  // macro/geopolitical catalysts (oil supply, ceasefires/escalation, tariffs/sanctions,
+  // shutdown/debt-ceiling risk, bank stress). Catalyst labels describe relevance, not causation.
   for(const h of state.marketHeadlines||[]){
-    if(h.date_et!==d || !h.effect_reported) continue;
+    const hd=h.date_et||''; const diff=contextDayDiff(d,hd);
+    if(Math.abs(diff)>1 || (!h.effect_reported&&!h.major_catalyst)) continue;
     const k=normalize(h.url||h.title); if(seen.has(k))continue; seen.add(k);
-    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||'News',tag:'Market move',headline:true});
-    if(headlines.length>=6)break;
+    let tag=h.effect_reported?'Market move':(h.catalyst_tag||'Major headline');
+    if(diff<0)tag=`${tag} · Prev day`; else if(diff>0)tag=`${tag} · Next day`;
+    headlines.push({name:h.title,time:h.time_et||'',url:h.url,source:h.domain||h.source||'News',tag,headline:true,priority:h.effect_reported?0:1});
   }
+  headlines.sort((a,b)=>(a.priority||0)-(b.priority||0)||String(a.time).localeCompare(String(b.time)));
+  headlines.splice(8);
   return {scheduled:scheduled.slice(0,12),headlines};
 }
 
@@ -451,8 +456,8 @@ function contextHtml(ev){
   const {scheduled,headlines}=relevantContextFor(ev);
   const items=[...scheduled,...headlines];
   const future=(parseEventDate(ev)?.getTime()||0)>Date.now();
-  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-empty">No other major scheduled catalysts are currently published within one day of this event.${future?' Market-impact headlines will be added after the date occurs and a headline explicitly reports a market move.':''}</div></div>`;
-  return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">Scheduled context covers major catalysts from the previous day through the next day. “Market move” is retrospective and means the saved headline itself explicitly reported a move in stocks, Nasdaq/S&amp;P, futures, Treasury yields, or the dollar; it is not an automated claim that the headline was the sole cause.</div></div>`;
+  if(!items.length)return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-empty">No other major scheduled catalysts or retained macro/geopolitical headlines are stored within one day of this event.${future?' News headlines are retrospective and will appear after they are published.':''}</div></div>`;
+  return `<div class="detail-section compact-context"><div class="detail-section-title">Other relevant market events</div><div class="context-list">${items.map(x=>`<a class="context-item" href="${esc(x.url||'#')}" target="_blank" rel="noreferrer"><span class="context-tag">${esc(x.tag)}</span><span>${x.headline?`${x.time?`${esc(x.time)} ET · `:''}${esc(x.name)}${x.source?` <span class="context-source">· ${esc(x.source)}</span>`:''}`:`${esc(x.time)} ET · ${esc(x.name)}`}</span></a>`).join('')}</div><div class="context-footnote">Scheduled context covers major catalysts from the previous day through the next day. “Market move” means the headline explicitly reported a market reaction. Labels such as “Geopolitical,” “Oil / Supply,” “Trade / Sanctions,” and “Fiscal risk” mean the headline is potentially material to ES/NQ, rates, the dollar, or oil; they do not claim the headline was the sole cause of any move.</div></div>`;
 }
 
 function previousFomcDecision(ev){

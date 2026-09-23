@@ -12,6 +12,22 @@ const GLOBAL_CONTEXT_RE=/\b(?:ecb|european central bank|bank of england|boe|bank
 const TRUSTED_DOMAINS=['reuters.com','cnbc.com','bloomberg.com','wsj.com','ft.com','marketwatch.com','apnews.com','barrons.com','finance.yahoo.com'];
 const MARKET_MOVE_RE=/(?:\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b.{0,80}\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b)|(?:\b(?:rise|rises|rose|jump|jumps|jumped|surge|surges|surged|fall|falls|fell|drop|drops|dropped|slump|slumps|slumped|rally|rallies|rallied|slide|slides|slid|sink|sinks|sank|gain|gains|gained|selloff|sell-off)\b.{0,80}\b(?:stocks?|nasdaq|s&p|wall street|futures|treasury yields?|bond yields?|dollar)\b)/i;
 
+// Unscheduled macro/geopolitical catalysts that can matter for ES/NQ, rates, the dollar, or oil
+// even when the headline does not literally say that markets moved.
+const OIL_SUPPLY_RE=/\b(?:oil|crude|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b.{0,90}\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk)\b|\b(?:supply|disrupt|halt|cut|output|production|embargo|attack|strike|closure|closed|shutdown|shortage|risk)\b.{0,90}\b(?:oil|crude|opec\+?|strait of hormuz|red sea|pipeline|refiner(?:y|ies)|tanker|shipping)\b/i;
+const GEOPOLITICAL_RE=/\b(?:iran|israel|middle east|gaza|lebanon|hezbollah|yemen|houthi|russia|ukraine|taiwan|china|north korea)\b.{0,110}\b(?:ceasefire|peace (?:deal|agreement|treaty)|talks? collapse|breaks? down|broken|attack|strike|missile|drone|war|escalat|invasion|retaliat|sanction|blockade|conflict)\b|\b(?:ceasefire|peace (?:deal|agreement|treaty)|talks? collapse|breaks? down|broken|attack|strike|missile|drone|war|escalat|invasion|retaliat|sanction|blockade|conflict)\b.{0,110}\b(?:iran|israel|middle east|gaza|lebanon|hezbollah|yemen|houthi|russia|ukraine|taiwan|china|north korea)\b/i;
+const TRADE_POLICY_RE=/\b(?:tariff|trade war|export control|sanction|embargo|import ban|trade deal)\b/i;
+const FISCAL_RISK_RE=/\b(?:government shutdown|debt ceiling|sovereign default|default risk|treasury funding crisis)\b/i;
+const FINANCIAL_STRESS_RE=/\b(?:bank failure|bank run|bank stress|liquidity crisis|credit crisis|credit stress|regional bank|systemic risk)\b/i;
+function catalystTag(title=''){
+  if(OIL_SUPPLY_RE.test(title))return 'Oil / Supply';
+  if(GEOPOLITICAL_RE.test(title))return 'Geopolitical';
+  if(TRADE_POLICY_RE.test(title))return 'Trade / Sanctions';
+  if(FISCAL_RISK_RE.test(title))return 'Fiscal risk';
+  if(FINANCIAL_STRESS_RE.test(title))return 'Financial stress';
+  return '';
+}
+
 const pad=n=>String(n).padStart(2,'0');
 const ymd=d=>`${d.getUTCFullYear()}-${pad(d.getUTCMonth()+1)}-${pad(d.getUTCDate())}`;
 const addDays=(d,n)=>new Date(d.getTime()+n*86400000);
@@ -75,7 +91,7 @@ async function fetchWithRetry(url,options={},attempts=3,timeoutMs=20000){
   throw lastErr;
 }
 async function fetchHeadlines(){
-  const q='("S&P 500" OR Nasdaq OR "Wall Street" OR "Treasury yields" OR futures) (Fed OR inflation OR jobs OR payrolls OR tariffs OR trade OR oil OR war OR "interest rates" OR recession OR shutdown OR "debt ceiling")';
+  const q='("S&P 500" OR Nasdaq OR "Treasury yields" OR futures OR Iran OR Israel OR "Middle East" OR "Strait of Hormuz" OR OPEC OR oil OR tariffs OR sanctions OR "government shutdown" OR "debt ceiling" OR "bank failure" OR Taiwan OR Ukraine OR Russia) (Fed OR inflation OR jobs OR oil OR war OR ceasefire OR peace OR attack OR strike OR sanctions OR tariffs OR disruption OR shutdown OR debt OR rates)';
   const u=`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&maxrecords=250&timespan=7d&sort=datedesc&format=json`;
   const r=await fetchWithRetry(u,{headers:{Accept:'application/json','User-Agent':'MacroCal-Market-Context/1.0'}},3,20000);
   const j=await r.json();return j.articles||[];
@@ -91,9 +107,12 @@ async function updateHeadlines(){
   }
   for(const a of rows){
     const domain=String(a.domain||'').toLowerCase();if(!TRUSTED_DOMAINS.some(d=>domain===d||domain.endsWith('.'+d)))continue;
-    const title=String(a.title||'').trim();if(!title||!MARKET_MOVE_RE.test(title))continue;
+    const title=String(a.title||'').trim();if(!title)continue;
+    const effectReported=MARKET_MOVE_RE.test(title);
+    const catalyst=catalystTag(title);
+    if(!effectReported&&!catalyst)continue;
     const et=gdeltDateToET(a.seendate||a.date||a.datetime);
-    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:true};
+    const item={title,url:a.url,domain,seendate:a.seendate||'',date_et:et.date_et,time_et:et.time_et,effect_reported:effectReported,major_catalyst:Boolean(catalyst),catalyst_tag:catalyst||''};
     map.set(item.url||item.title,{...(map.get(item.url||item.title)||{}),...item});
   }
   const articles=[...map.values()].sort((a,b)=>String(b.seendate||'').localeCompare(String(a.seendate||'')));

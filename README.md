@@ -108,3 +108,10 @@ The built-in historical dataset remains available even before the first schedule
 - Approved MacroCal releases, material U.S. releases/Fed events, Treasury auctions/refunding, and selected major global catalysts can appear.
 - Context items are labeled Same time, Same day, Previous day, or Next day.
 - Market-impact headlines remain retrospective: they appear only after a stored headline explicitly reports a move in stocks, Nasdaq/S&P, futures, Treasury yields, or the dollar.
+
+
+## V14 macro/geopolitical headline context
+
+- Retains trusted-source headlines for major geopolitical and macro catalysts even when the title does not explicitly say markets moved.
+- Examples include ceasefire/peace-deal breakdowns or escalation involving Iran/Middle East and other major conflicts, oil/OPEC/Strait of Hormuz supply disruptions, tariffs/sanctions/export controls, government shutdown/debt-ceiling risk, and major banking/credit stress.
+- Explicit market-reaction headlines keep the `Market move` label. Catalyst-only headlines are labeled by theme such as `Geopolitical`, `Oil / Supply`, `Trade / Sanctions`, `Fiscal risk`, or `Financial stress`. These labels indicate potential market relevance, not proven causation.
