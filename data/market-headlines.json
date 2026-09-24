@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:25:59.181Z",
+  "generated_at": "2026-09-24T04:38:52.843Z",
   "articles": [
     {
       "title": "Inflation could cost Republicans the Senate &#x2014; this chart shows how",
@@ -59,6 +59,21 @@
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
+      "url": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260922T165255Z",
+      "date_et": "2026-09-22",
+      "time_et": "12:52",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trade / Sanctions",
+      "provider": "Publisher RSS",
+      "source": "finance.yahoo.com",
+      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
