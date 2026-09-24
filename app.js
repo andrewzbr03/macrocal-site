@@ -1,5 +1,5 @@
 const API_BASE = 'https://www.financecalendar.com/wp-json/fc/v1';
-const CACHE_KEY = 'macroCalCoverageV10';
+const CACHE_KEY = 'macroCalCoverageV11';
 const CACHE_TTL_MS = 60 * 60 * 1000;
 const ARCHIVE_START_DATE = '2026-09-23'; // shared live archive begins here; older verified chat history remains built in
 const RANGE_DAYS = 14; // small windows avoid global-feed truncation and stay well below the provider's 92-day max
@@ -298,10 +298,11 @@ function loadCache(){try{const c=JSON.parse(localStorage.getItem(CACHE_KEY)||'nu
 
 async function loadSharedData(){
   try{
-    const [feedRes,headlineRes,officialRes]=await Promise.all([
+    const [feedRes,headlineRes,officialRes,verifiedRes]=await Promise.all([
       fetch('./data/shared-feed.json',{cache:'no-store'}),
       fetch('./data/market-headlines.json',{cache:'no-store'}),
-      fetch('./data/official-readings.json',{cache:'no-store'}).catch(()=>({ok:false}))
+      fetch('./data/official-readings.json',{cache:'no-store'}).catch(()=>({ok:false})),
+      fetch('./data/verified-values.json',{cache:'no-store'}).catch(()=>({ok:false}))
     ]);
     if(feedRes.ok){
       const payload=await feedRes.json();
@@ -318,6 +319,10 @@ async function loadSharedData(){
     if(officialRes.ok){
       const payload=await officialRes.json();
       if(payload&&payload.readings&&payload.claims_by_release)state.officialReadings=payload;
+    }
+    if(verifiedRes.ok){
+      const payload=await verifiedRes.json();
+      state.verifiedValues=Array.isArray(payload.entries)?payload.entries.filter(validVerifiedValue):[];
     }
   }catch(_){ /* static/local copies still work without the shared JSON */ }
 }
@@ -447,6 +452,17 @@ function actualForSpec(occ,spec){
   const useTop=!c&&specs.length===1;
   return c?.actual??(useTop?occ.actual:null)??extractSummaryValue(occ.actual,spec);
 }
+function validVerifiedValue(entry){
+  return entry && /^\d{4}-\d{2}-\d{2}$/.test(entry.date||'') &&
+    FILTER_DEFS.some(f=>f.id===entry.filter_id) &&
+    (METRIC_SPECS[entry.filter_id]||[]).some(m=>m.id===entry.metric_id) &&
+    ['forecast','previous','actual'].includes(entry.field) &&
+    feedNumber(entry.value)!==null && /^https:\/\//.test(entry.source_url||'') &&
+    !Number.isNaN(Date.parse(entry.verified_at||''));
+}
+function verifiedValue(ev,spec,field){
+  return (state.verifiedValues||[]).find(e=>e.date===ev.date&&e.filter_id===ev.filterId&&e.metric_id===spec.id&&e.field===field)||null;
+}
 function buildMetricRows(ev){
   const specs=METRIC_SPECS[ev.filterId]||[]; if(!specs.length)return [];
   const singleMetric=specs.length===1;
@@ -461,9 +477,12 @@ function buildMetricRows(ev){
     const actual=c?.actual??(useTop?ev.actual:null);
     const forecast=c?.forecast??c?.consensus??(useTop?(ev.forecast??ev.consensus):null);
     const previous=c?.previous??c?.prior??(useTop?(ev.previous??ev.prior):null);
-    const actual2=official?.actual??actual??extractSummaryValue(ev.actual,spec);
-    const forecast2=forecast??extractSummaryValue(ev.forecast??ev.consensus,spec);
-    let previous2=official?.previous??previous??extractSummaryValue(ev.previous??ev.prior,spec);
+    const actualSource=verifiedValue(ev,spec,'actual');
+    const forecastSource=verifiedValue(ev,spec,'forecast');
+    const previousSource=verifiedValue(ev,spec,'previous');
+    const actual2=official?.actual??actual??extractSummaryValue(ev.actual,spec)??actualSource?.value;
+    const forecast2=forecast??extractSummaryValue(ev.forecast??ev.consensus,spec)??forecastSource?.value;
+    let previous2=official?.previous??previous??extractSummaryValue(ev.previous??ev.prior,spec)??previousSource?.value;
     let previousFallback=false;
     if(isFuture && (previous2===null||previous2===undefined||previous2==='')){
       const lastActual=actualForSpec(priorOcc,spec);
@@ -473,7 +492,8 @@ function buildMetricRows(ev){
       }
     }
     const original=c?.originalPrevious??(useTop?ev.originalPrevious:null);
-    return {id:spec.id,label:spec.label,source:spec.source,official:spec.official,officialActualSource:official?.actual?official.url:null,primary:Boolean(spec.primary),noForecast:Boolean(spec.noForecast),actual:actual2,forecast:spec.noForecast?null:forecast2,previous:previous2,previousFallback,originalPrevious:original,surprise:spec.noForecast?'—':surpriseValue(actual2,forecast2)};
+    const verifiedSources=[actual==null&&actualSource,forecast==null&&forecastSource,previous==null&&previousSource].filter(Boolean);
+    return {id:spec.id,label:spec.label,source:spec.source,official:spec.official,verifiedSources,officialActualSource:official?.actual?official.url:null,primary:Boolean(spec.primary),noForecast:Boolean(spec.noForecast),actual:actual2,forecast:spec.noForecast?null:forecast2,previous:previous2,previousFallback,originalPrevious:original,surprise:spec.noForecast?'—':surpriseValue(actual2,forecast2)};
   });
 }
 function detailMetricRows(ev){
@@ -496,8 +516,8 @@ function officialReadingsHtml(ev){
   return `<div class="detail-section"><div class="detail-section-title">Latest official readings</div><div class="official-reading-list">${items}</div><div class="context-footnote">Delayed observations from ETA, BLS, or BEA via the Federal Reserve Bank of St. Louis. The observation period may differ from this event's release date. These are actual readings, not forecasts.</div></div>`;
 }
 function revisionHtml(row){if(row.originalPrevious===null||row.originalPrevious===undefined||row.originalPrevious===''||String(row.originalPrevious)===String(row.previous))return '';return `<span class="revision-note">was ${esc(row.originalPrevious)}</span>`;}
-function metricTableHtml(rows,ev){if(!rows.length)return '';const future=(parseEventDate(ev)?.getTime()||0)>Date.now();return `<div class="detail-section"><div class="detail-section-title">Report data</div>${future&&rows.some(r=>!r.noForecast&&(r.forecast===null||r.forecast===undefined||r.forecast===''))?'<p class="context-footnote">A missing forecast means this feed has no value. Investing.com may already have published one; use the source link below.</p>':''}<div class="metric-table"><div class="metric-head"><span>Metric</span><span>Previous</span><span>Forecast</span><span>Actual</span><span>Surprise</span><span>Sources</span></div>${rows.map(r=>`<div class="metric-row"><span class="metric-name">${esc(r.label)}</span><span>${esc(valueOrDash(r.previous))}${r.previousFallback?'<span class="revision-note">latest stored actual</span>':''}${revisionHtml(r)}</span><span>${r.noForecast?'<span class="muted">N/A</span>':(future&&(r.forecast===null||r.forecast===undefined||r.forecast==='')?'<span class="muted">Unavailable in this feed</span>':esc(valueOrDash(r.forecast)))}</span><span>${future&&(r.actual===null||r.actual===undefined||r.actual==='')?'<span class="muted">Pending</span>':esc(valueOrDash(r.actual))}</span><span class="surprise-cell">${esc(r.surprise)}</span><span class="source-links">${r.source?`<a class="metric-link" href="${esc(r.source)}" target="_blank" rel="noreferrer">${future&&!r.noForecast&&(r.forecast===null||r.forecast===undefined||r.forecast==='')?'Check forecast ↗':'Investing'}</a>`:''}${r.official?`<a class="metric-link official-link" href="${esc(r.official)}" target="_blank" rel="noreferrer">Official</a>`:''}${r.officialActualSource?`<a class="metric-link official-link" href="${esc(r.officialActualSource)}" target="_blank" rel="noreferrer">FRED data</a>`:''}</span></div>`).join('')}</div></div>`;}
-function reportLevelHtml(ev,rows){const multi=(METRIC_SPECS[ev.filterId]||[]).length>1;if(!multi||ev.chatHistorical)return '';const actual=ev.actual,forecast=ev.forecast??ev.consensus;const primary=rows.find(r=>r.primary)||rows[0];const previous=ev.previous??ev.prior??primary?.previous;const isFuture=(parseEventDate(ev)?.getTime()||0)>Date.now();const hasAny=[actual,forecast,previous].some(v=>v!==null&&v!==undefined&&v!=='')||isFuture;if(!hasAny)return '';const feedSpecificHasAny=rows.some(r=>[r.actual,r.forecast].some(v=>v!==null&&v!==undefined&&v!==''));if(feedSpecificHasAny)return '';return `<div class="detail-section report-level"><div class="detail-section-title">Report-level calendar data</div><div class="report-level-grid"><div><span>Previous</span><strong>${esc(valueOrDash(previous))}</strong></div><div><span>Forecast</span><strong>${isFuture&&(forecast===null||forecast===undefined||forecast==='')?'Unavailable in this feed':esc(valueOrDash(forecast))}</strong></div><div><span>Actual</span><strong>${isFuture&&(actual===null||actual===undefined||actual==='')?'Pending':esc(valueOrDash(actual))}</strong></div></div><div class="context-footnote">Previous falls back to MacroCal’s latest stored actual when the live calendar does not provide it. Forecast stays blank when FinanceCalendar has no consensus, even if another source has published one. Check the Investing.com link for the latest forecast.</div></div>`;}
+function metricTableHtml(rows,ev){if(!rows.length)return '';const future=(parseEventDate(ev)?.getTime()||0)>Date.now();return `<div class="detail-section"><div class="detail-section-title">Report data</div>${future&&rows.some(r=>!r.noForecast&&(r.forecast===null||r.forecast===undefined||r.forecast===''))?'<p class="context-footnote">A missing forecast means this feed has no value. Investing.com may already have published one; use the source link below.</p>':''}<div class="metric-table"><div class="metric-head"><span>Metric</span><span>Previous</span><span>Forecast</span><span>Actual</span><span>Surprise</span><span>Sources</span></div>${rows.map(r=>`<div class="metric-row"><span class="metric-name">${esc(r.label)}</span><span>${esc(valueOrDash(r.previous))}${r.previousFallback?'<span class="revision-note">latest stored actual</span>':''}${revisionHtml(r)}</span><span>${r.noForecast?'<span class="muted">N/A</span>':(future&&(r.forecast===null||r.forecast===undefined||r.forecast==='')?'<span class="muted">Unavailable in this feed</span>':esc(valueOrDash(r.forecast)))}</span><span>${future&&(r.actual===null||r.actual===undefined||r.actual==='')?'<span class="muted">Pending</span>':esc(valueOrDash(r.actual))}</span><span class="surprise-cell">${esc(r.surprise)}</span><span class="source-links">${r.source?`<a class="metric-link" href="${esc(r.source)}" target="_blank" rel="noreferrer">${future&&!r.noForecast&&(r.forecast===null||r.forecast===undefined||r.forecast==='')?'Check forecast ↗':'Investing'}</a>`:''}${r.official?`<a class="metric-link official-link" href="${esc(r.official)}" target="_blank" rel="noreferrer">Official</a>`:''}${r.officialActualSource?`<a class="metric-link official-link" href="${esc(r.officialActualSource)}" target="_blank" rel="noreferrer">FRED data</a>`:''}${(r.verifiedSources||[]).map(v=>`<a class="metric-link official-link" href="${esc(v.source_url)}" target="_blank" rel="noreferrer">${esc(v.field)} source</a>`).join('')}</span></div>`).join('')}</div></div>`;}
+function reportLevelHtml(ev,rows){const multi=(METRIC_SPECS[ev.filterId]||[]).length>1;if(!multi||ev.chatHistorical)return '';const actual=ev.actual,forecast=ev.forecast??ev.consensus;const primary=rows.find(r=>r.primary)||rows[0];const previous=ev.previous??ev.prior??primary?.previous;const isFuture=(parseEventDate(ev)?.getTime()||0)>Date.now();const hasAny=[actual,forecast,previous].some(v=>v!==null&&v!==undefined&&v!=='')||isFuture;if(!hasAny)return '';const feedSpecificHasAny=rows.some(r=>[r.actual,r.forecast].some(v=>v!==null&&v!==undefined&&v!==''));if(feedSpecificHasAny)return '';return `<div class="detail-section report-level"><div class="detail-section-title">Report-level calendar data</div><div class="report-level-grid"><div><span>Previous</span><strong>${esc(valueOrDash(previous))}</strong></div><div><span>Forecast</span><strong>${isFuture&&(forecast===null||forecast===undefined||forecast==='')?'Unavailable in this feed':esc(valueOrDash(forecast))}</strong></div><div><span>Actual</span><strong>${isFuture&&(actual===null||actual===undefined||actual==='')?'Pending':esc(valueOrDash(actual))}</strong></div></div><div class="context-footnote">Previous falls back to MacroCal’s latest stored actual when the live calendar does not provide it. Forecast stays blank unless a permitted source or FinanceCalendar supplies a verified consensus. Check the Investing.com link for the latest forecast.</div></div>`;}
 function contextDayDiff(baseDate,otherDate){
   const a=new Date(`${baseDate}T12:00:00Z`),b=new Date(`${otherDate}T12:00:00Z`);
   if(Number.isNaN(a.getTime())||Number.isNaN(b.getTime()))return 99;
