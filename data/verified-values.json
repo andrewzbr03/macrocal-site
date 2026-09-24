@@ -17,6 +17,15 @@
       "value": "197K",
       "source_url": "https://www.dol.gov/ui/data.pdf",
       "verified_at": "2026-09-24T12:34:07.386Z"
+    },
+    {
+      "date": "2026-09-24",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "198K",
+      "source_url": "https://www.dol.gov/ui/data.pdf",
+      "verified_at": "2026-09-24T12:34:29.490Z"
     }
   ]
 }
