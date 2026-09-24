@@ -248,9 +248,16 @@ function cleanContext(raw){
   return out;
 }
 
+function feedNumber(v){
+  if(v===null||v===undefined||v==='')return null;
+  const value=String(v).trim();
+  // The upstream calendar sometimes puts truncated prose in a numeric field.
+  // Never present that text as a published forecast or result.
+  return /^[+-]?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?\s*(?:%|K|M|B|T|bp|bps)?$/i.test(value)?value:null;
+}
 function groupFeedEvents(raw){
   const groups=new Map();
-  for(const ev of raw){const filterId=identifyFamily(ev);if(!filterId)continue;const date=eventDateET(ev);if(!date)continue;const key=`${filterId}|${date}`;if(!groups.has(key))groups.set(key,{filterId,date,components:[]});groups.get(key).components.push(ev);}
+  for(const ev of raw){const filterId=identifyFamily(ev);if(!filterId)continue;const date=eventDateET(ev);if(!date)continue;const key=`${filterId}|${date}`;if(!groups.has(key))groups.set(key,{filterId,date,components:[]});groups.get(key).components.push({...ev,actual:feedNumber(ev.actual),consensus:feedNumber(ev.consensus),forecast:feedNumber(ev.forecast),prior:feedNumber(ev.prior),previous:feedNumber(ev.previous)});}
   const out=[];
   for(const g of groups.values()){
     const comps=g.components.sort((a,b)=>scorePrimary(g.filterId,b)-scorePrimary(g.filterId,a)); const p=comps[0];
