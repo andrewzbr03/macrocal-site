@@ -1,3 +1,13 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-09-24",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "forecast",
+      "value": "201.00K",
+      "source_url": "https://www.vtmarkets.com/en-asia/featured/week-ahead-markets-reprice-post-rate-hike-as-usd-gold-and-equities-face-key-tests/",
+      "verified_at": "2026-09-24T02:36:31Z"
+    }
+  ]
 }
