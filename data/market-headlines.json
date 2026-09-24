@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-24T12:31:35.396Z",
+  "generated_at": "2026-09-24T13:27:44.379Z",
   "articles": [
     {
-      "title": "The stock market is &#x2018;priced for perfection.&#x2019; Here&#x2019;s what could drive a nearly 20% slump for the S&P 500 next year.",
+      "title": "Claims for unemployment benefits drop to 197,000, the lowest since mid-July as layoffs remain rare - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjI1UExNTDhvMUxQS09LTHB0WGpCRGFKNFhrb2lWYzZDeGhfWVc1QUlMdFJOLWNxcU1UY1RiLW12ZGJnRmFFR3FJR0RRYXNTcFZoWDE3VFlEUjBtZnNTQ0kyV3NMMm40TDhBeU1LZ2pIVnBKakRrTS1QZFVaRGQxS181U3RhR3VMWTZXMVdZZUF6OUdoQkJYZ1phX1IxN1hM0gGmAUFVX3lxTE9mTklXbDRjRnNDNmlXeEFtSXdtcHRNN2FzRGpDZkd6TmhXeGhSYTlpSVN1T1NVNlFycEkyOXpXdTBhWENMRzVuaE96RlJGeE9wQkxGdFkxR0ZTZjMzNjFZM3RkZ2ZSUWIyakRuM0Qyc3RHNk1YVW9TWlE2aHlSTXRBVGVibUo1RHIzaVhmRGR1dzh6VmlNbkhSMVBkcVFndC1JQ1FWUkE?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20260924T125914Z",
+      "date_et": "2026-09-24",
+      "time_et": "08:59",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "With the stock market &#x2018;priced for perfection,&#x2019; the S&P 500 is in danger of a 20% slump next year",
       "url": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
-      "seendate": "20260924T121000Z",
+      "seendate": "20260924T124800Z",
       "date_et": "2026-09-24",
-      "time_et": "08:10",
+      "time_et": "08:48",
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Jobless Claims Slip to 197,000, Hold Close to Historic Lows",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWxDaXJ4MTA5dkYwOS0yMFVWSE1sUTFYNWZERjZUdEsxQ0ZEVWJTZDVIbExDZ3lTSmNpSy1vR0xsUnR3YWV2Q0toUkpLSFZJNGRsaGVqbW9mSFJfQ2VKNzllalVTRWlBUlpqZjZvZzhZdHNDaDdVMHBOTU1RbEdPMjR5QlpuUXN3bXoxWE1qXzROSDBKLTdYYWFlSm14cW5jckp6dVMyOG9qU0FqU0JGRy13?oc=5",
+      "domain": "Bloomberg",
+      "seendate": "20260924T123443Z",
+      "date_et": "2026-09-24",
+      "time_et": "08:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -58,6 +88,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Hover Close to Historic Lows at 197,000",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblU1UEpQOVpncjlrVmhhNjFiYWpfV0tOZWd2S1EyM1g0cS0tNmUtSWFETFZ6UjMzSXl5d2JqcGtkVDlQQW5IUTVBS2xHT1BCSlJEUklUMFN2VE03RFZHcElIN0xrMm9zdDBNZEh3NWMtTkxhbElxUV9fSUFpeDNwSC1mbDFVRlRPTXV4c1ctMDRvdXVlZFQ3VUl6dzlVRF9walg3Q2c2UVZVNFd4?oc=5",
+      "domain": "Bloomberg",
+      "seendate": "20260924T000000Z",
+      "date_et": "2026-09-23",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -585,6 +630,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "U.S. weekly jobless claims fall to 196,000, lowest since mid-July",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlZ4SVFWVXB0Q29Kb0xIUG1nb05scVVhSUtqOVNtUk5KV0dSb0ZyeE1SRzRXZnFoYzBwUU5URGR4eEpsYnliejFmS2p2WDBOazRuV3pTajFxdm1vT0xLQ21IOEtmR2hUd3hTbFM3dk80TG12MXUyS1lWMkRpc3k5REtMU1ZuaHhqZGNpNXUySQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T164409Z",
+      "date_et": "2026-09-17",
+      "time_et": "12:44",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "August Housing Starts Drop to 3-Month Low as Multi-Family Units Plunge",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2tCVkpJMUZ6Y3ZXY2hjVXVIalhxdUFRZ2M1aU1mLVpMQV9NcU5mc1cyLXQwd09RdmhGTzQyU1ZaNGlBZF9mVm52bGNTY0gyc1NTMm1pWDh0TWFjVzFESnMwaTdHNXlLVU5VMU1SQldjZi1wckZ2OVZXdHhxdDJOeElkZWdVekwzeWM1Z0lxejFsZFJf?oc=5",
       "domain": "Yahoo Finance",
@@ -928,21 +988,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260916T184037Z",
-      "date_et": "2026-09-16",
-      "time_et": "14:40",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklwdWFLSm9jYTRydG4tLTQ5WU9XMFFELUxaTzlBR2RPTm5hRUluMGNHdGtSQy1Xd0ZVM05jZjY3QkpIZ1cyLTVGUnFwaWR6Zy1PMDQ2UlBOVzlwSmRzNThEN1pVMXlhQWV2WndLWEdUYXFHenVsU3E3M29zNlctRnc1N0hGUzB1NkhpM3ZlTlFGajlncG9WQ19SUQ?oc=5",
       "domain": "Yahoo Finance",
@@ -969,21 +1014,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Retail Sales Rebound More Than Expected in Broad Advance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE8xajBpYnlkLWZ4NVR4NTFrUlBoeWxLNzNoM0ZIQmN1TnJXSHVhZ0VFNlVETENWdkF4cnhFbF9adW5MOWpTc0wyNVh2dlNGSHQ3TjZxRUtwNTF0UXozeU0zNHFDc2w3QnJqdHdGREQ2Qk5FNWVqMHBreDJwYURMX0JzaFZWSlZGa0xwVGl2UXR2ZEJBS1R1cHJIU1lTU1hYcFVFaUNPZWo5U01Rb1lV?oc=5",
-      "domain": "Bloomberg",
-      "seendate": "20260916T134427Z",
-      "date_et": "2026-09-16",
-      "time_et": "09:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1093,6 +1123,36 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Retail Sales Rebound More Than Expected in Broad Advance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE8xajBpYnlkLWZ4NVR4NTFrUlBoeWxLNzNoM0ZIQmN1TnJXSHVhZ0VFNlVETENWdkF4cnhFbF9adW5MOWpTc0wyNVh2dlNGSHQ3TjZxRUtwNTF0UXozeU0zNHFDc2w3QnJqdHdGREQ2Qk5FNWVqMHBreDJwYURMX0JzaFZWSlZGa0xwVGl2UXR2ZEJBS1R1cHJIU1lTU1hYcFVFaUNPZWo5U01Rb1lV?oc=5",
+      "domain": "Bloomberg",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Watch US Retail Sales Rise 1.2% in August After Dropping in July",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWpUUm9iM3VFUXZURTcyOV9qTjJqMkVESDZobDdGTnByU3V6UmxKQ2NsTTc0S2dHRVpCU2pSbmF4YlBXWi1fVU45TENMZDFQN2J4aHRrYkdKYnhIcnM3T0JfMXBsQmlvaVZtN2psM1JZMXBXZDNLUEtqXzNYN1RhNHYtTW9WY3ltVGZ4WVdELUZaNUcyejRGeHBxWUxmM29PZC1hNFVPZThSODF5ZnRB?oc=5",
       "domain": "Bloomberg",
@@ -1134,6 +1194,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "What the August Jobs Report Could Mean for Your Paycheck — Do You Still Have Leverage?",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGdzenVab2l0cThJRlhyUmQyWDl6RVlLcmo0UUVabUw1d0kwWXRCMVE5V29ZZnZGYnk5aFRPeUEyOFlMYzR1TXhaRmhmcVIyZ1JrRlVXVzNGX3ZRSVAyeDh5dnBfVTU4dHVGa2lmNmhyWmUxVDZhVHBjWTdwTEhPVzlUbHdmOTVpbWhRNnBLYnA?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260915T070000Z",
+      "date_et": "2026-09-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1455,7 +1530,7 @@
     {
       "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -1463,7 +1538,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
