@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-24T21:24:53.365Z",
+  "generated_at": "2026-09-24T22:25:37.924Z",
   "articles": [
+    {
+      "title": "8% mortgage rates are &#x2018;not an impossibility&#x2019; as the 30-year fixed rate surges",
+      "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260924T220300Z",
+      "date_et": "2026-09-24",
+      "time_et": "18:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Costco earnings beat expectations, thanks to tariff refunds",
       "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
@@ -32,18 +47,18 @@
       "timestamp_type": "published"
     },
     {
-      "title": "8% mortgage rates are &#x2018;not an impossibility&#x2019; as the 30-year fixed rate surges",
-      "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20260924T182900Z",
+      "title": "Durable goods orders highlight economic data due Friday",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ21sZHd2VTRuSjhZV0RLbkRtd0ZPTWR2ZlJXMzl5S0pFUVZTQzdYa2Z4aWpLYkY5dnhXT2NheWRLV296aTZ2ZHZzOW9uQXF6VE9iaHVZUDFhMk1xUFNULW81azZuQnJmcnQ5ekEyeG1UZ3RKSzFMaTdXQm1hUXA2LXJLNngwdGFNYm52UmphZERHNEFEMzg5UFdUTWFDWmtOUTFTRk1rVkVSRFRGRGc5V004UUlBakk?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20260924T180717Z",
       "date_et": "2026-09-24",
-      "time_et": "14:29",
+      "time_et": "14:07",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com India",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -139,7 +154,7 @@
     {
       "title": "US Jobless Claims Slip to 197,000, Remain Historically Low",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWxDaXJ4MTA5dkYwOS0yMFVWSE1sUTFYNWZERjZUdEsxQ0ZEVWJTZDVIbExDZ3lTSmNpSy1vR0xsUnR3YWV2Q0toUkpLSFZJNGRsaGVqbW9mSFJfQ2VKNzllalVTRWlBUlpqZjZvZzhZdHNDaDdVMHBOTU1RbEdPMjR5QlpuUXN3bXoxWE1qXzROSDBKLTdYYWFlSm14cW5jckp6dVMyOG9qU0FqU0JGRy13?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260924T123443Z",
       "date_et": "2026-09-24",
       "time_et": "08:34",
@@ -147,7 +162,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -169,7 +184,7 @@
     {
       "title": "Fed again hoping for a pain-free landing from current inflation spike",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260924T103610Z",
       "date_et": "2026-09-24",
       "time_et": "06:36",
@@ -177,7 +192,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -199,7 +214,7 @@
     {
       "title": "Watch US Economy: Jobless Claims Hover Close to Historic Lows at 197,000",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblU1UEpQOVpncjlrVmhhNjFiYWpfV0tOZWd2S1EyM1g0cS0tNmUtSWFETFZ6UjMzSXl5d2JqcGtkVDlQQW5IUTVBS2xHT1BCSlJEUklUMFN2VE03RFZHcElIN0xrMm9zdDBNZEh3NWMtTkxhbElxUV9fSUFpeDNwSC1mbDFVRlRPTXV4c1ctMDRvdXVlZFQ3VUl6dzlVRF9walg3Q2c2UVZVNFd4?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260924T000000Z",
       "date_et": "2026-09-23",
       "time_et": "20:00",
@@ -207,7 +222,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -274,7 +289,7 @@
     {
       "title": "Stocks, Bonds Slip as Oil Jump Fuels Fed-Hike Bets: Markets Wrap",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkZzWldIZ1luZ21BUTFGOER1Q19LdUZ6alBnWDg1elR4QzRRYnc2dU1zOElONTN3b21DOG1JM256bmVSR1U4VTlOLTZVc3IyMm5SMHpZNXhoc1lmcFdZVnZ4dS1mUTFXOWlLb2dHQ3NVUDB4Q2puUzQtSWcweS02QkVXMXVZYm1pcGFvSVluX1hUSElK?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260922T221507Z",
       "date_et": "2026-09-22",
       "time_et": "18:15",
@@ -282,7 +297,7 @@
       "major_catalyst": false,
       "catalyst_tag": "Market move",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -574,7 +589,7 @@
     {
       "title": "Global diesel shortage likely to last into 2027 as storage tanks drain",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260921T101757Z",
       "date_et": "2026-09-21",
       "time_et": "06:17",
@@ -582,7 +597,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Oil / Supply",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -827,7 +842,7 @@
     {
       "title": "US Jobless Claims Fall to 196,000 During Holiday Week",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnhrQmFaX0NOZkhUVnNrYnFrZHlyUGd2Q3lLUWNqSTJVc250cllaS3FMWWJXQ3AxNlR4MWFURzFpbWo0bWFUMkMtSFlIa0N1cmhiWEZyQW5YdlVhUWFWWFhGT0t4VE1sQkx6SEE2NUZ6OW9manJFdkQxVFhJSnlpaHhfM0JmMWQ2M2lTbnZPTVFJQklZMGRrWGY1Z0FDTVNOTzlZUkNVWFVSYXFUbU5qdzJ6OA?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260917T132224Z",
       "date_et": "2026-09-17",
       "time_et": "09:22",
@@ -835,7 +850,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -885,7 +900,7 @@
     {
       "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX194X2lRNG4zMDdWelhacjJDX3dTc09lYVpvUml4cnQ3RnZYMk10U3NGTWdQcWRvSC11UFhIako3R01mNnd5NUdockNwVXE5UTJmT2pkTXhJemUyMlNDZzM5bHdnYk1lcURMYU53MUUxWTdXU0w3a3dvM2liSjV2ZnlCbUhMaWRXVDRFbEU3NDU2WVp0eXY5NFIxaEh0MVBJZ3NNTm15OXQ2UFluWU5ta00wNA?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260917T131535Z",
       "date_et": "2026-09-17",
       "time_et": "09:15",
@@ -893,7 +908,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1245,7 +1260,7 @@
     {
       "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1253,14 +1268,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "US Retail Sales Rebound More Than Expected in Broad Advance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE8xajBpYnlkLWZ4NVR4NTFrUlBoeWxLNzNoM0ZIQmN1TnJXSHVhZ0VFNlVETENWdkF4cnhFbF9adW5MOWpTc0wyNVh2dlNGSHQ3TjZxRUtwNTF0UXozeU0zNHFDc2w3QnJqdHdGREQ2Qk5FNWVqMHBreDJwYURMX0JzaFZWSlZGa0xwVGl2UXR2ZEJBS1R1cHJIU1lTU1hYcFVFaUNPZWo5U01Rb1lV?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1268,14 +1283,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "Watch US Retail Sales Rise 1.2% in August After Dropping in July",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWpUUm9iM3VFUXZURTcyOV9qTjJqMkVESDZobDdGTnByU3V6UmxKQ2NsTTc0S2dHRVpCU2pSbmF4YlBXWi1fVU45TENMZDFQN2J4aHRrYkdKYnhIcnM3T0JfMXBsQmlvaVZtN2psM1JZMXBXZDNLUEtqXzNYN1RhNHYtTW9WY3ltVGZ4WVdELUZaNUcyejRGeHBxWUxmM29PZC1hNFVPZThSODF5ZnRB?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260916T000000Z",
       "date_et": "2026-09-15",
       "time_et": "20:00",
@@ -1283,7 +1298,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1380,7 +1395,7 @@
     {
       "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -1388,7 +1403,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1545,7 +1560,7 @@
     {
       "title": "Here Are the Key Takeaways From the US CPI Report for August",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjg4RDZyMlFtTVZsVEVmRC1EQ0dXRi05RkdBNVNIZjlBT1h6cGtMVzhQUk5Ka0lHQTNjTVlZUTY0eGREVTB1UDhQX3NkcVVKS012bTJpQzZZek9lRFF6LXlfNVAySFB4LWxvb1UtM2U3SE1SRFZfVEQ2S09mNDdvMHNzOUVPVDNWdGtidm9kYkphMzZUcnB0aGN4ZzlSRzQ3NnZFSjluNllBMkhOd3NlZHllTWRMVTBYYUw3dllDUmFYZw?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -1553,7 +1568,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1605,7 +1620,7 @@
     {
       "title": "Watch US Producer Price Index Rises Most in Three Months on Energy Costs",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmtsaEdCS0lMZVdCbXVZUnk3UW5TVks1dHhGRVdTU2NlUy04UzRkMExZd3hRNThtZkdNRVNrU2ZDVFRjaXJvUWRjSVRBeU5KWi01bUpQNk44aERmQkhzUmtlcXcwbVIzTGFzZTk4VkRNQlg4VFV6bmZhamh5elRneWduQkJEYzBZMF9FN1h4R29qelhFeWpiWVRkZk14bXVHNkxF?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -1613,7 +1628,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1650,7 +1665,7 @@
     {
       "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -1658,7 +1673,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1815,7 +1830,7 @@
     {
       "title": "Watch Blowout Jobs Report Jolts Markets | Open Interest 9/4/2026",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0ppdnd0LWNJazJpVHBLUV84VDlsOXNEc2RZNnk3dkwwMWxNU0N4cktmeHNpWlNlY0x1M0F1QTB1eHhOcTdSbDN2RDJZOFZ1VkowMExmZzZ3ckt4aTM2RnM4N0FvMmJKVkJya0JfVmlxOGphVEkzWEUxV1JqRXV3VnA5MA?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -1823,14 +1838,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -1838,7 +1853,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1890,7 +1905,7 @@
     {
       "title": "Strong August jobs report sends yields higher",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -1898,14 +1913,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "Fed Rate Decision Still Hangs on Inflation After Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkVlLUY1UV9peGhYZ3dPLWJRZU1neUlmY1VZWW5ONjlHaml0SnRRTWRNMGNTS1NMalppYnItRDJKUWUtN25lN1p5MEpsWWRLa21JNzcyWnpWdnB4M0R5ZldsRjFRSnFPWEViU3R0aU9yd0d6Qkswb1ZLbVI3cmJaN25BRmxRQW1mR2NxQ3doUGdiNllrWkZUYkpPM1VBajl6VmdJTHQ5YVhKTEpDZUJaVg?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -1913,7 +1928,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1950,7 +1965,7 @@
     {
       "title": "Watch Key Takeaways From the US August Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV19hWk1aUTh0cHhZRkxxYThOTGhDa05IcmVEVkdqZWpkRG1qakJ6eHBXamdXb0VJM1JMQnFHd0hLR0hEeDNpSkhCWE5WcTRVWkZuRk1iWEF1TWNZdFNoNlM3RGljYkY5a3RqbW1ydlZSb3RrcGU3ZkNzb2ozYXY1RngzbEVreHBxNmJ4UG5YSVYyT0Q2MFZLMV9iRm1aaXpS?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -1958,7 +1973,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2070,7 +2085,7 @@
     {
       "title": "Watch Stocks Fall as Blowout Jobs Report Fuels Rate Hike Bets",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2psNWc5cHhDd0VfTDZ4OWJWLXBoel9neW1GOURhQm9OVHhyYm0yc01DYmJ5c2wwSkxDRWN3Sk8xamF0MmJ0WXdDMTk5Q0dTRkVMbW1FVDNETXh3VWN6d3ZyNmpRRHRub3BoZmpkNFhKaGJtanJRdUQwWFhzSFNzWDVZUmVKTlNuY2hzdVRJWQ?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2078,7 +2093,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2355,7 +2370,7 @@
     {
       "title": "US job openings rise in July after sharp downward revision in prior month",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX05YdDZEbXNDQldfbUxQUXRlTWtlX3JBRVcxdWZBVUY1SVJsSzdwVUFRN3dNTzk3UHN3Y21VOU9iWmZOb05CSU1NX0NQUE5YamNha2FtN0JzODVYbmtqUDdHaWZWZ0pMUHIteU9JSFp3bGwzZjRvMDQ1bEJENnNYV1RSRERycGpxTDZBdFVyQVlmZjJpS191T2hFQndnSFNjbjNTbEpzNVdWM2dmQXdTczRn?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260901T070000Z",
       "date_et": "2026-09-01",
       "time_et": "03:00",
@@ -2363,14 +2378,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "US Job Openings Edge Higher in Sign of Stable Labor Demand",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDdnVkllZkJlVWN2TmJSb0xYeFRNTWgwbXJuMjI2eUdqR2lOVm5vOV93R184ZVNBRnlqalVhblNoMjNhUENBbXpXLVZNX1Exd0JKYjh6T1NYTDJPcEVIQ0IzeDRycTZpR0hvMDRwMkUxVVFRTFdNMGM2bXMtYUZaOEtKRDQwV0tvWW5uS1BoX0FKa1FRVF90MWwtR1FQaU03UnkwN2o4S0RTT0xtaXc?oc=5",
-      "domain": "bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260901T070000Z",
       "date_et": "2026-09-01",
       "time_et": "03:00",
@@ -2378,7 +2393,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2488,6 +2503,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "The labor market was little changed in July, with hiring and layoffs both inching lower",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejg2YVA2X0RITElCVXhCVU5LSW9wSVNnOEduSHFqMFBWZTluR25zUUI4eVAxSGJ2ekh4UEQwSWZPVlJKQXNONk16dk80Q0JlX1Fzd3NHTXJYNExpRHV2M0hvVHI1UDhyU3V6VUZfcnAwZG5WZDBMc2ExY0JTa1hjdlFSTkJFWFhmNERJQ1JGS05tUlptdXpnenZrMHVVakF2QkVGdnlfWWR0YUtWdGIxVXNOQmVJUEF3R0xtYzZFY1RYczZCWXlkVF9MS2ZDZXVZM3BtYTNiNVlXY3c?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260901T070000Z",
+      "date_et": "2026-09-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "4 Industrial Stocks to Grab on Robust Jump in Durable Goods Orders",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUtTcEFQWktlem5GS2cwempRQmlhMnFnaURKdVAwRlJ3X3BxVnZLU0ZCX0lROC1lazVRSERVNXhuSUhSclJlRmVfUWZlWE14OHN0Sko5TVZTQ29UUmJJMGJ2WHNueFZyVUpnZTVyTjBsNmlKRjNmWlREWlhvdzVjVzNZRHJOV2Z1eWRhdk5ER0ZVSV94VFZ3Z1dQREE?oc=5",
       "domain": "Yahoo Finance",
@@ -2505,7 +2535,7 @@
     {
       "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260830T070000Z",
       "date_et": "2026-08-30",
       "time_et": "03:00",
@@ -2513,7 +2543,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2565,7 +2595,7 @@
     {
       "title": "US jobless claims dip in latest week; goods trade deficit widens in July",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWpiWEhnZFhSUlpybV9ZeWpxakU3NUJyVnAzbS10bFI2dFpzMC1wVTZPU3l2RFFydy0yYW1mS2Fjd3hkWGFxaDMxdEhOQzFvOGpET3BidmtCMDNtVDVzTVVFTGtXLV85UHNXbjhyN2VIVXRtUzFkSVo5R1k0cmo1SklxejdjVEk1WjZNOHVfQ3M3dGxiLTd1N3E1czhqOXNiQWl2UHZrWkN3NHM?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260827T070000Z",
       "date_et": "2026-08-27",
       "time_et": "03:00",
@@ -2573,7 +2603,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2760,7 +2790,7 @@
     {
       "title": "US inflation remains elevated as GDP growth outlook brightens",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260826T070000Z",
       "date_et": "2026-08-26",
       "time_et": "03:00",
@@ -2768,7 +2798,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
