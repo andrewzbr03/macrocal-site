@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:27:39.358Z",
+  "generated_at": "2026-09-24T16:27:43.052Z",
   "articles": [
     {
       "title": "Inflation could cost Republicans the Senate &#x2014; this chart shows how",
@@ -29,6 +29,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fall to two-month low as labour market stays resilient",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
+      "domain": "CNBC TV18",
+      "seendate": "20260924T131401Z",
+      "date_et": "2026-09-24",
+      "time_et": "09:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC TV18",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -1080,7 +1095,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260916T131257Z",
       "date_et": "2026-09-16",
       "time_et": "09:12",
@@ -1088,7 +1103,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2805,6 +2820,21 @@
     {
       "title": "Update: US Equity Indexes Slip as Investors Await Nvidia's Earnings After July's PCE Inflation Rate Accelerates",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjZpVzFLdnJGZFJkUWJwV1lIMVRaYndsUnpXVkc2eGlKRTNGQnBYZzVVN0RxZzFTY2YtT1p6M3ZqZEI1TS1ud2RNaHZ6Nk9EM2hKbGFyQ0cxT0R6YTNhaTlmcHBCa2xuWkpMN0pqclNadWlHVzEwYUkwclJJWFZtLTNKTTQ1Y1BEVGRCcGRNTTZSSVUy?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260826T070000Z",
+      "date_et": "2026-08-26",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Update: US Equity Indexes Decline After July PCE Inflation Rate Rises",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXVFcjhzeXZ4SGx0Nk9QWDN5ZDdCbzJmclF5cHFfbGRKUWlTZjY4dElweV81RUVKMU1Uanh3RjB3Zm5QQWJ2V0tUWVR5WUx5alBkQW9EZXdURXNqSVJ4LVNnb3BwWm8tNEE3NVoydzZ0eTFFX1U4ZXJzaUlsOUs5SmRxTWN2d3NCMW4zQXdiZnVPUQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260826T070000Z",
       "date_et": "2026-08-26",
