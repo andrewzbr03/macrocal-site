@@ -22,11 +22,13 @@ jobs:
           node-version: '22'
       - name: Refresh FinanceCalendar archive and market-impact headlines
         run: node scripts/update-data.mjs
+      - name: Refresh delayed official readings
+        run: node scripts/update-official.mjs
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/shared-feed.json data/market-headlines.json
+          git add data/shared-feed.json data/market-headlines.json data/official-readings.json
           if git diff --cached --quiet; then
             echo "No data changes"
           else
