@@ -1,0 +1,245 @@
+{
+  "generated_at": "2026-09-24T01:04:22.255Z",
+  "readings": {
+    "claims": [
+      {
+        "label": "Initial claims",
+        "value": "196K",
+        "period": "2026-09-12",
+        "url": "https://fred.stlouisfed.org/series/ICSA"
+      }
+    ],
+    "jobs": [
+      {
+        "label": "Nonfarm payroll change",
+        "value": "162K",
+        "period": "2026-08-01",
+        "url": "https://fred.stlouisfed.org/series/PAYEMS"
+      },
+      {
+        "label": "Unemployment rate",
+        "value": "4.1%",
+        "period": "2026-08-01",
+        "url": "https://fred.stlouisfed.org/series/UNRATE"
+      }
+    ],
+    "jolts": [
+      {
+        "label": "Job openings",
+        "value": "7.3M",
+        "period": "2026-07-01",
+        "url": "https://fred.stlouisfed.org/series/JTSJOL"
+      }
+    ],
+    "cpi": [
+      {
+        "label": "Headline CPI MoM",
+        "value": "0.4%",
+        "period": "2026-08-01",
+        "url": "https://fred.stlouisfed.org/series/CPIAUCSL"
+      },
+      {
+        "label": "Core CPI MoM",
+        "value": "0.3%",
+        "period": "2026-08-01",
+        "url": "https://fred.stlouisfed.org/series/CPILFESL"
+      }
+    ],
+    "pce": [
+      {
+        "label": "Headline PCE MoM",
+        "value": "0.2%",
+        "period": "2026-07-01",
+        "url": "https://fred.stlouisfed.org/series/PCEPI"
+      },
+      {
+        "label": "Core PCE MoM",
+        "value": "0.2%",
+        "period": "2026-07-01",
+        "url": "https://fred.stlouisfed.org/series/PCEPILFE"
+      }
+    ]
+  },
+  "claims_by_release": {
+    "2026-02-26": {
+      "actual": "211K",
+      "previous": "208K",
+      "period": "2026-02-21",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-03-05": {
+      "actual": "214K",
+      "previous": "211K",
+      "period": "2026-02-28",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-03-12": {
+      "actual": "213K",
+      "previous": "214K",
+      "period": "2026-03-07",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-03-19": {
+      "actual": "205K",
+      "previous": "213K",
+      "period": "2026-03-14",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-03-26": {
+      "actual": "211K",
+      "previous": "205K",
+      "period": "2026-03-21",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-04-02": {
+      "actual": "203K",
+      "previous": "211K",
+      "period": "2026-03-28",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-04-09": {
+      "actual": "218K",
+      "previous": "203K",
+      "period": "2026-04-04",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-04-16": {
+      "actual": "208K",
+      "previous": "218K",
+      "period": "2026-04-11",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-04-23": {
+      "actual": "215K",
+      "previous": "208K",
+      "period": "2026-04-18",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-04-30": {
+      "actual": "190K",
+      "previous": "215K",
+      "period": "2026-04-25",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-05-07": {
+      "actual": "199K",
+      "previous": "190K",
+      "period": "2026-05-02",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-05-14": {
+      "actual": "212K",
+      "previous": "199K",
+      "period": "2026-05-09",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-05-21": {
+      "actual": "210K",
+      "previous": "212K",
+      "period": "2026-05-16",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-05-28": {
+      "actual": "212K",
+      "previous": "210K",
+      "period": "2026-05-23",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-06-04": {
+      "actual": "225K",
+      "previous": "212K",
+      "period": "2026-05-30",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-06-11": {
+      "actual": "230K",
+      "previous": "225K",
+      "period": "2026-06-06",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-06-18": {
+      "actual": "227K",
+      "previous": "230K",
+      "period": "2026-06-13",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-06-25": {
+      "actual": "216K",
+      "previous": "227K",
+      "period": "2026-06-20",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-07-02": {
+      "actual": "217K",
+      "previous": "216K",
+      "period": "2026-06-27",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-07-09": {
+      "actual": "217K",
+      "previous": "217K",
+      "period": "2026-07-04",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-07-16": {
+      "actual": "209K",
+      "previous": "217K",
+      "period": "2026-07-11",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-07-23": {
+      "actual": "189K",
+      "previous": "209K",
+      "period": "2026-07-18",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-07-30": {
+      "actual": "198K",
+      "previous": "189K",
+      "period": "2026-07-25",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-08-06": {
+      "actual": "200K",
+      "previous": "198K",
+      "period": "2026-08-01",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-08-13": {
+      "actual": "212K",
+      "previous": "200K",
+      "period": "2026-08-08",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-08-20": {
+      "actual": "207K",
+      "previous": "212K",
+      "period": "2026-08-15",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-08-27": {
+      "actual": "204K",
+      "previous": "207K",
+      "period": "2026-08-22",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-09-03": {
+      "actual": "207K",
+      "previous": "204K",
+      "period": "2026-08-29",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-09-10": {
+      "actual": "206K",
+      "previous": "207K",
+      "period": "2026-09-05",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-09-17": {
+      "actual": "196K",
+      "previous": "206K",
+      "period": "2026-09-12",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    }
+  }
+}

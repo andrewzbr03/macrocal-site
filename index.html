@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>MacroCal — ES/NQ Macro Calendar</title>
   <meta name="description" content="A focused U.S. macro calendar for ES/NQ traders with live market context and one-click confirmation tools." />
-  <link rel="stylesheet" href="styles.css?v=23" />
+  <link rel="stylesheet" href="styles.css?v=24" />
 </head>
 <body>
   <div class="app-shell">
@@ -46,7 +46,7 @@
 
       <div class="sidebar-footer">
         <button id="exportIcs" class="btn secondary full">Export visible events (.ics)</button>
-        <p>Auto-syncs future dates hourly and preserves them after release. Older history is built into the site from the verified data collected in this chat. Live schedule data: <a href="https://www.financecalendar.com/" target="_blank" rel="noreferrer">FinanceCalendar.com</a>.</p>
+        <p>Auto-syncs future dates hourly and preserves them after release. Older history is built into the site from the verified data collected in this chat. Schedule and forecast fields: <a href="https://www.financecalendar.com/" target="_blank" rel="noreferrer">FinanceCalendar.com</a>. Delayed official readings: <a href="https://fred.stlouisfed.org/" target="_blank" rel="noreferrer">FRED</a>.</p>
       </div>
     </aside>
 
@@ -63,6 +63,8 @@
           <button id="refreshBtn" class="btn primary">Sync all dates</button>
         </div>
       </header>
+
+      <p class="trading-delay-note">Use provided sources and indicators for live updates while trading, the website will not update quickly.</p>
 
       <section class="quick-tools-strip" aria-label="Confirmation tools">
         <span class="quick-tools-label">Confirmation tools</span>
@@ -83,8 +85,8 @@
 
       <div id="notice" class="notice hidden"></div>
 
-      <details class="investing-calendar" open>
-        <summary>Live U.S. forecasts from Investing.com <span class="investing-calendar-hint">Collapse</span></summary>
+      <details class="investing-calendar">
+        <summary>Live U.S. forecasts from Investing.com <span class="investing-calendar-hint">Click to open</span></summary>
         <p>Investing.com updates this weekly calendar directly. Use its time zone control to match Eastern Time. MacroCal's event cards and archive still use the separate FinanceCalendar feed.</p>
         <div class="investing-calendar-scroll">
           <iframe
@@ -148,6 +150,6 @@
     </form>
   </dialog>
 
-  <script src="app.js?v=25"></script>
+  <script src="app.js?v=26"></script>
 </body>
 </html>

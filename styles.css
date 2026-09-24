@@ -61,15 +61,20 @@ textarea:focus { border-color: #506fb4; box-shadow: 0 0 0 3px rgba(124,156,255,.
 .metric-card small { font-size: 11px; }
 .notice { margin-bottom: 14px; border: 1px solid #5a4820; background: #231c0c; color: #f8e2a9; border-radius: 12px; padding: 11px 13px; font-size: 12px; }
 .hidden { display: none; }
+.trading-delay-note { margin: -8px 0 16px; padding: 10px 13px; border: 1px solid #5a4820; border-radius: 10px; color: #f8e2a9; background: #231c0c; font-size: 12px; line-height: 1.45; }
 .investing-calendar { margin-bottom: 18px; border: 1px solid var(--line); border-radius: 16px; background: var(--panel); overflow: hidden; }
 .investing-calendar summary { cursor: pointer; padding: 14px 16px; font-size: 14px; font-weight: 750; }
 .investing-calendar summary::marker { color: var(--accent); }
 .investing-calendar-hint { float: right; color: var(--muted); font-size: 11px; font-weight: 500; }
-.investing-calendar:not([open]) .investing-calendar-hint { display: none; }
+.investing-calendar[open] .investing-calendar-hint { display: none; }
 .investing-calendar p { margin: 0; padding: 0 16px 12px; color: var(--muted); font-size: 12px; line-height: 1.5; }
 .investing-calendar-scroll { overflow-x: auto; margin: 0 16px; background: #fff; }
 .investing-calendar iframe { display: block; width: 100%; min-width: 650px; height: 467px; border: 0; }
 .investing-calendar-credit { padding: 10px 16px 14px; color: var(--muted); font-size: 11px; }
+.official-reading-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px; }
+.official-reading { padding: 10px; border: 1px solid var(--line); border-radius: 10px; background: #0e1623; }
+.official-reading span, .official-reading small { display: block; color: var(--muted); font-size: 11px; }
+.official-reading strong { display: block; margin: 5px 0; font-size: 16px; }
 .calendar-wrap { border: 1px solid var(--line); border-radius: 18px; overflow: hidden; background: var(--panel); box-shadow: var(--shadow); }
 .weekday-row, .calendar-grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); }
 .weekday-row { background: #101827; border-bottom: 1px solid var(--line); }
