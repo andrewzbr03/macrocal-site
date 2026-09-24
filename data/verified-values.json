@@ -26,6 +26,15 @@
       "value": "198K",
       "source_url": "https://www.dol.gov/ui/data.pdf",
       "verified_at": "2026-09-24T12:34:29.490Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "forecast",
+      "value": "7.18M",
+      "source_url": "https://www.linkup.com/insights/blog/linkup-forecast-august-2026-jolts-report-by-the-bls-2",
+      "verified_at": "2026-09-24T15:35:34.773Z"
     }
   ]
 }
