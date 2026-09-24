@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:24:56.638Z",
+  "generated_at": "2026-09-24T02:26:01.550Z",
   "articles": [
     {
       "title": "Inflation could cost Republicans the Senate &#x2014; this chart shows how",
@@ -86,6 +86,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "finance.yahoo.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Why is the 30-year fixed mortgage rate high? It's not just the Fed",
+      "url": "https://finance.yahoo.com/real-estate/articles/does-fed-rate-hike-mean-144409883.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260922T144409Z",
+      "date_et": "2026-09-22",
+      "time_et": "10:44",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
       "provider": "Publisher RSS",
       "source": "finance.yahoo.com",
       "link_type": "publisher",
@@ -489,6 +504,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Fed raises rates in search of ‘timelier’ drop in inflation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2xDeHh4enVZT0pSRV9qUXNEQ3JidEtRVVZyaWJuZzVEUzhmWDFhTjNPSUh4dGwzQV8xaUhNaTBRdjI1QXpUWVlXM1BPWGFuc2VWcXdXLUdyZ0VrUDVFREM3OUlnc1JmVUd2eXh4a1hELTY5cFp5elNZVFY4U2tfTC1mUUxwWXRDcHdTbGlJc2d5cUZ6RWc?oc=5",
+      "domain": "SABC News",
+      "seendate": "20260917T042324Z",
+      "date_et": "2026-09-17",
+      "time_et": "00:23",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "SABC News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -909,6 +939,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Here Are the Key Takeaways From the US CPI Report for August",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjg4RDZyMlFtTVZsVEVmRC1EQ0dXRi05RkdBNVNIZjlBT1h6cGtMVzhQUk5Ka0lHQTNjTVlZUTY0eGREVTB1UDhQX3NkcVVKS012bTJpQzZZek9lRFF6LXlfNVAySFB4LWxvb1UtM2U3SE1SRFZfVEQ2S09mNDdvMHNzOUVPVDNWdGtidm9kYkphMzZUcnB0aGN4ZzlSRzQ3NnZFSjluNllBMkhOd3NlZHllTWRMVTBYYUw3dllDUmFYZw?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1419,6 +1464,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch Diane Swonk Says August Jobs Report Shows Mixed but Strong Labor Market Signals",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNclNPeEIwVFE5aGU2RVBhazZSYjBheGhLT3JncGRFb3dPNzhNb1hwV1NLLUZZeGEtVjZiUjBtbV9tUzdhLXFGVFVCYWRqbEpOU2VQVUluYXZhRGFETUV6ZEFJdy03dGtPRnZ5WHozOVVyQzFiLVd3c3JGQzZXZVlTcXJsdFN0b3VUUW9fR2ItN1ZDWFBsMXNpQWJfek5qY2hBc0xXTjlvM1NzUmFVS1E0?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260904T070000Z",
+      "date_et": "2026-09-04",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2019,6 +2079,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trimmed Mean PCE Inflation rate, July 2026",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNVBaQ3NrcS1OYk40UUpQZ2JvanMwb3VqV2lRZDBtckl5VUd1MjB0VEl0OUkzUFc1dnJXWTJkN3VyNjlYcUxadDFGZWxWMWc?oc=5",
+      "domain": "Federal Reserve Bank of Dallas",
+      "seendate": "20260826T070000Z",
+      "date_et": "2026-08-26",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Federal Reserve Bank of Dallas",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
