@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-24T20:27:32.193Z",
+  "generated_at": "2026-09-24T21:24:53.365Z",
   "articles": [
+    {
+      "title": "Costco earnings beat expectations, thanks to tariff refunds",
+      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260924T205400Z",
+      "date_et": "2026-09-24",
+      "time_et": "16:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trade / Sanctions",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Wall Street dips as investors focus on US-Iran war",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
@@ -630,6 +645,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Housing Starts Slide as Multifamily Projects Plunge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdll2Qk5DS3hhV2tlekhzSXMxNGFiZm9fQlFRSEt1Z0h6VmFOSVZwajJVaGhONXc1Nnh3NGRYNmZQZ2FWcjJ2R2kyMF82WmJLSHRGMGVGVE5OcUt6bkdDQ0lJT1l5V2RhY2JBQXVFaFdILUJUeFduZnEyTF9yODdVNW82Yy1xSTdJREUtVjNTYkNfTk1nZEg4dFk3M1VMZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260918T064310Z",
+      "date_et": "2026-09-18",
+      "time_et": "02:43",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
       "domain": "Reuters",
@@ -1186,9 +1216,9 @@
       "title": "Fed rate decision, Lennar earnings, US retail sales: What to Watch",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHdXcXJPcTYtcThKUUVrbFVIZTFNQ282Mld3VjBhVnJXeXFGNFdxSFF6OVpWMWxlTnhvcVFsX0hPYjV1a3JUbUtXd3gwZk1zSFVzODNVZ1AxZ1hSLXBZczNDZmI2WDE5akh3WmFzeHBKbEctR0diWHhrMG9LWk5QdzNXa0FUVzQ?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20260916T120000Z",
+      "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
-      "time_et": "08:00",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
