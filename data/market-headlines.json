@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-25T01:24:07.213Z",
+  "generated_at": "2026-09-25T02:24:57.703Z",
   "articles": [
+    {
+      "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260924T233037Z",
+      "date_et": "2026-09-24",
+      "time_et": "19:30",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Geopolitical",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "8% mortgage rates are &#x2018;not an impossibility&#x2019; as the 30-year fixed rate surges",
       "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
@@ -29,21 +44,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Wall Street dips as investors focus on US-Iran war",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260924T183605Z",
-      "date_et": "2026-09-24",
-      "time_et": "14:36",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Geopolitical",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
