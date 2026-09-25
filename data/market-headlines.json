@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:27:34.479Z",
+  "generated_at": "2026-09-25T19:23:34.057Z",
   "articles": [
     {
       "title": "This is why you might see 8% mortgage rates soon",
@@ -103,6 +103,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTVmNHdaanFJem1ZM3JDeHEzUXpYSzNUTk5tcUlBNHFCb21OMTBlNG1iMUp0LUZQa1VQSFBTR0hGMDBXU3BaUTJmbDdfeXdDc1lDSzJJbDl5LU9ZV0dMTXN1YmJNMDNTbGlXOGtVbHpRTFV6RGxfRFdJM3Z3Rnh0WW1FdXdqU2loWjZ5WUoyN3g1a2NsRHBpeGlJYmJIWFZfaVBLMGJ5aDJuM0pwOEY3WGpGa2xid3Qxd21uR0VHMUVHWjJRTmc?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20260925T124004Z",
+      "date_et": "2026-09-25",
+      "time_et": "08:40",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -990,6 +1005,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Florida consumer sentiment falls for 6th straight month as US confidence slides again",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1lXbnpaMjdzUkVhU2dsc2thRml3dVpBOS14QmRFNHp1NldrdUIzb3ZMeHo1dXI1NFhwaFVqRzc5Zm9ZZlBlVnpMVUN6c0sxQ3lKY29aX2p5T2EtTTRlOGNRXzVIejlaWEEwUld1cnVZd2tFaThvazhfejVsSWtTTE9DSkRqZzBZX09WcUg5M0o5SjJBNGk3allR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T150500Z",
+      "date_et": "2026-09-17",
+      "time_et": "11:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US jobless claims unexpectedly dip to lowest level since mid-July",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0czYi1aTVVXem9ycWZ2SHJSbGFMVUs4MW5jMXJrcldIYUh4bkpKZ0lqSV9lZEtvQ1JUQ0xBUWxnZU1nNy1nMGhfX0NDbjJ6MVBWMHYzcUhvaGluZGNEblZmZVdKLXMxRjJvTUZpZVhlUThlRXJaUjlrdy1vdk9qNGFONHZ2eXJSclJ2d2E1YVdIZ3Fkd0JR?oc=5",
       "domain": "Yahoo Finance",
@@ -1134,21 +1164,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Florida consumer sentiment falls for 6th straight month as US confidence slides again",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1lXbnpaMjdzUkVhU2dsc2thRml3dVpBOS14QmRFNHp1NldrdUIzb3ZMeHo1dXI1NFhwaFVqRzc5Zm9ZZlBlVnpMVUN6c0sxQ3lKY29aX2p5T2EtTTRlOGNRXzVIejlaWEEwUld1cnVZd2tFaThvazhfejVsSWtTTE9DSkRqZzBZX09WcUg5M0o5SjJBNGk3allR?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T070000Z",
-      "date_et": "2026-09-17",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1618,6 +1633,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260912T070000Z",
+      "date_et": "2026-09-12",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Consumer Price Index, New York-Newark-Jersey City — August 2026",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDRtRUUwYXI4YWYyclVPQncxVllMOGM5bnV5QUhkRF9heTcwa2JUV3VtOVgtSzBXTGNiOHh2LUQ1Z1l5eUN6WmJ1QTQzOUc3emNmNk1lbWFFOE1QX1F3d05hUFVjQ0ItVjBTVTFUSzV4Q2ltaWJxZEhMNjhjT3FUMmNCQzB4SEl6?oc=5",
       "domain": "Bureau of Labor Statistics (.gov)",
@@ -1629,21 +1659,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Bureau of Labor Statistics (.gov)",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260911T070000Z",
-      "date_et": "2026-09-11",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
