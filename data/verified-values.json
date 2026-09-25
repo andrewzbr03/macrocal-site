@@ -35,6 +35,69 @@
       "value": "7.18M",
       "source_url": "https://www.linkup.com/insights/blog/linkup-forecast-august-2026-jolts-report-by-the-bls-2",
       "verified_at": "2026-09-24T15:35:34.773Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "1.1%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "core",
+      "field": "previous",
+      "value": "0.4%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "previous",
+      "value": "51.7",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "previous",
+      "value": "51.9",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "previous",
+      "value": "51.5",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "previous",
+      "value": "4.0%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "previous",
+      "value": "3.3%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T03:53:26Z"
     }
   ]
 }
