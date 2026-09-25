@@ -480,9 +480,9 @@ function buildMetricRows(ev){
     const actualSource=verifiedValue(ev,spec,'actual');
     const forecastSource=verifiedValue(ev,spec,'forecast');
     const previousSource=verifiedValue(ev,spec,'previous');
-    const actual2=official?.actual??actual??extractSummaryValue(ev.actual,spec)??actualSource?.value;
-    const forecast2=forecast??extractSummaryValue(ev.forecast??ev.consensus,spec)??forecastSource?.value;
-    let previous2=official?.previous??previous??extractSummaryValue(ev.previous??ev.prior,spec)??previousSource?.value;
+    const actual2=official?.actual??actualSource?.value??actual??extractSummaryValue(ev.actual,spec);
+    const forecast2=forecastSource?.value??forecast??extractSummaryValue(ev.forecast??ev.consensus,spec);
+    let previous2=official?.previous??previousSource?.value??previous??extractSummaryValue(ev.previous??ev.prior,spec);
     let previousFallback=false;
     if(isFuture && (previous2===null||previous2===undefined||previous2==='')){
       const lastActual=actualForSpec(priorOcc,spec);
@@ -491,8 +491,8 @@ function buildMetricRows(ev){
         previousFallback=true;
       }
     }
-    const original=c?.originalPrevious??(useTop?ev.originalPrevious:null);
-    const verifiedSources=[actual==null&&actualSource,forecast==null&&forecastSource,previous==null&&previousSource].filter(Boolean);
+    const original=previousSource?.original_value??c?.originalPrevious??(useTop?ev.originalPrevious:null);
+    const verifiedSources=[actualSource,forecastSource,previousSource].filter(Boolean);
     return {id:spec.id,label:spec.label,source:spec.source,official:spec.official,verifiedSources,officialActualSource:official?.actual?official.url:null,primary:Boolean(spec.primary),noForecast:Boolean(spec.noForecast),actual:actual2,forecast:spec.noForecast?null:forecast2,previous:previous2,previousFallback,originalPrevious:original,surprise:spec.noForecast?'—':surpriseValue(actual2,forecast2)};
   });
 }
