@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:26:37.613Z",
+  "generated_at": "2026-09-25T05:25:05.345Z",
   "articles": [
     {
       "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
@@ -88,6 +88,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnhuWTRybU12TVFkbkNRWmdKeFNiN05CUDZVdkpuaFFxVC1sM3JxdWd6WjRqMzBMQTNXLUlNMkp3Y3hrWUl2bTZETDNHZHJUVUFOV1pKRzgteDY0VWtDUGZrZms4RGRDcGE4Q0c0VU5nY3JudFg3UFowQWdGS0QyQ3VpLXFsNHJwWXdHQzFuU25zOUxSYXc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260924T170139Z",
+      "date_et": "2026-09-24",
+      "time_et": "13:01",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1335,7 +1350,7 @@
     {
       "title": "August consumer spending surprise",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TYnZNM2RoNGJRRllPanloZXZSaXVLS3dvRENSMWM1RDFSSEJLRk1uTldFeHNLSmt2THcwS29FUjNmSmQ0YXFFcmowaVVJdVhoWUhGN2RlSzBjTndzVEk3am4wSE5qT2tqRTMtZVZlallHWG1r?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1343,7 +1358,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1815,7 +1830,7 @@
     {
       "title": "Fed's interest rate decision may come down to hair-splitting inflation data",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260909T070000Z",
       "date_et": "2026-09-09",
       "time_et": "03:00",
@@ -1823,7 +1838,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1845,7 +1860,7 @@
     {
       "title": "Perplexing labor market views",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92OWZxMEdkRWZzLUozcjI5djYzTkoySFoxQTlBRWJwdVJMenRMTm9BcnlzVFFlT0FnZTF2Wi1JNHdkdnJYUGJvNGNmczZSN2lYWkFDZ2ZWRHNlZmlrbXlzMzVDaFg0X2RmelNhX1dGNA?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260908T070000Z",
       "date_et": "2026-09-08",
       "time_et": "03:00",
@@ -1853,7 +1868,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2818,7 +2833,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Sticky PCE inflation leaves a divided central bank ahead of Fed's Jackson Hole retreat",
+      "title": "Sticky Inflation leaves a divided central bank ahead of Fed’s Jackson Hole Mountain Retreat",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFlhRGgzU1BqRi1qYXpvWnd0ckdPNHE1cUE2Y09KN0c5X2pNemcwTHQ2c0RqTWRZbEd2OVRyaXJlUFVJdUx6bE1oRF82WXpjQzRqQUVnd1VCX0pxcTkzNnVIcUs4dTU5UkM2ZV93WHMycF9jVzFJdmtEdldXdmZaVkJuSldEbzZ5d0Q2TEdsUzl1WFFKN2pjN0xxWVIwak96WjV2by1BVEplRlBEZk9LNXRMWlIzSG1WQVpmcVNjajZ6ZkFzV3VNWVFqR1VRRHJIVDNST2xyUE11TS1ZR0xhQW16QQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260826T070000Z",
