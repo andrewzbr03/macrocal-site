@@ -125,6 +125,42 @@
       "value": "3.3%",
       "source_url": "https://www.sca.isr.umich.edu/",
       "verified_at": "2026-09-25T03:53:26Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "forecast",
+      "value": "45.8",
+      "source_url": "https://www.investing.com/economic-calendar/michigan-consumer-expectations-900",
+      "verified_at": "2026-09-25T05:26:29Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "forecast",
+      "value": "50.9",
+      "source_url": "https://www.investing.com/economic-calendar/michigan-current-conditions-901",
+      "verified_at": "2026-09-25T05:26:29Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "forecast",
+      "value": "4.6%",
+      "source_url": "https://www.investing.com/economic-calendar/michigan-inflation-expectations-389",
+      "verified_at": "2026-09-25T05:26:29Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "forecast",
+      "value": "3.4%",
+      "source_url": "https://www.investing.com/economic-calendar/united-states-michigan-5-year-inflation-expectations-1568",
+      "verified_at": "2026-09-25T05:26:29Z"
     }
   ]
 }
