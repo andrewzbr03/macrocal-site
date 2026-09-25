@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-25T08:28:10.144Z",
+  "generated_at": "2026-09-25T09:26:59.262Z",
   "articles": [
+    {
+      "title": "Danish retail sales fall 0.6% in August",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2tWcUpmdUNsVkhQV3hkRHBvVUhwRTRTalJSeHJraWxBWGpEZFEtVVBlSG0yNzdYcE1lSk9hb0RDWWhYMWRVckw4UzRiREFsbWIteGpVRnFqSnR1aGxoR3dyWEpudFhKSkFlQjl3Yi01YkExb2NDZXJScmRkSG5oQTl1bGRGcjdaUnNUVQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T080339Z",
+      "date_et": "2026-09-25",
+      "time_et": "04:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
@@ -319,7 +334,7 @@
     {
       "title": "Stocks, Bonds Slip as Oil Jump Fuels Fed-Hike Bets: Markets Wrap",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkZzWldIZ1luZ21BUTFGOER1Q19LdUZ6alBnWDg1elR4QzRRYnc2dU1zOElONTN3b21DOG1JM256bmVSR1U4VTlOLTZVc3IyMm5SMHpZNXhoc1lmcFdZVnZ4dS1mUTFXOWlLb2dHQ3NVUDB4Q2puUzQtSWcweS02QkVXMXVZYm1pcGFvSVluX1hUSElK?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260922T221507Z",
       "date_et": "2026-09-22",
       "time_et": "18:15",
@@ -327,7 +342,7 @@
       "major_catalyst": false,
       "catalyst_tag": "Market move",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1153,21 +1168,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Fed predicts PCE inflation at 3.7% in 2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGU1YndEc1N6UlBYZTdxQ09wQjBlYmQ1cnkwRjdiXzdPeEJqLVJVd2kwYXlZRmNQQmRhdkllaWNneldmM2FoYk1EWWhIa2M0RS01X3BzZng2V0RFN1d5cGVVVFFodUFQUTgxMmI2RkMzWTd3Uk4xWWRyWEhOSEJZZg?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260916T185116Z",
-      "date_et": "2026-09-16",
-      "time_et": "14:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklwdWFLSm9jYTRydG4tLTQ5WU9XMFFELUxaTzlBR2RPTm5hRUluMGNHdGtSQy1Xd0ZVM05jZjY3QkpIZ1cyLTVGUnFwaWR6Zy1PMDQ2UlBOVzlwSmRzNThEN1pVMXlhQWV2WndLWEdUYXFHenVsU3E3M29zNlctRnc1N0hGUzB1NkhpM3ZlTlFGajlncG9WQ19SUQ?oc=5",
       "domain": "Yahoo Finance",
@@ -1282,6 +1282,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Fed predicts PCE inflation at 3.7% in 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGU1YndEc1N6UlBYZTdxQ09wQjBlYmQ1cnkwRjdiXzdPeEJqLVJVd2kwYXlZRmNQQmRhdkllaWNneldmM2FoYk1EWWhIa2M0RS01X3BzZng2V0RFN1d5cGVVVFFodUFQUTgxMmI2RkMzWTd3Uk4xWWRyWEhOSEJZZg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
