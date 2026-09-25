@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:26:59.262Z",
+  "generated_at": "2026-09-25T10:26:42.520Z",
   "articles": [
     {
       "title": "Danish retail sales fall 0.6% in August",
@@ -1852,6 +1852,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Producer Price Index, Core PPI Both Increase, Year-Over-Year Rate Accelerates",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmhXdGFWamZaYVZPRTZ2X2ROU2NLM0JFQ05hRXRvcDVMY3prYlcyVm9qRklrUUowUHppYU5SMl9XeWNRSElZTGd6YWNhVGI2SHptREpqN3E0WTU1a3I3V0NyQlhPclhZRFp5SU1BUkVqX21ES2EwZWFuWHFRNzJiLW12akVRMmNxSjFVaHNVRkJtUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260910T070000Z",
+      "date_et": "2026-09-10",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
