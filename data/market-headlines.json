@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:27:09.575Z",
+  "generated_at": "2026-09-25T08:28:10.144Z",
   "articles": [
     {
       "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
@@ -1153,6 +1153,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Fed predicts PCE inflation at 3.7% in 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGU1YndEc1N6UlBYZTdxQ09wQjBlYmQ1cnkwRjdiXzdPeEJqLVJVd2kwYXlZRmNQQmRhdkllaWNneldmM2FoYk1EWWhIa2M0RS01X3BzZng2V0RFN1d5cGVVVFFodUFQUTgxMmI2RkMzWTd3Uk4xWWRyWEhOSEJZZg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T185116Z",
+      "date_et": "2026-09-16",
+      "time_et": "14:51",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklwdWFLSm9jYTRydG4tLTQ5WU9XMFFELUxaTzlBR2RPTm5hRUluMGNHdGtSQy1Xd0ZVM05jZjY3QkpIZ1cyLTVGUnFwaWR6Zy1PMDQ2UlBOVzlwSmRzNThEN1pVMXlhQWV2WndLWEdUYXFHenVsU3E3M29zNlctRnc1N0hGUzB1NkhpM3ZlTlFGajlncG9WQ19SUQ?oc=5",
       "domain": "Yahoo Finance",
@@ -1267,21 +1282,6 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Fed predicts PCE inflation at 3.7% in 2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGU1YndEc1N6UlBYZTdxQ09wQjBlYmQ1cnkwRjdiXzdPeEJqLVJVd2kwYXlZRmNQQmRhdkllaWNneldmM2FoYk1EWWhIa2M0RS01X3BzZng2V0RFN1d5cGVVVFFodUFQUTgxMmI2RkMzWTd3Uk4xWWRyWEhOSEJZZg?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260916T070000Z",
-      "date_et": "2026-09-16",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -1650,6 +1650,21 @@
     {
       "title": "Michigan Consumer Sentiment Index Falls More Than Expected in Preliminary September Survey",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1BzOHdJdDRtVFJKSXktZms2UHI0MEFRY1hzUkRQbFc4VFdXb0RKcHBRZGRFdHNZS29NR09KcWtXQ1RuNWFmVk9HX1lLNmJ6aTc0VXVwOVBpZ1N3RjdUMHFGOW1VY3BIWUJCLUlid2JuRDkzaXN5ajhSSHY4dU9qSDdFbDFDOGNJUVRIdGNLRjJfS0hSOTgzOGFJLWxQZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Turkey retail sales growth eases to 16-month low",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMl84dXlWbDR1TkFjU1hRWTJzWW5nNFUtTGN0MXZ3ajhyVjBSTDJZcUQ5Wk5YSEl6cHNxZlVIdjFNRkxBR2RLMWlQQ3pxN2NUa3piUXZ5dmo2VzQzcm5TNkUyT2JGVENfREpWdHhpbDVxdFpZVUYtRDctT0JrQUJCYXVNX0dsMkdSYVpONG1NWlVYQzJP?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
