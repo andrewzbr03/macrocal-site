@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:33:52.155Z",
+  "generated_at": "2026-09-25T01:24:07.213Z",
   "articles": [
     {
       "title": "8% mortgage rates are &#x2018;not an impossibility&#x2019; as the 30-year fixed rate surges",
@@ -43,6 +43,21 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable goods orders highlight economic data due Friday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3BfclJKZFhUMG9LUmpaVk1MclRDZGRiR1ltcWx1ZnZwOTRVNlMtMDhPcl9wU3RzaUc4bFhYZFRIcENmcXYydlhZS0c2NUpES0tjTlpWYlVBYlFKTm5ZZWdiOGxSZEprWWNDRW1ZZWMtZEN4YzNLenFjQlhvZ2cybUhmSlN6TTdQRy1xQkM0RmJ4c1Iwdl8wcEFDWUtESU8yWmY0NDRnbkxjeVN1bDBmMnhudVhvWW8?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20260924T180726Z",
+      "date_et": "2026-09-24",
+      "time_et": "14:07",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -494,6 +509,21 @@
       "provider": "Publisher RSS",
       "source": "finance.yahoo.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Retail sales growth in Poland eases to 3.8%",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWJCNnZEaGVhVTdodjc2cGFodWo5N0l2dzBaZlRVOU1zM0RUNk4zbGRIMHVScFFfNzZqWG4wRzlKdVl6aC1mQ2pLNm9KdzBuZFZRTUJwT2h0RXJjWGowSV9qcFdCUGZxWnlobzk4cHVXWk9CczdvU2JKSXZuLUZWcnlhd2p4MEI4eWVVRGU0MHFwVlVV?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260922T121830Z",
+      "date_et": "2026-09-22",
+      "time_et": "08:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -1584,6 +1614,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan Consumer Sentiment Index Falls More Than Expected in Preliminary September Survey",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1BzOHdJdDRtVFJKSXktZms2UHI0MEFRY1hzUkRQbFc4VFdXb0RKcHBRZGRFdHNZS29NR09KcWtXQ1RuNWFmVk9HX1lLNmJ6aTc0VXVwOVBpZ1N3RjdUMHFGOW1VY3BIWUJCLUlid2JuRDkzaXN5ajhSSHY4dU9qSDdFbDFDOGNJUVRIdGNLRjJfS0hSOTgzOGFJLWxQZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
