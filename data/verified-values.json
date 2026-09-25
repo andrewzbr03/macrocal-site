@@ -68,18 +68,20 @@
       "filter_id": "durable",
       "metric_id": "headline",
       "field": "previous",
-      "value": "1.1%",
-      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
-      "verified_at": "2026-09-25T03:53:26Z"
+      "value": "0.9%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/pdf/table1a.pdf",
+      "verified_at": "2026-09-25T14:51:49.767Z",
+      "original_value": "1.1%"
     },
     {
       "date": "2026-09-25",
       "filter_id": "durable",
       "metric_id": "core",
       "field": "previous",
-      "value": "0.4%",
-      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
-      "verified_at": "2026-09-25T03:53:26Z"
+      "value": "0.7%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/pdf/table1a.pdf",
+      "verified_at": "2026-09-25T14:51:49.767Z",
+      "original_value": "0.4%"
     },
     {
       "date": "2026-09-25",
@@ -179,6 +181,69 @@
       "value": "89.4",
       "source_url": "https://abc6onyourside.com/news/nation-world/consumers-still-pretty-downbeat-as-confidence-slips-again-in-august-the-conference-board-consumer-confidence-index",
       "verified_at": "2026-09-25T12:37:54.435Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "0.0%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/pdf/table1a.pdf",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "core",
+      "field": "actual",
+      "value": "0.3%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/pdf/table1a.pdf",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "actual",
+      "value": "48.1",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "actual",
+      "value": "50.9",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "actual",
+      "value": "46.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "actual",
+      "value": "4.6%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "actual",
+      "value": "3.4%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-09-25T14:51:49.767Z"
     }
   ]
 }
