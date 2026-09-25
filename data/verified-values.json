@@ -161,6 +161,24 @@
       "value": "3.4%",
       "source_url": "https://www.investing.com/economic-calendar/united-states-michigan-5-year-inflation-expectations-1568",
       "verified_at": "2026-09-25T05:26:29Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "previous",
+      "value": "7.271M",
+      "source_url": "https://www.bls.gov/news.release/jolts.htm",
+      "verified_at": "2026-09-25T12:37:54.435Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "previous",
+      "value": "89.4",
+      "source_url": "https://abc6onyourside.com/news/nation-world/consumers-still-pretty-downbeat-as-confidence-slips-again-in-august-the-conference-board-consumer-confidence-index",
+      "verified_at": "2026-09-25T12:37:54.435Z"
     }
   ]
 }
