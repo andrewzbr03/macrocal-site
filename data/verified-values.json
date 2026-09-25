@@ -40,6 +40,33 @@
       "date": "2026-09-25",
       "filter_id": "durable",
       "metric_id": "headline",
+      "field": "forecast",
+      "value": "-0.3%",
+      "source_url": "https://www.marketscreener.com/news/consumer-sentiment-on-tap-data-week-ahead-ce785aded18cf22d",
+      "verified_at": "2026-09-25T04:08:32Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "core",
+      "field": "forecast",
+      "value": "0.6%",
+      "source_url": "https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm",
+      "verified_at": "2026-09-25T04:08:32Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "forecast",
+      "value": "47.8",
+      "source_url": "https://www.marketscreener.com/news/consumer-sentiment-on-tap-data-week-ahead-ce785aded18cf22d",
+      "verified_at": "2026-09-25T04:08:32Z"
+    },
+    {
+      "date": "2026-09-25",
+      "filter_id": "durable",
+      "metric_id": "headline",
       "field": "previous",
       "value": "1.1%",
       "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
