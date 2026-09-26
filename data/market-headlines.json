@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:24:53.775Z",
+  "generated_at": "2026-09-26T15:24:58.357Z",
   "articles": [
     {
       "title": "Wall Street week ahead: consumer confidence, inflation, employment updates - ABC News",
@@ -467,6 +467,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Statistics Canada reports retail sales down 0.7% in July at $73.7B",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTllcXdEeXo5dEJsNENtWkRCSUhRODgzTHI4bGxHN0FxY3dPSkdwRXJfemtsdGJMRTdJUW9oNTdwUjlidmw3bGYyUnN5RFk5bm11a2xSRHR3dF82VENZcFpzQkk0RDBXODhzVHlBdGpNQ0diRnJRM3JrQ3FtV05PY1FhUk4tczVhQW5EWHZYaXZlTWhtMkRsQmY4WnhUWG44OERHOHZBWFN5MHIyemNiaE1CQWJHVFh1TEVLRWZB?oc=5",
+      "domain": "BNN Bloomberg",
+      "seendate": "20260924T132524Z",
+      "date_et": "2026-09-24",
+      "time_et": "09:25",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "BNN Bloomberg",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US jobless claims fall to two-month low as labour market stays resilient",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
       "domain": "CNBC TV18",
@@ -499,7 +514,7 @@
     {
       "title": "US Jobless Claims Slip to 197,000, Remain Historically Low",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWxDaXJ4MTA5dkYwOS0yMFVWSE1sUTFYNWZERjZUdEsxQ0ZEVWJTZDVIbExDZ3lTSmNpSy1vR0xsUnR3YWV2Q0toUkpLSFZJNGRsaGVqbW9mSFJfQ2VKNzllalVTRWlBUlpqZjZvZzhZdHNDaDdVMHBOTU1RbEdPMjR5QlpuUXN3bXoxWE1qXzROSDBKLTdYYWFlSm14cW5jckp6dVMyOG9qU0FqU0JGRy13?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260924T124855Z",
       "date_et": "2026-09-24",
       "time_et": "08:48",
@@ -507,7 +522,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1170,6 +1185,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US housing starts unexpectedly tumble 2.6% in August",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjZpT1B0SFJqcVp2Z2xMVTl5WjR3ZHc5MW9aeldELWpjaVVtU2t5c0p0bUdFbk5CbjdkNjlQODhka2M4cGM2cG1sT3lfNDZMaVphdWVyT2JBcHV4d2pMaE5YTk1rQ1U3OUJ0WVpXQl81c1phT1pHd05Ca3RTLWs4RDQxc1huZ2ljSVNObUFibEQzSkpVZGxxWW9qN0dCTjVk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T143336Z",
+      "date_et": "2026-09-17",
+      "time_et": "10:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US jobless claims fall to lowest since July, signalling stability in labour market",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHRwb2tpTzVPM0FxSzR2OS1WODRaYXdsdm8wVXlwYW1CVHpVT0kyWmJXcHpOOUdOR0QwSFRBTHRBTFpkcDh5Yk1oY293bjB3VWxSdW5OQTd2RUtHSC1aS3A5cklUT1JTdWREVlhMMWZjZ3FjZE5uVnhUSmJEanNMYXFpOVZtM2RoWjhBM1djN19yX0RaRDJud3Z5Z0VCSU82dWxxOVFFWDFSTjFKVFVoeFpTOGNWT0hxRzN6N3JXT0pvaWPSAcgBQVVfeXFMTjN0NW92Z1lpNGdoWXRwY1ZTVU1MRFJqLVJFNG5kZWowWUZXNFQxMV9QTGp5TXE5VThFTnVSY001UnNyVHdGTnU4TjVmUWZiRENSc1BrZFpOMk5IdVNraUNLMy1PUTl0SFFuMEtCZ3JaYXV4b2RHLThPcjZkbnlmaUtjR2FzY1Z1Qm5LLUdxNks1cDBtYkZJLVNRV3c3Zmo4WDZfWUFxcVhzWEd6TmJSOEJTZ1ljQTZzaTBqQTRsM0pLNkJ5RXZ6dEQ?oc=5",
       "domain": "CNBC TV18",
@@ -1305,7 +1335,7 @@
     {
       "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX194X2lRNG4zMDdWelhacjJDX3dTc09lYVpvUml4cnQ3RnZYMk10U3NGTWdQcWRvSC11UFhIako3R01mNnd5NUdockNwVXE5UTJmT2pkTXhJemUyMlNDZzM5bHdnYk1lcURMYU53MUUxWTdXU0w3a3dvM2liSjV2ZnlCbUhMaWRXVDRFbEU3NDU2WVp0eXY5NFIxaEh0MVBJZ3NNTm15OXQ2UFluWU5ta00wNA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
       "time_et": "03:00",
@@ -1313,7 +1343,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1335,7 +1365,7 @@
     {
       "title": "US Jobless Claims Fall to 196,000 During Holiday Week",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnhrQmFaX0NOZkhUVnNrYnFrZHlyUGd2Q3lLUWNqSTJVc250cllaS3FMWWJXQ3AxNlR4MWFURzFpbWo0bWFUMkMtSFlIa0N1cmhiWEZyQW5YdlVhUWFWWFhGT0t4VE1sQkx6SEE2NUZ6OW9manJFdkQxVFhJSnlpaHhfM0JmMWQ2M2lTbnZPTVFJQklZMGRrWGY1Z0FDTVNOTzlZUkNVWFVSYXFUbU5qdzJ6OA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
       "time_et": "03:00",
@@ -1343,7 +1373,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1528,21 +1558,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "August US Retail Sales Rise More Than Expected, Ex-Auto Sales Accelerate",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVMb1FNQ3plZUNhZ3IydkhteGVoNm5QTmxvTzlTOUNXLTZDamRsMXpqd3U0MTE0OElHd3RTQkxlbTZoQk9ReHNhMDVtYTU1MFdTT1M1YVJfejhuNnJJQW52dllVbVhTa08tVkotN1pSWlBRTERENlVzeXZJQTQ5VmRiSy1qVkNzSUFtS3Nn?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260916T124414Z",
-      "date_et": "2026-09-16",
-      "time_et": "08:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Retail sales rise a better-than-expected 1.2% in August after shoppers pulled back in July",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFRhMlZkbUctaVZXSGNEdENDSnRsMHZMT0lIb2hkRUZCWVBNcXp1aTY3emdyV2UwblBkMUhmNVU2c1RSWUdVT0dUT1ktMVVPZEtNQkhfV3hjTmpDQmFQaGdRSER5OVRfVVgzb1hmdnN5QnpBWlN0MVhOdE1jRTJxRFh3NUJWZENrcU5nZGM1bWdXc2pfRXc?oc=5",
       "domain": "Yahoo Finance",
@@ -1567,6 +1582,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Retail Sales Rise More Than Expected, Ex-Auto Sales Accelerate",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVMb1FNQ3plZUNhZ3IydkhteGVoNm5QTmxvTzlTOUNXLTZDamRsMXpqd3U0MTE0OElHd3RTQkxlbTZoQk9ReHNhMDVtYTU1MFdTT1M1YVJfejhuNnJJQW52dllVbVhTa08tVkotN1pSWlBRTERENlVzeXZJQTQ5VmRiSy1qVkNzSUFtS3Nn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -1680,7 +1710,7 @@
     {
       "title": "US Retail Sales Rebound More Than Expected in Broad Advance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE8xajBpYnlkLWZ4NVR4NTFrUlBoeWxLNzNoM0ZIQmN1TnJXSHVhZ0VFNlVETENWdkF4cnhFbF9adW5MOWpTc0wyNVh2dlNGSHQ3TjZxRUtwNTF0UXozeU0zNHFDc2w3QnJqdHdGREQ2Qk5FNWVqMHBreDJwYURMX0JzaFZWSlZGa0xwVGl2UXR2ZEJBS1R1cHJIU1lTU1hYcFVFaUNPZWo5U01Rb1lV?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1688,7 +1718,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1710,7 +1740,7 @@
     {
       "title": "Watch US Retail Sales Rise 1.2% in August After Dropping in July",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWpUUm9iM3VFUXZURTcyOV9qTjJqMkVESDZobDdGTnByU3V6UmxKQ2NsTTc0S2dHRVpCU2pSbmF4YlBXWi1fVU45TENMZDFQN2J4aHRrYkdKYnhIcnM3T0JfMXBsQmlvaVZtN2psM1JZMXBXZDNLUEtqXzNYN1RhNHYtTW9WY3ltVGZ4WVdELUZaNUcyejRGeHBxWUxmM29PZC1hNFVPZThSODF5ZnRB?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260916T000000Z",
       "date_et": "2026-09-15",
       "time_et": "20:00",
@@ -1718,7 +1748,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1764,21 +1794,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Economist stunned by ‘blockbuster’ August jobs report with 162,000 roles",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVHlXSTgwak5zc0sza3Rad2RwT3ZXR3pLc0ZmMXJNdzhfbkpkWU1pQkF0WnJHYloxV2hqdHVJNEtmZ0N6UW5iUzhvV1ZfRi0tNG9qb2JKVWZjV0U?oc=5",
-      "domain": "Fox Business",
-      "seendate": "20260912T070000Z",
-      "date_et": "2026-09-12",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2130,7 +2145,7 @@
     {
       "title": "Watch US Producer Price Index Rises Most in Three Months on Energy Costs",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmtsaEdCS0lMZVdCbXVZUnk3UW5TVks1dHhGRVdTU2NlUy04UzRkMExZd3hRNThtZkdNRVNrU2ZDVFRjaXJvUWRjSVRBeU5KWi01bUpQNk44aERmQkhzUmtlcXcwbVIzTGFzZTk4VkRNQlg4VFV6bmZhamh5elRneWduQkJEYzBZMF9FN1h4R29qelhFeWpiWVRkZk14bXVHNkxF?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -2138,7 +2153,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2394,6 +2409,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Economist stunned by ‘blockbuster’ August jobs report with 162,000 roles",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVHlXSTgwak5zc0sza3Rad2RwT3ZXR3pLc0ZmMXJNdzhfbkpkWU1pQkF0WnJHYloxV2hqdHVJNEtmZ0N6UW5iUzhvV1ZfRi0tNG9qb2JKVWZjV0U?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20260904T070000Z",
+      "date_et": "2026-09-04",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
