@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:23:37.356Z",
+  "generated_at": "2026-09-26T14:24:53.775Z",
   "articles": [
     {
       "title": "Wall Street week ahead: consumer confidence, inflation, employment updates - ABC News",
@@ -1515,7 +1515,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260916T131127Z",
       "date_et": "2026-09-16",
       "time_et": "09:11",
@@ -1523,7 +1523,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1590,7 +1590,7 @@
     {
       "title": "U.S. retail sales rise 1.2% month-over-month in August",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEZYYndMZzJvQmVFM3ZRejRrYWRoTHh6aW95N1ZXbmY3U3MtZkxzOHhOUnNkU3VXNjZ1b05BWlo5dzN1UkFxcDU0b0t3V0t3ZUxGWU95elhUNkhzd1VIaDhYczkxNy1oR2k4Sm1fWGwxLUtwSXlfVFEwWE1BMldveDZSR2k3cVRxaTBuSkx1dWhPN2ZiRlloSVhYMmZBQXd5M0ZRUlFEcmtrRm5Xamh0VURiZw?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1598,7 +1598,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1965,7 +1965,7 @@
     {
       "title": "Here Are the Key Takeaways From the US CPI Report for August",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjg4RDZyMlFtTVZsVEVmRC1EQ0dXRi05RkdBNVNIZjlBT1h6cGtMVzhQUk5Ka0lHQTNjTVlZUTY0eGREVTB1UDhQX3NkcVVKS012bTJpQzZZek9lRFF6LXlfNVAySFB4LWxvb1UtM2U3SE1SRFZfVEQ2S09mNDdvMHNzOUVPVDNWdGtidm9kYkphMzZUcnB0aGN4ZzlSRzQ3NnZFSjluNllBMkhOd3NlZHllTWRMVTBYYUw3dllDUmFYZw?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -1973,7 +1973,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2025,6 +2025,36 @@
     {
       "title": "CPI Inflation Came Hot: Watch These Stocks If Kevin Warsh Hikes Next Week",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGV3eldsVTBSNVREZGF4aVdnSWFfLW11R1pvRjI4VldBOWNUR0dJTExwdkdIUGxRSnNfR3B4eHFjbkZCUlhBZzQyZkVyUGxCWU1rb29rd0xQRTJ0a0MxQmxJLU1JSGhxMVBEczhpZFlRQmU3d3V0dEpPRFp6ZVdTR0gxTlJSSkEwTk42TkxTS2RHVnNMdXNqTg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Sentiment Falls as Year-Ahead Inflation Outlook Hits Highest Since June",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1JGdWJNejdrN0xPUjZKN3NwcHpLM2hXeFIydlFYeVhra0xHbTE2OUUzUmZJWUV4ZkdIbmVlWnVqbzJ2R1F3Wmo2YkNYLTVtT1F0M0dCWTJoNmlYSTVCX3cwclNrWlpkcWxqcVk3V2FULWVvOXJyNENNeXZQUXlfb0RJSXNDSUJydkgwQjcyVk8xbHpCOE10X1U3UDdmcHc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGJQaWQ1bjhIamRNVDEyblRzb1FFUms2RVdoS3VSTDczYlV2V2RjVjJtRGV5YUdTUGpBQUZMOGZFcDk5LVktYm5JM2NqLWdYZGFZSG1KbGxMUWY3N2RjbUFIcXp2ejRfWGt5QTFyTm5WMngtc2h1TXA4Y1hVX2lOeVVMOTNQaFZXSVhkdGJPMlJ0Smt1TFpCOVZXMUlVSDZfOVd2UQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
@@ -2370,7 +2400,7 @@
     {
       "title": "Watch Blowout Jobs Report Jolts Markets | Open Interest 9/4/2026",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0ppdnd0LWNJazJpVHBLUV84VDlsOXNEc2RZNnk3dkwwMWxNU0N4cktmeHNpWlNlY0x1M0F1QTB1eHhOcTdSbDN2RDJZOFZ1VkowMExmZzZ3ckt4aTM2RnM4N0FvMmJKVkJya0JfVmlxOGphVEkzWEUxV1JqRXV3VnA5MA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2378,7 +2408,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2460,7 +2490,7 @@
     {
       "title": "Fed Rate Decision Still Hangs on Inflation After Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkVlLUY1UV9peGhYZ3dPLWJRZU1neUlmY1VZWW5ONjlHaml0SnRRTWRNMGNTS1NMalppYnItRDJKUWUtN25lN1p5MEpsWWRLa21JNzcyWnpWdnB4M0R5ZldsRjFRSnFPWEViU3R0aU9yd0d6Qkswb1ZLbVI3cmJaN25BRmxRQW1mR2NxQ3doUGdiNllrWkZUYkpPM1VBajl6VmdJTHQ5YVhKTEpDZUJaVg?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2468,7 +2498,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2505,7 +2535,7 @@
     {
       "title": "Watch Key Takeaways From the US August Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV19hWk1aUTh0cHhZRkxxYThOTGhDa05IcmVEVkdqZWpkRG1qakJ6eHBXamdXb0VJM1JMQnFHd0hLR0hEeDNpSkhCWE5WcTRVWkZuRk1iWEF1TWNZdFNoNlM3RGljYkY5a3RqbW1ydlZSb3RrcGU3ZkNzb2ozYXY1RngzbEVreHBxNmJ4UG5YSVYyT0Q2MFZLMV9iRm1aaXpS?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2513,7 +2543,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2625,7 +2655,7 @@
     {
       "title": "Watch Stocks Fall as Blowout Jobs Report Fuels Rate Hike Bets",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2psNWc5cHhDd0VfTDZ4OWJWLXBoel9neW1GOURhQm9OVHhyYm0yc01DYmJ5c2wwSkxDRWN3Sk8xamF0MmJ0WXdDMTk5Q0dTRkVMbW1FVDNETXh3VWN6d3ZyNmpRRHRub3BoZmpkNFhKaGJtanJRdUQwWFhzSFNzWDVZUmVKTlNuY2hzdVRJWQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2633,7 +2663,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2670,7 +2700,7 @@
     {
       "title": "Watch Diane Swonk Says August Jobs Report Shows Mixed but Strong Labor Market Signals",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNclNPeEIwVFE5aGU2RVBhazZSYjBheGhLT3JncGRFb3dPNzhNb1hwV1NLLUZZeGEtVjZiUjBtbV9tUzdhLXFGVFVCYWRqbEpOU2VQVUluYXZhRGFETUV6ZEFJdy03dGtPRnZ5WHozOVVyQzFiLVd3c3JGQzZXZVlTcXJsdFN0b3VUUW9fR2ItN1ZDWFBsMXNpQWJfek5qY2hBc0xXTjlvM1NzUmFVS1E0?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2678,7 +2708,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2955,7 +2985,7 @@
     {
       "title": "US Job Openings Edge Higher in Sign of Stable Labor Demand",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDdnVkllZkJlVWN2TmJSb0xYeFRNTWgwbXJuMjI2eUdqR2lOVm5vOV93R184ZVNBRnlqalVhblNoMjNhUENBbXpXLVZNX1Exd0JKYjh6T1NYTDJPcEVIQ0IzeDRycTZpR0hvMDRwMkUxVVFRTFdNMGM2bXMtYUZaOEtKRDQwV0tvWW5uS1BoX0FKa1FRVF90MWwtR1FQaU03UnkwN2o4S0RTT0xtaXc?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260901T070000Z",
       "date_et": "2026-09-01",
       "time_et": "03:00",
@@ -2963,7 +2993,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
