@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:25:52.681Z",
+  "generated_at": "2026-09-26T17:24:37.691Z",
   "articles": [
     {
       "title": "Tax-free bond yields are in a sweet spot. Get in before it&#x2019;s too late.",
@@ -1573,21 +1573,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "August US Retail Sales Rise More Than Expected, Ex-Auto Sales Accelerate",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVMb1FNQ3plZUNhZ3IydkhteGVoNm5QTmxvTzlTOUNXLTZDamRsMXpqd3U0MTE0OElHd3RTQkxlbTZoQk9ReHNhMDVtYTU1MFdTT1M1YVJfejhuNnJJQW52dllVbVhTa08tVkotN1pSWlBRTERENlVzeXZJQTQ5VmRiSy1qVkNzSUFtS3Nn?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260916T124414Z",
-      "date_et": "2026-09-16",
-      "time_et": "08:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Retail sales rise a better-than-expected 1.2% in August after shoppers pulled back in July",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFRhMlZkbUctaVZXSGNEdENDSnRsMHZMT0lIb2hkRUZCWVBNcXp1aTY3emdyV2UwblBkMUhmNVU2c1RSWUdVT0dUT1ktMVVPZEtNQkhfV3hjTmpDQmFQaGdRSER5OVRfVVgzb1hmdnN5QnpBWlN0MVhOdE1jRTJxRFh3NUJWZENrcU5nZGM1bWdXc2pfRXc?oc=5",
       "domain": "Yahoo Finance",
@@ -1612,6 +1597,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Retail Sales Rise More Than Expected, Ex-Auto Sales Accelerate",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVMb1FNQ3plZUNhZ3IydkhteGVoNm5QTmxvTzlTOUNXLTZDamRsMXpqd3U0MTE0OElHd3RTQkxlbTZoQk9ReHNhMDVtYTU1MFdTT1M1YVJfejhuNnJJQW52dllVbVhTa08tVkotN1pSWlBRTERENlVzeXZJQTQ5VmRiSy1qVkNzSUFtS3Nn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
