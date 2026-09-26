@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T06:29:57.084Z",
+  "generated_at": "2026-09-26T07:24:32.771Z",
   "articles": [
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -1125,21 +1125,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Florida consumer sentiment falls for 6th straight month as US confidence slides again",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1lXbnpaMjdzUkVhU2dsc2thRml3dVpBOS14QmRFNHp1NldrdUIzb3ZMeHo1dXI1NFhwaFVqRzc5Zm9ZZlBlVnpMVUN6c0sxQ3lKY29aX2p5T2EtTTRlOGNRXzVIejlaWEEwUld1cnVZd2tFaThvazhfejVsSWtTTE9DSkRqZzBZX09WcUg5M0o5SjJBNGk3allR?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T150500Z",
-      "date_et": "2026-09-17",
-      "time_et": "11:05",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US jobless claims unexpectedly dip to lowest level since mid-July",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0czYi1aTVVXem9ycWZ2SHJSbGFMVUs4MW5jMXJrcldIYUh4bkpKZ0lqSV9lZEtvQ1JUQ0xBUWxnZU1nNy1nMGhfX0NDbjJ6MVBWMHYzcUhvaGluZGNEblZmZVdKLXMxRjJvTUZpZVhlUThlRXJaUjlrdy1vdk9qNGFONHZ2eXJSclJ2d2E1YVdIZ3Fkd0JR?oc=5",
       "domain": "Yahoo Finance",
@@ -1269,6 +1254,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Florida consumer sentiment falls for 6th straight month as US confidence slides again",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1lXbnpaMjdzUkVhU2dsc2thRml3dVpBOS14QmRFNHp1NldrdUIzb3ZMeHo1dXI1NFhwaFVqRzc5Zm9ZZlBlVnpMVUN6c0sxQ3lKY29aX2p5T2EtTTRlOGNRXzVIejlaWEEwUld1cnVZd2tFaThvazhfejVsSWtTTE9DSkRqZzBZX09WcUg5M0o5SjJBNGk3allR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1993,6 +1993,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "CPI Inflation Came Hot: Watch These Stocks If Kevin Warsh Hikes Next Week",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGV3eldsVTBSNVREZGF4aVdnSWFfLW11R1pvRjI4VldBOWNUR0dJTExwdkdIUGxRSnNfR3B4eHFjbkZCUlhBZzQyZkVyUGxCWU1rb29rd0xQRTJ0a0MxQmxJLU1JSGhxMVBEczhpZFlRQmU3d3V0dEpPRFp6ZVdTR0gxTlJSSkEwTk42TkxTS2RHVnNMdXNqTg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "(LEAD) Seoul shares open sharply lower, tracking U.S. losses, amid inflation woes",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GeGo0ZXN5YzFncVZROV9KeUgxZVJ2MklSMmd4V0xBaXppek1vODhncTlIaFQ3N2ZfOF8xNmdZVmlXbFFIN2s1bGtjaDlKMm5QLTNiQVBEQ1Z4QQ?oc=5",
       "domain": "Yonhap News Agency",
@@ -2580,7 +2595,7 @@
     {
       "title": "Watch Stocks Fall as Blowout Jobs Report Fuels Rate Hike Bets",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2psNWc5cHhDd0VfTDZ4OWJWLXBoel9neW1GOURhQm9OVHhyYm0yc01DYmJ5c2wwSkxDRWN3Sk8xamF0MmJ0WXdDMTk5Q0dTRkVMbW1FVDNETXh3VWN6d3ZyNmpRRHRub3BoZmpkNFhKaGJtanJRdUQwWFhzSFNzWDVZUmVKTlNuY2hzdVRJWQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -2588,7 +2603,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
