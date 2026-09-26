@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:24:52.687Z",
+  "generated_at": "2026-09-26T04:25:29.760Z",
   "articles": [
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -439,7 +439,7 @@
     {
       "title": "US jobless claims fall to two-month low as labour market stays resilient",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
-      "domain": "CNBC TV18",
+      "domain": "cnbctv18.com",
       "seendate": "20260924T131401Z",
       "date_et": "2026-09-24",
       "time_et": "09:14",
@@ -447,7 +447,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "CNBC TV18",
+      "source": "cnbctv18.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2274,6 +2274,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzkwVWZXSXRVZHc3V2lJakNMRXBMd2NqZHZ3NlBKSm9NWnh3ZEVtOXRqUzY3UE8tM1otWUNQemF0VHdhbmYwdWQ5a2Rub1ZMbmREZ25iLWZSVnhBQWVsdUlEdE55WW84b19zS2J1S2x1TTlmWkFjUWtSS1ZWRnJFU182bnl3My1rZ0xPeVBfVVZ6VlpWTDJva3NUbEY0blJOTXFaLWhfR29hdktrWERqLW1hMzAxT2xKMGpR?oc=5",
+      "domain": "AP News",
+      "seendate": "20260905T070000Z",
+      "date_et": "2026-09-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
