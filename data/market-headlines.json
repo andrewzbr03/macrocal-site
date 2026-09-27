@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:24:54.746Z",
+  "generated_at": "2026-09-27T12:29:58.452Z",
   "articles": [
     {
       "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
@@ -89,21 +89,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Wall St Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260925T213532Z",
-      "date_et": "2026-09-25",
-      "time_et": "17:35",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -389,6 +374,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260925T100600Z",
+      "date_et": "2026-09-25",
+      "time_et": "06:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
