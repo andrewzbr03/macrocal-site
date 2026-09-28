@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-28T10:29:15.156Z",
+  "generated_at": "2026-09-28T11:27:26.608Z",
   "articles": [
+    {
+      "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
+      "url": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260928T104700Z",
+      "date_et": "2026-09-28",
+      "time_et": "06:47",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Financial stress",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
       "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
@@ -49,7 +64,7 @@
     {
       "title": "Opinion: Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXdEb3VLQV9GeWF4cjFmYmd4eS0tUVNkeWFSNVY1RHUwNFFTUHQ0YVQyb1gyYVE3OXl5UWh2eTlUUFpiMlJuMWFMSm1IOWJ1enk4WUFGNUwtUGxzWHg3cXVZYW1pTU02djJBdGhtc3dQZ1VsU0JNUEJXODlVSHY4R2t1SzBDdFEwekNWWndsMWV5XzdIS0p1bEVYSjU1OHlRdVlScnBSZ3hLZlh3SWlySEtQZ0ViWDZ4eGNfbGlwSVBDWmVq?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260927T110000Z",
       "date_et": "2026-09-27",
       "time_et": "07:00",
@@ -57,7 +72,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1233,9 +1248,9 @@
       "title": "UK retail sales rebound 0.5% in August",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWFMRDliTTc4d2dDMnRqWTZmM3RYem1RSk5GTDFGU1lyQWNOcjgtckZnNmtjRmQ1R2plU0cyUFp2Y3NTV0twNzlvUTFxLXVlRm1vU2ROSHc5a1ZhWk9SRzhZUEdvMWJMeUk5Um03ZDU5Ykp5YWZWQ2hEa1VESUk2OTZWOW55OVQzTkxj?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20260918T070338Z",
+      "seendate": "20260918T070000Z",
       "date_et": "2026-09-18",
-      "time_et": "03:03",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -2334,6 +2349,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NWtYSmQ5R05raVhQakVkMUdmLWJVTmlCR0R3WWZBbmVsVVQ3SEpnS181Wk5qRUt1cWJhelI4cEZtUDVwb0c5U2dNN0hiZVd0NkdQU1Y0SWRrMlJnQjlXZ1BtdlBHbzF2WkswVFhUVTNXQ3dkcmc5Wg?oc=5",
+      "domain": "CNBC",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
