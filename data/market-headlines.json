@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:26:04.478Z",
+  "generated_at": "2026-09-28T02:27:08.694Z",
   "articles": [
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -1320,21 +1320,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. weekly jobless claims fall to 196,000, lowest since mid-July",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlZ4SVFWVXB0Q29Kb0xIUG1nb05scVVhSUtqOVNtUk5KV0dSb0ZyeE1SRzRXZnFoYzBwUU5URGR4eEpsYnliejFmS2p2WDBOazRuV3pTajFxdm1vT0xLQ21IOEtmR2hUd3hTbFM3dk80TG12MXUyS1lWMkRpc3k5REtMU1ZuaHhqZGNpNXUySQ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T164409Z",
-      "date_et": "2026-09-17",
-      "time_et": "12:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "August Housing Starts Drop to 3-Month Low as Multi-Family Units Plunge",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2tCVkpJMUZ6Y3ZXY2hjVXVIalhxdUFRZ2M1aU1mLVpMQV9NcU5mc1cyLXQwd09RdmhGTzQyU1ZaNGlBZF9mVm52bGNTY0gyc1NTMm1pWDh0TWFjVzFESnMwaTdHNXlLVU5VMU1SQldjZi1wckZ2OVZXdHhxdDJOeElkZWdVekwzeWM1Z0lxejFsZFJf?oc=5",
       "domain": "Yahoo Finance",
@@ -1479,6 +1464,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. weekly jobless claims fall to 196,000, lowest since mid-July",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlZ4SVFWVXB0Q29Kb0xIUG1nb05scVVhSUtqOVNtUk5KV0dSb0ZyeE1SRzRXZnFoYzBwUU5URGR4eEpsYnliejFmS2p2WDBOazRuV3pTajFxdm1vT0xLQ21IOEtmR2hUd3hTbFM3dk80TG12MXUyS1lWMkRpc3k5REtMU1ZuaHhqZGNpNXUySQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1905,7 +1905,7 @@
     {
       "title": "August consumer spending surprise",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TYnZNM2RoNGJRRllPanloZXZSaXVLS3dvRENSMWM1RDFSSEJLRk1uTldFeHNLSmt2THcwS29FUjNmSmQ0YXFFcmowaVVJdVhoWUhGN2RlSzBjTndzVEk3am4wSE5qT2tqRTMtZVZlallHWG1r?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1913,7 +1913,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3099,6 +3099,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump slams market's inflation fears after strong jobs report",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVGVuaFAySi1tM04zVHB6QURLU0RVcVdGWnRGcGk4UmRfRTB6Qm1hSlFINXFEdzZ2TmllXzdFT3BEZ0R1V1luMFRUeUM2LU4ycks1dkEtNlpmQ00?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20260904T070000Z",
+      "date_et": "2026-09-04",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
