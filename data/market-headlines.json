@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:30:09.842Z",
+  "generated_at": "2026-09-28T16:30:26.310Z",
   "articles": [
     {
       "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
@@ -2649,6 +2649,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Deloitte Forecasts Holiday Retail Sales to Reach $1.70 Trillion to $1.71 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODFFaU9MeHdmT0l2eWlUZGl1SEw1TS0wSmhmVlVRLVA5Uk9YUFpQXzlDM1JNc0Y4aUVNRW4zMGc4UmhQREdSN1dObUlSWG9tQUtJZEtYMW5uanBIdlFyQ3kxbkx4Zmw5eUduR2g1XzRFVmk1Z0dibnl2ZGEtdWNjUUlLUzRxbWFJbGw3WlVJSWdETHFMRENvNEgySEVwQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260910T070000Z",
+      "date_et": "2026-09-10",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
