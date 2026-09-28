@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:35:13.215Z",
+  "generated_at": "2026-09-28T07:29:19.717Z",
   "articles": [
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -3144,6 +3144,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump demands rate cuts after blowout August jobs report shatters forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zYVVOQ2oyZVFLSTdSUVhhdFhBbFAxUmh6cGQzaGZCTmh5aE9wNGxIZTBpNVhtZXRqUFRmTm13dnNGMk1Oal9RU20tZjJxd19KVXJYcnJTV3VfVHM?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20260904T070000Z",
+      "date_et": "2026-09-04",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
