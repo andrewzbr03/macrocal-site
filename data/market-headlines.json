@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:28:16.510Z",
+  "generated_at": "2026-09-28T05:27:26.698Z",
   "articles": [
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -1740,7 +1740,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -1748,7 +1748,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1959,6 +1959,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Retail Sales Rebound in August as Higher Fuel Prices Boost Spending at Gas Stations",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmE0cmJYME03SjNqazl2c1VUcDREMkNyM3dFREZnTFBDc3cyNGpqTmRtS0xYQnpETG42djFGSThmU3JpZExRRFdlRWxHcGZEUV9GVlI3M3pZUHlfRTlTVjNjVmVYQW1FQ1M2RGxNNi1ibjMtcmxyVTZBZHl5ZUo1eW1TazZ0TXBWWDFRMXV3WENUVWlpajZz?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260916T070000Z",
+      "date_et": "2026-09-16",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
