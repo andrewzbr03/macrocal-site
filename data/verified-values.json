@@ -32,9 +32,9 @@
       "filter_id": "jolts",
       "metric_id": "openings",
       "field": "forecast",
-      "value": "7.18M",
-      "source_url": "https://www.linkup.com/insights/blog/linkup-forecast-august-2026-jolts-report-by-the-bls-2",
-      "verified_at": "2026-09-24T15:35:34.773Z"
+      "value": "7.23M",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
     },
     {
       "date": "2026-09-25",
@@ -244,6 +244,249 @@
       "value": "3.4%",
       "source_url": "https://www.sca.isr.umich.edu/",
       "verified_at": "2026-09-25T14:51:49.767Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "forecast",
+      "value": "90.1",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "adp",
+      "metric_id": "employment",
+      "field": "forecast",
+      "value": "70K",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "adp",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "38K",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "core_mom",
+      "field": "forecast",
+      "value": "0.3%",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.2%",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "core_yoy",
+      "field": "forecast",
+      "value": "3.4%",
+      "source_url": "https://finobird.com/calendar/economic/us-u-s-core-pce-price-index-yoy-2026-09-30/",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "3.3%",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "headline_mom",
+      "field": "forecast",
+      "value": "0.4%",
+      "source_url": "https://continuumeconomics.com/a/bc8b85f0/preview-due-september-30-us-august-personal-income-and-spending-pce-prices-to-match-cpi-watch-for-revisions",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.2%",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "headline_yoy",
+      "field": "forecast",
+      "value": "3.7%",
+      "source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-09-25/upcoming.htm",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "pce",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "3.7%",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "gdp",
+      "metric_id": "gdp_qoq",
+      "field": "forecast",
+      "value": "1.5%",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "gdp",
+      "metric_id": "gdp_qoq",
+      "field": "previous",
+      "value": "1.5%",
+      "source_url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "forecast",
+      "value": "199K",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "197K",
+      "source_url": "https://www.dol.gov/ui/data.pdf",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "headline",
+      "field": "forecast",
+      "value": "55.0",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "54.6",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "prices",
+      "field": "forecast",
+      "value": "72.0",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "prices",
+      "field": "previous",
+      "value": "71.1",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "orders",
+      "field": "previous",
+      "value": "53.7",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-01",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "51.2",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "forecast",
+      "value": "98K",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "previous",
+      "value": "162K",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "forecast",
+      "value": "4.1%",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "previous",
+      "value": "4.1%",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "forecast",
+      "value": "0.3%",
+      "source_url": "https://www.fxempire.com/forecasts/article/the-week-ahead-core-pce-payrolls-and-fed-speakers-put-stocks-to-the-test-1632563",
+      "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "previous",
+      "value": "0.3%",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-09-28T16:22:29.728Z"
     }
   ]
 }
