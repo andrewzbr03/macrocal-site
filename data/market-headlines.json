@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-28T14:30:52.535Z",
+  "generated_at": "2026-09-28T15:30:09.842Z",
   "articles": [
+    {
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260928T145700Z",
+      "date_et": "2026-09-28",
+      "time_et": "10:57",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Lithuania's retail sales growth eases to 3.7%",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWVtR2NWbHZfUnY3RWg2aFpKeE5EQ25BUUlNOGVMSDVEVlBoc3J2YnRNX1oxeEdqd2Q3ZXRqQ2J3YThSOFpCOG9kelFSTU5Lc1NwY05udl9zeDZIcFkxR3ZwMFJGMTBHckpnNGxqaFdIRHFsUmJuV1BHVE1OTS1aNmJGWll0VEpDOGtCVndheUcycm90WmJTZzBn?oc=5",
@@ -104,21 +119,6 @@
       "provider": "Google News",
       "source": "Bloomberg.com",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20260926T175400Z",
-      "date_et": "2026-09-26",
-      "time_et": "13:54",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
@@ -808,6 +808,21 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t stopping the U.S. economy.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVUMyTzdZZVM1RTVIQmUxRm9sa0s2RFVyTjdnbUNISlVhajE5bVFRN25UVGVsUFdwVmlHbERhemc4QWpTWExyclN4bG1xZFhwRVlnbkJvS0Q4NXVuWDVKMllCbVY5SU1JbXRWelM4NjMteEgtVXlKdkhlSFcwcHNzVnUtZjNWWXAwLWVod1dpaGdYRXZUMF9YNm9tNDlOZ3NBeHlEdU1kYzBWTmNpbUFhWDlaT1psRXBaZ09zRlZocjBKNjB0WkdZcW1QVzBPTjVQcjd5MlFJeVhfYnlOUTc4WEswaU9mSnVjZVlBcUhVTEUtUQ?oc=5",
+      "domain": "MarketWatch",
+      "seendate": "20260923T180600Z",
+      "date_et": "2026-09-23",
+      "time_et": "14:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1650,6 +1665,21 @@
     {
       "title": "Claims for unemployment benefits drop to 196,000, lowest since mid-July as layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVXhLY1ZCUWl2UlYwUkNjNG8wb28tbWlSVFNPZzJYR1kwemwxc21WbVdEQ0s4LUFsWHFVQk1lM1Q4djNjb1BFdlhzZVlvQ1JxeWZXQUZJNEQ1UlpCV2UtWkMxak9JZWxvV3pzb2hkbUU2WjJNclJtSnMzRTQ4bVUyVkVUWDhMbmF0aGZDcGlEV1BBWkJwUEwxUlgzTQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Initial Jobless Claims Decline in Week Ended Sept. 12",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2VxVlJTS2tfR1RiMjZJMDM1ODFrbHMyTkxNaXdSenFpRy0xVFctNXRENldUbl84VXJtZGt4T2tCWE1yWWFrMldQY2JhZkN2aWVMdHNzWnlxYVRBeEhwbnRISGJvT0VoUkFXRFhBR3RYQm5kTjR6OWxFRjBKRk5DMktHSEFHNks4clRmQWU5ekY5YW1uMGc?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
