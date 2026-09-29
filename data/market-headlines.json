@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-29T16:30:43.304Z",
+  "generated_at": "2026-09-29T17:27:48.736Z",
   "articles": [
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -12,7 +12,22 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1Vkc2sxWUlmVmhPZml0SHFZR0lvWDRNNmhIOEpWTlNxcTJkbENLUWFSazFOZlhnM0NrZ1VyX2xvaUhsV2JDc1dJSUZuZHpnMUQ5dEVJblBaVTZDUFVkNG5EU2tTa1VRZEJORXVxcGNUNmJ6QVI2OGNrOE5nT0JVakhpaU5POEoxQ21PZk5pUm1ZNWtiOVMtMk4zWkTSAaIBQVVfeXFMTl9FZ1N1cEdYd2pDak4yV1VwZzFRTk95VlhkNEFjaVJ6ZnRTRFJVazh2eEFGM3NfOVlDc0NnZ1VwYU9UbEp4d2pmU1lHNkhsVUxzMHJYSjVSZFRabGxnRFBidkc0VWZLbnV5Q0dYbWRvbWtVazhucEpPMGM2TWVfTGpiak5ibXd2MnZDQkhBeXpqY2JENTNLal96VnlJUDJyMlRB?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20260929T153553Z",
+      "date_et": "2026-09-29",
+      "time_et": "11:35",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -34,7 +49,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -42,7 +57,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -118,6 +133,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Stock Futures Rise as Traders Await Key Economic Data",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0ZHQkNRVjA5cjk0MThzZ2otamgxbXl6N002VWdZS0VwS2tjMTRJY3N0cUtOYVdiQVZMNG5obDV0RDRYMVBxTk9qVUpEakFoaVh2NXBKS0l1SXZuS3R1OVRPa0E0eFdnV1h0ZWlyWmVGYW9oRmRrbXVGd3p5N1Y0TjVTQ1Q0a0Z1dkFhOV9WNEVKZEVHQnFiejZhYld6V1FnTnB1aDdVZ0V3dU0?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260929T115942Z",
+      "date_et": "2026-09-29",
+      "time_et": "07:59",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -212,6 +242,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
+      "domain": "Fortune",
+      "seendate": "20260928T081200Z",
+      "date_et": "2026-09-28",
+      "time_et": "04:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Fortune",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
       "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -259,7 +304,7 @@
     {
       "title": "Opinion: Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXdEb3VLQV9GeWF4cjFmYmd4eS0tUVNkeWFSNVY1RHUwNFFTUHQ0YVQyb1gyYVE3OXl5UWh2eTlUUFpiMlJuMWFMSm1IOWJ1enk4WUFGNUwtUGxzWHg3cXVZYW1pTU02djJBdGhtc3dQZ1VsU0JNUEJXODlVSHY4R2t1SzBDdFEwekNWWndsMWV5XzdIS0p1bEVYSjU1OHlRdVlScnBSZ3hLZlh3SWlySEtQZ0ViWDZ4eGNfbGlwSVBDWmVq?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260927T110000Z",
       "date_et": "2026-09-27",
       "time_et": "07:00",
@@ -267,7 +312,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2190,7 +2235,7 @@
     {
       "title": "August consumer spending surprise",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TYnZNM2RoNGJRRllPanloZXZSaXVLS3dvRENSMWM1RDFSSEJLRk1uTldFeHNLSmt2THcwS29FUjNmSmQ0YXFFcmowaVVJdVhoWUhGN2RlSzBjTndzVEk3am4wSE5qT2tqRTMtZVZlallHWG1r?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -2198,7 +2243,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2880,7 +2925,7 @@
     {
       "title": "Fed's interest rate decision may come down to hair-splitting inflation data",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260909T070000Z",
       "date_et": "2026-09-09",
       "time_et": "03:00",
@@ -2888,7 +2933,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
