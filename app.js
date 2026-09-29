@@ -55,8 +55,8 @@ const METRIC_SPECS = {
   confidence:[{id:'confidence',label:'Consumer Confidence',patterns:[/consumer confidence/i],source:'https://www.investing.com/economic-calendar/cb--48',official:'https://www.conference-board.org/topics/consumer-confidence',primary:true}],
   adp:[
     {id:'employment',label:'ADP Nonfarm Employment Change',patterns:[/adp.*(?:employment|payroll)/i,/private employment/i],source:'https://www.investing.com/economic-calendar/adp-nonfarm-employment-change-1',official:'https://adpemploymentreport.com/',primary:true},
-    {id:'stayers',label:'Pay Insights — Job Stayers',patterns:[/job.?stayers/i],source:'https://payinsights.adp.com/',official:'https://payinsights.adp.com/',noForecast:true},
-    {id:'changers',label:'Pay Insights — Job Changers',patterns:[/job.?changers/i],source:'https://payinsights.adp.com/',official:'https://payinsights.adp.com/',noForecast:true}
+    {id:'stayers',label:'Pay Insights — Job Stayers (gross pay YoY)',patterns:[/job.?stayers/i],source:'https://payinsights.adp.com/',official:'https://payinsights.adp.com/',noForecast:true},
+    {id:'changers',label:'Pay Insights — Job Changers (gross pay YoY)',patterns:[/job.?changers/i],source:'https://payinsights.adp.com/',official:'https://payinsights.adp.com/',noForecast:true}
   ],
   pce:[
     {id:'core_mom',label:'Core PCE MoM',patterns:[/core.*pce.*(?:mom|m\/m|month)/i,/pce.*core.*(?:mom|m\/m|month)/i],source:'https://www.investing.com/economic-calendar/indeks-harga-belanja-personal-%28pce%29-inti-61',official:'https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy',primary:true,summary:{prefix:'core',period:'mom'}},
