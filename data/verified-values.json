@@ -169,18 +169,20 @@
       "filter_id": "jolts",
       "metric_id": "openings",
       "field": "previous",
-      "value": "7.271M",
+      "value": "7.335M",
       "source_url": "https://www.bls.gov/news.release/jolts.htm",
-      "verified_at": "2026-09-25T12:37:54.435Z"
+      "verified_at": "2026-09-29T23:29:54.478Z",
+      "original_value": "7.271M"
     },
     {
       "date": "2026-09-29",
       "filter_id": "confidence",
       "metric_id": "confidence",
       "field": "previous",
-      "value": "89.4",
-      "source_url": "https://abc6onyourside.com/news/nation-world/consumers-still-pretty-downbeat-as-confidence-slips-again-in-august-the-conference-board-consumer-confidence-index",
-      "verified_at": "2026-09-25T12:37:54.435Z"
+      "value": "88.6",
+      "source_url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
+      "verified_at": "2026-09-29T23:29:54.478Z",
+      "original_value": "89.4"
     },
     {
       "date": "2026-09-25",
@@ -487,6 +489,42 @@
       "value": "0.3%",
       "source_url": "https://www.bls.gov/news.release/empsit.htm",
       "verified_at": "2026-09-28T16:22:29.728Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "actual",
+      "value": "7.079M",
+      "source_url": "https://www.bls.gov/news.release/jolts.htm",
+      "verified_at": "2026-09-29T23:29:54.478Z"
+    },
+    {
+      "date": "2026-09-29",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "actual",
+      "value": "81.9",
+      "source_url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
+      "verified_at": "2026-09-29T23:29:54.478Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "adp",
+      "metric_id": "stayers",
+      "field": "previous",
+      "value": "4.4%",
+      "source_url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
+      "verified_at": "2026-09-29T23:29:54.478Z"
+    },
+    {
+      "date": "2026-09-30",
+      "filter_id": "adp",
+      "metric_id": "changers",
+      "field": "previous",
+      "value": "7.3%",
+      "source_url": "https://mediacenter.adp.com/2026-09-02-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-38,000-Jobs-in-August",
+      "verified_at": "2026-09-29T23:29:54.478Z"
     }
   ]
 }
