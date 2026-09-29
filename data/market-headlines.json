@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-29T15:30:33.059Z",
+  "generated_at": "2026-09-29T16:30:43.304Z",
   "articles": [
+    {
+      "title": "New 12-year low in consumer confidence",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
+      "domain": "Axios",
+      "seendate": "20260929T161603Z",
+      "date_et": "2026-09-29",
+      "time_et": "12:16",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Axios",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won&#x2019;t get better soon.",
       "url": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
@@ -19,7 +34,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "MarketWatch",
+      "domain": "marketwatch.com",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -27,7 +42,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -244,7 +259,7 @@
     {
       "title": "Opinion: Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXdEb3VLQV9GeWF4cjFmYmd4eS0tUVNkeWFSNVY1RHUwNFFTUHQ0YVQyb1gyYVE3OXl5UWh2eTlUUFpiMlJuMWFMSm1IOWJ1enk4WUFGNUwtUGxzWHg3cXVZYW1pTU02djJBdGhtc3dQZ1VsU0JNUEJXODlVSHY4R2t1SzBDdFEwekNWWndsMWV5XzdIS0p1bEVYSjU1OHlRdVlScnBSZ3hLZlh3SWlySEtQZ0ViWDZ4eGNfbGlwSVBDWmVq?oc=5",
-      "domain": "MarketWatch",
+      "domain": "marketwatch.com",
       "seendate": "20260927T110000Z",
       "date_et": "2026-09-27",
       "time_et": "07:00",
@@ -252,7 +267,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2175,7 +2190,7 @@
     {
       "title": "August consumer spending surprise",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TYnZNM2RoNGJRRllPanloZXZSaXVLS3dvRENSMWM1RDFSSEJLRk1uTldFeHNLSmt2THcwS29FUjNmSmQ0YXFFcmowaVVJdVhoWUhGN2RlSzBjTndzVEk3am4wSE5qT2tqRTMtZVZlallHWG1r?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -2183,7 +2198,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2865,7 +2880,7 @@
     {
       "title": "Fed's interest rate decision may come down to hair-splitting inflation data",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260909T070000Z",
       "date_et": "2026-09-09",
       "time_et": "03:00",
@@ -2873,7 +2888,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
