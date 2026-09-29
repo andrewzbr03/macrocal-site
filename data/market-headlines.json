@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-09-29T17:27:48.736Z",
+  "generated_at": "2026-09-29T18:32:08.911Z",
   "articles": [
+    {
+      "title": "ADP jobs data, GDP, core PCE, and oil inventories due Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1R6ZGstRzlMOXJvV3MxRzR2Y2t5UzJXdWx2YmJnVkVVdTJqMWJXV0xObDZsdkZTU2ViVEpTZmdFM2x4WXVrSXoyc1NjUzA0Qm9tMlZKZW01b0ZVcUpXM0FPM0ZaY3NzRFBZU0lqSVh2RHpUZXRBbmxOb191Z0NTMFVLeEF4Y2ZKWjZRREYtUHFQOGFWYXZKNHQ2SjlzeFpSTExkZjlNNU1SRTFXQzFwbVR5YmIxcXdGZTZHb2N3?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20260929T180622Z",
+      "date_et": "2026-09-29",
+      "time_et": "14:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -12,7 +27,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -77,6 +92,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Job Openings Fall to Lowest Since March, Layoffs Subdued",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2tuR0p2Zm10b2JFb2dDMmhjZHo5cFl4dFhuLUpMNmZ2WF9DVFZldmNQOThMQTRhbTZ6M01iSjAxWDVHNEcyQ2Q4N0VDUHRNcEVZSFNmLVRYRVlBVHFSQlNDUl95VXpKSWZFM19aR1pNX1habXpGSDAyd1NkMzFOYlJodEdzcUdNSUtVbUhDTU9DTGl6ZkVHYVQ1M1JQMmNnZk54QmRvUFBhNlhuQkE5cDVqY0I?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260929T151709Z",
+      "date_et": "2026-09-29",
+      "time_et": "11:17",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US job openings fall in August; layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWdsNXZpVzdjOGxZQmF6TTU2bjY5czB2ZFp1SHJESjQzdUFwMGR3SEdFWU1fa0xtdFIyNEdzcnUyenBRYkFUNm9xZGlXcUpBdUN3bE5oQzI0YmxEanRIdHJtVDZidWszTEZGRjN3c1gxYlpaanBuNnltX0F0M21DVnBhUlhNVDBFXzFHSVhudFNaeFhzT2c?oc=5",
       "domain": "Reuters",
@@ -92,17 +122,17 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Job Openings Fall to Lowest Since March, Layoffs Remain Low",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2tuR0p2Zm10b2JFb2dDMmhjZHo5cFl4dFhuLUpMNmZ2WF9DVFZldmNQOThMQTRhbTZ6M01iSjAxWDVHNEcyQ2Q4N0VDUHRNcEVZSFNmLVRYRVlBVHFSQlNDUl95VXpKSWZFM19aR1pNX1habXpGSDAyd1NkMzFOYlJodEdzcUdNSUtVbUhDTU9DTGl6ZkVHYVQ1M1JQMmNnZk54QmRvUFBhNlhuQkE5cDVqY0I?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260929T141357Z",
+      "title": "August US Job Openings Fall, Hiring Up, Separations Down",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblNzU1BqU29NQXFQSFVlNWJFdGJyekFUbVBSNnVHaWxDQ2x3UEMzZExlNmwtLVBuTnBvWXRxTXBGRFJkLXBnUnRFcmhfMkhLUllrdDBmdUNTOW9zZnhzNTJjTkR1cXRzWWZlNkJDd0o1ZGVQdDlGV29lX2ctLWd6amhWRVFzaW56aUo3YXdB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T141616Z",
       "date_et": "2026-09-29",
-      "time_et": "10:13",
+      "time_et": "10:16",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -122,12 +152,27 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US job openings slid to 7.1 million in August but labor market remains resilient despite high energy costs",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeE56RGFkNVFiV3Y0RHlSd09EVVYwRjQ0U1dZZnUydDc5Y080TW9hT2o2ZmZzeU5VTThwWW40Rl8zZ1dleXg4eWtHclFZSWZMWjFVaF9tR0xkcUQzbFdEbmpEMElUNkZZdzRMUlB0UnpRdVZKTDlLNlU0dVZ4dmlWUk9DUFk5dFE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T140215Z",
+      "date_et": "2026-09-29",
+      "time_et": "10:02",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Wednesday’s PCE Inflation Report May Boost Fed Hike Bets",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9kME9NZnRITUVXaHBCb0p4NG0yVEh2ZGV2YUo0NGhwQVVVOG84a1dIMGZKRXJ3OG9YVDlaVGVQdXhnbHJCZ3g3LWdSNXE2VTdSeW9SeHU2OHRHOXlqR0lVZW1qZFNXNlA2N2pRdkkxTWtXcGt4eldidVYxMUNOcGdwYUVOcWthU3BadFhzWi1RcmNIUURMR1hzOUJXNFMyWXc?oc=5",
       "domain": "Investing.com",
-      "seendate": "20260929T122230Z",
+      "seendate": "20260929T122456Z",
       "date_et": "2026-09-29",
-      "time_et": "08:22",
+      "time_et": "08:24",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
@@ -1933,6 +1978,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US jobless claims fell sharply to 196,000 as layoffs remain rare and most Americans enjoy job security",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZU00XzJONUtoWU5vMFBYcUZGR2tJd0l4cU9tY0p5Ul9lQ29GVFNMYlVTOTBzQm1xQXZRbkVGcnh5UWxDem1EV2tuSG9uS0NXZl9qSThTWFVjbHJwcy1xVXdRTUtpNDRBRmFXUXVNc2JyUFYtQ0s1Z0Zad3dxbnp2d0NwWDR1SkRRWk9NczlqNGd5UQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Fed raises rates in search of ‘timelier’ drop in inflation",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2xDeHh4enVZT0pSRV9qUXNEQ3JidEtRVVZyaWJuZzVEUzhmWDFhTjNPSUh4dGwzQV8xaUhNaTBRdjI1QXpUWVlXM1BPWGFuc2VWcXdXLUdyZ0VrUDVFREM3OUlnc1JmVUd2eXh4a1hELTY5cFp5elNZVFY4U2tfTC1mUUxwWXRDcHdTbGlJc2d5cUZ6RWc?oc=5",
       "domain": "SABC News",
@@ -2235,7 +2295,7 @@
     {
       "title": "August consumer spending surprise",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TYnZNM2RoNGJRRllPanloZXZSaXVLS3dvRENSMWM1RDFSSEJLRk1uTldFeHNLSmt2THcwS29FUjNmSmQ0YXFFcmowaVVJdVhoWUhGN2RlSzBjTndzVEk3am4wSE5qT2tqRTMtZVZlallHWG1r?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -2243,7 +2303,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2925,7 +2985,7 @@
     {
       "title": "Fed's interest rate decision may come down to hair-splitting inflation data",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260909T070000Z",
       "date_et": "2026-09-09",
       "time_et": "03:00",
@@ -2933,7 +2993,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
