@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-30T09:29:17.111Z",
+  "generated_at": "2026-09-30T10:29:16.686Z",
   "articles": [
+    {
+      "title": "US PCE Inflation Is a Big Test for Stocks, Crypto, and Trump",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFrcWFNdDdUMExvTFhMZkRobWxPdHZ4aE01c3dxbWJkeXVfVV9McFg1VnFjOWFacUZfbXE1MVlkbjZWV0lSbVp5cGpfVmhJcmN4bWpBRmxiRzA1NHZxM19KN3ZrS24tUmxrXzBhSlk0YXJ1X2FhbGdrRWJqWEZNSGpSSGRXSGJiVmhGd0ZDQ29LVzVq?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T085722Z",
+      "date_et": "2026-09-30",
+      "time_et": "04:57",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
@@ -2385,7 +2400,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -2393,7 +2408,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
