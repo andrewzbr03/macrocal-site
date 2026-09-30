@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-30T05:27:58.958Z",
+  "generated_at": "2026-09-30T06:33:35.962Z",
   "articles": [
+    {
+      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUI1eXh3YVpTbm9meUVFMXRVeWY2clBxQjlmdENsT3FDYjdzcGxoVE52bU1vSVp1NUdQSmVGc01XTlRfRzc2cFp3T3FEYlVvOXFMT1ZFN2g0NVVxMzlOLXRsMVJpNE9zZFlKT2JNNV9wbmRsazUtQktlRHpydS1KLTJINmxCRXdOTk5nT1JSdHd0NmN6NUwxYzh3MEhvQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T044100Z",
+      "date_et": "2026-09-30",
+      "time_et": "00:41",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFJfY25xZ1BtbUY4eVhWOFFDeFo5MHlpaHhuS3hxXzQ5UENxS19GV2hZNEZFV011ZlNSRE0wQjNLNVRENVhIT0kzUllXUU4xenNfVWY5azZIZzBuaVVnQmZnUnRDV0YwSk5maWVuVnJraEkwamRpb0R2Njh5dE5ialA0OHp3MFJXSG5jcXUxTFd2VTNOdm9pZFg5MVlGNk5BY2dmZzNyMjlFMXczNUpCd1lQN200SzktYzNxX2FVdw?oc=5",
@@ -43,6 +58,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer confidence craters to a 12 year low as Wall Street keeps buying the AI boom",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBsMHdWRW5aUEN6R2puNUY5RnJIZlk0U0tjRGg0SDlETmh4MGFOMlFEYV91UFhLc2JpUUFrM1pTUkh0N3R0bUZpeDhBdXhBUDR1U0tpWGoxSFNnWUtlT20ydm5pek9BUjRobVFCUXlDQUxlR3hHTmNqT09nZHJBek5mVUlsZjBXYTdBSC1pcGVYVWpUOExqa0R3UFNMX20xTEpQckp6OG5IUmItOFc0Tk9n?oc=5",
+      "domain": "Startup Fortune",
+      "seendate": "20260930T012550Z",
+      "date_et": "2026-09-29",
+      "time_et": "21:25",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Startup Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
