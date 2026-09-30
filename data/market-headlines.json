@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-30T22:27:52.093Z",
+  "generated_at": "2026-09-30T23:25:18.506Z",
   "articles": [
+    {
+      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHItMEI0VmMzWjl0SVlBZUplMXgxYVVvRjRoUVhHd0p5OUZVQlNzWGZkM1kwR2ZfT3NGVS04aTdOZkxYd3NtRWxpOTg4NWNQVmdZZWVmdXVYMDRrS05hNW9wVVNFX0EtQTRvY25WcnhVSXMtUERtUUFxb1AzVWNudzBtRmZkeFg3ZlRvNzYxemRBVlpUemNwcGNXRmcxeVpHckxNeElyNHhGb3lMYVNDcEMxdw?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260930T205114Z",
+      "date_et": "2026-09-30",
+      "time_et": "16:51",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
       "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
@@ -388,21 +403,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHItMEI0VmMzWjl0SVlBZUplMXgxYVVvRjRoUVhHd0p5OUZVQlNzWGZkM1kwR2ZfT3NGVS04aTdOZkxYd3NtRWxpOTg4NWNQVmdZZWVmdXVYMDRrS05hNW9wVVNFX0EtQTRvY25WcnhVSXMtUERtUUFxb1AzVWNudzBtRmZkeFg3ZlRvNzYxemRBVlpUemNwcGNXRmcxeVpHckxNeElyNHhGb3lMYVNDcEMxdw?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260930T115314Z",
-      "date_et": "2026-09-30",
-      "time_et": "07:53",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1214,6 +1214,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Strong Durable Goods and AI Spending Keep the US Growth Story Running Hot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHVlNHR6WHhmNF9tWXpwa3lzQ2RPeUtJYTFZNzdZczZBTF9TaE5rUG1GSFJxVUY0YzdfQ3lvby1SZHV0MFVUUEhkc01mM25aWVB5c3dIdW1BRlc0N1h6SUIwSUJmUlA1OUo3eGVzd25JSFl5RGJXVmFiZ1dsR1M2RzRjSTNDVEplUW9wc0tqcHMtN05pSGtLbHU1UUNyWWJPQjB2b2c4ZGg3RFdMdHZCNzFMZXktMzhE?oc=5",
+      "domain": "Investing.com Australia",
+      "seendate": "20260925T205647Z",
+      "date_et": "2026-09-25",
+      "time_et": "16:56",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Australia",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
