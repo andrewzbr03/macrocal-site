@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:28:40.762Z",
+  "generated_at": "2026-09-30T05:27:58.958Z",
   "articles": [
     {
       "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
@@ -13,6 +13,36 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260930T041517Z",
+      "date_et": "2026-09-30",
+      "time_et": "00:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Australia CPI inflation rises to 4% in August, below forecasts after RBA hike",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXhfNzRlQnhjTXNQUGE0SXFBc0pSanZVTXdVTXlKaHVKTE1HbkFpOXM3blhwbi1HdDM2amV6OUdDd3RTbUtqS2tjZjU4SFNnUWxpX3RyUkpKUFRzRTRVR0dXeVNaWEZVaEZFM2pLX21MLWx5VThqc0dwUjVJS1lJYTY2eFNKa18tSmFiSWRnUGFvRElnZng2dk5BVW1CWUVkMVozRUJ6bk02RUE4TzA0NUlvSG14VVNSaGNVTC1hc3Jzd1FNYzl0R1E2TS0?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260930T040146Z",
+      "date_et": "2026-09-30",
+      "time_et": "00:01",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -64,7 +94,7 @@
     {
       "title": "US consumer confidence near 12-1/2-year low amid labor market fears",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmRyUTNQbW1FZWNZblJOdF9HaXliVFpXZnhsa2l4X2hISWpxQ3FTeGpyN0M1MWRmNHUwNlVZWTRvaDBabUZ4NU9SSzNiTzdfclhQdUxQOXFWcW00YktzaDNjeUM1RC1yMXlEaVN5RFhIU0tYWkZhVThkTlY4MjRIUXI5dmZXX3YxZnRFS3lnak1uNkdOdjV6Ujd4NHM3SUZkd3YzZXdYbVg?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260929T182844Z",
       "date_et": "2026-09-29",
       "time_et": "14:28",
@@ -72,7 +102,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -154,7 +184,7 @@
     {
       "title": "US job openings fall in August; layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWdsNXZpVzdjOGxZQmF6TTU2bjY5czB2ZFp1SHJESjQzdUFwMGR3SEdFWU1fa0xtdFIyNEdzcnUyenBRYkFUNm9xZGlXcUpBdUN3bE5oQzI0YmxEanRIdHJtVDZidWszTEZGRjN3c1gxYlpaanBuNnltX0F0M21DVnBhUlhNVDBFXzFHSVhudFNaeFhzT2c?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260929T174757Z",
       "date_et": "2026-09-29",
       "time_et": "13:47",
@@ -162,7 +192,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -649,7 +679,7 @@
     {
       "title": "US core capital goods orders point to robust growth in business spending on equipment",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUU5FWExWQVZRSzBfQ0hxNlBlZVdZWFc2elo1aTdPQXpwVDU4a0ZxZlRjeHF1WWdUSUlfWHpxSzZJZHJOWVgwZTVZaUJ1Q3dSRjhMMGVpMWdoMzUwN3ZfOG1QNE5ZQlM2NkM5U3JTbU1kUWE3UEx2M0FXS2xKcUhOUkxQaTZ3azJiRktERlNWaw?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260925T164933Z",
       "date_et": "2026-09-25",
       "time_et": "12:49",
@@ -657,14 +687,14 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
       "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260925T154723Z",
       "date_et": "2026-09-25",
       "time_et": "11:47",
@@ -672,7 +702,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -904,7 +934,7 @@
     {
       "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260924T233037Z",
       "date_et": "2026-09-24",
       "time_et": "19:30",
@@ -912,7 +942,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2415,7 +2445,7 @@
     {
       "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -2423,7 +2453,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2565,7 +2595,7 @@
     {
       "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -2573,7 +2603,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3000,7 +3030,7 @@
     {
       "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -3008,7 +3038,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3315,7 +3345,7 @@
     {
       "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -3323,7 +3353,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3375,7 +3405,7 @@
     {
       "title": "Strong August jobs report sends yields higher",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -3383,7 +3413,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3825,7 +3855,7 @@
     {
       "title": "South African currency gains on weaker dollar, higher gold prices",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFJNRFhvb0NSNGZvTmdSWFYwUnZJN2tIWE9vc2NGQXRKQUdwWlVzWjBwSUhUVUd3QnRnWkRFTHptNGt0czd4Q2VEUXFqZ2ppbnRaRm85NnJxWDduYS1URU4xRWdJTHlPZVBqX25YX2NtSzJyMlB0TXVBbHhtS05Gek5IUWV5dkRwellOcURCbDU1MWJPdTdrRjg1QkRlcTJaSzV3?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260903T070000Z",
       "date_et": "2026-09-03",
       "time_et": "03:00",
@@ -3833,7 +3863,7 @@
       "major_catalyst": false,
       "catalyst_tag": "Market move",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3960,7 +3990,7 @@
     {
       "title": "US job openings rise in July after sharp downward revision in prior month",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX05YdDZEbXNDQldfbUxQUXRlTWtlX3JBRVcxdWZBVUY1SVJsSzdwVUFRN3dNTzk3UHN3Y21VOU9iWmZOb05CSU1NX0NQUE5YamNha2FtN0JzODVYbmtqUDdHaWZWZ0pMUHIteU9JSFp3bGwzZjRvMDQ1bEJENnNYV1RSRERycGpxTDZBdFVyQVlmZjJpS191T2hFQndnSFNjbjNTbEpzNVdWM2dmQXdTczRn?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260901T070000Z",
       "date_et": "2026-09-01",
       "time_et": "03:00",
@@ -3968,7 +3998,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
