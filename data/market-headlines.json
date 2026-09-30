@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-30T12:37:24.235Z",
+  "generated_at": "2026-09-30T13:30:10.056Z",
   "articles": [
+    {
+      "title": "US second-quarter GDP revised higher amid robust consumer spending By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpGVHFjX01YakpEVnltWmlqU2lmbW9reFVYcGNhY1BSN24tOTBLSThtWkhVclJqRW9DcDFONmc3TFR6TkdUc243cHVlaGx2dnBld3NldS1aY2JWbk14aXZNLTNJZDZvVVJOcmlyZ2dycHdsWWZzUm9KMDctTFhXYXZwV09QU0dkeXc3RlZKbUFIZlZvd1RTRjYxR1JXT2tCcmNCN3BXNDJGNEdHRWNKakRpdWw1RWVj?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260930T132808Z",
+      "date_et": "2026-09-30",
+      "time_et": "09:28",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. inflation rises, keeping pressure on Fed",
+      "url": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20260930T131100Z",
+      "date_et": "2026-09-30",
+      "time_et": "09:11",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "U.S. GDP Growth Surpasses Expectations, Signaling Economic Resilience",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE1jRmtrQXlmZXRqbkJGMDAyM2lCRERtc3lRZnJudVBZRXdubU81SllIQ2prRmFaTHJjNHNHUXlGcndkQ0pKRDczUFBNZDNkWUs0cEhOS0VlWXpFTU1CVGZhSHM1WThsX3h1M0tEUERWT2dNaWVqNkdGT1ZyS3RDbVpGOGpmbTZGX0I5ZTJaLW5NN3dLWWxtTXlSb3c1YnFRU3ZJMTJ1Y2pmVnVyRXFVVjByWURSTFlHWi1FRDh0ekJXTHBQNFlCT1dB?oc=5",
       "domain": "Investing.com",
-      "seendate": "20260930T123504Z",
+      "seendate": "20260930T123557Z",
       "date_et": "2026-09-30",
       "time_et": "08:35",
       "effect_reported": false,
@@ -229,7 +259,7 @@
     {
       "title": "Consumer confidence craters to a 12 year low as Wall Street keeps buying the AI boom",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBsMHdWRW5aUEN6R2puNUY5RnJIZlk0U0tjRGg0SDlETmh4MGFOMlFEYV91UFhLc2JpUUFrM1pTUkh0N3R0bUZpeDhBdXhBUDR1U0tpWGoxSFNnWUtlT20ydm5pek9BUjRobVFCUXlDQUxlR3hHTmNqT09nZHJBek5mVUlsZjBXYTdBSC1pcGVYVWpUOExqa0R3UFNMX20xTEpQckp6OG5IUmItOFc0Tk9n?oc=5",
-      "domain": "startupfortune.com",
+      "domain": "Startup Fortune",
       "seendate": "20260930T012550Z",
       "date_et": "2026-09-29",
       "time_et": "21:25",
@@ -237,7 +267,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "startupfortune.com",
+      "source": "Startup Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -664,7 +694,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -672,7 +702,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },

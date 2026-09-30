@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:37:24.530Z",
+  "generated_at": "2026-09-30T13:30:10.234Z",
   "readings": {
     "claims": [
       {
@@ -48,14 +48,14 @@
     "pce": [
       {
         "label": "Headline PCE MoM",
-        "value": "0.2%",
-        "period": "2026-07-01",
+        "value": "0.3%",
+        "period": "2026-08-01",
         "url": "https://fred.stlouisfed.org/series/PCEPI"
       },
       {
         "label": "Core PCE MoM",
         "value": "0.2%",
-        "period": "2026-07-01",
+        "period": "2026-08-01",
         "url": "https://fred.stlouisfed.org/series/PCEPILFE"
       }
     ]
