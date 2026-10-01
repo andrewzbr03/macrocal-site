@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-01T19:28:17.767Z",
+  "generated_at": "2026-10-01T20:29:33.099Z",
   "articles": [
+    {
+      "title": "The Treasury Department started Trump accounts for 60 million kids &#x2014; but families still have to take this step if they want one",
+      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261001T201400Z",
+      "date_et": "2026-10-01",
+      "time_et": "16:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "The September jobs report will be released Friday. Here's what to expect",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBFSmhVUjIxM0VkdUtYVW9ER1JEREsyTUlmdGhQMnZCSjUzWERwQmpLSUlqd1BCTlRhUkVZZ3lYN2xaTjFhQ3BDcTZlVHcxR2ZicFMydkpCV2Z1Q2ZydHowZmhIMzFqNm91MmJ5UVdDbjdQanNmRDZ6UFhfTmVteUJqaEJqdnBVMXZ3TDFWNVVqcldvd1VZRDZHcHA0akJOWUFac0ZpM0o1ZjDSAbABQVVfeXFMTnk5QzhpaGlDdWRJT2VKOHU5V2xCRDJDb2pYcjhTdjc1RUxianJ1bi1lNldubmpsMU43Z2JaTnJEdXlZaW9QUGYyQVNjRmVKWHpwX09fbTloaXFTejlLTEpVSzJLNFBLOEplT01Rdmw3LVNwaGd0Z250dnZMaDhBZVdQeUdIeTczS1hsODVlM003MS01TkJhZ0kySUlXVUw5c0dacmd4eW1RUU1IUGZCZHo?oc=5",
@@ -118,6 +133,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "ISM Manufacturing PMI Dips Slightly, Misses Forecast By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlBTTmxONi05TlhSbEdYU3VCRmtKaWlvaVhOQXJWdS0yc0JwTHFCTHBhN1RYTzBUTU9XM3NEa0N2SWZiTmtyam54WTBBc1lFa1FhbHdSY3hJaE00c0Z2TXltNXd5OTE3akQ5V0VHZlNOV2RSVEpIVkloa3BhRFN2RG5GZXE1UTVtMnJqVzRmU0FieXd6dWhISlR6Wm1XZ0NlTTVOdzBVY1hGTm1VQ1VPa0RR?oc=5",
+      "domain": "Investing.com Australia",
+      "seendate": "20261001T141412Z",
+      "date_et": "2026-10-01",
+      "time_et": "10:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Australia",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
