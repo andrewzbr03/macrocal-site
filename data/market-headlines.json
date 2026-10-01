@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:31:51.835Z",
+  "generated_at": "2026-10-01T09:30:00.108Z",
   "articles": [
     {
       "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
@@ -3624,6 +3624,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Dollar Rises Early Friday Ahead of Consumer Prices, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnBFUElvV09BOUxlWkJDSGtrcUY1Z29oa0QxYV9CbVY3YThsNnYzY3dyc3VTSU9Hb200SzdJTkY4bWdic2RjVVZveEQ3bzhDYTcxbFd5ZXA3UnBKd2I2UWYxRmVBdU8yZ05pdFFWNFlsaW13cnRHNTFCT0ZLZTQzdHZlMDZnSnkzMElBXzNiNndVWndUUG9HZjhNcm5RQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260911T070000Z",
+      "date_et": "2026-09-11",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
