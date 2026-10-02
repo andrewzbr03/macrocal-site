@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:28:36.687Z",
+  "generated_at": "2026-10-02T05:27:19.220Z",
   "articles": [
     {
       "title": "US job growth expected to slow in September; unemployment rate likely steady",
@@ -59,6 +59,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "LinkedIn estimates jobs report number will come in lower than expected",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYlRLb0J5cVg2eEk1ZVpqbDV1R0x4bmJidXBOSG9HOVM0X0lYc1dYcmZUN3Jzc0w3b1VHRzZuWWlKbUhFdzdOSF8zOGpRNEdBUDlNelpSaFo0VjVTa2Ezc1FKdm1GdDlRakp4TDBYdVFhWDNSZ3RwNDVaQ3VEVGVZRThJWFhuR21Ua1FBQw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T195424Z",
+      "date_et": "2026-10-01",
+      "time_et": "15:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -529,7 +544,7 @@
     {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260930T160600Z",
       "date_et": "2026-09-30",
       "time_et": "12:06",
@@ -537,7 +552,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1639,7 +1654,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -1647,7 +1662,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1879,7 +1894,7 @@
     {
       "title": "US core capital goods orders point to robust growth in business spending on equipment",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUU5FWExWQVZRSzBfQ0hxNlBlZVdZWFc2elo1aTdPQXpwVDU4a0ZxZlRjeHF1WWdUSUlfWHpxSzZJZHJOWVgwZTVZaUJ1Q3dSRjhMMGVpMWdoMzUwN3ZfOG1QNE5ZQlM2NkM5U3JTbU1kUWE3UEx2M0FXS2xKcUhOUkxQaTZ3azJiRktERlNWaw?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260925T164933Z",
       "date_et": "2026-09-25",
       "time_et": "12:49",
@@ -1887,7 +1902,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3088,21 +3103,6 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "August US Housing Starts, Permits, Completions All Decline",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T124405Z",
-      "date_et": "2026-09-17",
-      "time_et": "08:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Trump lashes out at Fed after Warsh backs rate hike",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
       "domain": "Reuters",
@@ -3129,6 +3129,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Housing Starts, Permits, Completions All Decline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3630,7 +3645,7 @@
     {
       "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -3638,7 +3653,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4260,7 +4275,7 @@
     {
       "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "domain": "reuters.com",
+      "domain": "Reuters",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -4268,7 +4283,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
