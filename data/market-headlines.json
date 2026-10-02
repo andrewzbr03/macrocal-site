@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-02T07:29:42.341Z",
+  "generated_at": "2026-10-02T08:30:32.389Z",
   "articles": [
+    {
+      "title": "Treasury yields inch higher as investors await key jobs report",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmVBM0ZfSTB0a0EwUFFNd084S0RwSFZzMGM3OHFvSTBKazNtZU8zQTA5QVpnMTFkcEExYnNrcS1jeTFfUmxvbWtnQ05kODBVYVNXM0hrcHBMLXVCZU5TUFhXR0VISDFpNnNucTJGQVZKWExIRWtfV19YQlh4U2RWedIBhgFBVV95cUxNNzRfWTRlWldSa3ZWNEt4Z0tkYzdTay0tcWRneGJFR2JjYmtiM1R1WEN4Z1VPdmtkZEpjdjdKTktaajVFT3Q0N1hjTW1QQUhHX21kYmRUZEFMY0duSmJsWDd4anJDM3lyckJjazhMSmU2M1RUX1BVZnlTTWtzMVpremxGNlBCZw?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261002T074749Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:47",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTZJa2EyZ181amxFRGo2WHhlcUNtZkxiSmlPOTJDNUpKSk9GSUFCa3owbGZPMUt1QkxoOGVUNlBTSkpreklRWC1GNzRmXzNWeHJEalVvSk5KWWpPbWRQUTdPcFlqQUZaVVVncXdKd25aSVVCeENaYllPOC1qQ0tqeHJ2dlJyYkhKdDVvMS1fUGpTQXBhQUpCbW1wVU5lMEJkVmF3REZ2MUxiZU00c3otR3hndUwzNF9OUmZTS2dMWXVlbDl1a2c?oc=5",
@@ -1369,7 +1384,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -1377,7 +1392,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3133,6 +3148,21 @@
       "source": "Yahoo Finance"
     },
     {
+      "title": "August US Housing Starts, Permits, Completions All Decline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T124405Z",
+      "date_et": "2026-09-17",
+      "time_et": "08:44",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Trump lashes out at Fed after Warsh backs rate hike",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
       "domain": "Reuters",
@@ -3159,21 +3189,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "August US Housing Starts, Permits, Completions All Decline",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T070000Z",
-      "date_et": "2026-09-17",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
