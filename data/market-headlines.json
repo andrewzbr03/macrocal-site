@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:32:11.531Z",
+  "generated_at": "2026-10-02T19:28:51.097Z",
   "articles": [
     {
       "title": "How much higher can bond yields rise &#x2014; and what does it mean for stocks?",
@@ -122,6 +122,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "September's jobs report misses: US added just 29,000 jobs, unemployment ticked up",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T134134Z",
+      "date_et": "2026-10-02",
+      "time_et": "09:41",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "VIEW Soft September jobs report sends markets higher",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
       "domain": "Reuters",
@@ -223,21 +238,6 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "September’s jobs report is expected to show a labor market that’s holding steady",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261002T130113Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1324,7 +1324,7 @@
     {
       "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQndXXzRXaW96Nkx6SWhIMnZETC0wTWlMelQwWWtkZUhZWjMta0c2akhaMl83Z1dpRjBzOHduOUdrbVlhQXFvR3RYaEUwaHR5MjB6TUVoQzVaclEyQ3VqcDBwVDFNQ0dQM2RpM1JVaDJEX1NVMWZ5U2NYU2NJbUxjRmlNUzdNUlNPbWFvTHZrTHJUSmNCTEdjcnhWOEtXLURId0pXZVFRY3RsM2JKUkRIcnYzb3BNOGVINmFJSERMQ1pjUi1yWnIwZENkcDdYSXfSAdQBQVVfeXFMTXh2SEN5ZlFUdldiYzdtRF9TbUMyVU5NaV9qZUU0NmZMb2RFLTdMMmVfem5YdzBmdXVIM0toa1dTbVg4WnFWa0ZxSWRtZWxCNEl4TERQUDJzU2Nack5QSjU3STZBT0otSWRFZTJuLWQxbWc4QTJtX2FEcW96MTQtem5WbF91VmY0dGlqWVEzdlg0UURrT2RoMXRwQkE2ek5kdGFFX0xOcFVMejNDdzA5YkFoVU9LR1phdlRmekprZHMtLUJmeFR1dF9saGNIU04yeTVPQlU?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260930T123207Z",
       "date_et": "2026-09-30",
       "time_et": "08:32",
@@ -1332,7 +1332,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1684,7 +1684,7 @@
     {
       "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260929T190729Z",
       "date_et": "2026-09-29",
       "time_et": "15:07",
@@ -1692,7 +1692,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1819,7 +1819,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -1827,7 +1827,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
