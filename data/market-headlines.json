@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-02T11:27:18.901Z",
+  "generated_at": "2026-10-02T12:34:25.367Z",
   "articles": [
+    {
+      "title": "Markets Need the Jobs Report to Point to a Fed Hold",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZwMzFNaURNeUNwenJkM0t3X1k5YVZET3NMZU5DSHU5Qng0Tk5NaU4tUE1vTnhZd3RjeWh0V3RPRFlBczZDbXYzYnZNLUQxZTBZLVphTWNyNVJ3a2dZcDBzdm50a1U2WE1YaTJYMDd4TTl3QkVjYUJ6S2ZCbHlxeQ?oc=5",
+      "domain": "Barron's",
+      "seendate": "20261002T113900Z",
+      "date_et": "2026-10-02",
+      "time_et": "07:39",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Jobs Staying Steady Before Midterms, But So Is Inflation",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGdKY0hOWklXenBrODNzX2h6dFdsaFJHaXRid2xHTmRkVWNmTndGWWdYVXB5UVBYeVd4NjlPZU1KVmtNUTIwN09XVUl0TXNpOXdkRHByYXZwZFJ3V0ZZN0lsNjhfRU9ianlEc2RyZ3NCYk93WVZFdEhYV2doSXEwT0VDU1RZRGVyWkN6U2Z2Nlc1RHAxQ0N5UlJQb0ZFc0pUeWFESGx4SGpIMWdLS3l0ZFRCMXItQmNNNXZVNnhWY2FIUDk0aVN1eg?oc=5",
@@ -43,6 +58,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September’s jobs report is expected to show a labor market that’s holding steady",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSUZGYXhrN1NVNmhrLVppUVJ0elRWaVo5NWRNaHNwUzh4TWRhQ3FlaEVYdTkzaGJjTUxqRXdVTi1Xd3hobDM4a0Y2TVBWUkxQVFZyV3JiUVkyTm40dG5Hc0cwM1dHaDFqNkI3SXlna2lYc3RObm1pZzV1NW5VdEM2cUFWdzFCNlJzalBGSXdWZ1VKcEY5aU50V3Ata00yMXYwSHljX2xZSlJ4TEhMaFlfQk1oTl9selJfYW4yWGQwQjVPdTdqSXVSRnE3bUtlX0lN?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T082428Z",
+      "date_et": "2026-10-02",
+      "time_et": "04:24",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -158,21 +188,6 @@
       "seendate": "20261001T195424Z",
       "date_et": "2026-10-01",
       "time_et": "15:54",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "September’s jobs report is expected to show a labor market that’s holding steady",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSUZGYXhrN1NVNmhrLVppUVJ0elRWaVo5NWRNaHNwUzh4TWRhQ3FlaEVYdTkzaGJjTUxqRXdVTi1Xd3hobDM4a0Y2TVBWUkxQVFZyV3JiUVkyTm40dG5Hc0cwM1dHaDFqNkI3SXlna2lYc3RObm1pZzV1NW5VdEM2cUFWdzFCNlJzalBGSXdWZ1VKcEY5aU50V3Ata00yMXYwSHljX2xZSlJ4TEhMaFlfQk1oTl9selJfYW4yWGQwQjVPdTdqSXVSRnE3bUtlX0lN?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261001T195320Z",
-      "date_et": "2026-10-01",
-      "time_et": "15:53",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
@@ -319,7 +334,7 @@
     {
       "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFBBdGF6ZG5wdE93aG5KTXd2UFRPRkRFMjRsaldBdjdUcThmMDBsMERjVnJWNjh1Y3FTRVo4aVZSTDBVR25JbEFFRFROTEt6akxXQjVQQlpqVUlWTFNPSmdIN1oyYkd0OXBHU0xKRXJmejgyMlgzQmxnY1RydW80aDVCc0gwNGlLY3lEajZ3cEx4UHNMc2lZTDZpM2trSUI2djVTQVFzTXdrRlJhLV9rVHJHcUFaWkpWamkzck40WjdnZw?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20261001T144300Z",
       "date_et": "2026-10-01",
       "time_et": "10:43",
@@ -327,7 +342,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1519,7 +1534,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -1527,7 +1542,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4515,6 +4530,21 @@
     {
       "title": "US unemployment claims dip to 206,000 as layoffs continue to remain rare",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2tjX05XNkJteVlUZ2hzRV9fOVcyRDBQVjlqYWpMR2FMb2djQUhLVEtyeVF4SFFEejloY3VUMkg2SElyZUJPbm1YVDFNZ2ZNRDV5OU81N1phTktOc0ZlWFVyRzc2cDZqOUc2SjFtWVNjWGdwclp3VklQTVFlLTJoRmR4QkFEWl9RNllsTV81bUVodw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260910T070000Z",
+      "date_et": "2026-09-10",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US unemployment claims dipped to 206,000 last week, remaining at historically low levels with layoffs relatively scarce",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdy1sRmFtcU1xSTN1cEFVenZLMW9tRlJoOWFEay05X3kzRzhQR1NkSHg1WGZPcGNYaTF6UUtwTXhQc1pvdXkxeXlobEdOclYxVWp4WjJETjZjbTJlUFY4QVBvNDcxUWpHM2lIUHhfM1J1ZWRkeTA0aXJHU3BBR05EcWswckZiUGlkVVZSMThaUXAyTl8zUFE?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
