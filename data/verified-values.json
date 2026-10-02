@@ -456,9 +456,10 @@
       "filter_id": "jobs",
       "metric_id": "nfp",
       "field": "previous",
-      "value": "162K",
+      "value": "133K",
       "source_url": "https://www.bls.gov/news.release/empsit.htm",
-      "verified_at": "2026-09-28T16:22:29.728Z"
+      "verified_at": "2026-10-02T14:38:43.639Z",
+      "original_value": "162K"
     },
     {
       "date": "2026-10-02",
@@ -648,6 +649,33 @@
       "value": "52.7",
       "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/",
       "verified_at": "2026-10-01T14:59:09.483Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "actual",
+      "value": "29K",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-10-02T14:38:43.639Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "actual",
+      "value": "4.2%",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-10-02T14:38:43.639Z"
+    },
+    {
+      "date": "2026-10-02",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "actual",
+      "value": "0.1%",
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "verified_at": "2026-10-02T14:38:43.639Z"
     }
   ]
 }
