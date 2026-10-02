@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-01T23:24:16.117Z",
+  "generated_at": "2026-10-02T00:35:31.372Z",
   "articles": [
+    {
+      "title": "South Korea CPI inflation eases slightly in September",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjhpZU04RkRfQW9hZmJ4Q2ZkYlZoR2NZV1NaUFlOdDhVZmMwWDRrWkV2Z3o5b28zNjRYdVl5QjhJbGNZSUNkZnZFQm1FeEZqcm5ESGtrQU96bTdmVnpaZUlXZVlpVHI0QVlKVmhaZjlLV3AyelkyNlpfVEpnZWs0UHFWdkNPSnY5TmN4MDFINDNUdUtod3FLMFJxc3FCZzcwTkx6MWo2WDhhYUk1OHJuU1JR?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261001T233141Z",
+      "date_et": "2026-10-01",
+      "time_et": "19:31",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
       "url": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
@@ -49,7 +64,7 @@
     {
       "title": "The September jobs report will be released Friday. Here's what to expect",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBFSmhVUjIxM0VkdUtYVW9ER1JEREsyTUlmdGhQMnZCSjUzWERwQmpLSUlqd1BCTlRhUkVZZ3lYN2xaTjFhQ3BDcTZlVHcxR2ZicFMydkpCV2Z1Q2ZydHowZmhIMzFqNm91MmJ5UVdDbjdQanNmRDZ6UFhfTmVteUJqaEJqdnBVMXZ3TDFWNVVqcldvd1VZRDZHcHA0akJOWUFac0ZpM0o1ZjDSAbABQVVfeXFMTnk5QzhpaGlDdWRJT2VKOHU5V2xCRDJDb2pYcjhTdjc1RUxianJ1bi1lNldubmpsMU43Z2JaTnJEdXlZaW9QUGYyQVNjRmVKWHpwX09fbTloaXFTejlLTEpVSzJLNFBLOEplT01Rdmw3LVNwaGd0Z250dnZMaDhBZVdQeUdIeTczS1hsODVlM003MS01TkJhZ0kySUlXVUw5c0dacmd4eW1RUU1IUGZCZHo?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20261001T185502Z",
       "date_et": "2026-10-01",
       "time_et": "14:55",
@@ -57,7 +72,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -184,7 +199,7 @@
     {
       "title": "ISM manufacturing index steady, though prices gauge surges",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHhFM2gtMXFqb3RsUE4zX21LQVd4bWVoSG5uM2tCOXplNEo1NTFDSDVBR3VVbWdzeVpJTkdaMzdxMHdDTTZMWmZtYjNhT1VBWWpva2I5T3dtRzhtdkJ5aE00WGhIT1BtSUotR1NWTzVCTVJ0T204Z3NaMHpLYnQzaF9obXFNR3FCYmdpeWJWVXFSX0RtdXhIVlhLUXoxVU9JMzFVNE1UTUFYVXo5RkdlOXl4ejRUMzhTMUV3?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20261001T142429Z",
       "date_et": "2026-10-01",
       "time_et": "10:24",
@@ -192,7 +207,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -632,6 +647,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "August PCE/Core PCE Inflation Readings Lighter Than Expected",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEZ0RmktOGt3QUNIMHUxOGNhMllMYUMxbkw3NmhoMFlyWUdQMXRRaFhtX3lNeEZPSGlfOURUNlpLSm9Qc0NWUGUwTmFqWk9SM1RtRWZzSVFuV2p1YlZMMW1QaDg4eWxKV1hPYTgxYnh4ZHlUTmhSTFVta2ZvRlZSZW1KQUgzOEl6WHNfemszalg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T135400Z",
+      "date_et": "2026-09-30",
+      "time_et": "09:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US second-quarter GDP revised higher amid robust consumer spending By Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpGVHFjX01YakpEVnltWmlqU2lmbW9reFVYcGNhY1BSN24tOTBLSThtWkhVclJqRW9DcDFONmc3TFR6TkdUc243cHVlaGx2dnBld3NldS1aY2JWbk14aXZNLTNJZDZvVVJOcmlyZ2dycHdsWWZzUm9KMDctTFhXYXZwV09QU0dkeXc3RlZKbUFIZlZvd1RTRjYxR1JXT2tCcmNCN3BXNDJGNEdHRWNKakRpdWw1RWVj?oc=5",
       "domain": "Investing.com",
@@ -964,7 +994,7 @@
     {
       "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQlZiZlp1SF9QQThOeTVMdlZRdzFWWmJCQTNscjM0SXpCM1N0NnFqcEI4Uk5ZdVhyak5xQkplS0xseklzSVlNS3IzdUtvRXExNUNZcG1wYU5vVDA1LUlmeVNxdm5vbG5lYXpzQWhTdUFLNTlV0gF6QVVfeXFMTVpOSXVkYm1ua3ZWMy0tUFozWW1DM20zU3h3cExyR3lVckNPb240R1RYTFhJRUNPRkMtOU5pSmpPQTVRa1VYTmNYUnVBMTdpdURWQlJTeF84d1Rsc0xYS3VLZXF1SndfTzZHTXFMeTV2aGZ4X2J6SVlzUGc?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260930T064619Z",
       "date_et": "2026-09-30",
       "time_et": "02:46",
@@ -972,7 +1002,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3045,7 +3075,7 @@
     {
       "title": "US jobless claims fall to lowest since July, signalling stability in labour market",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHRwb2tpTzVPM0FxSzR2OS1WODRaYXdsdm8wVXlwYW1CVHpVT0kyWmJXcHpOOUdOR0QwSFRBTHRBTFpkcDh5Yk1oY293bjB3VWxSdW5OQTd2RUtHSC1aS3A5cklUT1JTdWREVlhMMWZjZ3FjZE5uVnhUSmJEanNMYXFpOVZtM2RoWjhBM1djN19yX0RaRDJud3Z5Z0VCSU82dWxxOVFFWDFSTjFKVFVoeFpTOGNWT0hxRzN6N3JXT0pvaWPSAcgBQVVfeXFMTjN0NW92Z1lpNGdoWXRwY1ZTVU1MRFJqLVJFNG5kZWowWUZXNFQxMV9QTGp5TXE5VThFTnVSY001UnNyVHdGTnU4TjVmUWZiRENSc1BrZFpOMk5IdVNraUNLMy1PUTl0SFFuMEtCZ3JaYXV4b2RHLThPcjZkbnlmaUtjR2FzY1Z1Qm5LLUdxNks1cDBtYkZJLVNRV3c3Zmo4WDZfWUFxcVhzWEd6TmJSOEJTZ1ljQTZzaTBqQTRsM0pLNkJ5RXZ6dEQ?oc=5",
-      "domain": "CNBC TV18",
+      "domain": "cnbctv18.com",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
       "time_et": "03:00",
@@ -3053,7 +3083,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "CNBC TV18",
+      "source": "cnbctv18.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3735,7 +3765,7 @@
     {
       "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NWtYSmQ5R05raVhQakVkMUdmLWJVTmlCR0R3WWZBbmVsVVQ3SEpnS181Wk5qRUt1cWJhelI4cEZtUDVwb0c5U2dNN0hiZVd0NkdQU1Y0SWRrMlJnQjlXZ1BtdlBHbzF2WkswVFhUVTNXQ3dkcmc5WtIBfkFVX3lxTE9FQ0o0emFuVFUxWFIyNEpyaXpvaS0wVVlydUtLSHhBVDh1blJ6LTdreGozdjZjdmo5eXF5cFdYc05xQjFCMVhnQzFMRkpJVkk2VWwzUlJ3a3F6bjZXTEt4dW1aUDdEWFdHek9FSTVUVTAxdmNSVk8xa0dUMXk5dw?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -3743,7 +3773,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3780,7 +3810,7 @@
     {
       "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTZyQXZidTZGdVYxeXZXSW0zUmpaREhLeWVUa0dlOEFrUUlnSlN3WmhDQkNiaUJYb29XWDV6eFg4NktmSDJ1M1F3cUIyOU1FbUNwU2VnaXcwRFQ4MUJTQWxGTjk4d1NLYmdfN2FiV2lFd0V2NkEwRWVOUTl0MVF6WnVHeXFXd29nNnRnall30gGTAUFVX3lxTFBhVENSMnExZUdsNFppdExrZHo5TzVoV0VIckoxMVJlTG8xM1NBNEJiQmozT051UllUNVNpSEJ0U3c1MzJWYVF1OU11ZWl4M0RxZi03THNYU19UYTQwRTVkYjhzR0tfcVppTWtIR1FWcTRuc1R5YmpMeUFpYjNueEVWMkRrY184NlpmUTdQY1lidHBscw?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -3788,7 +3818,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3810,7 +3840,7 @@
     {
       "title": "Here’s the inflation breakdown for August 2026 — in one chart",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zNzhBSkh6SjhkTHBVOHVDVjlPaDZDZkg4Nl94c3Y3X0s1X2RQX1NGLS1OWl9VdGJvaTQ2QjBQSDZMdHpBbEF6dV9ELWtFVktxUVh3TVRhZjl0ejRWMzMwbDR0MzFaamlTOXRBQ0dmcHEwZ1JCRmFld1ZGZUXSAYIBQVVfeXFMUGlsMXdZeGowTl9pZ2lEdDcwUUxOVmk2MGxLSWpZYmJYNXZ4dmFLczhQZEtNWDlxTm1qSXo1YTdDY3ctSVVjMXNadVdicUw0NzlYT2hJMG1UbVRHSWcyQUdKSjBWUUFPTmpWLUNWNW5yNDJ2SU82bU9lZV9fdllVYlZnQQ?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260911T070000Z",
       "date_et": "2026-09-11",
       "time_et": "03:00",
@@ -3818,7 +3848,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4080,7 +4110,7 @@
     {
       "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkFnRHhFSnduaGNSQ05kNUU2c24wNVBGY0RESmxraW1iUENhc0xUb2NZSmhrWWxieWFkQVNqRlJucmUwTmUzUjltRko5ZndVLWxqTGFTc3IxMEhvOTlQeU1QUjdFWVRlSjhmSGRkb25YUGxxVXdlM01RLTFDcXo3cFdtLVN3WGZXUDNCR00tSl9xdUFXRHlybGpCWUNiT0gtcjJDWlRtd0FDWHRfdDZ2bVl0U2FXUTJfdlN2RtIBwgFBVV95cUxQUXg3aHY1MXh2THBMazQwZGFKUGhFZWpHdXU3N2hnblVyV0gtaEJBeGRfeFVJb0lOZ0RUYWlhcFBaRmRfbDNTSkRhWGgydXhvX2hjT3ZvZFRfcmtFU1JBQ3NuUTVFajJQRlNEQ2xJdG91VUFoNzFHZU54LVhuRGxpQmVVaEVKUmtISzhEWjBXemhhQ3hWT1gzaGcxX210Mk9iMTBHT0Zhei1aWlRobGgydzQ3aHI2S1hfRVVqUndGdktoQQ?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260910T070000Z",
       "date_et": "2026-09-10",
       "time_et": "03:00",
@@ -4088,7 +4118,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4485,7 +4515,7 @@
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWWEzcDI3bDlYbmQwMXd3dXdEWFRfeFl1RnpKamFQcXk4cFZpeHk3b29CSENaam5iaWFUb3podkRBY1MySFVPdWhiR2tqMVNtODFOUXptNjVTR2xyaG4xUml3TDdyX0NmWWI5Y9IBckFVX3lxTFBEV2xVamRtYmZwNllaVV92YW5DSlBUbDhJSkJKX1ZKZFlPMXpFOHByaWhNeUs0Q2U4WWM5OVBLMTFMaTdPSGZBeTVESmZkOUh4aFdQWmZNNGpETFh0bVY2dFFsN2oxRnE3dXFVeHhwNnhXUQ?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -4493,7 +4523,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4560,7 +4590,7 @@
     {
       "title": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUUyd2ctTGxwTnFTeFBPOWdLdXFLZHZuMVdfUzBTWkpWMlEzaDhRWEhQOVNmNDJuWDZHSVNwVzJfMmNWdXpZdUN4NUZJQTdhVWJpMDFtZ2VyYWVEQ1YyV1NxY0Rxd2lsbnR1YXhibHNYOWN6MkJKR3BYRTJDaFgtckJXVng2RTcwRU9MMFBpdE3SAZYBQVVfeXFMUDNiZGd4WThYN1B4RjJ0d3BweFNNMkUxX0hrY29TMF9LTlNPU19wU1NiUFNsTjVvekFPN0otS0pJRFoybENlSHY5X052RGc5eFc4X1lDSG5JbjYxR3lOTWE5N2hrUVphaERJZGdlVks4bE1raWtSczZDTFM2SFdnZHRZU29tRHp3Skd1WG9lcG1xMzJGN3RR?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260904T070000Z",
       "date_et": "2026-09-04",
       "time_et": "03:00",
@@ -4568,7 +4598,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4905,7 +4935,7 @@
     {
       "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92WE1BZmt4QlJkTjhBYmI4dERxRVNIUEZtX2hqY3dSUjA2a3NaSlJzT1dTYmhweVhwZ0kybkhySVlGUzdTRVRxTEhIT3ZQXzgzMy1Td19XbDFUVllZRVlYdXc4dE1teVRaRXBQcWlvaGpLVG12NjNlbtIBfkFVX3lxTE5Cb3IxU1ZGc2FxektEWFN3T0lSLVA3cnlGY3VlV29OT1JFRVN4YVdTMkdPOGJmTjhUdUZ4dFNlMy1Fc1ZudURxNUJySXk5VHBUcHhvWXk4ZHBrcF8tYkQzRVZLdGxVZU9SR2EyaXA5SENtdkFoY1Y4N3NLLUtDQQ?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20260903T070000Z",
       "date_et": "2026-09-03",
       "time_et": "03:00",
@@ -4913,7 +4943,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
