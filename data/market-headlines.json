@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:30:41.860Z",
+  "generated_at": "2026-10-02T16:29:14.798Z",
   "articles": [
     {
       "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
@@ -28,6 +28,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "VIEW Soft September jobs report sends markets higher",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261002T133310Z",
+      "date_et": "2026-10-02",
+      "time_et": "09:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -77,6 +92,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Experts react to weaker-than-expected September jobs report",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkJLcEJNMlotTzJWRUdNdjZYSmZUektvcXRVTXhlNVBiWUw0S0M2THdNOEpoZHY0MlBnTGpINlJjRVljS3JzaUN3QWR1QklaeHluOGNhUWFmZmhKS2Fzc0ZpemFPM3NWUUhGbTRIUjcwd01zTzBGZWd6VzJyRmIzU3RvQ0hmMEZGWHJHdlFhcTdnV3hSMmNxcElXcGgtdmVvS3R6SQ?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261002T132706Z",
+      "date_et": "2026-10-02",
+      "time_et": "09:27",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Wall St set to open higher as jobs data dampens rate hike odds, yields fall",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
       "domain": "Reuters",
@@ -107,21 +137,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "VIEW Soft September jobs report sends markets higher",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261002T130359Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September’s jobs report is expected to show a labor market that’s holding steady",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
       "domain": "Yahoo Finance",
@@ -133,21 +148,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Experts react to weaker-than-expected September jobs report",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkJLcEJNMlotTzJWRUdNdjZYSmZUektvcXRVTXhlNVBiWUw0S0M2THdNOEpoZHY0MlBnTGpINlJjRVljS3JzaUN3QWR1QklaeHluOGNhUWFmZmhKS2Fzc0ZpemFPM3NWUUhGbTRIUjcwd01zTzBGZWd6VzJyRmIzU3RvQ0hmMEZGWHJHdlFhcTdnV3hSMmNxcElXcGgtdmVvS3R6SQ?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261002T125950Z",
-      "date_et": "2026-10-02",
-      "time_et": "08:59",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -319,7 +319,7 @@
     {
       "title": "Soft September jobs report sends U.S. dollar lower",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3hNbG9nZGVfM1dBZ0RWcVNuRTRQc1JXbmRUTzR3dEM5RDFib1BqVFFkLUpDN2s2R2ZmZG1BMVJIUmMxd3AzQVdCTy1RU013OWJXQXNFSXNEeWVoZjMyZ210Q2NUMmhzdW9ETW1zRXVvM2c4VjFWcW40UFJDLTUtZlZrUFh6VlVHRHRWXzV4YmtLM2N10gGaAUFVX3lxTE51b1BHMzNUVEVyMXI4Z1RzaU8tUUpqU2lBbW9vUGl0TUJhcEZoWmloS0VmOWxjWE15RHV1ajBnYi1iblB6dTFISTVxRG5uYS1qYnU2Y0FZVVAtRnVxbFVTeWVaOHpPRk9BWEtvaVNTdnMycWl3dmRYVTlfUVFDM3lacnRvdzZ2bmdyN0dPUU5Zc3JzU3dFRnl3NXc?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20261002T033700Z",
       "date_et": "2026-10-01",
       "time_et": "23:37",
@@ -327,12 +327,12 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. stock futures drift higher with nonfarm payrolls in focus",
+      "title": "U.S. stock futures tick higher with nonfarm payrolls in focus",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1mOGxWNkwwa0N5RHlvQ1V2MENsS2ZEQ0JpVFUzMWVhZWFKVW5LVVF5LWhCVVhPaURPRnMwWGttSU5MaWJFMDByZS11OFBHU1psNEV1cThJeDI0MHRwaUNuX2lxT1NiMGYxSWluRzQ5MUhGZUxvVmpGTUdNemZVRVFmSHlTMGdUejVjRndGcnI4VC1tSmZoTQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261002T011300Z",
@@ -1759,7 +1759,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -1767,7 +1767,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3360,21 +3360,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Weekly Initial Jobless Claims, Continuing Applications Fall",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmIwTl93RUpIbnVfTlE4OUQ3TkpxWFlIMmplR00xWjE2UUk4bWlhOWppYVlzUXJuS1VVcXhLb3NETlB6VmpLcTEyQUFLNWstbTVzOEhpbC15RzdaWVBIQU05dXVmOUFQd0lDWTNpZWtFTXRMa2lNZ1Jub3hQcGt2TEZNUFhlT0pwZDF2UUhVeEFmbU1lSThCXzZhR0k4RERRdWNWd2Nnb2I?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T191742Z",
-      "date_et": "2026-09-17",
-      "time_et": "15:17",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
       "domain": "reuters.com",
@@ -3474,6 +3459,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Weekly Initial Jobless Claims, Continuing Applications Fall",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmIwTl93RUpIbnVfTlE4OUQ3TkpxWFlIMmplR00xWjE2UUk4bWlhOWppYVlzUXJuS1VVcXhLb3NETlB6VmpLcTEyQUFLNWstbTVzOEhpbC15RzdaWVBIQU05dXVmOUFQd0lDWTNpZWtFTXRMa2lNZ1Jub3hQcGt2TEZNUFhlT0pwZDF2UUhVeEFmbU1lSThCXzZhR0k4RERRdWNWd2Nnb2I?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3870,7 +3870,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -3878,7 +3878,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
