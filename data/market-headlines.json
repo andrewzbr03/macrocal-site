@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-02T17:28:22.666Z",
+  "generated_at": "2026-10-02T18:32:11.531Z",
   "articles": [
+    {
+      "title": "How much higher can bond yields rise &#x2014; and what does it mean for stocks?",
+      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261002T174800Z",
+      "date_et": "2026-10-02",
+      "time_et": "13:48",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Reaction roundup: Experts, analysts weigh in on September jobs report",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalJfb1BCeWdPNWFKcFBJT09MYXFuWExFRUs0TWFzUXJ0Rm5jQzhhcWJ3ZE5Ld3g3WmFSRjcyMVlrYkhnUkFweGJld1dsNTVtN3BJUC1PRmgySTRJOXF6RzFpbFBFckoyMktweUlGOXpOcldPQTc2TlBnNzZXSU9hc0VIWlpGc1J4cDU4MWFLMW5lMWZKZS1sajk5MXRtakt6TmZzUzdnR2ZTOHFjRkZpUjJ0UzR3aWJBNkY4?oc=5",
@@ -28,6 +43,36 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. labor market slows with midterms on the horizon",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHAyRS1ZQlRES2dOclZhelhWNDVucUZRanNFQUhlN0dRR1d3R2l3VkxVRWU4TlNva0FuQVdIMUdGSkxfTGtRYjVTQVFoRE9uRjJPdkk5Zmg4S3hkYU8tUnlLZWFXN2ZhTUxPS2xEVzRUb3V5czVXVW1zMTlmOUltdi1uZ3FXRzVUbGk1VjB4MEdMOG4yNXNrQzNaX1RGMERtS2Z6dWo2UklGM1NKMW9HMnlIWGVQWnl6NWFfU3UyVQ?oc=5",
+      "domain": "NBC News",
+      "seendate": "20261002T152640Z",
+      "date_et": "2026-10-02",
+      "time_et": "11:26",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "NBC News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US job growth slows sharply in September; unemployment rate rises to 4.2%",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261002T143252Z",
+      "date_et": "2026-10-02",
+      "time_et": "10:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -152,6 +197,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Weak September jobs report likely to keep Fed on hold for October, with focus still on inflation",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTEtpMlZ4TXdIV2lYTS1adTNESkVBZTZrOTZiTDRZcTVTemtmb29UTWFPOXhnQWNwdHI0V3BoS21CSm9vQVMtX2k2YUh2Q2xNd3lReWlBN21VN1ZOTXlmR2dyN3NqTGxDS25QeEo3U2VVaWF1cmY1RFhGcnFHd202ZFBqN0Y3cEZWZ0k0S012THVyZFdLUkJ5UXcwWmVvOC1JUjJMbWlJQm9VSjRVMk1mTVJjRkdibENwdU54MV9rTjBCcUctcTdnNElPOHRkaFUtT3BOcmZ0a2p2TkhSY0VsZ1hJak1UQURsUFpmSVRTZXI?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T132523Z",
+      "date_et": "2026-10-02",
+      "time_et": "09:25",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Wall St set to open higher as jobs data dampens rate hike odds, yields fall",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
       "domain": "Reuters",
@@ -193,21 +253,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "U.S. labor market slows with midterms on the horizon",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHAyRS1ZQlRES2dOclZhelhWNDVucUZRanNFQUhlN0dRR1d3R2l3VkxVRWU4TlNva0FuQVdIMUdGSkxfTGtRYjVTQVFoRE9uRjJPdkk5Zmg4S3hkYU8tUnlLZWFXN2ZhTUxPS2xEVzRUb3V5czVXVW1zMTlmOUltdi1uZ3FXRzVUbGk1VjB4MEdMOG4yNXNrQzNaX1RGMERtS2Z6dWo2UklGM1NKMW9HMnlIWGVQWnl6NWFfU3UyVQ?oc=5",
-      "domain": "NBC News",
-      "seendate": "20261002T125109Z",
-      "date_et": "2026-10-02",
-      "time_et": "08:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "NBC News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -947,6 +992,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Retail Sales Jump 6% in August, Boosting CRE Property Demand",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlgyd1FNT243UTJpb3pCSEQ4UllnbFBlTDdmRHpNanZ6UTVTNUpRYWNBS2prMElmeHJ3amFyYjlobVJJak9wcldvY2JZcGJCajB5eWYxNndRZ2pwRHE0OHdNZzdxajJTQUtHVVVwLVlmUkVaX0RMMmp1STE1dGR2LTFvQ0djVFFKQldyWDFBNmtXQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T161635Z",
+      "date_et": "2026-09-30",
+      "time_et": "12:16",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
       "domain": "Fortune",
@@ -1264,7 +1324,7 @@
     {
       "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQndXXzRXaW96Nkx6SWhIMnZETC0wTWlMelQwWWtkZUhZWjMta0c2akhaMl83Z1dpRjBzOHduOUdrbVlhQXFvR3RYaEUwaHR5MjB6TUVoQzVaclEyQ3VqcDBwVDFNQ0dQM2RpM1JVaDJEX1NVMWZ5U2NYU2NJbUxjRmlNUzdNUlNPbWFvTHZrTHJUSmNCTEdjcnhWOEtXLURId0pXZVFRY3RsM2JKUkRIcnYzb3BNOGVINmFJSERMQ1pjUi1yWnIwZENkcDdYSXfSAdQBQVVfeXFMTXh2SEN5ZlFUdldiYzdtRF9TbUMyVU5NaV9qZUU0NmZMb2RFLTdMMmVfem5YdzBmdXVIM0toa1dTbVg4WnFWa0ZxSWRtZWxCNEl4TERQUDJzU2Nack5QSjU3STZBT0otSWRFZTJuLWQxbWc4QTJtX2FEcW96MTQtem5WbF91VmY0dGlqWVEzdlg0UURrT2RoMXRwQkE2ek5kdGFFX0xOcFVMejNDdzA5YkFoVU9LR1phdlRmekprZHMtLUJmeFR1dF9saGNIU04yeTVPQlU?oc=5",
-      "domain": "CNBC",
+      "domain": "cnbc.com",
       "seendate": "20260930T123207Z",
       "date_et": "2026-09-30",
       "time_et": "08:32",
@@ -1272,7 +1332,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1624,7 +1684,7 @@
     {
       "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5",
-      "domain": "CNBC",
+      "domain": "cnbc.com",
       "seendate": "20260929T190729Z",
       "date_et": "2026-09-29",
       "time_et": "15:07",
@@ -1632,7 +1692,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1759,7 +1819,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -1767,7 +1827,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1819,7 +1879,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -1827,7 +1887,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2383,6 +2443,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan consumer sentiment edges higher than forecast, but remains low By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVptYzBPTV80LWhOeE02WEdmYmtoRG1BUXdBd0JYaFN5cjBXams2SlJ4QllNVFotaFBLbGo2VlJ5MTFXYzE5dkpxNDQzYlBnZFFGNkhYYjNGbXVqd3I4NldHbTlYRDN4SDZyMmw3UFdVbTNYNEFyb05RSktJb3pkZmU0VzhqLUNmalJIcTRzSzlTRUpBdTFkdjFPY1djZ28zUmlEOG1xcXZndEFUNEVJSFJham1nMDRnc2x6WnBvdmVqT3UwanF2cDFsNA?oc=5",
+      "domain": "Investing.com Nigeria",
+      "seendate": "20260925T141918Z",
+      "date_et": "2026-09-25",
+      "time_et": "10:19",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com Nigeria",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
