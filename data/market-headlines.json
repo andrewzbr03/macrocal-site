@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:26:13.972Z",
+  "generated_at": "2026-10-02T03:28:21.382Z",
   "articles": [
     {
       "title": "South Korea CPI inflation eases slightly in September",
@@ -199,7 +199,7 @@
     {
       "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFBBdGF6ZG5wdE93aG5KTXd2UFRPRkRFMjRsaldBdjdUcThmMDBsMERjVnJWNjh1Y3FTRVo4aVZSTDBVR25JbEFFRFROTEt6akxXQjVQQlpqVUlWTFNPSmdIN1oyYkd0OXBHU0xKRXJmejgyMlgzQmxnY1RydW80aDVCc0gwNGlLY3lEajZ3cEx4UHNMc2lZTDZpM2trSUI2djVTQVFzTXdrRlJhLV9rVHJHcUFaWkpWamkzck40WjdnZw?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20261001T144300Z",
       "date_et": "2026-10-01",
       "time_et": "10:43",
@@ -207,7 +207,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -373,6 +373,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Mixed Even As Micron Fuels AI Rally: ORCL, NKE, TSLA, RKLB, ASTS, PSKY In Focus",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXZBaFlYVE5UMGtLRkRhY0FIT000bWVrNzRyM19oUmVOSThGSDdScDRfb3Ewd243YmhVZ185UDl2bFRyT0lmYW1jR3NETktwUTlGbTFyVHdWUnVrOE1Qb1pyVU11dVpvcUc1YU1IeVBITFJ6YmpoUlc3a05nTWlRUVRGVVZWd2hpNVhKS195Rmh4ZG8?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T085019Z",
+      "date_et": "2026-10-01",
+      "time_et": "04:50",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1339,7 +1354,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -1347,7 +1362,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1654,7 +1669,7 @@
     {
       "title": "Opinion: Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXdEb3VLQV9GeWF4cjFmYmd4eS0tUVNkeWFSNVY1RHUwNFFTUHQ0YVQyb1gyYVE3OXl5UWh2eTlUUFpiMlJuMWFMSm1IOWJ1enk4WUFGNUwtUGxzWHg3cXVZYW1pTU02djJBdGhtc3dQZ1VsU0JNUEJXODlVSHY4R2t1SzBDdFEwekNWWndsMWV5XzdIS0p1bEVYSjU1OHlRdVlScnBSZ3hLZlh3SWlySEtQZ0ViWDZ4eGNfbGlwSVBDWmVq?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260927T110000Z",
       "date_et": "2026-09-27",
       "time_et": "07:00",
@@ -1662,7 +1677,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3043,21 +3058,6 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "August US Housing Starts, Permits, Completions All Decline",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T124405Z",
-      "date_et": "2026-09-17",
-      "time_et": "08:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Trump lashes out at Fed after Warsh backs rate hike",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
       "domain": "Reuters",
@@ -3084,6 +3084,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Housing Starts, Permits, Completions All Decline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3Y5aE1NQ2hjbHFVV3pyb1I2bUVHSk92RGdoUmE2eE1MY3pGSFRoYmZ1UnVjZlBWU3psWjFrZk9sVGdncVdHN1U3b1RLU2l4V1lna2czWjlqY1RDZG94S0tkZGtTRkhmQ3dZTGJtbWM2TWdnekllYXNQNGRqa3hkOW1TN1ZFMXdWczFzQm5FTktiWVVxYXdSa3p3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
