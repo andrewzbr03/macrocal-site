@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:34:25.697Z",
+  "generated_at": "2026-10-02T13:30:42.846Z",
   "readings": {
     "claims": [
       {
@@ -12,14 +12,14 @@
     "jobs": [
       {
         "label": "Nonfarm payroll change",
-        "value": "162K",
-        "period": "2026-08-01",
+        "value": "29K",
+        "period": "2026-09-01",
         "url": "https://fred.stlouisfed.org/series/PAYEMS"
       },
       {
         "label": "Unemployment rate",
-        "value": "4.1%",
-        "period": "2026-08-01",
+        "value": "4.2%",
+        "period": "2026-09-01",
         "url": "https://fred.stlouisfed.org/series/UNRATE"
       }
     ],
