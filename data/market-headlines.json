@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:34:52.574Z",
+  "generated_at": "2026-10-03T07:30:59.424Z",
   "articles": [
     {
       "title": "US Stocks Rise Despite Soft Jobs Report",
@@ -2728,6 +2728,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUS1UVXh5SG9MUFptZ282d2FaUXBSVE8wZ2I2OTB5ZklkczIwZVZ6RDl0Z3p2RjA0VFRhdnk5LTF6c0pKQW5rekoydThrb05qdHFTQmlyMkpDbFJRVHdub2RWZnVmZms4S3JaeERyUVRyMk5yOENGTGlEbjM0Mk82cHhsaFJpR1lRazJIU0dSYXI5T0RLUk1fX0x5Qmt2bGpoaVBxTnp6azA1YWpWNXU1eGVTanltcFpYbGRPdFdLRFdzQUlwRXc?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20260925T123400Z",
+      "date_et": "2026-09-25",
+      "time_et": "08:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
