@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:30:59.424Z",
+  "generated_at": "2026-10-03T08:28:13.485Z",
   "articles": [
     {
       "title": "US Stocks Rise Despite Soft Jobs Report",
@@ -334,7 +334,7 @@
     {
       "title": "Experts react to weaker-than-expected September jobs report",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkJLcEJNMlotTzJWRUdNdjZYSmZUektvcXRVTXhlNVBiWUw0S0M2THdNOEpoZHY0MlBnTGpINlJjRVljS3JzaUN3QWR1QklaeHluOGNhUWFmZmhKS2Fzc0ZpemFPM3NWUUhGbTRIUjcwd01zTzBGZWd6VzJyRmIzU3RvQ0hmMEZGWHJHdlFhcTdnV3hSMmNxcElXcGgtdmVvS3R6SQ?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20261002T132706Z",
       "date_et": "2026-10-02",
       "time_et": "09:27",
@@ -342,7 +342,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1592,13 +1592,13 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Wall Street steady ahead of PCE inflation data",
+      "title": "Dow futures rise as August PCE inflation cools",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0k4TlNPUjV5b1RUR09LcHZ1NDFRanFLUmhHa0ZqUXA4NElTa2ZnRDRyWnlWUWhsNzBCeGNSZ0JKeDVlMENDWl8yTWVKeEJRdnMwMDZGanczWlI2NEM2T2FPZ2xVZUJUNndfcnIzYUo4SktTZHNKQkZOZENrb2VxUk9MU3lqZlRjcFB4a2c4VDN6TkpHSXMtUw?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260930T112952Z",
       "date_et": "2026-09-30",
       "time_et": "07:29",
-      "effect_reported": false,
+      "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
