@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T05:35:55.253Z",
+  "generated_at": "2026-10-03T06:34:52.574Z",
   "articles": [
     {
       "title": "US Stocks Rise Despite Soft Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0IzMEsyMXRXaVh0aHJCUF9FNUpIMW52WTVLLTNQa2JiQk1pRVI3a0tELU00MmdadzBPMGlkU1hldkkzYUtvTUVONVZkQWdONnN2N3ZNWi13QmNGb2FpTTFqQWg1NW1BVWlGUlpZWG9GalJQeVgzZEt4UjMwRjk4cnVzSkdPdHd4Z1NhZF9xM0ItdGU1Q2FzZg?oc=5",
       "domain": "Bloomberg.com",
-      "seendate": "20261003T041412Z",
+      "seendate": "20261003T054413Z",
       "date_et": "2026-10-03",
-      "time_et": "00:14",
+      "time_et": "01:44",
       "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
@@ -424,7 +424,7 @@
     {
       "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1c3eWxhak03S19wOWloT192VXI2UGhzeHJLZDBMRnZxdGNwaEhxQ2Y1LWNqZFQtc2o5bk9BeW5uSnI5WVVNcDJMeXRmblA0aTloYlAzQUFYTzFJMW1Wc0ZrVkpLZFUwbGRfNmpjOWjSAXZBVV95cUxOUnZ1bXVuT3Y0RHBfSHFjVkJiWnhYb3J2ajZ6Qkd6UlQ1a2xEejMwVG9tdzRNbDJSU1gtcEJ1UXNVTWFFWC1XVFdxazlWTl9FcUxwdXNZeExGRUo0QnVTbHMwVmZLQy1zNEEzM3JqYnNmZUpvazR3?oc=5",
-      "domain": "cnbc.com",
+      "domain": "CNBC",
       "seendate": "20261002T123142Z",
       "date_et": "2026-10-02",
       "time_et": "08:31",
@@ -432,7 +432,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
