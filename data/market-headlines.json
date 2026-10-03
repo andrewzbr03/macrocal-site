@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:26:04.493Z",
+  "generated_at": "2026-10-03T02:33:21.965Z",
   "articles": [
     {
       "title": "US Stocks Rise Despite Soft Jobs Report",
@@ -124,7 +124,7 @@
     {
       "title": "Men are losing ground in the labor market. Here's why",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWTZjU3cweHlhVGFFWmZ1dmtTdVhZRW9BVVR6ZjFLTE8wbFpaaEhZbWN0TUVMa2paWUs0bHFZNnBuQWRzUWRZbjlEbnQ0SjhIN2tNdW0taGsyRW1LM19sNGJJMF95NklYbW9VRzBkbWZ3em_SAXhBVV95cUxPejU0NDBTWHlrR1dhMkhnbzduaHEtS3B2b1VYY1FVNmhNWTJtbnh2TmN3LTVfSDBxb1BENFJuenNzUUFrVHdhYjljVEh2eDZYN1Y1MzQxV0FYblFoVUotUW94cHhiZk5iaS14U05jOUhjR0s3LU9XWEk?oc=5",
-      "domain": "CNBC",
+      "domain": "cnbc.com",
       "seendate": "20261002T160025Z",
       "date_et": "2026-10-02",
       "time_et": "12:00",
@@ -132,7 +132,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -189,6 +189,21 @@
       "date_et": "2026-10-02",
       "time_et": "09:49",
       "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September's jobs report misses: US added just 29,000 jobs, unemployment ticked up",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T134134Z",
+      "date_et": "2026-10-02",
+      "time_et": "09:41",
+      "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
@@ -328,21 +343,6 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "September’s jobs report is expected to show a labor market that’s holding steady",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261002T130113Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1744,7 +1744,7 @@
     {
       "title": "Consumer confidence craters to a 12 year low as Wall Street keeps buying the AI boom",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBsMHdWRW5aUEN6R2puNUY5RnJIZlk0U0tjRGg0SDlETmh4MGFOMlFEYV91UFhLc2JpUUFrM1pTUkh0N3R0bUZpeDhBdXhBUDR1U0tpWGoxSFNnWUtlT20ydm5pek9BUjRobVFCUXlDQUxlR3hHTmNqT09nZHJBek5mVUlsZjBXYTdBSC1pcGVYVWpUOExqa0R3UFNMX20xTEpQckp6OG5IUmItOFc0Tk9n?oc=5",
-      "domain": "startupfortune.com",
+      "domain": "Startup Fortune",
       "seendate": "20260930T012550Z",
       "date_et": "2026-09-29",
       "time_et": "21:25",
@@ -1752,7 +1752,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "startupfortune.com",
+      "source": "Startup Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
