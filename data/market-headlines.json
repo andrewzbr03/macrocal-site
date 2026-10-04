@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:22:45.622Z",
+  "generated_at": "2026-10-04T21:25:13.823Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -1324,7 +1324,7 @@
     {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "fortune.com",
+      "domain": "Fortune",
       "seendate": "20260930T160600Z",
       "date_et": "2026-09-30",
       "time_et": "12:06",
@@ -1332,7 +1332,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "fortune.com",
+      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2149,7 +2149,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "axios.com",
+      "domain": "Axios",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -2157,7 +2157,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "axios.com",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2479,7 +2479,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "fortune.com",
+      "domain": "Fortune",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -2487,7 +2487,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "fortune.com",
+      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2563,21 +2563,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "marketwatch.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260927T070000Z",
-      "date_et": "2026-09-27",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2852,21 +2837,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T114137Z",
-      "date_et": "2026-09-25",
-      "time_et": "07:41",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Why the alternative to the &#x2018;clear and present&#x2019; danger from bond yields is this AI-fueled market that has quietly outperformed",
       "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2891,6 +2861,36 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -3199,7 +3199,7 @@
     {
       "title": "Statistics Canada reports retail sales down 0.7% in July at $73.7B",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTllcXdEeXo5dEJsNENtWkRCSUhRODgzTHI4bGxHN0FxY3dPSkdwRXJfemtsdGJMRTdJUW9oNTdwUjlidmw3bGYyUnN5RFk5bm11a2xSRHR3dF82VENZcFpzQkk0RDBXODhzVHlBdGpNQ0diRnJRM3JrQ3FtV05PY1FhUk4tczVhQW5EWHZYaXZlTWhtMkRsQmY4WnhUWG44OERHOHZBWFN5MHIyemNiaE1CQWJHVFh1TEVLRWZB?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260924T070000Z",
       "date_et": "2026-09-24",
       "time_et": "03:00",
@@ -3207,7 +3207,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4380,7 +4380,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -4388,7 +4388,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
