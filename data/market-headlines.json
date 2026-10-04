@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:00:49.128Z",
+  "generated_at": "2026-10-04T18:22:45.622Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -628,6 +628,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "America In Focus: Unemployment rate climbs, mortgage rate hits nearly 3 year high - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWFRSTNzdnc4Tl84V2lOeFRBRTN5b3RuOEd4UXR2OGt5RlBSM2ZrZFpaU3VGNk9SUE8wTFlBYnlzOVh6Mi0xckcyMzNEeGtqRVpTcmkzclBSWFJMYlNUcjd1RDhSbmhCQ054X1c0dkpGWWMzeS1hOXo5N3NGV2huN3VETF9pSThxenBsaTdUYzJyTVVKLW9XR2ltZmJseGpfYWfSAacBQVVfeXFMT1FuVC1VMFFxWjl3MHJMdW1fTmJLLVZTeVlxcWViS25zMTJ2SFRQV2JuMDhyVEl4MlFwLUJ4ZzJKRG91eXAwYVRVaVp3UUtYc1lzRUN4dWRVMjk2SGVKalR5dnh1Z2Rya0lKLW9ObmFwbmpoVEJoZEtucUlOZkZUdXU5NjA0LS1vWng4SHI4cld0bFdFSm9WVS1iWGVNcXdrUFRzTElpQjg?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1309,7 +1324,7 @@
     {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260930T160600Z",
       "date_et": "2026-09-30",
       "time_et": "12:06",
@@ -1317,7 +1332,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2134,7 +2149,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -2142,7 +2157,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2464,7 +2479,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -2472,7 +2487,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2638,21 +2653,6 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Durable Goods Orders Hold Steady in August, Buoyed by Electrical Equipment, Machinery",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOG5VZnBBd3Q2Z280RXRyRUpnVUVYTXU4eHl0WUpZRF8xa1pla1F2eGF0YjlpdzNtSzZsQjlnbjRHTjM1Ti1pMU8tWnV1LUlRLUVaRkFTbGJCLWcxSm9qak5yQXpUQXN5M3pydGtjU0M0VEZQUVhkbmJlSmdVUUdvWWxXTmxDZzFtajRYNDVLaGx0N2tH?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T194712Z",
-      "date_et": "2026-09-25",
-      "time_et": "15:47",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2837,21 +2837,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEU0RmNkVUhGT053aU1zeUs2YjU5UVVKYm9samJlN3JuYlJ2dEw1TVNXNkE3TGc3eFNab1ZNZHZMSXB0N1dTV0xDY0RQam9fdGs4OTBrdHliZ3lzemJwbS1RdEJDZS14QTBMeFZQTjZUZ2gzTklDbmRra29PMHFGSlZzS2IwSXZpR3U2blZSdVVyTVJKcS04bE8ta1hVNWZscE9jOU9LUmRHSFpZSjlNWVltZFlLcGhmc01oY29teUFQVXpzeWl4Y0Vn?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260925T123416Z",
-      "date_et": "2026-09-25",
-      "time_et": "08:34",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUS1UVXh5SG9MUFptZ282d2FaUXBSVE8wZ2I2OTB5ZklkczIwZVZ6RDl0Z3p2RjA0VFRhdnk5LTF6c0pKQW5rekoydThrb05qdHFTQmlyMkpDbFJRVHdub2RWZnVmZms4S3JaeERyUVRyMk5yOENGTGlEbjM0Mk82cHhsaFJpR1lRazJIU0dSYXI5T0RLUk1fX0x5Qmt2bGpoaVBxTnp6azA1YWpWNXU1eGVTanltcFpYbGRPdFdLRFdzQUlwRXc?oc=5",
       "domain": "Investing.com UK",
@@ -2908,6 +2893,36 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable Goods Orders Hold Steady in August, Buoyed by Electrical Equipment, Machinery",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOG5VZnBBd3Q2Z280RXRyRUpnVUVYTXU4eHl0WUpZRF8xa1pla1F2eGF0YjlpdzNtSzZsQjlnbjRHTjM1Ti1pMU8tWnV1LUlRLUVaRkFTbGJCLWcxSm9qak5yQXpUQXN5M3pydGtjU0M0VEZQUVhkbmJlSmdVUUdvWWxXTmxDZzFtajRYNDVLaGx0N2tH?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEU0RmNkVUhGT053aU1zeUs2YjU5UVVKYm9samJlN3JuYlJ2dEw1TVNXNkE3TGc3eFNab1ZNZHZMSXB0N1dTV0xDY0RQam9fdGs4OTBrdHliZ3lzemJwbS1RdEJDZS14QTBMeFZQTjZUZ2gzTklDbmRra29PMHFGSlZzS2IwSXZpR3U2blZSdVVyTVJKcS04bE8ta1hVNWZscE9jOU9LUmRHSFpZSjlNWVltZFlLcGhmc01oY29teUFQVXpzeWl4Y0Vn?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4425,7 +4440,7 @@
     {
       "title": "U.S. retail sales rise 1.2% month-over-month in August",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEZYYndMZzJvQmVFM3ZRejRrYWRoTHh6aW95N1ZXbmY3U3MtZkxzOHhOUnNkU3VXNjZ1b05BWlo5dzN1UkFxcDU0b0t3V0t3ZUxGWU95elhUNkhzd1VIaDhYczkxNy1oR2k4Sm1fWGwxLUtwSXlfVFEwWE1BMldveDZSR2k3cVRxaTBuSkx1dWhPN2ZiRlloSVhYMmZBQXd5M0ZRUlFEcmtrRm5Xamh0VURiZw?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -4433,7 +4448,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
