@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:31:33.871Z",
+  "generated_at": "2026-10-05T06:39:32.550Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -1324,7 +1324,7 @@
     {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260930T160600Z",
       "date_et": "2026-09-30",
       "time_et": "12:06",
@@ -1332,7 +1332,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2479,7 +2479,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "Fortune",
+      "domain": "fortune.com",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -2487,7 +2487,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Fortune",
+      "source": "fortune.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2837,6 +2837,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T114137Z",
+      "date_et": "2026-09-25",
+      "time_et": "07:41",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Why the alternative to the &#x2018;clear and present&#x2019; danger from bond yields is this AI-fueled market that has quietly outperformed",
       "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2878,21 +2893,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T070000Z",
-      "date_et": "2026-09-25",
-      "time_et": "03:00",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3047,21 +3047,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnhuWTRybU12TVFkbkNRWmdKeFNiN05CUDZVdkpuaFFxVC1sM3JxdWd6WjRqMzBMQTNXLUlNMkp3Y3hrWUl2bTZETDNHZHJUVUFOV1pKRzgteDY0VWtDUGZrZms4RGRDcGE4Q0c0VU5nY3JudFg3UFowQWdGS0QyQ3VpLXFsNHJwWXdHQzFuU25zOUxSYXc?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260924T170139Z",
-      "date_et": "2026-09-24",
-      "time_et": "13:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US new home sales jump to eight-month high in August",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEdLMld2NUZCTUtQeXRVV0hYR0xQbnN3NWVpa05RSnQ4SFBUM0x2UEtFZnlWTTNEdERQWkVWaWI0NXN1aklhSG11UlpxZzk4eHhWeE45RDNyemdwaGpqUmI2TUN5ejdLSHltMk5waTh1RGpCQ0NvN2JETjNTTVotTV91enN1aEJ2MnNrekhSNA?oc=5",
       "domain": "Yahoo Finance",
@@ -3178,6 +3163,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnhuWTRybU12TVFkbkNRWmdKeFNiN05CUDZVdkpuaFFxVC1sM3JxdWd6WjRqMzBMQTNXLUlNMkp3Y3hrWUl2bTZETDNHZHJUVUFOV1pKRzgteDY0VWtDUGZrZms4RGRDcGE4Q0c0VU5nY3JudFg3UFowQWdGS0QyQ3VpLXFsNHJwWXdHQzFuU25zOUxSYXc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
