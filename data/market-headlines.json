@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:25:25.670Z",
+  "generated_at": "2026-10-05T00:37:59.992Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -2149,7 +2149,7 @@
     {
       "title": "New 12-year low in consumer confidence",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeFRqdEdLWVRDVkRTc0J5YktJRUZqTW4zaDVqZUUwdkw5clVzVUJzNXpnR1JIODJPNVpvRXVqUGE2VHZxazhtYVBqbWRDZ0JNMEFQaGpzMGhoZFU4SVdMMU9yeTM5TFdwNFU3WmktNHJPYm9pX2NsQi12TQ?oc=5",
-      "domain": "Axios",
+      "domain": "axios.com",
       "seendate": "20260929T161603Z",
       "date_et": "2026-09-29",
       "time_et": "12:16",
@@ -2157,7 +2157,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Axios",
+      "source": "axios.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2209,7 +2209,7 @@
     {
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2M1RZYzcwRGlYbmVjOXYtVHdqN3kzVURad0NXcXV0eUhnMG9ZYmZpMTcxb0MyMjI2ZlY1cWVIdUNlZ3BhcjFrdURpZ0xMUjRSaFhIY2s0a3J2ZExCSTlhaERQYjRiQTU0STh0b3NWNFNVU2JEVllxU0JZVzkzT0F5aWlzdlBMM3JPXzRBMU0zWF9MVElLOTdLNDRFV3N1cEFGM2JNY01wM3hCRTdkM05FQ3hGMDVZUFYxZGlZV0R6TVVQUkNN?oc=5",
-      "domain": "marketwatch.com",
+      "domain": "MarketWatch",
       "seendate": "20260929T152100Z",
       "date_et": "2026-09-29",
       "time_et": "11:21",
@@ -2217,7 +2217,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "marketwatch.com",
+      "source": "MarketWatch",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4440,7 +4440,7 @@
     {
       "title": "U.S. retail sales rise 1.2% month-over-month in August",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEZYYndMZzJvQmVFM3ZRejRrYWRoTHh6aW95N1ZXbmY3U3MtZkxzOHhOUnNkU3VXNjZ1b05BWlo5dzN1UkFxcDU0b0t3V0t3ZUxGWU95elhUNkhzd1VIaDhYczkxNy1oR2k4Sm1fWGwxLUtwSXlfVFEwWE1BMldveDZSR2k3cVRxaTBuSkx1dWhPN2ZiRlloSVhYMmZBQXd5M0ZRUlFEcmtrRm5Xamh0VURiZw?oc=5",
-      "domain": "bnnbloomberg.ca",
+      "domain": "BNN Bloomberg",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -4448,7 +4448,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "bnnbloomberg.ca",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
