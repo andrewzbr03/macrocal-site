@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:28:14.023Z",
+  "generated_at": "2026-10-05T03:30:12.008Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -3047,21 +3047,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Durable goods orders highlight economic data due Friday",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlFxbmRXRXQ1bFpsUzJmUnFQQi1IZ0xldlppSzdEN1dWUFlQZ0Jmcy1KWGR5M0hNNmlSUjAxRFBGWlVjcDM1VEJ1U19pVHlwYWJYei1ySG54VEtwblJOQTVxMzdNNnZhaXlKYlVuU3BvbWE1S3pldmJOT3RoU2g4SS0wQVhWTDFrM0liUExCQWNyaWV3eUV6SUJGck0wT0lhWm9vU09vUTNVc08zNkg2REUwaW1PQ21G?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260924T180308Z",
-      "date_et": "2026-09-24",
-      "time_et": "14:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnhuWTRybU12TVFkbkNRWmdKeFNiN05CUDZVdkpuaFFxVC1sM3JxdWd6WjRqMzBMQTNXLUlNMkp3Y3hrWUl2bTZETDNHZHJUVUFOV1pKRzgteDY0VWtDUGZrZms4RGRDcGE4Q0c0VU5nY3JudFg3UFowQWdGS0QyQ3VpLXFsNHJwWXdHQzFuU25zOUxSYXc?oc=5",
       "domain": "Yahoo Finance",
@@ -3193,6 +3178,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable goods orders highlight economic data due Friday",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlFxbmRXRXQ1bFpsUzJmUnFQQi1IZ0xldlppSzdEN1dWUFlQZ0Jmcy1KWGR5M0hNNmlSUjAxRFBGWlVjcDM1VEJ1U19pVHlwYWJYei1ySG54VEtwblJOQTVxMzdNNnZhaXlKYlVuU3BvbWE1S3pldmJOT3RoU2g4SS0wQVhWTDFrM0liUExCQWNyaWV3eUV6SUJGck0wT0lhWm9vU09vUTNVc08zNkg2REUwaW1PQ21G?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
