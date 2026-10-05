@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:30:52.468Z",
+  "generated_at": "2026-10-05T17:28:11.649Z",
   "articles": [
     {
       "title": "What will Washington do next if US bond yields keep rising?",
@@ -2942,6 +2942,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T114137Z",
+      "date_et": "2026-09-25",
+      "time_et": "07:41",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Why the alternative to the &#x2018;clear and present&#x2019; danger from bond yields is this AI-fueled market that has quietly outperformed",
       "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2981,21 +2996,6 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T070000Z",
-      "date_et": "2026-09-25",
-      "time_et": "03:00",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
