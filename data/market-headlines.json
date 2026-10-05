@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:28:11.649Z",
+  "generated_at": "2026-10-05T18:34:13.604Z",
   "articles": [
     {
       "title": "What will Washington do next if US bond yields keep rising?",
@@ -947,6 +947,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Global bond rout deepens, pushes US Treasury yields to 24-year peak",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVhtMHBxQWdQNG5xWlpJeHkzeVpHQXgtSDVVN3hVdTFONDZnanFkcDctT2dzZU1QVFRpT2lWdEZvQ2xJdzZ6dDJQdjNpT2FuekdycUxURXRtby02MUhXRlhJMWo0emY3YTBsRUFLZEx0Rjl1b0R0WGItU2ZrclFBUERFamRxdzdGRE1sRXlTb09VRktCWTExaU1MblhDZ19yZURhZQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261001T165602Z",
+      "date_et": "2026-10-01",
+      "time_et": "12:56",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US unemployment claims dip to 197,000, lowest since mid-July - ABC News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSngzbTdpN19wQ3l6VEZGam9PMm1PMWo5Qld3NE1UaU9qbzhJMFlXS2Q5djFIUUtvZnljMU1rM1JfeGpQZ2h3c0pSdjRrUTVIeVhjdzAwX0kyYzI0djJPb1M4S0NPQ0k4WVR4a3p1NHFZUFNabmVGZ05yaThyYWUxT3k2WDBoX0dmZ3lFSzAyYndqc21VMjcw0gGcAUFVX3lxTE9rTlVGZXF5RkwxTUd0OW9hTEdobmh1dEtKUDFTRFdXOUIyUktMX3dqOWpZalFLY0tYZkJldzc2dFY3S1otWGE5M2d5OEZTOS1HSTdOMnBLa3dEQlJxY1BQbVZsaGZWcmtlQUg1QXJLOWJMQUNwY2xyNW9OLWZBWVRGMFB4THo4eDZqUTR5cUd2bW1jWWQ4OEJtMWdmdg?oc=5",
       "domain": "ABC News - Breaking News, Latest News and Videos",
@@ -1273,21 +1288,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Global bond rout deepens, pushes US Treasury yields to 24-year peak",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVhtMHBxQWdQNG5xWlpJeHkzeVpHQXgtSDVVN3hVdTFONDZnanFkcDctT2dzZU1QVFRpT2lWdEZvQ2xJdzZ6dDJQdjNpT2FuekdycUxURXRtby02MUhXRlhJMWo0emY3YTBsRUFLZEx0Rjl1b0R0WGItU2ZrclFBUERFamRxdzdGRE1sRXlTb09VRktCWTExaU1MblhDZ19yZURhZQ?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261001T062500Z",
-      "date_et": "2026-10-01",
-      "time_et": "02:25",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
