@@ -676,6 +676,87 @@
       "value": "0.1%",
       "source_url": "https://www.bls.gov/news.release/empsit.htm",
       "verified_at": "2026-10-02T14:38:43.639Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "54.9",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "headline",
+      "field": "forecast",
+      "value": "55.1",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "55.4",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "prices",
+      "field": "actual",
+      "value": "74.0",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "prices",
+      "field": "forecast",
+      "value": "73.3",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "prices",
+      "field": "previous",
+      "value": "72.6",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "employment",
+      "field": "actual",
+      "value": "50.1",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "employment",
+      "field": "forecast",
+      "value": "48.8",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-05",
+      "filter_id": "ism-services",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "47.8",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "verified_at": "2026-10-05T18:13:58.931Z"
     }
   ]
 }
