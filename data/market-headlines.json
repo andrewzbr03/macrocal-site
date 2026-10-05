@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:34:13.604Z",
+  "generated_at": "2026-10-05T21:32:04.416Z",
   "articles": [
     {
       "title": "What will Washington do next if US bond yields keep rising?",
@@ -2882,21 +2882,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Durable Goods Orders Came in Better Than Expected",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVExsS2RLWGU4cG5ONUhMRXMxZFZ0ak9wdVhlanM3ZE9teWVJcDFwb0NSZGJMNm96RTFuWVpBNFQzN1RMa2ZhNUZTcV94UXo2UmEwQ3pvRVBzX0JmS01mNk5va2xmdTJqbFprRm9BZk1nRGUySHhpOEp6REl2RktfRFlVQ2REM2tfMzdFbGctXzhjeGFr?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T135700Z",
-      "date_et": "2026-09-25",
-      "time_et": "09:57",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTVmNHdaanFJem1ZM3JDeHEzUXpYSzNUTk5tcUlBNHFCb21OMTBlNG1iMUp0LUZQa1VQSFBTR0hGMDBXU3BaUTJmbDdfeXdDc1lDSzJJbDl5LU9ZV0dMTXN1YmJNMDNTbGlXOGtVbHpRTFV6RGxfRFdJM3Z3Rnh0WW1FdXdqU2loWjZ5WUoyN3g1a2NsRHBpeGlJYmJIWFZfaVBLMGJ5aDJuM0pwOEY3WGpGa2xid3Qxd21uR0VHMUVHWjJRTmc?oc=5",
       "domain": "Investing.com Canada",
@@ -2942,21 +2927,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260925T114137Z",
-      "date_et": "2026-09-25",
-      "time_et": "07:41",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Why the alternative to the &#x2018;clear and present&#x2019; danger from bond yields is this AI-fueled market that has quietly outperformed",
       "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2981,6 +2951,36 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable Goods Orders Came in Better Than Expected",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVExsS2RLWGU4cG5ONUhMRXMxZFZ0ak9wdVhlanM3ZE9teWVJcDFwb0NSZGJMNm96RTFuWVpBNFQzN1RMa2ZhNUZTcV94UXo2UmEwQ3pvRVBzX0JmS01mNk5va2xmdTJqbFprRm9BZk1nRGUySHhpOEp6REl2RktfRFlVQ2REM2tfMzdFbGctXzhjeGFr?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Dollar Falls Early Friday Ahead of Durable Goods Orders, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZNTEtHbG9KYTkwd2pZYXVJa3A0amxkM0dPVC1vTTNYNkExak1vaHAwb1gxOHVlN1BwcTd1aEFsd1ZwR1EyeDJMU1RnMUJrSnBHekpNQWY2cklLRnNURlM1X3N4bm1DZzBkMERfaFlRMWFMQUZmdHJ2N0dYNGVJa0VnR25ZTVo3Qk1WQm81VFFDeWp4ajFlMmdBY0Ftdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -3319,7 +3319,7 @@
     {
       "title": "Statistics Canada reports retail sales down 0.7% in July at $73.7B",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTllcXdEeXo5dEJsNENtWkRCSUhRODgzTHI4bGxHN0FxY3dPSkdwRXJfemtsdGJMRTdJUW9oNTdwUjlidmw3bGYyUnN5RFk5bm11a2xSRHR3dF82VENZcFpzQkk0RDBXODhzVHlBdGpNQ0diRnJRM3JrQ3FtV05PY1FhUk4tczVhQW5EWHZYaXZlTWhtMkRsQmY4WnhUWG44OERHOHZBWFN5MHIyemNiaE1CQWJHVFh1TEVLRWZB?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260924T070000Z",
       "date_et": "2026-09-24",
       "time_et": "03:00",
@@ -3327,7 +3327,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4500,7 +4500,7 @@
     {
       "title": "U.S. retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtWOUxXNzhad2dJN2h1QjMtSFA0TDh6X2dZYWFVVkpfazZvOHFVZkJKYWFfTUg4RmlmRUZheUp0Qm1FOGxicjZNWl8zVXkwSmk3c2p0LTgyOHVmZU5NVE94VWM3QnhQaXBMN3ZFNG84aGVkNlhVU2VZTTRsVG9sN3BhZlRyVjNlYUhFYzg4czlJX3ZSSXNKYlVONzBMWGJTamJvNFp0cmVrYkQ5SENpeWR3RmFucjY5OVA5WS11TUtzeWl6TDJmOFRmUldwQUY1ODRhR3IwMUdfeUZzRjNscXVlZUpCcWJ4dWt2aXFaQkc?oc=5",
-      "domain": "BNN Bloomberg",
+      "domain": "bnnbloomberg.ca",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -4508,7 +4508,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "BNN Bloomberg",
+      "source": "bnnbloomberg.ca",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
