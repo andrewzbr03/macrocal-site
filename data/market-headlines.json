@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:39:32.550Z",
+  "generated_at": "2026-10-05T07:32:11.738Z",
   "articles": [
     {
       "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
@@ -1067,6 +1067,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Initial Jobless Claims Declined in Week Ended Sept. 26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEQ5UXd2bnA4MjJIV0xva3RWd0JKZDd5dmQ5S0JDNUE1bjRlNHY4SzJFNVdvVnlNc1VvZzJNeHByTGU0d2JXMDd6NlU5VUlFRG00REY1aDZKY1RnWlBUZzNONXNIaDdjc0V1NERLVWRITXdRS05DSzV0anJtN21zSHJiSUY1REZveG5iS2kzaG1HZnkzT1Rn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T123547Z",
+      "date_et": "2026-10-01",
+      "time_et": "08:35",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Dutch retail sales growth accelerates to nine-month high",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGh1bFc1UFIyUVdSaERIdWZPeFVvX2J6eHFWbXFkTW5kd0pzaDhKTnZTbndqcGYzTk9Qald0V2stOVRxYzQ4N1Ntc2xLSWFheWg5MUNrQm05Q3UteUZEQkFTeDBOWHRpZnVMTG11T1VKaFBmYWFNdFRVTW9BdVNDZWdKWUMtOFY2UkgwUWZOZmttTFRPcC1uckFuWQ?oc=5",
       "domain": "Yahoo Finance",
@@ -1324,7 +1339,7 @@
     {
       "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "fortune.com",
+      "domain": "Fortune",
       "seendate": "20260930T160600Z",
       "date_et": "2026-09-30",
       "time_et": "12:06",
@@ -1332,7 +1347,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "fortune.com",
+      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2479,7 +2494,7 @@
     {
       "title": "The U.S.-China relationship is on ‘tactical autopilot’ after the Xi-Trump summit. Maybe that’s not so bad",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGc3YV9ST0FUTmZUQ1ZsNFJxMGNlSnVQY1ZHM2JmWmZjdnh4bk9Pc1BHTnZGN3dyRzdlYzVMeHJpdzR5aklIMVNDX0xwOVd2N09oeGw4a054eXhSSjFQZVo5YWJSdFo2Y3pXeUNhVnk2RGtEWWNlU194TVhvamdZeGxQVFpIdUt6SGc?oc=5",
-      "domain": "fortune.com",
+      "domain": "Fortune",
       "seendate": "20260928T081200Z",
       "date_et": "2026-09-28",
       "time_et": "04:12",
@@ -2487,7 +2502,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "fortune.com",
+      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4515,7 +4530,7 @@
     {
       "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-      "domain": "Reuters",
+      "domain": "reuters.com",
       "seendate": "20260916T070000Z",
       "date_et": "2026-09-16",
       "time_et": "03:00",
@@ -4523,7 +4538,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
