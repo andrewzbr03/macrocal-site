@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-06T17:27:09.325Z",
+  "generated_at": "2026-10-06T18:31:15.533Z",
   "articles": [
+    {
+      "title": "How Meta&#x2019;s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261006T182000Z",
+      "date_et": "2026-10-06",
+      "time_et": "14:20",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips By Reuters",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWV3S1p3Qmd4YzFOdHNQOU83QmxEUnhlbXR5YXFkQmd4dk9fZGNJRUllT28tSDc2OVF4VUNFYlgzWHhNbkVvazJCLXdPSERfbFBkNjJvWnV6dzVzMXJRZzlNUjVGazNmNm1RZlRwOXB1TGx0R2NtcEJodVotYXlVNXYzVEQxQldlZWZ3cFhmTEltcEU?oc=5",
@@ -268,6 +283,21 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch Former CEA Chair on Jobs Report, GDP Growth",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkdkeGozUnVaNHo5OUFfV3hsYnRDdkRtc0NLS1VPRk5HOG55U1dsU0UtN2VHMC1rTFVZekRSRTJJYTNZMGFGakVPYkxJSlByeVNJRjV1QUVIOF9ZNTRpSklDNzFNNG1XZGR0aUJTaHVSdVZPZUM4T25QMU03RWZLZnZjV0NmUU4wMi00SkRZS1JBeHRTZnlLLXR2VjhfQQ?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261002T222411Z",
+      "date_et": "2026-10-02",
+      "time_et": "18:24",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -898,21 +928,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Watch Former CEA Chair on Jobs Report, GDP Growth",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkdkeGozUnVaNHo5OUFfV3hsYnRDdkRtc0NLS1VPRk5HOG55U1dsU0UtN2VHMC1rTFVZekRSRTJJYTNZMGFGakVPYkxJSlByeVNJRjV1QUVIOF9ZNTRpSklDNzFNNG1XZGR0aUJTaHVSdVZPZUM4T25QMU03RWZLZnZjV0NmUU4wMi00SkRZS1JBeHRTZnlLLXR2VjhfQQ?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261002T000000Z",
-      "date_et": "2026-10-01",
-      "time_et": "20:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2267,21 +2282,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
-      "domain": "AP News",
-      "seendate": "20260929T175700Z",
-      "date_et": "2026-09-29",
-      "time_et": "13:57",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings fall in August; layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWdsNXZpVzdjOGxZQmF6TTU2bjY5czB2ZFp1SHJESjQzdUFwMGR3SEdFWU1fa0xtdFIyNEdzcnUyenBRYkFUNm9xZGlXcUpBdUN3bE5oQzI0YmxEanRIdHJtVDZidWszTEZGRjN3c1gxYlpaanBuNnltX0F0M21DVnBhUlhNVDBFXzFHSVhudFNaeFhzT2c?oc=5",
       "domain": "Reuters",
@@ -2428,6 +2428,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
+      "domain": "AP News",
+      "seendate": "20260929T151210Z",
+      "date_et": "2026-09-29",
+      "time_et": "11:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
