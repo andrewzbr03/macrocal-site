@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-06T18:31:15.533Z",
+  "generated_at": "2026-10-06T19:28:09.688Z",
   "articles": [
+    {
+      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+      "url": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261006T191400Z",
+      "date_et": "2026-10-06",
+      "time_et": "15:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "How Meta&#x2019;s stock can surge to $1,000, according to the biggest bull on Wall Street",
       "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
@@ -28,6 +43,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlRObEVRbUVwNDRhQWhFb1RDSWJCSmFqWkloemJFYlNwQmpPd0plZ1hYODhCaUhSVXA1cVNKelFBLUxPUXI5bnl5X2ljakh2b2NUbS1aMHhSZ3BwYXVscnZEMmEtUWVWVTR6RVhSdVlSUlloV05CV0FqUXVOMjZsWXFOcFVEeXVXaXdsNlRPWEhMaUVDMXdN?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261006T160236Z",
+      "date_et": "2026-10-06",
+      "time_et": "12:02",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
