@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:39:55.309Z",
+  "generated_at": "2026-10-07T16:32:17.615Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -4155,21 +4155,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US housing starts unexpectedly tumble 2.6% in August",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjZpT1B0SFJqcVp2Z2xMVTl5WjR3ZHc5MW9aeldELWpjaVVtU2t5c0p0bUdFbk5CbjdkNjlQODhka2M4cGM2cG1sT3lfNDZMaVphdWVyT2JBcHV4d2pMaE5YTk1rQ1U3OUJ0WVpXQl81c1phT1pHd05Ca3RTLWs4RDQxc1huZ2ljSVNObUFibEQzSkpVZGxxWW9qN0dCTjVk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260917T143336Z",
-      "date_et": "2026-09-17",
-      "time_et": "10:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US single-family housing starts rebound in August; building permits fall",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUVfaXBjT0RXOGhTbXFXb1RKbkFtQzdjU3AwN1ZJSHRlTWJ2MU5wdC1FRE5Vd2xMMzlyYkVwR1VTZmdrWUwzQmNwYUJBVHJVcDktaWNZeUkwY0dOejJYdWpYYUlveldvRTctOUNVaGlLLVhuTjRxWUhZY3lCc0YzM0J5VEZtT0FEeGlTUndFdXNyM0ZWaVJWZA?oc=5",
       "domain": "Yahoo Finance",
@@ -4209,6 +4194,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US housing starts unexpectedly tumble 2.6% in August",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjZpT1B0SFJqcVp2Z2xMVTl5WjR3ZHc5MW9aeldELWpjaVVtU2t5c0p0bUdFbk5CbjdkNjlQODhka2M4cGM2cG1sT3lfNDZMaVphdWVyT2JBcHV4d2pMaE5YTk1rQ1U3OUJ0WVpXQl81c1phT1pHd05Ca3RTLWs4RDQxc1huZ2ljSVNObUFibEQzSkpVZGxxWW9qN0dCTjVk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
