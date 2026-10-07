@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:33:49.805Z",
+  "generated_at": "2026-10-07T07:31:25.693Z",
   "articles": [
     {
       "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -2222,21 +2222,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5",
-      "domain": "CNBC",
-      "seendate": "20260929T190729Z",
-      "date_et": "2026-09-29",
-      "time_et": "15:07",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "ADP jobs data, GDP, core PCE, and oil inventories due Wednesday",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2FhTnBXNDJud3hGZnhURktOSWhsdlh3YVl6Mm5xcUg4Tm5Bc0JhZDhMQUhVbTZnSGM5SGxJdTF1MFZrQzI0MHJlRV9fVVZEZ0JWT2JFQjVBTVhkZlZ1dkdmM09TYlRJenFhUlVzNzhDOHd2OXBoTGxyWkw0M01mV2ZOekRCdEJrdUJrcUtER0ItQnp3UTFkQW1VaXlpaUt3WjRDbGtoQzctMTZVUWF0WEVLLV9lOVpFMzkwRXVn?oc=5",
       "domain": "Investing.com Nigeria",
@@ -2578,6 +2563,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5",
+      "domain": "CNBC",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
