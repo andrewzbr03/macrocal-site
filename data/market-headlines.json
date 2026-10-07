@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:32:18.709Z",
+  "generated_at": "2026-10-07T09:30:32.243Z",
   "articles": [
     {
       "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -193,6 +193,21 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Middle East oil exports return to pre-war levels, excluding Iran",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlRMVnZlSHptbV9YZTItZENfR2o5UlVlTWJubFVVSU1wcFAtZEh0VUVXYWFiMW9zWDYzb1JrcFpWeGItV1JWcFY4Z2xHbFNlQm5jdG9Hb083UUZSVVUtMWVLcThuZ01oUWhmMmNERnlVcVV2Vk5pSTdxNUdMdkFtMVo3YVFZZw?oc=5",
+      "domain": "Yahoo Finance Australia",
+      "seendate": "20261005T095332Z",
+      "date_et": "2026-10-05",
+      "time_et": "05:53",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Geopolitical",
+      "provider": "Google News",
+      "source": "Yahoo Finance Australia",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
