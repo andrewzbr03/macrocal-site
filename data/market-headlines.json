@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:28:54.244Z",
+  "generated_at": "2026-10-07T02:28:36.271Z",
   "articles": [
     {
       "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -83,6 +83,21 @@
       "seendate": "20261006T131841Z",
       "date_et": "2026-10-06",
       "time_et": "09:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Eurozone retail sales rise marginally",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb29vYVIwejUyWHJyWjJhNUJLQlU2Z0l0czNWbDFiajcxcVg0LWJGLU9kQXd5VlZzQnEzX3FKUlVHcWlaUlBlaW12WHMyR3dqTTRYTmJJTENRQmNiNEdnNDZMbjRzT2NHX2RBdkMzV3psZGpVWlVEVUVwcUEyV1hEY0hxTWFIR1JOejg2YzFvZHRBNHFMRFZyOGFvOA?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261006T124838Z",
+      "date_et": "2026-10-06",
+      "time_et": "08:48",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
