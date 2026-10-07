@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:30:43.772Z",
+  "generated_at": "2026-10-07T18:33:26.536Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -2327,21 +2327,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Consumer confidence plunges to lowest level since 2014: Conference Board",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkNJaXhfU2o0QVJZRlBOcHJTb0ViZDA3eHNMTnJIRVFaVTZ2dEdZYUlFZ0tLbW5JZldnRHRGSXUwQjhfbk5fYjBnRE5ERlJnN3RwTkZFYy0zdXlZLTRKQ0ZLSXRoZkdKNzFVNkNqa19haWNWX2MxVjA1ZXM5Y2J5QW90UzhtX2F3RW9fQzZ1d25QOE1CYnQ1RXZOZHRXTG8yV25HT2l0ekJQcEJYMl9DLUdFU1dpcThieXlRZTJiTzZ4eG1LRmcw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T162627Z",
-      "date_et": "2026-09-29",
-      "time_et": "12:26",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Consumer Confidence Plunges to Lowest Since 2014 Amid Surge in Energy Costs",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJlQ2FyOG4wRVVsd1FRNzNxM3hpVlVBVV9oekh0RGZ1S01MdkpCV0pnTU9RU3YxOEFpd3ZSOTZ2dUZIclZrZXVXMXNQeWZvMzczeC1PV3g1YW5FeDVzdnBXQklfSnFldHQ2NFZNSmZGMzJnUEw4T0g1T0ZRQWJyanQ0cmdtZTVIR0NuRTRjanJqOUlFcDhKbGZCazVEd1U?oc=5",
       "domain": "Yahoo Finance",
@@ -2548,6 +2533,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer confidence plunges to lowest level since 2014: Conference Board",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkNJaXhfU2o0QVJZRlBOcHJTb0ViZDA3eHNMTnJIRVFaVTZ2dEdZYUlFZ0tLbW5JZldnRHRGSXUwQjhfbk5fYjBnRE5ERlJnN3RwTkZFYy0zdXlZLTRKQ0ZLSXRoZkdKNzFVNkNqa19haWNWX2MxVjA1ZXM5Y2J5QW90UzhtX2F3RW9fQzZ1d25QOE1CYnQ1RXZOZHRXTG8yV25HT2l0ekJQcEJYMl9DLUdFU1dpcThieXlRZTJiTzZ4eG1LRmcw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
