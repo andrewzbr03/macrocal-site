@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:39:24.722Z",
+  "generated_at": "2026-10-07T01:28:54.244Z",
   "articles": [
     {
       "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -2312,21 +2312,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
-      "domain": "AP News",
-      "seendate": "20260929T175700Z",
-      "date_et": "2026-09-29",
-      "time_et": "13:57",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings fall in August; layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWdsNXZpVzdjOGxZQmF6TTU2bjY5czB2ZFp1SHJESjQzdUFwMGR3SEdFWU1fa0xtdFIyNEdzcnUyenBRYkFUNm9xZGlXcUpBdUN3bE5oQzI0YmxEanRIdHJtVDZidWszTEZGRjN3c1gxYlpaanBuNnltX0F0M21DVnBhUlhNVDBFXzFHSVhudFNaeFhzT2c?oc=5",
       "domain": "Reuters",
@@ -2473,6 +2458,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
+      "domain": "AP News",
+      "seendate": "20260929T151210Z",
+      "date_et": "2026-09-29",
+      "time_et": "11:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
