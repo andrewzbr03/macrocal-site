@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:28:48.611Z",
+  "generated_at": "2026-10-07T22:26:14.188Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -2192,21 +2192,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Australia CPI inflation rises to 4% in August, below forecasts after RBA hike",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXhfNzRlQnhjTXNQUGE0SXFBc0pSanZVTXdVTXlKaHVKTE1HbkFpOXM3blhwbi1HdDM2amV6OUdDd3RTbUtqS2tjZjU4SFNnUWxpX3RyUkpKUFRzRTRVR0dXeVNaWEZVaEZFM2pLX21MLWx5VThqc0dwUjVJS1lJYTY2eFNKa18tSmFiSWRnUGFvRElnZng2dk5BVW1CWUVkMVozRUJ6bk02RUE4TzA0NUlvSG14VVNSaGNVTC1hc3Jzd1FNYzl0R1E2TS0?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260930T040146Z",
-      "date_et": "2026-09-30",
-      "time_et": "00:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Consumer confidence craters to a 12 year low as Wall Street keeps buying the AI boom",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBsMHdWRW5aUEN6R2puNUY5RnJIZlk0U0tjRGg0SDlETmh4MGFOMlFEYV91UFhLc2JpUUFrM1pTUkh0N3R0bUZpeDhBdXhBUDR1U0tpWGoxSFNnWUtlT20ydm5pek9BUjRobVFCUXlDQUxlR3hHTmNqT09nZHJBek5mVUlsZjBXYTdBSC1pcGVYVWpUOExqa0R3UFNMX20xTEpQckp6OG5IUmItOFc0Tk9n?oc=5",
       "domain": "Startup Fortune",
@@ -2533,6 +2518,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Australia CPI inflation rises to 4% in August, below forecasts after RBA hike",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXhfNzRlQnhjTXNQUGE0SXFBc0pSanZVTXdVTXlKaHVKTE1HbkFpOXM3blhwbi1HdDM2amV6OUdDd3RTbUtqS2tjZjU4SFNnUWxpX3RyUkpKUFRzRTRVR0dXeVNaWEZVaEZFM2pLX21MLWx5VThqc0dwUjVJS1lJYTY2eFNKa18tSmFiSWRnUGFvRElnZng2dk5BVW1CWUVkMVozRUJ6bk02RUE4TzA0NUlvSG14VVNSaGNVTC1hc3Jzd1FNYzl0R1E2TS0?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
