@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:30:58.369Z",
+  "generated_at": "2026-10-07T15:39:55.309Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -167,6 +167,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "COMMENTARY: Oil's new problem isn't supply. It's logistics",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGFlcUIyYU9yU0Z3ZUp6S1pZVU0zTEhFVVFxM2JOUmNuT0I0UmdUcVlKLTFBRVNBaXE1dVZQdEROQURJN29rbkcxcFVNX0lWaWMtTzlEYjRCRzdSU19TR0FIRXliQ18wZ21vZTdPb3FvY3dIc0pHX19ralAwd0hjVnFkbGtReDNLNVUwcFdzUHFsdHlybGxYQmNBV2dlc2dHQ0FYazNkeWRKMmg4TFUyZA?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261005T133641Z",
+      "date_et": "2026-10-05",
+      "time_et": "09:36",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Oil / Supply",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "PepsiCo and Delta Air Lines earnings, Fed minutes, University of Michigan consumer sentiment: What to Watch",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWx5RHBvZEJCVHNvZ3ZRRnI0MXpZQVNEUWxCQXBKemRCYjBzX19hZzBkck40dkR0b2J1cG45RFpQcE5hUUxrNy1xXzFoUGJjYnVVdDAzYmhpenVrWUpKbDNuZ3R4Y3dvMTAtMjZQWjc0bldRdG1LWmluSVd6d2RzVWxiTk4tQQ?oc=5",
       "domain": "Yahoo Finance",
@@ -223,21 +238,6 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Yahoo Finance Australia",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "COMMENTARY: Oil's new problem isn't supply. It's logistics",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGFlcUIyYU9yU0Z3ZUp6S1pZVU0zTEhFVVFxM2JOUmNuT0I0UmdUcVlKLTFBRVNBaXE1dVZQdEROQURJN29rbkcxcFVNX0lWaWMtTzlEYjRCRzdSU19TR0FIRXliQ18wZ21vZTdPb3FvY3dIc0pHX19ralAwd0hjVnFkbGtReDNLNVUwcFdzUHFsdHlybGxYQmNBV2dlc2dHQ0FYazNkeWRKMmg4TFUyZA?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261005T060000Z",
-      "date_et": "2026-10-05",
-      "time_et": "02:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Oil / Supply",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2267,36 +2267,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US consumer confidence near 12-1/2-year low amid labor market fears",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmRyUTNQbW1FZWNZblJOdF9HaXliVFpXZnhsa2l4X2hISWpxQ3FTeGpyN0M1MWRmNHUwNlVZWTRvaDBabUZ4NU9SSzNiTzdfclhQdUxQOXFWcW00YktzaDNjeUM1RC1yMXlEaVN5RFhIU0tYWkZhVThkTlY4MjRIUXI5dmZXX3YxZnRFS3lnak1uNkdOdjV6Ujd4NHM3SUZkd3YzZXdYbVg?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260929T182844Z",
-      "date_et": "2026-09-29",
-      "time_et": "14:28",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US 30-Year Treasury Yield Hits 24-Year High Amid Mixed Job Openings, Softening Demand at Government Auctions",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUF9LYVJrR015YkppeDZqczJ2aHdKOFlPTmo1NmRuaFQweURxRkxCTm9iVnNPbGRfVGxsajF4UnVPbjRLWnIzY0l1dGZsbkV6OEJrUmNTQ1JkWm9rck1HRFB2UGlrUS1UNUc5SkhYQnpfenc3QmduT0paWWtjeWRrVkRYVHAxVEliYmNPaW5ZQnBTUW5nZUsxSGNn?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T180738Z",
-      "date_et": "2026-09-29",
-      "time_et": "14:07",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "ADP jobs data, GDP, core PCE, and oil inventories due Wednesday",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1R6ZGstRzlMOXJvV3MxRzR2Y2t5UzJXdWx2YmJnVkVVdTJqMWJXV0xObDZsdkZTU2ViVEpTZmdFM2x4WXVrSXoyc1NjUzA0Qm9tMlZKZW01b0ZVcUpXM0FPM0ZaY3NzRFBZU0lqSVh2RHpUZXRBbmxOb191Z0NTMFVLeEF4Y2ZKWjZRREYtUHFQOGFWYXZKNHQ2SjlzeFpSTExkZjlNNU1SRTFXQzFwbVR5YmIxcXdGZTZHb2N3?oc=5",
       "domain": "Investing.com Canada",
@@ -2492,21 +2462,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
-      "domain": "AP News",
-      "seendate": "20260929T151210Z",
-      "date_et": "2026-09-29",
-      "time_et": "11:12",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US Consumer Confidence Plunges to Lowest Level Since 2014",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMklEaXpfRldVcDRCTDRWOGx3VDBkSXRvcFI1bjVEaDlHSGViRmFGZGJMek5EQU9sblRzdWZ6ZGE4VFRrLXlrLVJ1WENPR3RtRDUxMERQRGNYVVRqWnFFX0pDWkVSb0U3azZINEZ4bzJHbUtxSl9LVVdnWXRNdGVvTWRtUGxVZEJKeUhHS0k5eHJLRWZsMVZiXzZmaW9DaFNTQjhJTnFYUFhSRFB3?oc=5",
       "domain": "Bloomberg.com",
@@ -2593,6 +2548,51 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer confidence near 12-1/2-year low amid labor market fears",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmRyUTNQbW1FZWNZblJOdF9HaXliVFpXZnhsa2l4X2hISWpxQ3FTeGpyN0M1MWRmNHUwNlVZWTRvaDBabUZ4NU9SSzNiTzdfclhQdUxQOXFWcW00YktzaDNjeUM1RC1yMXlEaVN5RFhIU0tYWkZhVThkTlY4MjRIUXI5dmZXX3YxZnRFS3lnak1uNkdOdjV6Ujd4NHM3SUZkd3YzZXdYbVg?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US 30-Year Treasury Yield Hits 24-Year High Amid Mixed Job Openings, Softening Demand at Government Auctions",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUF9LYVJrR015YkppeDZqczJ2aHdKOFlPTmo1NmRuaFQweURxRkxCTm9iVnNPbGRfVGxsajF4UnVPbjRLWnIzY0l1dGZsbkV6OEJrUmNTQ1JkWm9rck1HRFB2UGlrUS1UNUc5SkhYQnpfenc3QmduT0paWWtjeWRrVkRYVHAxVEliYmNPaW5ZQnBTUW5nZUsxSGNn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. job openings slipped to 7.1 million in August but labor market remains sturdy",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXc1cmZQYUN3U1AyNkEtN204ZHdBSWNTc2J6RjJlcExFYkpQS1pWNUhqcm11d1lLeG54NUFPeTVWRTVHNzdRQlN3R2w2SEQxRjlyaWc4NE1Dc0IxMTdKSTJELXpITlBuUEN0LVgyMXNONHJUeFRra1VLWDRCZFRaXzdFNnBUQUpvTVpjT0M4bEtZZk5teGFpV3hVVnE?oc=5",
+      "domain": "AP News",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
