@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-08T08:31:59.676Z",
+  "generated_at": "2026-10-08T09:30:41.697Z",
   "articles": [
+    {
+      "title": "Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelNlSV93QUlrUTJWYUJMYjhmb09xYl96Qy1IeThkcGhKQWljYksybkFJT2MyZ3pSdkg2dnZLUTFkRFVkUzh3V0xGY2NxeVJXLVBUYWI3QzNDRHljTllfS2lrS095Wk11Q1FtNnYtUlJpTkxBemVwaU51VmwtQ0QyRW9uT1ViSEJaX0FocWtMc0lrTDJtbWVB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T082601Z",
+      "date_et": "2026-10-08",
+      "time_et": "04:26",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEx1X2s5SGRIbXVDWnRTLTlYQWVoRjZHVzBjR3FYekIxRTJrNHd1cHRyaWpYXzlPRmk5WV9KMm9GVGM3WEVNYnhldnZQRWNLb294T1NMQnhYaHpPM1JiTkRwclI3eTc4WGpyZVN0UWlIbTdFS2xGc1ppU2M0eFBJSnVjZ3BQeXlhUWFtUXdvZllvWXZiZDNXalBnY01Fd1VXcWxMUkxTaGN0b2hDR2ZSOHJ2VHN3eWNHazlrMmxmaw?oc=5",
@@ -2638,6 +2653,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September US Consumer Confidence Falls on Declines in Current Conditions, Expectations",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUVtYTFWOVViYzNmNV9MSVl4a1ozRTdZR1NvdWY2eld4ek1qM1VpckVoZlZyLVQwbms0MVlvUmVvcGp6aldjRXJsbFJvV00xTzc3MmIyRkFYTlpHaWhiZ3RVSExsTGxPeVFfVDN5LUdHS1BacVNFOWx1OGNOOE9kVjlKSGFmTUFDTTlQdE1tZzdwSXFGbGZ0bE9KdVU?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
