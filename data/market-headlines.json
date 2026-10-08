@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-08T15:32:12.501Z",
+  "generated_at": "2026-10-08T16:33:36.104Z",
   "articles": [
+    {
+      "title": "US jobless claims hover near 57-year low for fourth consecutive week",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFoUC1DSlZwckJETlF2WXdjTnhwSkt5UlIxVzBMQVoxVXJ0UjNTdjBDdmlwUmR3V2hQWDBGaTNnLTd1X2VIQVhBcVFmZGJHNGtCODU3RE55eHk2Y0FBbVBEUXF1S2lDaW42Y2VnUk9aRExvMXM1TGFIYjNpcnhTSUc5S1V3Nk1KWkZrSDlyTUFpNTZqYWxraw?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261008T155240Z",
+      "date_et": "2026-10-08",
+      "time_et": "11:52",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Layoffs haven&#x2019;t been this low since the 1960s. It&#x2019;s great if you have a job &#x2014; but not if you don&#x2019;t.",
       "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
@@ -17,21 +32,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims hover near 57-year low for fourth consecutive week",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFoUC1DSlZwckJETlF2WXdjTnhwSkt5UlIxVzBMQVoxVXJ0UjNTdjBDdmlwUmR3V2hQWDBGaTNnLTd1X2VIQVhBcVFmZGJHNGtCODU3RE55eHk2Y0FBbVBEUXF1S2lDaW42Y2VnUk9aRExvMXM1TGFIYjNpcnhTSUc5S1V3Nk1KWkZrSDlyTUFpNTZqYWxraw?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261008T140543Z",
-      "date_et": "2026-10-08",
-      "time_et": "10:05",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
       "domain": "AP News",
@@ -43,6 +43,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "AP News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261008T130525Z",
+      "date_et": "2026-10-08",
+      "time_et": "09:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -118,21 +133,6 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261008T000000Z",
-      "date_et": "2026-10-07",
-      "time_et": "20:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2897,21 +2897,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Lithuania's retail sales growth eases to 3.7%",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWVtR2NWbHZfUnY3RWg2aFpKeE5EQ25BUUlNOGVMSDVEVlBoc3J2YnRNX1oxeEdqd2Q3ZXRqQ2J3YThSOFpCOG9kelFSTU5Lc1NwY05udl9zeDZIcFkxR3ZwMFJGMTBHckpnNGxqaFdIRHFsUmJuV1BHVE1OTS1aNmJGWll0VEpDOGtCVndheUcycm90WmJTZzBn?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260928T130330Z",
-      "date_et": "2026-09-28",
-      "time_et": "09:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
       "url": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2938,6 +2923,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "Fortune",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Lithuania's retail sales growth eases to 3.7%",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWVtR2NWbHZfUnY3RWg2aFpKeE5EQ25BUUlNOGVMSDVEVlBoc3J2YnRNX1oxeEdqd2Q3ZXRqQ2J3YThSOFpCOG9kelFSTU5Lc1NwY05udl9zeDZIcFkxR3ZwMFJGMTBHckpnNGxqaFdIRHFsUmJuV1BHVE1OTS1aNmJGWll0VEpDOGtCVndheUcycm90WmJTZzBn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260928T070000Z",
+      "date_et": "2026-09-28",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
