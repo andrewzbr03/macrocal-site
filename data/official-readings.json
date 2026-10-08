@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T12:37:09.175Z",
+  "generated_at": "2026-10-08T13:33:33.820Z",
   "readings": {
     "claims": [
       {
         "label": "Initial claims",
         "value": "197K",
-        "period": "2026-09-26",
+        "period": "2026-10-03",
         "url": "https://fred.stlouisfed.org/series/ICSA"
       }
     ],
@@ -248,9 +248,15 @@
       "url": "https://fred.stlouisfed.org/series/ICSA"
     },
     "2026-10-01": {
-      "actual": "197K",
+      "actual": "199K",
       "previous": "198K",
       "period": "2026-09-26",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-10-08": {
+      "actual": "197K",
+      "previous": "199K",
+      "period": "2026-10-03",
       "url": "https://fred.stlouisfed.org/series/ICSA"
     }
   }

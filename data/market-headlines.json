@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-08T12:37:08.790Z",
+  "generated_at": "2026-10-08T13:33:33.390Z",
   "articles": [
+    {
+      "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlAxQ1huRmRTY29rZlZ0NVpMRzUxQlJlZXk1S3N1ZnMxN1B5dnNiaG0yVTg1RnFXZUQ3bVZHM0Q3UXp1VjRSblljZDlQS0FHR2RFQzJoWWpXT0FwZW1XSkQtdzRwRnY2UV9taFBsNXFtaGlhNVozdUUyZG5yeVRsbHZidllTQi1hZmdkNnJZdHBrZ01KaWMwR0ZGSzVlVDA2TVNtT2dWaU56VURGSk8ycg?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261008T123256Z",
+      "date_et": "2026-10-08",
+      "time_et": "08:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Affinity Solutions Expands Retail Monitor Dataset to Better Represent U.S. Consumer Spending",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1B6M3RYUmhQSEZwUEJSWWY1NjVUdGw1bTBnQnNpRlNiWWJjeFoxQ1JVelhWbWoyNTE1d3BxT04xcEJlVHJLVTBHeld2ZUc5MXo1TDR5Z0FaamI5dE50VERwRDFRcmtIWlZFWHVkcjd2Tm1hY1lGbUpUQmEzOThWb1o3M3psQ1YyaVlKSnpJVzlzOGRuTmE2OXhPVjRLZ3d4?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T120000Z",
+      "date_et": "2026-10-08",
+      "time_et": "08:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Czech retail sales growth eases to 4.3%",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
@@ -43,6 +73,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261008T000000Z",
+      "date_et": "2026-10-07",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1862,21 +1907,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. GDP Growth Reaches 2.2%, Above 1.5% Forecast",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnhMemExZFR3ejh5OTZHdDU5Qk9FdWtvMGpMY3dBM3RIWkZySV9iTFZ3YzgzZVhsemJ3dGNFZ3ZUaDJvSFJBblRUUWJUYjA2VVRTZG45N3ZMUUZkZ2hvb0UwS0NqcUEyVHBycDNUOUJvNW4zcWw2RXgzc0dFQ3B0eGtvc0p3dVk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T132417Z",
-      "date_et": "2026-09-30",
-      "time_et": "09:24",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Wall Street Futures Advance After Softer-Than-Forecast PCE Inflation Data: Dow Jones, S&P, Nasdaq",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVhaQlVkamZ5bVZDcF9NT3g5TUcyNG12Tm9UM0NjRlVmOEN4VEthYWdONWFvaUN6S1hHQ1FPRFJxVFFzRkRRZ1E5dU5jekpwRU05azRmM01DbUdWbHVudHdxWU1RMW1TRWJDVE9NdzI5Znp6WHhhbEczQmpYRTl6a0JwUDdaWjFjU1Fj?oc=5",
       "domain": "Yahoo Finance UK",
@@ -2147,21 +2177,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260930T073111Z",
-      "date_et": "2026-09-30",
-      "time_et": "03:31",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "German retail sales recover after sharp July decline",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjlpdTBjWnVPMkREeTBrVjZJRkZ1WnJoWU83Wk53YUtGYTB4ZFUzN0NsNkttODFiYnotMVpSWmQ3d2JPdnRZZkFYcjZyUFFDNjA0VVEtbkxwbUNHbVNxS2o5ZUE1YlN0T3FwM0dKc3R5UnY5cWJWRGdDUGRGcUt6dDFuWmhTREc3MXFwaURXREdBVGs0NEE?oc=5",
       "domain": "Yahoo Finance",
@@ -2173,6 +2188,36 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. GDP Growth Reaches 2.2%, Above 1.5% Forecast",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnhMemExZFR3ejh5OTZHdDU5Qk9FdWtvMGpMY3dBM3RIWkZySV9iTFZ3YzgzZVhsemJ3dGNFZ3ZUaDJvSFJBblRUUWJUYjA2VVRTZG45N3ZMUUZkZ2hvb0UwS0NqcUEyVHBycDNUOUJvNW4zcWw2RXgzc0dFQ3B0eGtvc0p3dVk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
