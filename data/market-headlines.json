@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:33:36.104Z",
+  "generated_at": "2026-10-08T17:29:19.830Z",
   "articles": [
     {
       "title": "US jobless claims hover near 57-year low for fourth consecutive week",
@@ -32,21 +32,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
-      "domain": "AP News",
-      "seendate": "20261008T131500Z",
-      "date_et": "2026-10-08",
-      "time_et": "09:15",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
       "domain": "Bloomberg.com",
@@ -58,6 +43,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
+      "domain": "AP News",
+      "seendate": "20261008T125547Z",
+      "date_et": "2026-10-08",
+      "time_et": "08:55",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
