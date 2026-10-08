@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:29:46.240Z",
+  "generated_at": "2026-10-08T04:30:06.923Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -2507,21 +2507,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Wednesday’s PCE Inflation Report May Boost Fed Hike Bets",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9kME9NZnRITUVXaHBCb0p4NG0yVEh2ZGV2YUo0NGhwQVVVOG84a1dIMGZKRXJ3OG9YVDlaVGVQdXhnbHJCZ3g3LWdSNXE2VTdSeW9SeHU2OHRHOXlqR0lVZW1qZFNXNlA2N2pRdkkxTWtXcGt4eldidVYxMUNOcGdwYUVOcWthU3BadFhzWi1RcmNIUURMR1hzOUJXNFMyWXc?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260929T122002Z",
-      "date_et": "2026-09-29",
-      "time_et": "08:20",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US Stock Futures Rise as Traders Await Key Economic Data",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0ZHQkNRVjA5cjk0MThzZ2otamgxbXl6N002VWdZS0VwS2tjMTRJY3N0cUtOYVdiQVZMNG5obDV0RDRYMVBxTk9qVUpEakFoaVh2NXBKS0l1SXZuS3R1OVRPa0E0eFdnV1h0ZWlyWmVGYW9oRmRrbXVGd3p5N1Y0TjVTQ1Q0a0Z1dkFhOV9WNEVKZEVHQnFiejZhYld6V1FnTnB1aDdVZ0V3dU0?oc=5",
       "domain": "Bloomberg.com",
@@ -2533,6 +2518,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wednesday’s PCE Inflation Report May Boost Fed Hike Bets",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9kME9NZnRITUVXaHBCb0p4NG0yVEh2ZGV2YUo0NGhwQVVVOG84a1dIMGZKRXJ3OG9YVDlaVGVQdXhnbHJCZ3g3LWdSNXE2VTdSeW9SeHU2OHRHOXlqR0lVZW1qZFNXNlA2N2pRdkkxTWtXcGt4eldidVYxMUNOcGdwYUVOcWthU3BadFhzWi1RcmNIUURMR1hzOUJXNFMyWXc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
