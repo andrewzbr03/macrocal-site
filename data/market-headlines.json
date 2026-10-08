@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-08T18:33:00.526Z",
+  "generated_at": "2026-10-08T19:29:37.854Z",
   "articles": [
     {
-      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "title": "The options market is reminding investors there&#x2019;s a cure for rising bond yields &#x2014; higher yields",
+      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261008T185100Z",
+      "date_et": "2026-10-08",
+      "time_et": "14:51",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
       "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
       "seendate": "20261008T181900Z",
@@ -2153,6 +2168,21 @@
       "seendate": "20260930T104714Z",
       "date_et": "2026-09-30",
       "time_et": "06:47",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. Stock Futures Muted With Focus on PCE Inflation Data and Micron Earnings",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUsyai1Ya2daTExvWEVsUXJfRXlZZ09IWGgyNUw0djRzQlNWVE5mb3BfZ0pWV2drdWhwZUJBaWVxbFp1V3l0d2xzX3RyalpOZHE2V0phRUVPUk44UExCaWJyOFUxTjhVMWRuVnN4LW9mcE9CQnluTi1iM2F6Ti0xSHFSd3ZLaTVhWHpiejVTZElvekFhaTNB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T103042Z",
+      "date_et": "2026-09-30",
+      "time_et": "06:30",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
