@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:38:15.409Z",
+  "generated_at": "2026-10-08T01:29:11.570Z",
   "articles": [
     {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
@@ -13,6 +13,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "How CPI and PPI inflation reports could move stocks this week - what to watch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzdiaEdDZ2NGUUVTUF80ZDJiSGpyU0ZITXVGTmFEbmhZb0ZISncxckNtNl9tN0JWZ29QbUtzOHJhU2puNjVqaENmZkZ0OUFTcEdBb0w0RnBsNzRNUjhaa3AyWEZ5SkQ5SHpDU3lwMktEenRITWQ4a1A4VXk3eVk0WWk2Vm91OWFUMm1rNE5OU0RRSmhfdV8yclE5Z2JoQXBrXzU4QmRNcXdGekhTa0J6ak56NE9zV3A0RUgtVThwOVFzYmdfVjI4N1pxUXJXblBGSUZj?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261007T103739Z",
+      "date_et": "2026-10-07",
+      "time_et": "06:37",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
