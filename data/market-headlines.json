@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:31:21.883Z",
+  "generated_at": "2026-10-09T19:28:31.835Z",
   "articles": [
     {
       "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
@@ -1603,6 +1603,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "ISM Manufacturing PMI Dips Slightly, Misses Forecast By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWl9LUmJVbV81LW9hUHozQkZ6emlBN2lSeXc0NldSOF8waDlPa0ExUldXcFNpeGZLZ0V2QkhuYUJUekloRS0xcDlBVnB5U3BvT2lWbHQwTnRlOHM5Z0Y4WHl1djM2bDFfN2VtMkJYcHlIMUpZUU5XZGxKeEVGR2dBMkR0UGJsWmVTT2loOHVFdVdpUGFsZVA2ekhuVG8tQ3E5QkZfT21DTXpjbG11a1ZrNndn?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261001T140400Z",
+      "date_et": "2026-10-01",
+      "time_et": "10:04",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
