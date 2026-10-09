@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-09T13:32:52.262Z",
+  "generated_at": "2026-10-09T14:34:06.441Z",
   "articles": [
+    {
+      "title": "Michigan consumer sentiment dips below forecast, signals caution By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWlRMTZsMmFrU195bEN2N0VwenFwWkwyd2JDelU3UUlob1ZMcC1wNDA3UzBVUmx2aU9HVkJLMndZbkZIdTlRc2NQdEpNNWNvVDljM2lkd1hGWDVReTd2NkNKYWxTY3R4Umx3cVVLOTZCcEFlbDZEOWNkeFFqZ2E3Y1V2amUwVTlVUDNCM2xBRHNjWUZtV2pwM1hKdFg1cVYxVTlTZ0FxdjlGaG9zQmlFaTJTX0V0WGh1Z294S2Q0Qm9Cdw?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20261009T140533Z",
+      "date_et": "2026-10-09",
+      "time_et": "10:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261009T135900Z",
+      "date_et": "2026-10-09",
+      "time_et": "09:59",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
       "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
@@ -778,6 +808,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Factory orders remain flat, meeting expectations",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkZRQUpmZmx3c3hieEx2M2d1OFdHSnNLVjRQS0pzUTJOYmdMaFZOZzEtd1R2QXhnNGZ0aHVteUUzWl81eF81TnFvSU5PZnZQbnFoR1hDV1FQSGJzbng1UEk5MkdyRmIxYkdVeWtqNEtaVVg2dHM4T2RmS0RxZURJR2wxT0JhZ20yWmZYQkptVU9GbmM3TUtwaHZ4cFpqN0JyaWdnNEl6ZkZJMTktaE13YQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261002T140235Z",
+      "date_et": "2026-10-02",
+      "time_et": "10:02",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
