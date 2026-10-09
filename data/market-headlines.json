@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:27:31.945Z",
+  "generated_at": "2026-10-09T00:41:21.996Z",
   "articles": [
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
@@ -65,9 +65,9 @@
       "title": "Consumer sentiment and CFTC positioning data due Friday",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDVfU0RjbWhGa2FjSWFPMWRMTWJxcGdyTVN2ajdZVEp3dFhnWU5PV3JjWjJabzVrdVA0cEZuWDBWSHRlOUxmRWg3RlhIM0pXczRnS2RSYnU4b2ZHTVdMZkdTYnVTUlBCMUNnN09vak5kaGRndWhrSDQ5NTlGRmQ0Z2xudi1xY3pBT3BKd1dlLW5vVGh5NHRpUmplU1FKb2Nqd25pRGQ0cTRkUnIwREtZSEVITmY2OHk3?oc=5",
       "domain": "Investing.com",
-      "seendate": "20261008T180321Z",
+      "seendate": "20261008T181735Z",
       "date_et": "2026-10-08",
-      "time_et": "14:03",
+      "time_et": "14:17",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -104,21 +104,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261008T130525Z",
-      "date_et": "2026-10-08",
-      "time_et": "09:05",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -208,6 +193,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261008T000000Z",
+      "date_et": "2026-10-07",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
