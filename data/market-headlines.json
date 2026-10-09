@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:29:51.262Z",
+  "generated_at": "2026-10-09T16:29:48.750Z",
   "articles": [
     {
       "title": "Here&#x2019;s how much stocks could fall if the Democrats sweep Congress, according to BofA",
@@ -182,21 +182,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "How CPI and PPI inflation reports could move stocks this week - what to watch",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzdiaEdDZ2NGUUVTUF80ZDJiSGpyU0ZITXVGTmFEbmhZb0ZISncxckNtNl9tN0JWZ29QbUtzOHJhU2puNjVqaENmZkZ0OUFTcEdBb0w0RnBsNzRNUjhaa3AyWEZ5SkQ5SHpDU3lwMktEenRITWQ4a1A4VXk3eVk0WWk2Vm91OWFUMm1rNE5OU0RRSmhfdV8yclE5Z2JoQXBrXzU4QmRNcXdGekhTa0J6ak56NE9zV3A0RUgtVThwOVFzYmdfVjI4N1pxUXJXblBGSUZj?oc=5",
-      "domain": "Investing.com UK",
-      "seendate": "20261008T134400Z",
-      "date_et": "2026-10-08",
-      "time_et": "09:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
       "domain": "AP News",
@@ -313,6 +298,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "How CPI and PPI inflation reports could move stocks this week - what to watch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzdiaEdDZ2NGUUVTUF80ZDJiSGpyU0ZITXVGTmFEbmhZb0ZISncxckNtNl9tN0JWZ29QbUtzOHJhU2puNjVqaENmZkZ0OUFTcEdBb0w0RnBsNzRNUjhaa3AyWEZ5SkQ5SHpDU3lwMktEenRITWQ4a1A4VXk3eVk0WWk2Vm91OWFUMm1rNE5OU0RRSmhfdV8yclE5Z2JoQXBrXzU4QmRNcXdGekhTa0J6ak56NE9zV3A0RUgtVThwOVFzYmdfVjI4N1pxUXJXblBGSUZj?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261007T103739Z",
+      "date_et": "2026-10-07",
+      "time_et": "06:37",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1892,21 +1892,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Fed seen on pause in October after inflation data",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUNVY2RxTDJvV2wtMlloY3ZJTURRWHB1dnZhekhVWWhEUExYRXVOLTBNT3JyNHJhZ2J2ck9YaFJQNHgwWFZndzFHNV9kRE9zcEhvck1JanY5U29KWFVDRllHVVpJVWFtQXFaSlJVdXRUVExvcmphV21ocE9YaTRKVGhmZmo0eDVPTU01cG1vdkU1UlJP?oc=5",
-      "domain": "Reuters",
-      "seendate": "20260930T164731Z",
-      "date_et": "2026-09-30",
-      "time_et": "12:47",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Retail Sales Jump 6% in August, Boosting CRE Property Demand",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlgyd1FNT243UTJpb3pCSEQ4UllnbFBlTDdmRHpNanZ6UTVTNUpRYWNBS2prMElmeHJ3amFyYjlobVJJak9wcldvY2JZcGJCajB5eWYxNndRZ2pwRHE0OHdNZzdxajJTQUtHVVVwLVlmUkVaX0RMMmp1STE1dGR2LTFvQ0djVFFKQldyWDFBNmtXQQ?oc=5",
       "domain": "Yahoo Finance",
@@ -2263,6 +2248,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Fed seen on pause in October after inflation data",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUNVY2RxTDJvV2wtMlloY3ZJTURRWHB1dnZhekhVWWhEUExYRXVOLTBNT3JyNHJhZ2J2ck9YaFJQNHgwWFZndzFHNV9kRE9zcEhvck1JanY5U29KWFVDRllHVVpJVWFtQXFaSlJVdXRUVExvcmphV21ocE9YaTRKVGhmZmo0eDVPTU01cG1vdkU1UlJP?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
