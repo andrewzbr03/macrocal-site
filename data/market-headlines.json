@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:31:39.134Z",
+  "generated_at": "2026-10-09T08:32:05.023Z",
   "articles": [
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
@@ -104,21 +104,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "How CPI and PPI inflation reports could move stocks this week - what to watch",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzdiaEdDZ2NGUUVTUF80ZDJiSGpyU0ZITXVGTmFEbmhZb0ZISncxckNtNl9tN0JWZ29QbUtzOHJhU2puNjVqaENmZkZ0OUFTcEdBb0w0RnBsNzRNUjhaa3AyWEZ5SkQ5SHpDU3lwMktEenRITWQ4a1A4VXk3eVk0WWk2Vm91OWFUMm1rNE5OU0RRSmhfdV8yclE5Z2JoQXBrXzU4QmRNcXdGekhTa0J6ak56NE9zV3A0RUgtVThwOVFzYmdfVjI4N1pxUXJXblBGSUZj?oc=5",
-      "domain": "Investing.com UK",
-      "seendate": "20261008T134400Z",
-      "date_et": "2026-10-08",
-      "time_et": "09:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com UK",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -238,6 +223,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "How CPI and PPI inflation reports could move stocks this week - what to watch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzdiaEdDZ2NGUUVTUF80ZDJiSGpyU0ZITXVGTmFEbmhZb0ZISncxckNtNl9tN0JWZ29QbUtzOHJhU2puNjVqaENmZkZ0OUFTcEdBb0w0RnBsNzRNUjhaa3AyWEZ5SkQ5SHpDU3lwMktEenRITWQ4a1A4VXk3eVk0WWk2Vm91OWFUMm1rNE5OU0RRSmhfdV8yclE5Z2JoQXBrXzU4QmRNcXdGekhTa0J6ak56NE9zV3A0RUgtVThwOVFzYmdfVjI4N1pxUXJXblBGSUZj?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261007T103739Z",
+      "date_et": "2026-10-07",
+      "time_et": "06:37",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2192,21 +2192,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US PCE Inflation Is a Big Test for Stocks, Crypto, and Trump",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFrcWFNdDdUMExvTFhMZkRobWxPdHZ4aE01c3dxbWJkeXVfVV9McFg1VnFjOWFacUZfbXE1MVlkbjZWV0lSbVp5cGpfVmhJcmN4bWpBRmxiRzA1NHZxM19KN3ZrS24tUmxrXzBhSlk0YXJ1X2FhbGdrRWJqWEZNSGpSSGRXSGJiVmhGd0ZDQ29LVzVq?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T085722Z",
-      "date_et": "2026-09-30",
-      "time_et": "04:57",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "German retail sales recover after sharp July decline",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjlpdTBjWnVPMkREeTBrVjZJRkZ1WnJoWU83Wk53YUtGYTB4ZFUzN0NsNkttODFiYnotMVpSWmQ3d2JPdnRZZkFYcjZyUFFDNjA0VVEtbkxwbUNHbVNxS2o5ZUE1YlN0T3FwM0dKc3R5UnY5cWJWRGdDUGRGcUt6dDFuWmhTREc3MXFwaURXREdBVGs0NEE?oc=5",
       "domain": "Yahoo Finance",
@@ -2216,6 +2201,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US PCE Inflation Is a Big Test for Stocks, Crypto, and Trump",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUFrcWFNdDdUMExvTFhMZkRobWxPdHZ4aE01c3dxbWJkeXVfVV9McFg1VnFjOWFacUZfbXE1MVlkbjZWV0lSbVp5cGpfVmhJcmN4bWpBRmxiRzA1NHZxM19KN3ZrS24tUmxrXzBhSlk0YXJ1X2FhbGdrRWJqWEZNSGpSSGRXSGJiVmhGd0ZDQ29LVzVq?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -2657,21 +2657,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "August US Job Openings Fall, Hiring Up, Separations Down",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblNzU1BqU29NQXFQSFVlNWJFdGJyekFUbVBSNnVHaWxDQ2x3UEMzZExlNmwtLVBuTnBvWXRxTXBGRFJkLXBnUnRFcmhfMkhLUllrdDBmdUNTOW9zZnhzNTJjTkR1cXRzWWZlNkJDd0o1ZGVQdDlGV29lX2ctLWd6amhWRVFzaW56aUo3YXdB?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T141616Z",
-      "date_et": "2026-09-29",
-      "time_et": "10:16",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings slid to 7.1 million in August but labor market remains resilient despite high energy costs",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeE56RGFkNVFiV3Y0RHlSd09EVVYwRjQ0U1dZZnUydDc5Y080TW9hT2o2ZmZzeU5VTThwWW40Rl8zZ1dleXg4eWtHclFZSWZMWjFVaF9tR0xkcUQzbFdEbmpEMElUNkZZdzRMUlB0UnpRdVZKTDlLNlU0dVZ4dmlWUk9DUFk5dFE?oc=5",
       "domain": "Yahoo Finance",
@@ -2698,6 +2683,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "August US Job Openings Fall, Hiring Up, Separations Down",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblNzU1BqU29NQXFQSFVlNWJFdGJyekFUbVBSNnVHaWxDQ2x3UEMzZExlNmwtLVBuTnBvWXRxTXBGRFJkLXBnUnRFcmhfMkhLUllrdDBmdUNTOW9zZnhzNTJjTkR1cXRzWWZlNkJDd0o1ZGVQdDlGV29lX2ctLWd6amhWRVFzaW56aUo3YXdB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
