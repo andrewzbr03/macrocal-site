@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:31:23.320Z",
+  "generated_at": "2026-10-09T11:27:58.593Z",
   "articles": [
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
@@ -1352,21 +1352,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US unemployment claims dip to 197,000, lowest since mid-July - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSngzbTdpN19wQ3l6VEZGam9PMm1PMWo5Qld3NE1UaU9qbzhJMFlXS2Q5djFIUUtvZnljMU1rM1JfeGpQZ2h3c0pSdjRrUTVIeVhjdzAwX0kyYzI0djJPb1M4S0NPQ0k4WVR4a3p1NHFZUFNabmVGZ05yaThyYWUxT3k2WDBoX0dmZ3lFSzAyYndqc21VMjcw0gGcAUFVX3lxTE9rTlVGZXF5RkwxTUd0OW9hTEdobmh1dEtKUDFTRFdXOUIyUktMX3dqOWpZalFLY0tYZkJldzc2dFY3S1otWGE5M2d5OEZTOS1HSTdOMnBLa3dEQlJxY1BQbVZsaGZWcmtlQUg1QXJLOWJMQUNwY2xyNW9OLWZBWVRGMFB4THo4eDZqUTR5cUd2bW1jWWQ4OEJtMWdmdg?oc=5",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "seendate": "20261001T162644Z",
-      "date_et": "2026-10-01",
-      "time_et": "12:26",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "ISM Manufacturing PMI Dips Slightly, Misses Forecast",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFdnN0tzSEtfakhweVdhNXI1bDlrdTFEMkNTeEgybzJWZElVSnBsRUh6NmxGOGxXQ2xvTzlveWptcjllTXRWRHp1T0hIcjNYbjNwSUw0ODhHbnRSQUVydU1rbHFkelF3TkRKZnNXRVJWaE5fLV9YWTJvS3pUNE55MVZ6MkhzYzZ4R0hzcmc3WU1aSE1RVF9RekFCeWNnY1p3WlgzQUo3LVhnQnI2Y2RFcloyNGkyUQ?oc=5",
       "domain": "Investing.com",
@@ -1652,6 +1637,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US unemployment claims dip to 197,000, lowest since mid-July - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSngzbTdpN19wQ3l6VEZGam9PMm1PMWo5Qld3NE1UaU9qbzhJMFlXS2Q5djFIUUtvZnljMU1rM1JfeGpQZ2h3c0pSdjRrUTVIeVhjdzAwX0kyYzI0djJPb1M4S0NPQ0k4WVR4a3p1NHFZUFNabmVGZ05yaThyYWUxT3k2WDBoX0dmZ3lFSzAyYndqc21VMjcw0gGcAUFVX3lxTE9rTlVGZXF5RkwxTUd0OW9hTEdobmh1dEtKUDFTRFdXOUIyUktMX3dqOWpZalFLY0tYZkJldzc2dFY3S1otWGE5M2d5OEZTOS1HSTdOMnBLa3dEQlJxY1BQbVZsaGZWcmtlQUg1QXJLOWJMQUNwY2xyNW9OLWZBWVRGMFB4THo4eDZqUTR5cUd2bW1jWWQ4OEJtMWdmdg?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Historic low layoffs underpin US labor market; factory gate price pressures rising",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2t4aUJrZXV5M3RGT29oOUZmNHVSM3NxTUx4OGdCaWtLc0I5M2hIMThzNm90WUFzdmF1RUVmLTRMVUV2N1MycTJTUk5tcTcySzRrWTRfQ016U1BpVUVGYUxBM2xtNnpPMXBmb3oyNE9pcGJsLWV0MHZnNnAwd2xWTWpDLW1kRkVJUURSY0VSd0c?oc=5",
       "domain": "Yahoo Finance",
@@ -1828,21 +1828,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
-      "domain": "Fortune",
-      "seendate": "20260930T160600Z",
-      "date_et": "2026-09-30",
-      "time_et": "12:06",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2188,6 +2173,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "'The economy is increasingly reliant on AI gains': U.S. GDP grew 2.2% amid 'sudden reversal of optimism' on AI tech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMjVWUTNMVGMzeFkwbFdlWGRkUnFKN0xLcHVRZEppWTJxS2lKRkgwZjNpX2lBOVpHVDhad1prRUpIN0RNS3hkZnJDZTJEUXg3Rk84U3ZaQ0V0UlhrMkNfQnVRaXJRY2ZPdnkwRUw4VmRmcjJEV1BB?oc=5",
+      "domain": "Fortune",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Fortune",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
