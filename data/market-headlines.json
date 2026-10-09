@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:30:39.711Z",
+  "generated_at": "2026-10-09T05:29:42.270Z",
   "articles": [
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
@@ -1922,21 +1922,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US GDP jumps much more than previously estimated in Q2",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONC1fRlh5bDBDXy1Iek5mRDl5aDlRU3JYQk0wVzB4M0ZNYlllM1lYM01LRUFKV1JETVFzZlo4NzRmOWVIbkdta3ZrcFNaZm1vekFpNTFBQ2Y3S0VXNER3RE1WSGZpSTFUOTlIa21sUndaSHpwY1B3eThGRnB2ck9BZVNUQ1Nyd28?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T150337Z",
-      "date_et": "2026-09-30",
-      "time_et": "11:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "A cooler-than-expected reading on Fed’s favored inflation measure tamps down on urgency for rate hikes",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnZRVjQzMnpzRHZpcGxDd1VNR09Jejl5STdNdWRGNnE2NDNsZnd4dVBMOUxTSFBiMTcxSGNkbjhnQXFOY1d1QkxubThXWFBGTkhaWDlwVFJNcEkxYlVGSlMwcnhqalJsUzJsSlYzT2tCekU4XzRoZ2VxNDRQZGk3NUNqeVJFVzBGYmhUeVZSQnJXTk8wWVZGNGJnNUVqVWNrdGUtOFJMbDFHOWM3cnB3RjVOd2dXZ1pQcGZMNjlETmJZYy1Oc3NmVTJBS1NZZw?oc=5",
       "domain": "Yahoo Finance",
@@ -2246,6 +2231,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US GDP jumps much more than previously estimated in Q2",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONC1fRlh5bDBDXy1Iek5mRDl5aDlRU3JYQk0wVzB4M0ZNYlllM1lYM01LRUFKV1JETVFzZlo4NzRmOWVIbkdta3ZrcFNaZm1vekFpNTFBQ2Y3S0VXNER3RE1WSGZpSTFUOTlIa21sUndaSHpwY1B3eThGRnB2ck9BZVNUQ1Nyd28?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
