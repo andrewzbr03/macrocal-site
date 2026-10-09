@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-09T17:27:31.739Z",
+  "generated_at": "2026-10-09T18:31:21.883Z",
   "articles": [
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261009T181600Z",
+      "date_et": "2026-10-09",
+      "time_et": "14:16",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump ramps up battle to fire Fed&#x2019;s Lisa Cook. Her lawyers say there&#x2019;s no basis to remove her.",
+      "url": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261009T175000Z",
+      "date_et": "2026-10-09",
+      "time_et": "13:50",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer sentiment near record low as frustration over economy mounts",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261009T172011Z",
+      "date_et": "2026-10-09",
+      "time_et": "13:20",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Here&#x2019;s how much stocks could fall if the Democrats sweep Congress, according to BofA",
       "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
@@ -74,21 +119,6 @@
       "provider": "Google News",
       "source": "Investing.com",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261009T135900Z",
-      "date_et": "2026-10-09",
-      "time_et": "09:59",
-      "effect_reported": true,
-      "major_catalyst": false,
-      "catalyst_tag": "Market move",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
