@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:29:48.750Z",
+  "generated_at": "2026-10-09T17:27:31.739Z",
   "articles": [
     {
       "title": "Here&#x2019;s how much stocks could fall if the Democrats sweep Congress, according to BofA",
@@ -1547,21 +1547,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "ISM manufacturing index steady, though prices gauge surges",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHhFM2gtMXFqb3RsUE4zX21LQVd4bWVoSG5uM2tCOXplNEo1NTFDSDVBR3VVbWdzeVpJTkdaMzdxMHdDTTZMWmZtYjNhT1VBWWpva2I5T3dtRzhtdkJ5aE00WGhIT1BtSUotR1NWTzVCTVJ0T204Z3NaMHpLYnQzaF9obXFNR3FCYmdpeWJWVXFSX0RtdXhIVlhLUXoxVU9JMzFVNE1UTUFYVXo5RkdlOXl4ejRUMzhTMUV3?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261001T142400Z",
-      "date_et": "2026-10-01",
-      "time_et": "10:24",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "ISM Manufacturing PMI Dips Slightly, Misses Forecast By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlBTTmxONi05TlhSbEdYU3VCRmtKaWlvaVhOQXJWdS0yc0JwTHFCTHBhN1RYTzBUTU9XM3NEa0N2SWZiTmtyam54WTBBc1lFa1FhbHdSY3hJaE00c0Z2TXltNXd5OTE3akQ5V0VHZlNOV2RSVEpIVkloa3BhRFN2RG5GZXE1UTVtMnJqVzRmU0FieXd6dWhISlR6Wm1XZ0NlTTVOdzBVY1hGTm1VQ1VPa0RR?oc=5",
       "domain": "Investing.com Australia",
@@ -1723,6 +1708,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "ISM manufacturing index steady, though prices gauge surges",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHhFM2gtMXFqb3RsUE4zX21LQVd4bWVoSG5uM2tCOXplNEo1NTFDSDVBR3VVbWdzeVpJTkdaMzdxMHdDTTZMWmZtYjNhT1VBWWpva2I5T3dtRzhtdkJ5aE00WGhIT1BtSUotR1NWTzVCTVJ0T204Z3NaMHpLYnQzaF9obXFNR3FCYmdpeWJWVXFSX0RtdXhIVlhLUXoxVU9JMzFVNE1UTUFYVXo5RkdlOXl4ejRUMzhTMUV3?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
