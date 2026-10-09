@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-09T19:28:31.835Z",
+  "generated_at": "2026-10-09T20:27:42.888Z",
   "articles": [
+    {
+      "title": "Here&#x2019;s how Treasury yields could rise to 6% &#x2014; even without market upheaval",
+      "url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261009T200300Z",
+      "date_et": "2026-10-09",
+      "time_et": "16:03",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
       "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
@@ -215,9 +230,9 @@
       "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
       "domain": "AP News",
-      "seendate": "20261008T125547Z",
+      "seendate": "20261008T131500Z",
       "date_et": "2026-10-08",
-      "time_et": "08:55",
+      "time_et": "09:15",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
