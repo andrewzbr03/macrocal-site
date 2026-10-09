@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:29:42.270Z",
+  "generated_at": "2026-10-09T06:36:17.984Z",
   "articles": [
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI&#x2019;s revenue causes &#x2018;undue concern&#x2019;",
@@ -2132,21 +2132,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Bitcoin Price Tests $83,000 Ahead of Key PCE Inflation Release",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzlCNDJhV08weUJBV2dQQjVQTGpYUTVSUm56N1c4UWJ0RFN3Q0w3YU5weG5HOGZxNFdpY3M5Ri1yUVZseXlSQUtreDB1VGxaeG5JODY3bHpxS09kWGZfS1VqM2NjNmJLZ2I2NlJIVGZ6US1pa0ZNTW05WVVfaW9FeDVzc0dMSG5WQVhoQkRONnhGR0Z2VEE?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T104714Z",
-      "date_et": "2026-09-30",
-      "time_et": "06:47",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "U.S. Stock Futures Muted With Focus on PCE Inflation Data and Micron Earnings",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUsyai1Ya2daTExvWEVsUXJfRXlZZ09IWGgyNUw0djRzQlNWVE5mb3BfZ0pWV2drdWhwZUJBaWVxbFp1V3l0d2xzX3RyalpOZHE2V0phRUVPUk44UExCaWJyOFUxTjhVMWRuVnN4LW9mcE9CQnluTi1iM2F6Ti0xSHFSd3ZLaTVhWHpiejVTZElvekFhaTNB?oc=5",
       "domain": "Yahoo Finance",
@@ -2231,6 +2216,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Bitcoin Price Tests $83,000 Ahead of Key PCE Inflation Release",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzlCNDJhV08weUJBV2dQQjVQTGpYUTVSUm56N1c4UWJ0RFN3Q0w3YU5weG5HOGZxNFdpY3M5Ri1yUVZseXlSQUtreDB1VGxaeG5JODY3bHpxS09kWGZfS1VqM2NjNmJLZ2I2NlJIVGZ6US1pa0ZNTW05WVVfaW9FeDVzc0dMSG5WQVhoQkRONnhGR0Z2VEE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
