@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:27:28.178Z",
+  "generated_at": "2026-10-10T10:26:44.750Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -283,6 +283,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer sentiment and CFTC positioning data due Friday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLU1uQ2ZpaXVFUW8xLVVXOEE3emtoeWxiUmZwRXYySTM0UTFjR3hiaGVMd1YtMkNPQnNyZVNzbmxpVDc2cnhUQTM4eWRreHJWeFFSYXVzOGZvbVAzWVVuWk9CVGZBbnMzbWc3NlVjOTBfNURBc1RtOWEyc0hyX2pYd0RFbTN0QmJFc3VHUDJBTVVfcXJUbHBHMG8yMUt3aDZ5YXFjdW5KNVNhMHhlMUZ1UXpZM1FXN0k?oc=5",
+      "domain": "Investing.com Australia",
+      "seendate": "20261008T181342Z",
+      "date_et": "2026-10-08",
+      "time_et": "14:13",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com Australia",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -932,21 +947,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
-      "domain": "AP News",
-      "seendate": "20261002T163300Z",
-      "date_et": "2026-10-02",
-      "time_et": "12:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Men are losing ground in the labor market. Here's why",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWTZjU3cweHlhVGFFWmZ1dmtTdVhZRW9BVVR6ZjFLTE8wbFpaaEhZbWN0TUVMa2paWUs0bHFZNnBuQWRzUWRZbjlEbnQ0SjhIN2tNdW0taGsyRW1LM19sNGJJMF95NklYbW9VRzBkbWZ3em_SAXhBVV95cUxPejU0NDBTWHlrR1dhMkhnbzduaHEtS3B2b1VYY1FVNmhNWTJtbnh2TmN3LTVfSDBxb1BENFJuenNzUUFrVHdhYjljVEh2eDZYN1Y1MzQxV0FYblFoVUotUW94cHhiZk5iaS14U05jOUhjR0s3LU9XWEk?oc=5",
       "domain": "CNBC",
@@ -1363,6 +1363,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
+      "domain": "AP News",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
