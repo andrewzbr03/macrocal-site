@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:28:09.966Z",
+  "generated_at": "2026-10-10T08:28:12.966Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -1263,21 +1263,6 @@
     },
     {
       "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1c3eWxhak03S19wOWloT192VXI2UGhzeHJLZDBMRnZxdGNwaEhxQ2Y1LWNqZFQtc2o5bk9BeW5uSnI5WVVNcDJMeXRmblA0aTloYlAzQUFYTzFJMW1Wc0ZrVkpLZFUwbGRfNmpjOWjSAXZBVV95cUxOUnZ1bXVuT3Y0RHBfSHFjVkJiWnhYb3J2ajZ6Qkd6UlQ1a2xEejMwVG9tdzRNbDJSU1gtcEJ1UXNVTWFFWC1XVFdxazlWTl9FcUxwdXNZeExGRUo0QnVTbHMwVmZLQy1zNEEzM3JqYnNmZUpvazR3?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261002T123142Z",
-      "date_et": "2026-10-02",
-      "time_et": "08:31",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1c3eWxhak03S19wOWloT192VXI2UGhzeHJLZDBMRnZxdGNwaEhxQ2Y1LWNqZFQtc2o5bk9BeW5uSnI5WVVNcDJMeXRmblA0aTloYlAzQUFYTzFJMW1Wc0ZrVkpLZFUwbGRfNmpjOWg?oc=5",
       "domain": "CNBC",
       "seendate": "20261002T123142Z",
@@ -1358,6 +1343,21 @@
       "seendate": "20261002T074749Z",
       "date_et": "2026-10-02",
       "time_et": "03:47",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1c3eWxhak03S19wOWloT192VXI2UGhzeHJLZDBMRnZxdGNwaEhxQ2Y1LWNqZFQtc2o5bk9BeW5uSnI5WVVNcDJMeXRmblA0aTloYlAzQUFYTzFJMW1Wc0ZrVkpLZFUwbGRfNmpjOWjSAXZBVV95cUxOUnZ1bXVuT3Y0RHBfSHFjVkJiWnhYb3J2ajZ6Qkd6UlQ1a2xEejMwVG9tdzRNbDJSU1gtcEJ1UXNVTWFFWC1XVFdxazlWTl9FcUxwdXNZeExGRUo0QnVTbHMwVmZLQy1zNEEzM3JqYnNmZUpvazR3?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
@@ -2132,21 +2132,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "A cooler-than-expected reading on Fed’s favored inflation measure tamps down on urgency for rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnZRVjQzMnpzRHZpcGxDd1VNR09Jejl5STdNdWRGNnE2NDNsZnd4dVBMOUxTSFBiMTcxSGNkbjhnQXFOY1d1QkxubThXWFBGTkhaWDlwVFJNcEkxYlVGSlMwcnhqalJsUzJsSlYzT2tCekU4XzRoZ2VxNDRQZGk3NUNqeVJFVzBGYmhUeVZSQnJXTk8wWVZGNGJnNUVqVWNrdGUtOFJMbDFHOWM3cnB3RjVOd2dXZ1pQcGZMNjlETmJZYy1Oc3NmVTJBS1NZZw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T145717Z",
-      "date_et": "2026-09-30",
-      "time_et": "10:57",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September jobs report due out Friday",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0xBRWdrS01PMURUNHE2RTFzaENPVVo0Z2VDYlpfUjF2TG9ackF2Z2k5eFl6bjR1enRSQjVzbjdOWjNBZ3dXcFczSXphX0VQN1pEbnFUWUFZQl9DdkNLa2tzOHMtQV9PNXE3SmJVajhMOTFnUDdZNWZVdmV4cml2Tg?oc=5",
       "domain": "CBS News",
@@ -2381,6 +2366,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "A cooler-than-expected reading on Fed’s favored inflation measure tamps down on urgency for rate hikes",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnZRVjQzMnpzRHZpcGxDd1VNR09Jejl5STdNdWRGNnE2NDNsZnd4dVBMOUxTSFBiMTcxSGNkbjhnQXFOY1d1QkxubThXWFBGTkhaWDlwVFJNcEkxYlVGSlMwcnhqalJsUzJsSlYzT2tCekU4XzRoZ2VxNDRQZGk3NUNqeVJFVzBGYmhUeVZSQnJXTk8wWVZGNGJnNUVqVWNrdGUtOFJMbDFHOWM3cnB3RjVOd2dXZ1pQcGZMNjlETmJZYy1Oc3NmVTJBS1NZZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -2702,6 +2702,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Update: US Treasury Yields Head Lower Amid Mixed Job Openings, Softening Demand at Government Auctions",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5DUUJ2eTZvRmpVZXMxTE5jTnZ6LUpPRlZ6N01VZGRESWc1NWtZS2llenJPZVNVWFctc0w3VHFYVjQtUTNQSEdLaVVVeDBtc24wSTRHNTItcl9Ibk85S1VaNnBTcVJ2eC0xN2hOb0pFa2pLV3FmTnRoUGFjeDJ6d1laa01kSEUxWjBPdXFnMkt5SFc0aU43UGVR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T195107Z",
+      "date_et": "2026-09-29",
+      "time_et": "15:51",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "ADP jobs data, GDP, core PCE, and oil inventories due Wednesday",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2FhTnBXNDJud3hGZnhURktOSWhsdlh3YVl6Mm5xcUg4Tm5Bc0JhZDhMQUhVbTZnSGM5SGxJdTF1MFZrQzI0MHJlRV9fVVZEZ0JWT2JFQjVBTVhkZlZ1dkdmM09TYlRJenFhUlVzNzhDOHd2OXBoTGxyWkw0M01mV2ZOekRCdEJrdUJrcUtER0ItQnp3UTFkQW1VaXlpaUt3WjRDbGtoQzctMTZVUWF0WEVLLV9lOVpFMzkwRXVn?oc=5",
       "domain": "Investing.com Nigeria",
@@ -2893,21 +2908,6 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Update: US Treasury Yields Head Lower Amid Mixed Job Openings, Softening Demand at Government Auctions",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5DUUJ2eTZvRmpVZXMxTE5jTnZ6LUpPRlZ6N01VZGRESWc1NWtZS2llenJPZVNVWFctc0w3VHFYVjQtUTNQSEdLaVVVeDBtc24wSTRHNTItcl9Ibk85S1VaNnBTcVJ2eC0xN2hOb0pFa2pLV3FmTnRoUGFjeDJ6d1laa01kSEUxWjBPdXFnMkt5SFc0aU43UGVR?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T070000Z",
-      "date_et": "2026-09-29",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
