@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:27:41.938Z",
+  "generated_at": "2026-10-10T06:33:03.277Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -104,6 +104,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. consumer sentiment inches lower in October, UMich survey shows",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN01xcXhPNGM2XzNRazdDRG9QdWxDMkV6STFxT1JaX2RBeVdRcnNMWVFZMjBaV0JhMV9qSkl5OWVMTjZmSlUydVUzZU52Uzk0VzhJWEVEQXlLTW1SRHdfaDM0NGRrN0ZYN05xcjNKUEI4MGhuRG5VTkhyckdtTEhTbVdHVW1ER3pHMDVvdXZiTW92eV8wU2c?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261009T145631Z",
+      "date_et": "2026-10-09",
+      "time_et": "10:56",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
