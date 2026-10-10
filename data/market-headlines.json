@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:25:41.710Z",
+  "generated_at": "2026-10-10T18:29:53.744Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -344,6 +344,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims dip unexpectedly to 197,000",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2V4c3poT3NtMWI0Ukxlb1I4bU9LQ09haWoxM1dCMDV2dURzVW1ILTJwMUZEUWlxOGRoN3dRdlk1TnhHUEptaHEwbkl6blo2TmVMUW53akJkSnBQYi1Qa2RGYlllMnlNa1huWnZyU05Ibjk0aTVPSF9IV3h3QkNKdXJCUk5pQndzWW5MMV9YS2RLLWV2WTlJ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T143327Z",
+      "date_et": "2026-10-08",
+      "time_et": "10:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
