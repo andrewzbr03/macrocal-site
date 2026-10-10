@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:29:53.744Z",
+  "generated_at": "2026-10-10T19:26:19.779Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -917,21 +917,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US job growth undershoots expectations in September, but labor market remains stable",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261002T184157Z",
-      "date_et": "2026-10-02",
-      "time_et": "14:41",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Cyprus retail sales growth eases to 7.0%",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlJfWlZYWkdFbFZxNUZzUmQydUJBTTh3MTd6Q2hXTFhhaGlnMHZlOHNWbXBORzdSa1B3TlhsU0ZGX095TTJVX1N6SGxuNEgxQnZWSHhGRGZyR0Z6S04td1Jnb1ZwMFAtRnN0WDg1a3dMYWhPYVROakxURnZ3aTdBdTZxVjhzbEhUZG5JRHRmNW5mOFU2?oc=5",
       "domain": "Yahoo Finance",
@@ -1382,6 +1367,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US job growth undershoots expectations in September, but labor market remains stable",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Here Are the Key Takeaways From the US Jobs Report for September",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUt0UkduNVA4d2Fja0tBdEdlajZscXhDTHRLMlY2WGxCR1Z1ZUE1cTlMWXdGemQ0T0loa3Z3dDZhVGV3U3FNN1R6ZjFWX0xETWlicmtiakhvQTZMZVpMcFdEVkJHN1NFcjlHMDBTejk2a0UwdGEyUUtoZ3J3UzRjVU9ndEJid1k0MFI4eU1EeklQaDNCLWczRGVEajh6MHY0RjdtUGYxbVJub3Y0a21vZ1JJb21nMlhD?oc=5",
       "domain": "Bloomberg.com",
@@ -1442,6 +1442,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US job growth expected to slow in September; unemployment rate likely steady",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTZJa2EyZ181amxFRGo2WHhlcUNtZkxiSmlPOTJDNUpKSk9GSUFCa3owbGZPMUt1QkxoOGVUNlBTSkpreklRWC1GNzRmXzNWeHJEalVvSk5KWWpPbWRQUTdPcFlqQUZaVVVncXdKd25aSVVCeENaYllPOC1qQ0tqeHJ2dlJyYkhKdDVvMS1fUGpTQXBhQUpCbW1wVU5lMEJkVmF3REZ2MUxiZU00c3otR3hndUwzNF9OUmZTS2dMWXVlbDl1a2c?oc=5",
       "domain": "Investing.com",
@@ -1453,21 +1468,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US job growth expected to slow in September; unemployment rate likely steady",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261002T041217Z",
-      "date_et": "2026-10-02",
-      "time_et": "00:12",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
