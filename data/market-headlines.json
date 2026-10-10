@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:26:44.750Z",
+  "generated_at": "2026-10-10T11:26:14.437Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -2867,21 +2867,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Consumer Confidence Plunges to Lowest Level Since 2014",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMklEaXpfRldVcDRCTDRWOGx3VDBkSXRvcFI1bjVEaDlHSGViRmFGZGJMek5EQU9sblRzdWZ6ZGE4VFRrLXlrLVJ1WENPR3RtRDUxMERQRGNYVVRqWnFFX0pDWkVSb0U3azZINEZ4bzJHbUtxSl9LVVdnWXRNdGVvTWRtUGxVZEJKeUhHS0k5eHJLRWZsMVZiXzZmaW9DaFNTQjhJTnFYUFhSRFB3?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260929T145526Z",
-      "date_et": "2026-09-29",
-      "time_et": "10:55",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US consumer confidence index unexpectedly slumps in September",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXgwa0M5clVDLXFvMGVJY21nU3RwNF9ra2RaZWNyUzBSNTJHbXpOTUF4VDFZT3l5RjAxV3BmMU9zb19sV3dmN1Z1ZGR3bTJDYU9XUzNYRGJ6V0V3ZDMxYjBUOFRRM2UxeHQ4ME1lNUtTRHhKUFZISm93UWx6V1o1OEhnS0N2akxGOHAxRXZxZG9Td2VmbjBDWFJfcHBVaGVV?oc=5",
       "domain": "Yahoo Finance",
@@ -2921,6 +2906,21 @@
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Consumer Confidence Plunges to Lowest Level Since 2014",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMklEaXpfRldVcDRCTDRWOGx3VDBkSXRvcFI1bjVEaDlHSGViRmFGZGJMek5EQU9sblRzdWZ6ZGE4VFRrLXlrLVJ1WENPR3RtRDUxMERQRGNYVVRqWnFFX0pDWkVSb0U3azZINEZ4bzJHbUtxSl9LVVdnWXRNdGVvTWRtUGxVZEJKeUhHS0k5eHJLRWZsMVZiXzZmaW9DaFNTQjhJTnFYUFhSRFB3?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Bloomberg.com",
       "link_type": "google_news",
