@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:26:49.767Z",
+  "generated_at": "2026-10-10T16:26:45.098Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -2867,21 +2867,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US consumer confidence index unexpectedly slumps in September",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXgwa0M5clVDLXFvMGVJY21nU3RwNF9ra2RaZWNyUzBSNTJHbXpOTUF4VDFZT3l5RjAxV3BmMU9zb19sV3dmN1Z1ZGR3bTJDYU9XUzNYRGJ6V0V3ZDMxYjBUOFRRM2UxeHQ4ME1lNUtTRHhKUFZISm93UWx6V1o1OEhnS0N2akxGOHAxRXZxZG9Td2VmbjBDWFJfcHBVaGVV?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T144829Z",
-      "date_et": "2026-09-29",
-      "time_et": "10:48",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings slid to 7.1 million in August but labor market remains resilient despite high energy costs",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeE56RGFkNVFiV3Y0RHlSd09EVVYwRjQ0U1dZZnUydDc5Y080TW9hT2o2ZmZzeU5VTThwWW40Rl8zZ1dleXg4eWtHclFZSWZMWjFVaF9tR0xkcUQzbFdEbmpEMElUNkZZdzRMUlB0UnpRdVZKTDlLNlU0dVZ4dmlWUk9DUFk5dFE?oc=5",
       "domain": "Yahoo Finance",
@@ -2908,6 +2893,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer confidence index unexpectedly slumps in September",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXgwa0M5clVDLXFvMGVJY21nU3RwNF9ra2RaZWNyUzBSNTJHbXpOTUF4VDFZT3l5RjAxV3BmMU9zb19sV3dmN1Z1ZGR3bTJDYU9XUzNYRGJ6V0V3ZDMxYjBUOFRRM2UxeHQ4ME1lNUtTRHhKUFZISm93UWx6V1o1OEhnS0N2akxGOHAxRXZxZG9Td2VmbjBDWFJfcHBVaGVV?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
