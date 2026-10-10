@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:28:12.966Z",
+  "generated_at": "2026-10-10T09:27:28.178Z",
   "articles": [
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
@@ -268,6 +268,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer sentiment and CFTC positioning data due Friday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1dESTFLd0Z6YVdObXoyZDRub0cwSzhsT2QxYkN1ZEpWSHV4MmtnNy1zQU5QTVVlZXd0Zm9UblhmTmVqVXE1Z25xVldHZDByaXJwX2RaWm1UbjV5aTVvVUVHUWc2cGI3dTRibmM5V1dUMVZNTjloTlMtd1RWUXZwT3c0cjZrQVhJZTNKdzg3N1U2cWNkeXBZS1dNMDNsT1VXOXYyeDVyOG53bVowWGRWdmlsbU1MWnc?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20261008T181432Z",
+      "date_et": "2026-10-08",
+      "time_et": "14:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1952,21 +1967,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHItMEI0VmMzWjl0SVlBZUplMXgxYVVvRjRoUVhHd0p5OUZVQlNzWGZkM1kwR2ZfT3NGVS04aTdOZkxYd3NtRWxpOTg4NWNQVmdZZWVmdXVYMDRrS05hNW9wVVNFX0EtQTRvY25WcnhVSXMtUERtUUFxb1AzVWNudzBtRmZkeFg3ZlRvNzYxemRBVlpUemNwcGNXRmcxeVpHckxNeElyNHhGb3lMYVNDcEMxdw?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260930T205114Z",
-      "date_et": "2026-09-30",
-      "time_et": "16:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
       "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2162,21 +2162,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Weak PCE inflation eases pressure for Fed rate increases",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROS1mdXd6RlVHTmRiUzYzRXpzOW5lcnZZb19QbnJWbFVaY0c2MG01aUdUS2hmWm15MVpFeVlZT1JSeVUtUDE3V1UtQnRBbzdkWGUwLUhrb09BbTQxczR2NHFyR0dBck5oeVJmams0TF8?oc=5",
-      "domain": "Financial Times",
-      "seendate": "20260930T142457Z",
-      "date_et": "2026-09-30",
-      "time_et": "10:24",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Financial Times",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US second-quarter GDP revised higher amid robust consumer spending By Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpGVHFjX01YakpEVnltWmlqU2lmbW9reFVYcGNhY1BSN24tOTBLSThtWkhVclJqRW9DcDFONmc3TFR6TkdUc243cHVlaGx2dnBld3NldS1aY2JWbk14aXZNLTNJZDZvVVJOcmlyZ2dycHdsWWZzUm9KMDctTFhXYXZwV09QU0dkeXc3RlZKbUFIZlZvd1RTRjYxR1JXT2tCcmNCN3BXNDJGNEdHRWNKakRpdWw1RWVj?oc=5",
       "domain": "Investing.com",
@@ -2267,21 +2252,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "It’s Inflation Day and the Stock Market Is on Edge",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDJERVprQi1rdTJicVU5MGNTLWZJYkt5cEJCazJ6aEYya1hGTS1mNDI1dGowRUlWTFBGRWpGaHhxZUFiLTVFQ0RGN1lHWnVNWHNreTFqYWVWTTJET0VpOU54RVBTR29iRXgwNWdVTFFmZDRNUzRPdkttSWplSUNVbjhtNzg3a0N5aTRhclQ5MkM4TWRBT2ZFZ1lvQ1A?oc=5",
-      "domain": "Barron's",
-      "seendate": "20260930T115300Z",
-      "date_et": "2026-09-30",
-      "time_et": "07:53",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Barron's",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Dow futures rise as August PCE inflation cools",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0k4TlNPUjV5b1RUR09LcHZ1NDFRanFLUmhHa0ZqUXA4NElTa2ZnRDRyWnlWUWhsNzBCeGNSZ0JKeDVlMENDWl8yTWVKeEJRdnMwMDZGanczWlI2NEM2T2FPZ2xVZUJUNndfcnIzYUo4SktTZHNKQkZOZENrb2VxUk9MU3lqZlRjcFB4a2c4VDN6TkpHSXMtUw?oc=5",
       "domain": "Yahoo Finance",
@@ -2368,6 +2338,51 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHItMEI0VmMzWjl0SVlBZUplMXgxYVVvRjRoUVhHd0p5OUZVQlNzWGZkM1kwR2ZfT3NGVS04aTdOZkxYd3NtRWxpOTg4NWNQVmdZZWVmdXVYMDRrS05hNW9wVVNFX0EtQTRvY25WcnhVSXMtUERtUUFxb1AzVWNudzBtRmZkeFg3ZlRvNzYxemRBVlpUemNwcGNXRmcxeVpHckxNeElyNHhGb3lMYVNDcEMxdw?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Weak PCE inflation eases pressure for Fed rate increases",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROS1mdXd6RlVHTmRiUzYzRXpzOW5lcnZZb19QbnJWbFVaY0c2MG01aUdUS2hmWm15MVpFeVlZT1JSeVUtUDE3V1UtQnRBbzdkWGUwLUhrb09BbTQxczR2NHFyR0dBck5oeVJmams0TF8?oc=5",
+      "domain": "Financial Times",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Financial Times",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "It’s Inflation Day and the Stock Market Is on Edge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDJERVprQi1rdTJicVU5MGNTLWZJYkt5cEJCazJ6aEYya1hGTS1mNDI1dGowRUlWTFBGRWpGaHhxZUFiLTVFQ0RGN1lHWnVNWHNreTFqYWVWTTJET0VpOU54RVBTR29iRXgwNWdVTFFmZDRNUzRPdkttSWplSUNVbjhtNzg3a0N5aTRhclQ5MkM4TWRBT2ZFZ1lvQ1A?oc=5",
+      "domain": "Barron's",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Barron's",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2702,21 +2717,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Update: US Treasury Yields Head Lower Amid Mixed Job Openings, Softening Demand at Government Auctions",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5DUUJ2eTZvRmpVZXMxTE5jTnZ6LUpPRlZ6N01VZGRESWc1NWtZS2llenJPZVNVWFctc0w3VHFYVjQtUTNQSEdLaVVVeDBtc24wSTRHNTItcl9Ibk85S1VaNnBTcVJ2eC0xN2hOb0pFa2pLV3FmTnRoUGFjeDJ6d1laa01kSEUxWjBPdXFnMkt5SFc0aU43UGVR?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260929T195107Z",
-      "date_et": "2026-09-29",
-      "time_et": "15:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "ADP jobs data, GDP, core PCE, and oil inventories due Wednesday",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2FhTnBXNDJud3hGZnhURktOSWhsdlh3YVl6Mm5xcUg4Tm5Bc0JhZDhMQUhVbTZnSGM5SGxJdTF1MFZrQzI0MHJlRV9fVVZEZ0JWT2JFQjVBTVhkZlZ1dkdmM09TYlRJenFhUlVzNzhDOHd2OXBoTGxyWkw0M01mV2ZOekRCdEJrdUJrcUtER0ItQnp3UTFkQW1VaXlpaUt3WjRDbGtoQzctMTZVUWF0WEVLLV9lOVpFMzkwRXVn?oc=5",
       "domain": "Investing.com Nigeria",
@@ -2908,6 +2908,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Update: US Treasury Yields Head Lower Amid Mixed Job Openings, Softening Demand at Government Auctions",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5DUUJ2eTZvRmpVZXMxTE5jTnZ6LUpPRlZ6N01VZGRESWc1NWtZS2llenJPZVNVWFctc0w3VHFYVjQtUTNQSEdLaVVVeDBtc24wSTRHNTItcl9Ibk85S1VaNnBTcVJ2eC0xN2hOb0pFa2pLV3FmTnRoUGFjeDJ6d1laa01kSEUxWjBPdXFnMkt5SFc0aU43UGVR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
