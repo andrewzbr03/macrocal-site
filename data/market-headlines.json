@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:28:15.568Z",
+  "generated_at": "2026-10-11T17:27:11.753Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -1037,21 +1037,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Factory orders remain flat, meeting expectations",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkZRQUpmZmx3c3hieEx2M2d1OFdHSnNLVjRQS0pzUTJOYmdMaFZOZzEtd1R2QXhnNGZ0aHVteUUzWl81eF81TnFvSU5PZnZQbnFoR1hDV1FQSGJzbng1UEk5MkdyRmIxYkdVeWtqNEtaVVg2dHM4T2RmS0RxZURJR2wxT0JhZ20yWmZYQkptVU9GbmM3TUtwaHZ4cFpqN0JyaWdnNEl6ZkZJMTktaE13YQ?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261002T140235Z",
-      "date_et": "2026-10-02",
-      "time_et": "10:02",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Stock Market Today (Oct. 2, 2026): Dow rises after key jobs report",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLU1ObVd4VVlRaTk0d213ak5yYUZxcW5PZUdKNzNqcjk4Q3ZUY0MyRXpVa1VXVnVsdUd2SFZScThTQ0doR0JMSXAwY1FWRHJFbGtQS0dsLV91cjJQTmZjTTVfM0NmelA4M1RkUXNrQ3pWbzVmVXZDUVdvVDZFYUV5R21jOHQzLWZIbHI4eFhBcTVSNFk?oc=5",
       "domain": "Yahoo Finance",
@@ -1348,6 +1333,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Factory orders remain flat, meeting expectations",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkZRQUpmZmx3c3hieEx2M2d1OFdHSnNLVjRQS0pzUTJOYmdMaFZOZzEtd1R2QXhnNGZ0aHVteUUzWl81eF81TnFvSU5PZnZQbnFoR1hDV1FQSGJzbng1UEk5MkdyRmIxYkdVeWtqNEtaVVg2dHM4T2RmS0RxZURJR2wxT0JhZ20yWmZYQkptVU9GbmM3TUtwaHZ4cFpqN0JyaWdnNEl6ZkZJMTktaE13YQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2763,21 +2763,6 @@
     },
     {
       "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSk9BNEFsYlRqa0ZHb2VVTGVXemFFQTJNbC1IM3o5UWdiYkNzS2xjekhBeFBwSFJJb05TVWF3RHBTLXZfZHpmNW9MbTBkcEx4Z1FkUEozQ1pqbktIX1ptd3RfYkdGN1NmTzY2UHlFUV9DM0JGRElhZTU3bk90OFk?oc=5",
-      "domain": "Yahoo Finance UK",
-      "seendate": "20260930T044400Z",
-      "date_et": "2026-09-30",
-      "time_et": "00:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFJfY25xZ1BtbUY4eVhWOFFDeFo5MHlpaHhuS3hxXzQ5UENxS19GV2hZNEZFV011ZlNSRE0wQjNLNVRENVhIT0kzUllXUU4xenNfVWY5azZIZzBuaVVnQmZnUnRDV0YwSk5maWVuVnJraEkwamRpb0R2Njh5dE5ialA0OHp3MFJXSG5jcXUxTFd2VTNOdm9pZFg5MVlGNk5BY2dmZzNyMjlFMXczNUpCd1lQN200SzktYzNxX2FVdw?oc=5",
       "domain": "Investing.com India",
       "seendate": "20260930T041637Z",
@@ -2983,6 +2968,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSk9BNEFsYlRqa0ZHb2VVTGVXemFFQTJNbC1IM3o5UWdiYkNzS2xjekhBeFBwSFJJb05TVWF3RHBTLXZfZHpmNW9MbTBkcEx4Z1FkUEozQ1pqbktIX1ptd3RfYkdGN1NmTzY2UHlFUV9DM0JGRElhZTU3bk90OFk?oc=5",
+      "domain": "Yahoo Finance UK",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4740,21 +4740,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Housing Starts Slide as Multifamily Projects Plunge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdll2Qk5DS3hhV2tlekhzSXMxNGFiZm9fQlFRSEt1Z0h6VmFOSVZwajJVaGhONXc1Nnh3NGRYNmZQZ2FWcjJ2R2kyMF82WmJLSHRGMGVGVE5OcUt6bkdDQ0lJT1l5V2RhY2JBQXVFaFdILUJUeFduZnEyTF9yODdVNW82Yy1xSTdJREUtVjNTYkNfTk1nZEg4dFk3M1VMZw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260918T070000Z",
-      "date_et": "2026-09-18",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
       "domain": "Reuters",
@@ -4839,6 +4824,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Housing Starts Slide as Multifamily Projects Plunge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdll2Qk5DS3hhV2tlekhzSXMxNGFiZm9fQlFRSEt1Z0h6VmFOSVZwajJVaGhONXc1Nnh3NGRYNmZQZ2FWcjJ2R2kyMF82WmJLSHRGMGVGVE5OcUt6bkdDQ0lJT1l5V2RhY2JBQXVFaFdILUJUeFduZnEyTF9yODdVNW82Yy1xSTdJREUtVjNTYkNfTk1nZEg4dFk3M1VMZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260917T070000Z",
+      "date_et": "2026-09-17",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
