@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:27:39.612Z",
+  "generated_at": "2026-10-11T02:27:54.413Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -1052,21 +1052,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "September's jobs report misses: US added just 29,000 jobs, unemployment ticked up",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261002T134134Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:41",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "The jobs report 'definitely' puts the Fed on hold for October: Mohamed El-Erian explains",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHFBa1lycENyb1YweWRQSmdsLVFVQWppQjdyWExSZkM1SWtaVkF2UEZSM3UzcFBETXhKQkhSU1F2Y21OYTF3MWdGSGxkMTE5Vm9PVW1BQ1ZGRnZWUF9XRGVpV0d1TjNna3FNbXgyVmRrZzRJQnlXWE1PRFhEMkNJU3pUeVA?oc=5",
       "domain": "Yahoo Finance",
@@ -1348,6 +1333,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September's jobs report misses: US added just 29,000 jobs, unemployment ticked up",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGlTVU4zMkVqbk03bEVYXzJKc3hJTndLVWZjdFl0ZUFCTHg2cEgtYWNlWlRIOWgyUGRqME00b3Q4NThmREJkR0RsUURLQlpDbC1lQUxxTmVqSGlpTGd4VXB3Xy12bGtoX2FFdUI1aThGbm1Od0FpaGFIZ0tqbnlsTlF2SUZqZVJoVWM4dldsZW4xRm1ISWxzU2xBVTZjN2dmNjNBZzhXR24xNTNVRXNsejhmaWhYcXBqUFcxM2JtQWJreGtxRHUxTFA0cHFld3NPVHYwMXVzNXE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
