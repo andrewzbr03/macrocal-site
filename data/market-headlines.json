@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:28:07.339Z",
+  "generated_at": "2026-10-11T23:26:54.963Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -523,6 +523,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "State Spotlight: Consumer Spending Increased in All States in 2025",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1hIdlVGZXRZOXdIbmcwWkx4MkFlSGxzcXd3ekxRS0RGWVVNVXFPY1dNbXM1UzhucjNfcU5oeFFYcmtxMXBEbWlLcmkxci1MTGJxem5IeVluTDVodXoybnI2XzdscFJSTXVMNmo5Ty1EXzVyUzlqem9wVWZkbDRheHU2WEpIbnY1TG4yblRLQi1aTWw5a3k2d3BZNUc0VmVpWUE?oc=5",
+      "domain": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
+      "seendate": "20261007T155403Z",
+      "date_et": "2026-10-07",
+      "time_et": "11:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
