@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:33:54.225Z",
+  "generated_at": "2026-10-11T07:29:14.906Z",
   "articles": [
     {
       "title": "The 10-Year Treasury Yield Just Broke a Record That Stood Since 2007",
@@ -2703,21 +2703,6 @@
     },
     {
       "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSk9BNEFsYlRqa0ZHb2VVTGVXemFFQTJNbC1IM3o5UWdiYkNzS2xjekhBeFBwSFJJb05TVWF3RHBTLXZfZHpmNW9MbTBkcEx4Z1FkUEozQ1pqbktIX1ptd3RfYkdGN1NmTzY2UHlFUV9DM0JGRElhZTU3bk90OFk?oc=5",
-      "domain": "Yahoo Finance UK",
-      "seendate": "20260930T044400Z",
-      "date_et": "2026-09-30",
-      "time_et": "00:44",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFJfY25xZ1BtbUY4eVhWOFFDeFo5MHlpaHhuS3hxXzQ5UENxS19GV2hZNEZFV011ZlNSRE0wQjNLNVRENVhIT0kzUllXUU4xenNfVWY5azZIZzBuaVVnQmZnUnRDV0YwSk5maWVuVnJraEkwamRpb0R2Njh5dE5ialA0OHp3MFJXSG5jcXUxTFd2VTNOdm9pZFg5MVlGNk5BY2dmZzNyMjlFMXczNUpCd1lQN200SzktYzNxX2FVdw?oc=5",
       "domain": "Investing.com India",
       "seendate": "20260930T041637Z",
@@ -2923,6 +2908,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSk9BNEFsYlRqa0ZHb2VVTGVXemFFQTJNbC1IM3o5UWdiYkNzS2xjekhBeFBwSFJJb05TVWF3RHBTLXZfZHpmNW9MbTBkcEx4Z1FkUEozQ1pqbktIX1ptd3RfYkdGN1NmTzY2UHlFUV9DM0JGRElhZTU3bk90OFk?oc=5",
+      "domain": "Yahoo Finance UK",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
