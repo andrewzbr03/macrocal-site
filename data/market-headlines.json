@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-12T11:32:20.763Z",
+  "generated_at": "2026-10-12T12:50:40.650Z",
   "articles": [
+    {
+      "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
+      "url": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261012T113000Z",
+      "date_et": "2026-10-12",
+      "time_et": "07:30",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Turkey's retail sales growth accelerates slightly in August",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDlwOFBTZm5aeEpNN0tHU1pzekVHQ3ZfZ0pmc1pUaUNPazVlLVhKbjRjbGJEZjBRVnNZRzNnV0JzczVJOFhuQ05PTXN3MEpsZktoeGp5OExxUlE3aDduOXN1Nk5jUklTSkpwQU9lTG9jbUN0ZjItbXRqMjc2ZTU5c29NSms0TUx0ODBEb0RXZmJqMkg3SmtuYTg1ZFdOQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261012T111831Z",
+      "date_et": "2026-10-12",
+      "time_et": "07:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Fed officials want to hold off a rate hike this month. Will this week&#x2019;s inflation data let them?",
       "url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
@@ -902,6 +932,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "September jobs report shows slower-than-expected growth",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTI0MFNOdy1CaGJVTjJVMExFUm5RNEV1WkN2eFVZV1Fxc0VnY2xVSVJQamF6Q0I3VWphbmtUb2tVX3hWN2daVjU1VG5zRHc0WnlKT0pieGRKZGNHSF84ODdlYXVnVG5EeGRJNHRBX0xLMW1VSGFmSHdVNGtiUFROblM0WTMtYl9EbmFDZjJrNWxyMFNtV3d6c1lNd3JFREc0?oc=5",
+      "domain": "CBS News",
+      "seendate": "20261003T070000Z",
+      "date_et": "2026-10-03",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CBS News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Watch Stocks Rise As Jobs Report Eases Fed-Hike Worries",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qNFZITVI0OFlydTlzYlE1RXhBUVhYSDNvMTRtYVRtQnZULU4waFVuYXVFa093QlhTd3NjUi1JQVFuVHhidjctaWg0bHdjX2hoQzF4dzlVSWJVTHhmTVA4d2lKWTNsUTRCaURvVmROX05acGtqMm1telV0XzBvbVk?oc=5",
       "domain": "Bloomberg.com",
@@ -913,21 +958,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "September jobs report shows slower-than-expected growth",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTI0MFNOdy1CaGJVTjJVMExFUm5RNEV1WkN2eFVZV1Fxc0VnY2xVSVJQamF6Q0I3VWphbmtUb2tVX3hWN2daVjU1VG5zRHc0WnlKT0pieGRKZGNHSF84ODdlYXVnVG5EeGRJNHRBX0xLMW1VSGFmSHdVNGtiUFROblM0WTMtYl9EbmFDZjJrNWxyMFNtV3d6c1lNd3JFREc0?oc=5",
-      "domain": "CBS News",
-      "seendate": "20261002T235600Z",
-      "date_et": "2026-10-02",
-      "time_et": "19:56",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CBS News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1157,21 +1187,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Weak September jobs report likely to keep Fed on hold for October, with focus still on inflation",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTEtpMlZ4TXdIV2lYTS1adTNESkVBZTZrOTZiTDRZcTVTemtmb29UTWFPOXhnQWNwdHI0V3BoS21CSm9vQVMtX2k2YUh2Q2xNd3lReWlBN21VN1ZOTXlmR2dyN3NqTGxDS25QeEo3U2VVaWF1cmY1RFhGcnFHd202ZFBqN0Y3cEZWZ0k0S012THVyZFdLUkJ5UXcwWmVvOC1JUjJMbWlJQm9VSjRVMk1mTVJjRkdibENwdU54MV9rTjBCcUctcTdnNElPOHRkaFUtT3BOcmZ0a2p2TkhSY0VsZ1hJak1UQURsUFpmSVRTZXI?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261002T132523Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:25",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Wall St set to open higher as jobs data dampens rate hike odds, yields fall",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
       "domain": "Reuters",
@@ -1348,6 +1363,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Weak September jobs report likely to keep Fed on hold for October, with focus still on inflation",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTEtpMlZ4TXdIV2lYTS1adTNESkVBZTZrOTZiTDRZcTVTemtmb29UTWFPOXhnQWNwdHI0V3BoS21CSm9vQVMtX2k2YUh2Q2xNd3lReWlBN21VN1ZOTXlmR2dyN3NqTGxDS25QeEo3U2VVaWF1cmY1RFhGcnFHd202ZFBqN0Y3cEZWZ0k0S012THVyZFdLUkJ5UXcwWmVvOC1JUjJMbWlJQm9VSjRVMk1mTVJjRkdibENwdU54MV9rTjBCcUctcTdnNElPOHRkaFUtT3BOcmZ0a2p2TkhSY0VsZ1hJak1UQURsUFpmSVRTZXI?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1558,6 +1588,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The jobs report 'definitely' puts the Fed on hold for October: Mohamed El-Erian explains",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQW43cVdJMnlxbzFBN251aDNrU0dRejBMQlNxbGI3RUZ0UXE3VlRwdTFjZnZndHBpMDd3SThNRlphTlh2NkRWLXhsQjdCbWJfMGVRbjNmLXdWbEpmeFVRbEktV0lISkczTWdNcERHTGQ0V05VZUd6NzhkRnNLSm1FYnFfWFJJdFFPVzFmYmw2QVRpaWZaUDVxUl9weno2WG9ZTC1CSXFSZ0poUlo4U0RKWFZlU2htRy1xNk1qbDU3TnpWNWJYVjVwQVFYZ0s?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
