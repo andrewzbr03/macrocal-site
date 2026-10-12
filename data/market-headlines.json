@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:31:12.744Z",
+  "generated_at": "2026-10-12T18:34:19.003Z",
   "articles": [
     {
       "title": "U.S. stocks open mixed amid small moves ahead of bank earnings, CPI this week By Investing.com",
@@ -808,6 +808,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "4 Stocks to Boost Your Portfolio on Steady Growth in Factory Orders",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBuT2JzejdTVmI5YjM5anMyUkZtMWl3YzhQNzJyMHpaaV9rVzFWWlhvdEFUTkhuajRuMjhCM1h4cjJRZ240WEh2T1B2WFFfTWxDT2VQeTNDSVMtZGZyWHI2QU5hVEw0MXVSTXlIVVRSWXIwS0U4S3RiUk5zUTZCaE9aSDFQY2RpVGVjcXhiTzhxTExmWTRiZUlTb2o?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261005T111600Z",
+      "date_et": "2026-10-05",
+      "time_et": "07:16",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
