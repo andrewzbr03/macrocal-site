@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:36:24.543Z",
+  "generated_at": "2026-10-12T15:32:10.707Z",
   "articles": [
     {
       "title": "U.S. stocks open mixed amid small moves ahead of bank earnings, CPI this week By Investing.com",
@@ -1367,21 +1367,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Markets Need the Jobs Report to Point to a Fed Hold",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZwMzFNaURNeUNwenJkM0t3X1k5YVZET3NMZU5DSHU5Qng0Tk5NaU4tUE1vTnhZd3RjeWh0V3RPRFlBczZDbXYzYnZNLUQxZTBZLVphTWNyNVJ3a2dZcDBzdm50a1U2WE1YaTJYMDd4TTl3QkVjYUJ6S2ZCbHlxeQ?oc=5",
-      "domain": "Barron's",
-      "seendate": "20261002T113900Z",
-      "date_et": "2026-10-02",
-      "time_et": "07:39",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Barron's",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September’s jobs report is expected to show a labor market that’s holding steady",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSUZGYXhrN1NVNmhrLVppUVJ0elRWaVo5NWRNaHNwUzh4TWRhQ3FlaEVYdTkzaGJjTUxqRXdVTi1Xd3hobDM4a0Y2TVBWUkxQVFZyV3JiUVkyTm40dG5Hc0cwM1dHaDFqNkI3SXlna2lYc3RObm1pZzV1NW5VdEM2cUFWdzFCNlJzalBGSXdWZ1VKcEY5aU50V3Ata00yMXYwSHljX2xZSlJ4TEhMaFlfQk1oTl9selJfYW4yWGQwQjVPdTdqSXVSRnE3bUtlX0lN?oc=5",
       "domain": "Yahoo Finance",
@@ -1393,6 +1378,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Markets Need the Jobs Report to Point to a Fed Hold",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZwMzFNaURNeUNwenJkM0t3X1k5YVZET3NMZU5DSHU5Qng0Tk5NaU4tUE1vTnhZd3RjeWh0V3RPRFlBczZDbXYzYnZNLUQxZTBZLVphTWNyNVJ3a2dZcDBzdm50a1U2WE1YaTJYMDd4TTl3QkVjYUJ6S2ZCbHlxeQ?oc=5",
+      "domain": "Barron's",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Barron's",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1667,6 +1667,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Steve Moore says there is some positive data from latest jobs report",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Q1IwekdKUXc2bHgwU0o3dk41R2VpaXluOE5SajNwMm9BMjNVLWR3MjZUVXZPZkFlOTg4c2l2RlpVSHZiLV9kNFgxbjVGRjd1WTF5TEN5cXlZdlU?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTZJa2EyZ181amxFRGo2WHhlcUNtZkxiSmlPOTJDNUpKSk9GSUFCa3owbGZPMUt1QkxoOGVUNlBTSkpreklRWC1GNzRmXzNWeHJEalVvSk5KWWpPbWRQUTdPcFlqQUZaVVVncXdKd25aSVVCeENaYllPOC1qQ0tqeHJ2dlJyYkhKdDVvMS1fUGpTQXBhQUpCbW1wVU5lMEJkVmF3REZ2MUxiZU00c3otR3hndUwzNF9OUmZTS2dMWXVlbDl1a2c?oc=5",
       "domain": "Investing.com",
@@ -1798,21 +1813,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "The September jobs report will be released Friday. Here's what to expect",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBFSmhVUjIxM0VkdUtYVW9ER1JEREsyTUlmdGhQMnZCSjUzWERwQmpLSUlqd1BCTlRhUkVZZ3lYN2xaTjFhQ3BDcTZlVHcxR2ZicFMydkpCV2Z1Q2ZydHowZmhIMzFqNm91MmJ5UVdDbjdQanNmRDZ6UFhfTmVteUJqaEJqdnBVMXZ3TDFWNVVqcldvd1VZRDZHcHA0akJOWUFac0ZpM0o1ZjDSAbABQVVfeXFMTnk5QzhpaGlDdWRJT2VKOHU5V2xCRDJDb2pYcjhTdjc1RUxianJ1bi1lNldubmpsMU43Z2JaTnJEdXlZaW9QUGYyQVNjRmVKWHpwX09fbTloaXFTejlLTEpVSzJLNFBLOEplT01Rdmw3LVNwaGd0Z250dnZMaDhBZVdQeUdIeTczS1hsODVlM003MS01TkJhZ0kySUlXVUw5c0dacmd4eW1RUU1IUGZCZHo?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261001T185502Z",
-      "date_et": "2026-10-01",
-      "time_et": "14:55",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2068,6 +2068,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The September jobs report will be released Friday. Here's what to expect",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBFSmhVUjIxM0VkdUtYVW9ER1JEREsyTUlmdGhQMnZCSjUzWERwQmpLSUlqd1BCTlRhUkVZZ3lYN2xaTjFhQ3BDcTZlVHcxR2ZicFMydkpCV2Z1Q2ZydHowZmhIMzFqNm91MmJ5UVdDbjdQanNmRDZ6UFhfTmVteUJqaEJqdnBVMXZ3TDFWNVVqcldvd1VZRDZHcHA0akJOWUFac0ZpM0o1ZjDSAbABQVVfeXFMTnk5QzhpaGlDdWRJT2VKOHU5V2xCRDJDb2pYcjhTdjc1RUxianJ1bi1lNldubmpsMU43Z2JaTnJEdXlZaW9QUGYyQVNjRmVKWHpwX09fbTloaXFTejlLTEpVSzJLNFBLOEplT01Rdmw3LVNwaGd0Z250dnZMaDhBZVdQeUdIeTczS1hsODVlM003MS01TkJhZ0kySUlXVUw5c0dacmd4eW1RUU1IUGZCZHo?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
