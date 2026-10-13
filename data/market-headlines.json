@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-13T19:41:55.605Z",
+  "generated_at": "2026-10-13T20:43:46.303Z",
   "articles": [
+    {
+      "title": "How you can prepare for 6% bond yields",
+      "url": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261013T201500Z",
+      "date_et": "2026-10-13",
+      "time_et": "16:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "CPI data, Beige Book and oil inventories among economic data due Wednesday",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2tudU82UDRNdDlSYllvZFB2VFVaR0JLekFFeU5UUG5GRDNPbDZoalYwLVlJVnktMkhnTHBEdThJLVNkeEowR1RwVkVtQThJYVBCckZNbG5oRHB1c3V5eEFFSE9iTnJhaW5QWU13TnVOOV94STVFSGMzMDQ3ekVNXzlWTlVDMUlrdUotNWZ5VjdkemdFRXJZZWlPTWJTdnp1WWQ5RF9oVE5FSEtxN3ctMWJlWGVJTHZyNV9zWHh6YVpUNlJFa2ZpWkh4dVhxQnM?oc=5",
@@ -2552,21 +2567,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. GDP Growth Surpasses Expectations, Signaling Economic Resilience",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE1jRmtrQXlmZXRqbkJGMDAyM2lCRERtc3lRZnJudVBZRXdubU81SllIQ2prRmFaTHJjNHNHUXlGcndkQ0pKRDczUFBNZDNkWUs0cEhOS0VlWXpFTU1CVGZhSHM1WThsX3h1M0tEUERWT2dNaWVqNkdGT1ZyS3RDbVpGOGpmbTZGX0I5ZTJaLW5NN3dLWWxtTXlSb3c1YnFRU3ZJMTJ1Y2pmVnVyRXFVVjByWURSTFlHWi1FRDh0ekJXTHBQNFlCT1dB?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20260930T123557Z",
-      "date_et": "2026-09-30",
-      "time_et": "08:35",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Fed's favored inflation gauge cooled in August but remained elevated",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CclpMdzlOYjJfWUE1cHV3S1Nfc01ObzRkM0IydnhRdHI1YWpHVk1IampRZVF5MlBpeWM5Q3huQjBfMjAtSlVKSzF4aUgwczNHSk9PYjZoTFYzNm4wRG9nRWNCLUhaTVdSVWNydTZMb3RJRlnSAXNBVV95cUxOQnJaTHc5TmIyX1lBNXB1d0tTX3NNTm80ZDNCMnZ4UXRyNWFqR1ZNSGpqUWVReTJQaXljOUN4bkIwXzIwLUpVSksxeGlIMHMzR0pPT2I2aExWMzZuMERvZ0VjQi1IWk1XUlVjcnU2TG90SUZZ?oc=5",
       "domain": "Fox Business",
@@ -2683,6 +2683,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. GDP Growth Surpasses Expectations, Signaling Economic Resilience",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE1jRmtrQXlmZXRqbkJGMDAyM2lCRERtc3lRZnJudVBZRXdubU81SllIQ2prRmFaTHJjNHNHUXlGcndkQ0pKRDczUFBNZDNkWUs0cEhOS0VlWXpFTU1CVGZhSHM1WThsX3h1M0tEUERWT2dNaWVqNkdGT1ZyS3RDbVpGOGpmbTZGX0I5ZTJaLW5NN3dLWWxtTXlSb3c1YnFRU3ZJMTJ1Y2pmVnVyRXFVVjByWURSTFlHWi1FRDh0ekJXTHBQNFlCT1dB?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
