@@ -610,9 +610,10 @@
       "filter_id": "claims",
       "metric_id": "claims",
       "field": "actual",
-      "value": "197K",
-      "source_url": "https://www.dol.gov/ui/data.pdf",
-      "verified_at": "2026-10-01T14:59:09.483Z"
+      "value": "199K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
+      "verified_at": "2026-10-13T15:15:53.947Z",
+      "original_value": "197K"
     },
     {
       "date": "2026-10-01",
@@ -1118,6 +1119,51 @@
       "value": "1.2%",
       "source_url": "https://www.census.gov/retail/sales.html",
       "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "previous",
+      "value": "46.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:15:53.947Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "previous",
+      "value": "47.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:15:53.947Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "previous",
+      "value": "44.7",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:15:53.947Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "previous",
+      "value": "4.7%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:15:53.947Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "previous",
+      "value": "3.5%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:15:53.947Z"
     }
   ]
 }
