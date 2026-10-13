@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:28:58.451Z",
+  "generated_at": "2026-10-13T00:42:56.827Z",
   "articles": [
     {
       "title": "U.S. stocks open mixed amid small moves ahead of bank earnings, CPI this week By Investing.com",
@@ -917,21 +917,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US retail sales rise for 11th consecutive month in August, NRF reports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGdSQ0NweW83a1Nuby1ZVlFzdGRMdExlaEVfeVFpVlQ1eFNOTUo4eXdyYV9kUEtfZWUyUDZrbG5zUGg5dU1jYm5XX19Mbnp2Zks4azlpUHZWYWozbmttTVJRTzRCbkdOQjBicjZ2bE9Va1RranRoRVJlNEJJdURjMloxZ1pyYlZJZ3Uw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261003T115133Z",
-      "date_et": "2026-10-03",
-      "time_et": "07:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
       "url": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -958,6 +943,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US retail sales rise for 11th consecutive month in August, NRF reports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGdSQ0NweW83a1Nuby1ZVlFzdGRMdExlaEVfeVFpVlQ1eFNOTUo4eXdyYV9kUEtfZWUyUDZrbG5zUGg5dU1jYm5XX19Mbnp2Zks4azlpUHZWYWozbmttTVJRTzRCbkdOQjBicjZ2bE9Va1RranRoRVJlNEJJdURjMloxZ1pyYlZJZ3Uw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261003T070000Z",
+      "date_et": "2026-10-03",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1723,6 +1723,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOU1aVUFEOV9MWl9TVVdodDl4eFoyUjgxN2tLZ1QtRWYzbEUtMEpVQll0ZkhSekJFZUFVZzdNeXVqTzdUYXI3OWNMcC1YQ19XVDN2MFNTOWQzNjFLLTBDWFVvLXlWMWZRZ1R6RTRhVVRuS0dkZnJBMTd2dWhGV2hPdUg0b3hJQkZncFhCMnljc2lwYmw3TFE?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
