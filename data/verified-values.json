@@ -757,6 +757,367 @@
       "value": "47.8",
       "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
       "verified_at": "2026-10-05T18:13:58.931Z"
+    },
+    {
+      "date": "2026-10-08",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "actual",
+      "value": "197K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-08",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "forecast",
+      "value": "200K",
+      "source_url": "https://ph.investing.com/economic-calendar/initial-jobless-claims-294",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-08",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "199K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
+      "verified_at": "2026-10-13T15:12:32.582Z",
+      "original_value": "197K"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "actual",
+      "value": "46.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "forecast",
+      "value": "47.5",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "previous",
+      "value": "48.1",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "actual",
+      "value": "47.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "forecast",
+      "value": "45.9",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "previous",
+      "value": "46.3",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "actual",
+      "value": "44.7",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "forecast",
+      "value": "50.5",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "previous",
+      "value": "50.9",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "actual",
+      "value": "4.7%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "forecast",
+      "value": "4.8%",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "previous",
+      "value": "4.6%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "actual",
+      "value": "3.5%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "forecast",
+      "value": "3.5%",
+      "source_url": "https://www.investing.com/economic-calendar/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-09",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "previous",
+      "value": "3.4%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_mom",
+      "field": "forecast",
+      "value": "0.2%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.3%",
+      "source_url": "https://www.bls.gov/news.release/cpi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_yoy",
+      "field": "forecast",
+      "value": "2.5%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "2.4%",
+      "source_url": "https://www.bls.gov/news.release/cpi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_mom",
+      "field": "forecast",
+      "value": "0.6%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.4%",
+      "source_url": "https://www.bls.gov/news.release/cpi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_yoy",
+      "field": "forecast",
+      "value": "3.6%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "3.4%",
+      "source_url": "https://www.bls.gov/news.release/cpi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "forecast",
+      "value": "195K",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "197K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_mom",
+      "field": "forecast",
+      "value": "0.3%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.2%",
+      "source_url": "https://www.bls.gov/news.release/ppi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_mom",
+      "field": "forecast",
+      "value": "0.5%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.4%",
+      "source_url": "https://www.bls.gov/news.release/ppi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_yoy",
+      "field": "forecast",
+      "value": "4.4%",
+      "source_url": "https://www.barrons.com/articles/wells-fargo-bank-of-america-dominos-johnson-johnson-stocks-inflation-83603e70",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "4.6%",
+      "source_url": "https://www.bls.gov/news.release/ppi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_yoy",
+      "field": "forecast",
+      "value": "5.3%",
+      "source_url": "https://www.barrons.com/articles/wells-fargo-bank-of-america-dominos-johnson-johnson-stocks-inflation-83603e70",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "5.4%",
+      "source_url": "https://www.bls.gov/news.release/ppi.htm",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "core",
+      "field": "forecast",
+      "value": "0.5%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "core",
+      "field": "previous",
+      "value": "1.4%",
+      "source_url": "https://www.investing.com/economic-calendar/core-retail-sales-63",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "headline",
+      "field": "forecast",
+      "value": "0.3%",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "verified_at": "2026-10-13T15:12:32.582Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "1.2%",
+      "source_url": "https://www.census.gov/retail/sales.html",
+      "verified_at": "2026-10-13T15:12:32.582Z"
     }
   ]
 }
