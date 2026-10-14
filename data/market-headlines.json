@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:37:11.104Z",
+  "generated_at": "2026-10-14T00:51:54.094Z",
   "articles": [
     {
       "title": "How you can prepare for 6% bond yields",
@@ -28,6 +28,36 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "CPI data, Beige Book and oil inventories among economic data due Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkt2M21yeTF3d3pJZ01wNURFa2x0U211RVRQZHpHX1R4SWJTUFFCNWhfTk5zUUZwZ1BDd0xZbDMtd1JVYUlieGxWazRKaHRrWjNpYXd3Y3J0WEp0UktwLXlsWG55ZURCX2hVWXNzZ0NRTGdjQ1JIM0dPdDlBM1d0Y282VmNnR1Y3OUxNajIzS09JRmJnQmxGMlNmdXFQX3M5TmlDQUxNekVFOE5CdGhEZ3JUOWxySFFaejNCTXJiQm1aOFNWajJham42TS0tOHM?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20261013T180603Z",
+      "date_et": "2026-10-13",
+      "time_et": "14:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The latest inflation data is expected to show price increases are accelerating",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS0xHWG5UZnF5VlRIVTJ6Q3pNSUt1WFgtc01hWjRreTVQWjRUYlpCUk5zRmRLamdJLXFLa0tWV0hfTUNzeU8wOS1sTmMzNEZ2QTJ5NURHVEtyaURLRm9WOGpLZjB3STlQRVV6WVRCcGtMZmNlY0lrcWxOb2RaYTZlb1lac9IBiAFBVV95cUxQY29TZUc0ekhYX3FHWnkwb0tLc3lXa29ZX05rdGdnNDFDM1hMU3BHRGFTZTdNTVZkR2xjNUdCbTJpQ3JyTkVJRjZwNGJYSUxlV3pJUnRGc0tVVEExTjBVTlVrc1k1WXVscnpxR2JrWjY1X2d3TWZIWlQxemlVRVk1SUNvYXNlRHI5?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261013T180557Z",
+      "date_et": "2026-10-13",
+      "time_et": "14:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
