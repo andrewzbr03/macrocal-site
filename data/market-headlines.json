@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:39:27.545Z",
+  "generated_at": "2026-10-14T23:35:54.590Z",
   "articles": [
     {
       "title": "Your Social Security check will rise an average of $75 a month &#x2014; will it be able to keep up with inflation?",
@@ -50,9 +50,9 @@
       "title": "Stocks tumble as hot CPI inflation fuels Fed rate hike bets",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MXFLaERSVlFabFpVYVdNem1yWGZQR29aejByeUt3cjh4WXF1cTRmU3g4MGNMdUhtT0RBUV9ySWRzRTZud01QcEZnS2NPRGNWak1pZTFBOVVQZTA?oc=5",
       "domain": "Fox Business",
-      "seendate": "20261014T191048Z",
+      "seendate": "20261014T191302Z",
       "date_et": "2026-10-14",
-      "time_et": "15:10",
+      "time_et": "15:13",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
@@ -347,7 +347,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "10-year Treasury yields dip as traders look ahead to Thursday economic reports",
+      "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2tMMWR6VndxZ3BieEtlc2x3bVYtemRBenlFMndFRGxiQ1o1UngxUnFLb1VrMXdCUHYzbUR0a2p6d2lHa2twcU5mQWd6ODIxdk4tdGhLTEREN3VndDFrd1NDY3R2Rm5VTTJ6SFdxVnZzS3NaczlCMG5GcGRVVHpoZ1Bn0gGHAUFVX3lxTE1fNTFuZmRWb092MjVDZHFGTmE1SDFld2RJeFpsdGd2UEF2aEhJbE5Pb2xHbDNYc01WZ09BT3lxOEd6M1g1MjBfQS1pSE5RcmdSNHJYRnBzTy1JVzkzSFZyNlYxOEUtNUpmQnVUUG5nM3l5WTNyQXNTbG5vRVZ0T1duSUd1bUZPdw?oc=5",
       "domain": "CNBC",
       "seendate": "20261014T072057Z",
@@ -2263,6 +2263,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Stocks jump on soft jobs report",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDd2Q2SkZkUzJHS08wamVtR2hkSDUzRkxFTERyeGxQZkt1Y0I1N05RUFdhb3V3UkpoZHdaekduY3dhdG9HTFlZLVJjdWFHX2lZNWZud0thMVBBTmM?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
