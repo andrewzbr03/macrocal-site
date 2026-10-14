@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-14T05:39:53.671Z",
+  "generated_at": "2026-10-14T06:51:22.814Z",
   "articles": [
+    {
+      "title": "Gold prices hold firm ahead of U.S. inflation data",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamcwUkJZT0VwMF9MRHI0eG5SODFzZkdFOThWWjU2ZGFGbDBBZk53SnpMakl5SHE0Vi14aDVEYS1yVWhPazBwRHgwdXBNY040Y09nNWt0dXNYeUFyUXRfR214aHVBajlCNTA0cEdTVVctNjBkT29ycmVPWHFrTEVValRFX3hocUNUNl81MmJZR1kzUmPSAZMBQVVfeXFMUGpnMFJCWU9FcDBfTERyNHhuUjgxc2ZHRTk4Vlo1NmRhRmwwQWZOd0p6TGpJeUhxNFYteGg1RGEtclVoT2swcER4MHVwTWNONGNPZzVrdHVzWHlBclF0X0dteGh1QWo5QjUwNHBHU1VXLTYwZE9vcnJlT1hxa0xFVWpURV94aHFDVDZfNTJiWUdZM1Jj?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261014T040912Z",
+      "date_et": "2026-10-14",
+      "time_et": "00:09",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczBUQlJMMjdRQ0NVWE1lMUNGU2dmVlBCQzJEZ0NUR3BSRGc5V0VCMmp4ZFI5NGJOandjWUE2UHpCZzNiTG9iZXQzRjRHWTFnT0U1NjJIN1AtUWtTcHYzZV9ZbWlwMWJEVjRXZkdFSnU2N0pma29sSEhiRVBOb003cTRNZjBjUlEyQnpGemdaMmViV3hOQnd1T2otNGtZczJidlF3T0FsUUo2NzI2aEZseGpIeERfOGVldjJPOTQ1ZWFCSWFqcnVPVw?oc=5",
@@ -1352,21 +1367,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Hiring in September grew much less than expected, jobs report shows - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVvWGJ2VDZlOHFqWk5hZzVCVGpSMkxBMDlQWHBtdExqU2NtYm82QjVzd0lwNzdvTEF4YjdSVzZ6bDc4ZU5qeXRaclN4bU5EUEowQ09DcWwwcF8zNGUtZ1RVSnlodmhodGJjcm9xYXp1STBFVjhETjhSY0NYREc4RlZYdzdaRHF1aDBIVlZXRmJxd2tTenJ3SmZzWXBjazDSAaQBQVVfeXFMTW1JV2JSeEF4eTIwVDJ1QWF6VmFCSnZZdzUwMmp0YUU4OTFLLTFUcXBoUm9RcmU2WWtiZ1RYYVRXV0dsbGZZU0Z3TDZvVERFSURUR0p0NmhWQzZ1XzVXUDVSMnVsN2Uxc003azFCcFRnQXBLN1JaWko1NDN6dUU1ZnlpOEVGZTk2eFZpaEpGRGRvSHQtOW9rcS1RX0ozWk55b3pWR2Q?oc=5",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "seendate": "20261002T132737Z",
-      "date_et": "2026-10-02",
-      "time_et": "09:27",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Wall St set to open higher as jobs data dampens rate hike odds, yields fall",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
       "domain": "Reuters",
@@ -1513,6 +1513,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Hiring in September grew much less than expected, jobs report shows - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVvWGJ2VDZlOHFqWk5hZzVCVGpSMkxBMDlQWHBtdExqU2NtYm82QjVzd0lwNzdvTEF4YjdSVzZ6bDc4ZU5qeXRaclN4bU5EUEowQ09DcWwwcF8zNGUtZ1RVSnlodmhodGJjcm9xYXp1STBFVjhETjhSY0NYREc4RlZYdzdaRHF1aDBIVlZXRmJxd2tTenJ3SmZzWXBjazDSAaQBQVVfeXFMTW1JV2JSeEF4eTIwVDJ1QWF6VmFCSnZZdzUwMmp0YUU4OTFLLTFUcXBoUm9RcmU2WWtiZ1RYYVRXV0dsbGZZU0Z3TDZvVERFSURUR0p0NmhWQzZ1XzVXUDVSMnVsN2Uxc003azFCcFRnQXBLN1JaWko1NDN6dUU1ZnlpOEVGZTk2eFZpaEpGRGRvSHQtOW9rcS1RX0ozWk55b3pWR2Q?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2582,21 +2597,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdG5iLU40clZTbDM1cExaYmlpQ0gzYzU4eVRaQnh2ZW1kSW1sU1Z5MmVUMHJpNDhhQ1lXcXd4OGVHM2t2SnJRWWFycmNtOWt2S1VTdVo4RmFMTTlwT3VaMTBCQXhDTmtlUlRhSDhRNkpRWnJVQThVQzFJN3JEX09VWlZGZWlnaWlGQk5qWUxsMU12ekZFMmxFTGtnWlNCUQ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20260930T155025Z",
-      "date_et": "2026-09-30",
-      "time_et": "11:50",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September jobs report due out Friday",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0xBRWdrS01PMURUNHE2RTFzaENPVVo0Z2VDYlpfUjF2TG9ackF2Z2k5eFl6bjR1enRSQjVzbjdOWjNBZ3dXcFczSXphX0VQN1pEbnFUWUFZQl9DdkNLa2tzOHMtQV9PNXE3SmJVajhMOTFnUDdZNWZVdmV4cml2Tg?oc=5",
       "domain": "CBS News",
@@ -2771,6 +2771,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdG5iLU40clZTbDM1cExaYmlpQ0gzYzU4eVRaQnh2ZW1kSW1sU1Z5MmVUMHJpNDhhQ1lXcXd4OGVHM2t2SnJRWWFycmNtOWt2S1VTdVo4RmFMTTlwT3VaMTBCQXhDTmtlUlRhSDhRNkpRWnJVQThVQzFJN3JEX09VWlZGZWlnaWlGQk5qWUxsMU12ekZFMmxFTGtnWlNCUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -4352,21 +4367,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims fall to two-month low as labour market stays resilient",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
-      "domain": "CNBC TV18",
-      "seendate": "20260924T131401Z",
-      "date_et": "2026-09-24",
-      "time_et": "09:14",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC TV18",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Claims for unemployment benefits drop to 197,000, the lowest since mid-July as layoffs remain rare - ABC News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjI1UExNTDhvMUxQS09LTHB0WGpCRGFKNFhrb2lWYzZDeGhfWVc1QUlMdFJOLWNxcU1UY1RiLW12ZGJnRmFFR3FJR0RRYXNTcFZoWDE3VFlEUjBtZnNTQ0kyV3NMMm40TDhBeU1LZ2pIVnBKakRrTS1QZFVaRGQxS181U3RhR3VMWTZXMVdZZUF6OUdoQkJYZ1phX1IxN1hM0gGmAUFVX3lxTE9mTklXbDRjRnNDNmlXeEFtSXdtcHRNN2FzRGpDZkd6TmhXeGhSYTlpSVN1T1NVNlFycEkyOXpXdTBhWENMRzVuaE96RlJGeE9wQkxGdFkxR0ZTZjMzNjFZM3RkZ2ZSUWIyakRuM0Qyc3RHNk1YVW9TWlE2aHlSTXRBVGVibUo1RHIzaVhmRGR1dzh6VmlNbkhSMVBkcVFndC1JQ1FWUkE?oc=5",
       "domain": "ABC News - Breaking News, Latest News and Videos",
@@ -4423,6 +4423,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fall to two-month low as labour market stays resilient",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
+      "domain": "CNBC TV18",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC TV18",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
