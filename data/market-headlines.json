@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:42:13.703Z",
+  "generated_at": "2026-10-14T20:39:33.155Z",
   "articles": [
     {
       "title": "Stocks tumble as hot CPI inflation fuels Fed rate hike bets",
@@ -134,6 +134,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Gas Prices Jumped 9.1% in 1 Month, and CPI Inflation Hit 3.7%. Here’s What It Means for Consumer Stocks.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xWdTlEZ1hSMG5JaFBMQy1KQzdiR280Qk5WUEc3X0NCZWw5S19vb3NaYUcydDY0cXFPN2dXNHhIcFh5VG9mV2hFUEJ6dHJXbmNQMG9XUHJzMzZoUG9wMmVqZGExWU5Rc3lpX1l5M1FHN0lrQXVlRmlEeVdNdFNWTUVDOEVNSVRSTFN5dzJfdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261014T162001Z",
+      "date_et": "2026-10-14",
+      "time_et": "12:20",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -313,6 +328,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "10-year Treasury yields dip as traders look ahead to Thursday economic reports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2tMMWR6VndxZ3BieEtlc2x3bVYtemRBenlFMndFRGxiQ1o1UngxUnFLb1VrMXdCUHYzbUR0a2p6d2lHa2twcU5mQWd6ODIxdk4tdGhLTEREN3VndDFrd1NDY3R2Rm5VTTJ6SFdxVnZzS3NaczlCMG5GcGRVVHpoZ1Bn0gGHAUFVX3lxTE1fNTFuZmRWb092MjVDZHFGTmE1SDFld2RJeFpsdGd2UEF2aEhJbE5Pb2xHbDNYc01WZ09BT3lxOEd6M1g1MjBfQS1pSE5RcmdSNHJYRnBzTy1JVzkzSFZyNlYxOEUtNUpmQnVUUG5nM3l5WTNyQXNTbG5vRVZ0T1duSUd1bUZPdw?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261014T072057Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:20",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1175,9 +1205,9 @@
       "title": "Eurozone retail sales rise marginally",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb29vYVIwejUyWHJyWjJhNUJLQlU2Z0l0czNWbDFiajcxcVg0LWJGLU9kQXd5VlZzQnEzX3FKUlVHcWlaUlBlaW12WHMyR3dqTTRYTmJJTENRQmNiNEdnNDZMbjRzT2NHX2RBdkMzV3psZGpVWlVEVUVwcUEyV1hEY0hxTWFIR1JOejg2YzFvZHRBNHFMRFZyOGFvOA?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261006T124838Z",
+      "seendate": "20261006T070000Z",
       "date_et": "2026-10-06",
-      "time_et": "08:48",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
