@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-14T13:45:49.642Z",
+  "generated_at": "2026-10-14T14:41:51.135Z",
   "articles": [
+    {
+      "title": "Social Security&#x2019;s COLA will be 3.6% in 2027 as inflation persists",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261014T140700Z",
+      "date_et": "2026-10-14",
+      "time_et": "10:07",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US inflation heats up in September; Fed rate hike this month back on table",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261014T140427Z",
+      "date_et": "2026-10-14",
+      "time_et": "10:04",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Surging gas prices pushed CPI inflation to 3.7% in September. The Fed is watching.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzNLSENWZExEV0pwc2lETmxxNFA4dV9rNXlqcnZXOGlaTjVOTXItRUowQTdPY05MUTQ0R0U1LUl2WWtqcllWQk4tZXdtd1pJYm5pVFJDclRiYkgwejJCQk9CWkNBN3FZUUFwcmZrUkhZWXVFSF9VT0VBaUo2X1FrUWNwU3lIM1BaS0Vlc0NvUmp3bUdQTERpeVdOLVlDSXM5bTJ1QldBN2RjV3ZFOFozR3h1YXY4NzFDeXZ3VlZNTFRzd0xsUG0yUzBpR3hZTklE?oc=5",
@@ -14,21 +44,6 @@
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Social Security&#x2019;s COLA will be 3.6% in 2027 as inflation persists",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261014T132700Z",
-      "date_et": "2026-10-14",
-      "time_et": "09:27",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
@@ -77,7 +92,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Consumer inflation rose at a faster pace than expected in September",
+      "title": "Consumer inflation rose faster than expected in September, CPI report shows",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaHQ2QXpTc2tfWlJ1ZmdvN3NuZl92TkVEbWU5dTdFaVpvQnk4ejFaWnpoU29ZeDBTWXV5OFZzUUVUN2tfUkNuR0x5c1oxTWdMRE1VdVk0T3RTRGVtOTMzVVg0TEd5d28xMkN1UGxtWmd1d9IBd0FVX3lxTFBUSXR0LVdEYnpVWUtIcFpJa2k5RW1ZM2VVZFluSVV0NHhPVXVvQUZFOVBNTll1ZW1nX1NJZUFzMlphakFUVW1SMkhHUktUZlM4bnVVRTBEMHhrbUdzWU81M2FKNWQ3LXB1cktseTlCcUI4TS1FZ1ZB?oc=5",
       "domain": "Fox Business",
       "seendate": "20261014T123300Z",
@@ -3992,21 +4007,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260927T070000Z",
-      "date_et": "2026-09-27",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Tax-free bond yields are in a sweet spot. Get in before it&#x2019;s too late.",
       "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -4019,6 +4019,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260926T070000Z",
+      "date_et": "2026-09-26",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
