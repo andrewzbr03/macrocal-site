@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-14T18:49:15.509Z",
+  "generated_at": "2026-10-14T19:42:13.703Z",
   "articles": [
+    {
+      "title": "Stocks tumble as hot CPI inflation fuels Fed rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MXFLaERSVlFabFpVYVdNem1yWGZQR29aejByeUt3cjh4WXF1cTRmU3g4MGNMdUhtT0RBUV9ySWRzRTZud01QcEZnS2NPRGNWak1pZTFBOVVQZTA?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261014T191048Z",
+      "date_et": "2026-10-14",
+      "time_et": "15:10",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Did this year&#x2019;s COLA beat inflation? Here&#x2019;s how spending by American seniors stacks up so far in 2026.",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261014T185300Z",
+      "date_et": "2026-10-14",
+      "time_et": "14:53",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
       "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
@@ -28,6 +58,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com Nigeria",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "PPI, retail sales, jobless claims, and oil inventories among economic data due Thursday",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXJUT0hCVWZ6cWNEZTF5QmlwdTZfVWNLbGp0RFVnSU4xVjJVQ1FRd0ltSjZoTVZhc0NEQWZUU2ttelFMbkNBdGFDQjY0cWZldUlhMHRwT0JLd3FGZGJSRW10T0RMNzdMMjZldkxfREc3NXlMQzVkVWMzbzR1REpOWWNMOGhaSEp3TURIQUdDWmZtanExSnJKUm9zRkZkeXplYktJR0ppdkRNYmRjZ3lUc2lOODJ0S29uVzJiTHY0LXY5X1hucnZqdko5NTVFUW1lWXlpQzdxNTY4TWhOV0E?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20261014T180544Z",
+      "date_et": "2026-10-14",
+      "time_et": "14:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com India",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -107,6 +152,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Consumer inflation rose faster than expected in September, CPI report shows",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaHQ2QXpTc2tfWlJ1ZmdvN3NuZl92TkVEbWU5dTdFaVpvQnk4ejFaWnpoU29ZeDBTWXV5OFZzUUVUN2tfUkNuR0x5c1oxTWdMRE1VdVk0T3RTRGVtOTMzVVg0TEd5d28xMkN1UGxtWmd1d9IBd0FVX3lxTFBUSXR0LVdEYnpVWUtIcFpJa2k5RW1ZM2VVZFluSVV0NHhPVXVvQUZFOVBNTll1ZW1nX1NJZUFzMlphakFUVW1SMkhHUktUZlM4bnVVRTBEMHhrbUdzWU81M2FKNWQ3LXB1cktseTlCcUI4TS1FZ1ZB?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261014T161200Z",
+      "date_et": "2026-10-14",
+      "time_et": "12:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Rising diesel prices have helped fuel inflation &#x2014; and we&#x2019;re about to see how much worse it could get",
       "url": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -148,21 +208,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance Singapore",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Consumer inflation rose faster than expected in September, CPI report shows",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaHQ2QXpTc2tfWlJ1ZmdvN3NuZl92TkVEbWU5dTdFaVpvQnk4ejFaWnpoU29ZeDBTWXV5OFZzUUVUN2tfUkNuR0x5c1oxTWdMRE1VdVk0T3RTRGVtOTMzVVg0TEd5d28xMkN1UGxtWmd1d9IBd0FVX3lxTFBUSXR0LVdEYnpVWUtIcFpJa2k5RW1ZM2VVZFluSVV0NHhPVXVvQUZFOVBNTll1ZW1nX1NJZUFzMlphakFUVW1SMkhHUktUZlM4bnVVRTBEMHhrbUdzWU81M2FKNWQ3LXB1cktseTlCcUI4TS1FZ1ZB?oc=5",
-      "domain": "Fox Business",
-      "seendate": "20261014T133800Z",
-      "date_et": "2026-10-14",
-      "time_et": "09:38",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4667,21 +4712,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims fall to two-month low as labour market stays resilient",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
-      "domain": "CNBC TV18",
-      "seendate": "20260924T131401Z",
-      "date_et": "2026-09-24",
-      "time_et": "09:14",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC TV18",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Claims for unemployment benefits drop to 197,000, the lowest since mid-July as layoffs remain rare - ABC News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjI1UExNTDhvMUxQS09LTHB0WGpCRGFKNFhrb2lWYzZDeGhfWVc1QUlMdFJOLWNxcU1UY1RiLW12ZGJnRmFFR3FJR0RRYXNTcFZoWDE3VFlEUjBtZnNTQ0kyV3NMMm40TDhBeU1LZ2pIVnBKakRrTS1QZFVaRGQxS181U3RhR3VMWTZXMVdZZUF6OUdoQkJYZ1phX1IxN1hM0gGmAUFVX3lxTE9mTklXbDRjRnNDNmlXeEFtSXdtcHRNN2FzRGpDZkd6TmhXeGhSYTlpSVN1T1NVNlFycEkyOXpXdTBhWENMRzVuaE96RlJGeE9wQkxGdFkxR0ZTZjMzNjFZM3RkZ2ZSUWIyakRuM0Qyc3RHNk1YVW9TWlE2aHlSTXRBVGVibUo1RHIzaVhmRGR1dzh6VmlNbkhSMVBkcVFndC1JQ1FWUkE?oc=5",
       "domain": "ABC News - Breaking News, Latest News and Videos",
@@ -4738,6 +4768,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fall to two-month low as labour market stays resilient",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
+      "domain": "CNBC TV18",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC TV18",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
