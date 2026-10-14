@@ -1164,6 +1164,78 @@
       "value": "3.5%",
       "source_url": "https://www.sca.isr.umich.edu/",
       "verified_at": "2026-10-13T15:15:53.947Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_mom",
+      "field": "actual",
+      "value": "0.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-11-10",
+      "filter_id": "cpi",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "core_yoy",
+      "field": "actual",
+      "value": "2.6%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-11-10",
+      "filter_id": "cpi",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "2.6%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_mom",
+      "field": "actual",
+      "value": "0.6%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-11-10",
+      "filter_id": "cpi",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.6%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-10-14",
+      "filter_id": "cpi",
+      "metric_id": "headline_yoy",
+      "field": "actual",
+      "value": "3.7%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-11-10",
+      "filter_id": "cpi",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "3.7%",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "verified_at": "2026-10-14T13:43:02.819Z"
     }
   ]
 }
