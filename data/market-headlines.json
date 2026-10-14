@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:40:51.014Z",
+  "generated_at": "2026-10-14T04:43:08.970Z",
   "articles": [
     {
       "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high",
@@ -4352,21 +4352,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims fall to two-month low as labour market stays resilient",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
-      "domain": "CNBC TV18",
-      "seendate": "20260924T131401Z",
-      "date_et": "2026-09-24",
-      "time_et": "09:14",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC TV18",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Claims for unemployment benefits drop to 197,000, the lowest since mid-July as layoffs remain rare - ABC News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjI1UExNTDhvMUxQS09LTHB0WGpCRGFKNFhrb2lWYzZDeGhfWVc1QUlMdFJOLWNxcU1UY1RiLW12ZGJnRmFFR3FJR0RRYXNTcFZoWDE3VFlEUjBtZnNTQ0kyV3NMMm40TDhBeU1LZ2pIVnBKakRrTS1QZFVaRGQxS181U3RhR3VMWTZXMVdZZUF6OUdoQkJYZ1phX1IxN1hM0gGmAUFVX3lxTE9mTklXbDRjRnNDNmlXeEFtSXdtcHRNN2FzRGpDZkd6TmhXeGhSYTlpSVN1T1NVNlFycEkyOXpXdTBhWENMRzVuaE96RlJGeE9wQkxGdFkxR0ZTZjMzNjFZM3RkZ2ZSUWIyakRuM0Qyc3RHNk1YVW9TWlE2aHlSTXRBVGVibUo1RHIzaVhmRGR1dzh6VmlNbkhSMVBkcVFndC1JQ1FWUkE?oc=5",
       "domain": "ABC News - Breaking News, Latest News and Videos",
@@ -4423,6 +4408,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "reuters.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fall to two-month low as labour market stays resilient",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjR2aFdwOHg5Z3BGSlRIRm5POG5YT0Itd2dQTzhjNHNLdWZoYTY2Y3FxSmVULUNzbkl1all3V1BNaF9kWkUtQ1czUEE1YTQzZzB5TFNjbHVpSEhCcWtxRnM1YmppeGtRc3JuSWQ1UkhVUFNJaFllN3Qta3h0cUtiRHhEendBYXBSdVhKMDl6Ql93VVFYdEVoX20wN1V6WmVtNXR4dm1ZYjBPbUFQeGdGVDl5M3dPZ2PSAbwBQVVfeXFMT2V5QXZLU2l0UFhMYUVVU0lYUzFlSmZReXdRNXBOdUxWVkV3S0dHOU02Q2hJSWNQSzVIYUlEcWY5YmdDT1A4Y1J2U3NaVXRZdnpKYW92eUdhT0FLNWd3M0lnZ1Z4aWJKNW9EcEtjbVlfa2NEeS0xb1dscFM2VWR2VFFYVm1wcFBjeXNGWHl4RG9FeHBjWXBuRHcyZVhLZGpGRlBzU3R5QlozMlF1R05Qcm1OaU5GNUN6WEtFNGc?oc=5",
+      "domain": "CNBC TV18",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC TV18",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
