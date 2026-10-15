@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-15T14:43:25.040Z",
+  "generated_at": "2026-10-15T15:44:18.349Z",
   "articles": [
+    {
+      "title": "US jobless claims edge up to 199,000 in latest week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261015T144605Z",
+      "date_et": "2026-10-15",
+      "time_et": "10:46",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US retail sales far exceed expectations in September",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTNhT0MwVExEMDNHNHh3TElvWHBaT2VMUERMay1LTFp6ZGZnRHNid1kzdGFDOE1YVjNyLV81UlBkRV9XS2hyZmtOdkM2NTZNdjNUdmtacE1faVJIRFBraHlnWV9ScmFzaVZhLTF4cU5BYUFZQWlZZENZUWJWbjVENzI2VkhEMU9oMkVPbw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T141828Z",
+      "date_et": "2026-10-15",
+      "time_et": "10:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
       "url": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
@@ -14,6 +44,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nb1hvVlFpVzZNb0h2bUE2LXFLTWFDOWllX2tTUHo3d0R5MWR5NHl5VjM2TXpQa2k1aXdyQW9xdVBfVHhKb2xWZ1dwS2FwdEU0N1NOYmFLSmU0dkhXTU9pYmkzZ2g4M2VNMXV6eEUwdWQ3UTUtRG9qalFTLXRTY1U?oc=5",
+      "domain": "Yahoo Finance UK",
+      "seendate": "20261015T130805Z",
+      "date_et": "2026-10-15",
+      "time_et": "09:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance UK",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
