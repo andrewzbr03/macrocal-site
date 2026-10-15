@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:49:45.434Z",
+  "generated_at": "2026-10-15T14:43:25.040Z",
   "articles": [
     {
       "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
@@ -62,6 +62,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGotYWdIU1lxZnBYdkpjajR0LUx4V3JhbkJuMEpJZ3FnUWdfbm1wa1NlU1JCUlpGb3BRM0kzQnJseHZwQUxtdm56Z3EyZHdoV19ELXNZcVF3RXJvZTNURndrNG0zcVViN0FIV0lOdjVJWXk4RDlNc09iRzB6c3NfbWw5clFCeHI0ZUNCMWF0V3Q5dkRiaG5NQldzZl9LNnNhRFMxbm1yZnRQY3pYejd2NmxKZHhlWkl2ZXdtY01DVWxTRlk1U3RPVzVIM3Q0a1k?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261015T123442Z",
+      "date_et": "2026-10-15",
+      "time_et": "08:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US filings for jobless benefits hold steady, less than 200,000, as layoffs remain historically low",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekdaNDRqWnNuWjZINTNobnE2OVBidll3RDVVaFFBV0xaQUo5eVhrX3lqNGxZZDBPRVQ0c3UzaEVuSmFRNXlQZVRiajFwQjgxSUdYZUdsUDExRE5IaFZ4cnlPLVNicmRxLWQtMUZPSzA1RFhYbDdFUEppTWo3cGc2NzhDUXZvNGlSekVfazN3ZDFXcmU0?oc=5",
       "domain": "Yahoo Finance",
@@ -71,6 +86,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Retail sales up a better-than-expected 0.8% in September as shoppers remain resilient",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1loWFp6LXVwY0xGbElGWENILVdtWlVOOHB0Z19xSWFmNTBBZEg0emhOOWV6NUM0OEJWc0F0VVh3Y2JBVDlsWXVPQ0xtTFpqdEtSWXg0X2ZaQmRUMXExbWNkQmpoZmlndHFUa0lReDBHeTVGQWhQNVVEVkg2OUZLODdDcElpUDEwSk5zS2I5RUpjUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T123208Z",
+      "date_et": "2026-10-15",
+      "time_et": "08:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
