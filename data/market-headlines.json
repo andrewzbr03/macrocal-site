@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-15T15:44:18.349Z",
+  "generated_at": "2026-10-15T16:43:11.462Z",
   "articles": [
+    {
+      "title": "Wealthy Shoppers Expected to Fuel Faster US Holiday Retail Sales",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3ZETkZBY004WldER1AwSlotQ25sSnlXc1RTaE9lR0hwSDRpeTRsMWNZNldmaS1zRFp3ZWJiSFFQcW9sdlhlRTJhZ09xM21ESFBaWnY1V2VyakdxcE80RU8xRFMzajl5SjFYYnJsSEUzYXpqR2NJX0pyNFZpMmxMUVctUE10NF91dDA5U0xOSEdaQkdjaDhZN0VoRHFIa1pFdnBzc2F2M1NjZDdIdS05dDJJTU9pZw?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261015T153327Z",
+      "date_et": "2026-10-15",
+      "time_et": "11:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "US jobless claims edge up to 199,000 in latest week",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
@@ -13,6 +28,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Retail Sales Look Strong, but Shoppers Aren’t Buying Much More",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3dCZzJkWUlXZ2ViOXlJaFJEdk9TdGdpSWg4LUhfN1hkdmdwbEk4Q3NReWh6LXdFQVFiZng0VTFDX3FETVdXaVZwSkdXWTdfc192YjcwQ1pJOWtJM01TT1h5S1J4aV83YzZwdUg1MkpLY0gxamFGMzNINXI3Z00tRE1aQUc1V00?oc=5",
+      "domain": "Barron's",
+      "seendate": "20261015T142100Z",
+      "date_et": "2026-10-15",
+      "time_et": "10:21",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Barron's",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
