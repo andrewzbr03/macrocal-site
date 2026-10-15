@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-15T17:39:14.243Z",
+  "generated_at": "2026-10-15T18:48:10.993Z",
   "articles": [
+    {
+      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261015T182500Z",
+      "date_et": "2026-10-15",
+      "time_et": "14:25",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US retail trade group forecasts healthy holiday sales, in part due to inflation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdElYLWp0MUNBVVV1aVVQbnFpWENaN3M1c0V1MGtnazZJX0RMLXpJTF8zSGtIcnhCbjNEUDJiUVZPbFoyaDZrbTZpVFF3NzRFSWY5blNZLVNRN2tOQTlUc2dVbXIydjBydElSNGo0VEEwbkxQYVVxR0xkWHFWLURfSUN1Q25ZaTlUZE9fa2hzMllrZUk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T172839Z",
+      "date_et": "2026-10-15",
+      "time_et": "13:28",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Did this year&#x2019;s COLA beat inflation? Here&#x2019;s how spending by American seniors stacks up so far in 2026.",
       "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
@@ -1577,6 +1607,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "4 Stocks to Boost Your Portfolio on Steady Growth in Factory Orders",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBuT2JzejdTVmI5YjM5anMyUkZtMWl3YzhQNzJyMHpaaV9rVzFWWlhvdEFUTkhuajRuMjhCM1h4cjJRZ240WEh2T1B2WFFfTWxDT2VQeTNDSVMtZGZyWHI2QU5hVEw0MXVSTXlIVVRSWXIwS0U4S3RiUk5zUTZCaE9aSDFQY2RpVGVjcXhiTzhxTExmWTRiZUlTb2o?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261005T111600Z",
+      "date_et": "2026-10-05",
+      "time_et": "07:16",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "What Bessent is now saying after bond yields didn&#x2019;t stop rising on &#x2018;I am the house&#x2019; remark",
       "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1633,21 +1678,6 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Yahoo Finance UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "4 Stocks to Boost Your Portfolio on Steady Growth in Factory Orders",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBuT2JzejdTVmI5YjM5anMyUkZtMWl3YzhQNzJyMHpaaV9rVzFWWlhvdEFUTkhuajRuMjhCM1h4cjJRZ240WEh2T1B2WFFfTWxDT2VQeTNDSVMtZGZyWHI2QU5hVEw0MXVSTXlIVVRSWXIwS0U4S3RiUk5zUTZCaE9aSDFQY2RpVGVjcXhiTzhxTExmWTRiZUlTb2o?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261005T070000Z",
-      "date_et": "2026-10-05",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
