@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-15T07:47:28.870Z",
+  "generated_at": "2026-10-15T08:44:21.724Z",
   "articles": [
+    {
+      "title": "Global AI sell-off jolts European chip stocks",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHBmOVFaQWVPdFdqZEdwZVFhei00Ty1HYzNUQ0E5akFPNUZrelFfUFF6YTZtVV9JeVlCbC1zRV96UEpQWmlaaG5fcmxLVHlfUGo5bUlrRkxQWTltcGpvU3J0OUhCb2paOUdXd2l6SXZZV0czWEp0UWtJdGh0ZjZEWDdfVERONnVMNVFudXg0bDQ4UQ?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261015T072007Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:20",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
       "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
@@ -629,6 +644,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1dJR1FrNzZWX3k1UXNVcllmS254czlsYS1kZUVKeXZ0MVdyYUo1Vzh5c25vclRBQjB2Y0NKZUxsY2lwWW1jU0pqSC1sX1k3aVc0SW8wMmFibVRxVlFZRmxSY1pNVjR3SmJETmFlUkNFZDRPTUt1NmRUNzFQYVFseEZlYkxWVU1WcG02aEhhRjFLM01GVUk5X1pTb0QwelRobVA5UzY4QVJMS3pn?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261009T200500Z",
+      "date_et": "2026-10-09",
+      "time_et": "16:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com UK",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
