@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:42:25.281Z",
+  "generated_at": "2026-10-15T10:42:08.324Z",
   "articles": [
     {
       "title": "Global AI sell-off jolts European chip stocks",
@@ -701,6 +701,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump says Russia to supply diesel to US and global markets",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261009T154300Z",
+      "date_et": "2026-10-09",
+      "time_et": "11:43",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Oil / Supply",
       "provider": "Google News",
       "source": "Reuters",
       "link_type": "google_news",
