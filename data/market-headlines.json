@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:40:07.883Z",
+  "generated_at": "2026-10-15T05:40:22.606Z",
   "articles": [
     {
       "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
@@ -1235,9 +1235,9 @@
       "title": "Eurozone retail sales rise marginally",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb29vYVIwejUyWHJyWjJhNUJLQlU2Z0l0czNWbDFiajcxcVg0LWJGLU9kQXd5VlZzQnEzX3FKUlVHcWlaUlBlaW12WHMyR3dqTTRYTmJJTENRQmNiNEdnNDZMbjRzT2NHX2RBdkMzV3psZGpVWlVEVUVwcUEyV1hEY0hxTWFIR1JOejg2YzFvZHRBNHFMRFZyOGFvOA?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261006T070000Z",
+      "seendate": "20261006T124838Z",
       "date_et": "2026-10-06",
-      "time_et": "03:00",
+      "time_et": "08:48",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -2293,6 +2293,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US factory orders increase slightly in August",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRYWGdMSlkzMVNOS2lxeE5sdlpSZlRmTlAzUUNZRXIxUFZlTVdqdUMwMzZza0d5RDNnU1VaLUo3a284R1duOWZiOFBVM0N6bDVnZ2t2TktLcVhXS3dsR0JPT0pxdDNtWTY2d1N3SGppS3AxSm5jWS1BMVZLR0ZLaTdZbEVJbnh2NjR4R0lyYW1iZ1AySjZ1LQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
