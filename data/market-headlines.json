@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-15T12:52:15.597Z",
+  "generated_at": "2026-10-15T13:49:45.434Z",
   "articles": [
+    {
+      "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+      "url": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261015T131400Z",
+      "date_et": "2026-10-15",
+      "time_et": "09:14",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims rise marginally amid low layoffs",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaV93aVRVLVdNLU50RzZiMUVJQzk4bGlXLU9LNF9fd3hIS1hkSm5FaEFCVlkwdG0wV1o3ejd0aV80QkQ1eE9TLUx4QUFHdWtZb1B4Ti1UUkN3eEpqT044dXI1SHVxU3NvNTQyaXktQm1od2xNZlN2VlRjOHR3Uk56X3dQZHNNaFQ5THdfOWNkc28?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T125042Z",
+      "date_et": "2026-10-15",
+      "time_et": "08:50",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "US retail sales beat expectations in September on higher gasoline prices",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5",
@@ -197,21 +227,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Will mortgage rates stay above 7% in 2027?",
-      "url": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261014T180100Z",
-      "date_et": "2026-10-14",
-      "time_et": "14:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
       "title": "CPI inflation: Lauren Simonetti warns of rising energy and healthcare costs",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdmlVY0x2Q3lOY2kyN0NEVEhrU0p3cFM5VXNERDZ0c3YzTjYwWW9FWTlPM3ZFY0hnRVFCSEdlbVNvcUdPdUJoVi1Xd290bnBRYktqUkhTT0dtekU?oc=5",
       "domain": "Fox Business",
@@ -284,6 +299,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFWOXRoc2RvT291ZElaYW5MOWYyZ01rX1I3N093NGJ4bGNxRU1JS2tLS2J5TjhHNk9WQWNfY0xyMnZvbkdoa0N1LWs2OWlGQ19tc1pCZkdJUG5qTl9mMnJJOVE4cXM3V3YweDVGRG1RNnFPeDE0U1F4NW43TjVpNzNRMVRGZkxGOXh5a25EUm1QQTdBT0YwYk5INHByWl9ILXNBQU5R?oc=5",
+      "domain": "AP News",
+      "seendate": "20261014T155400Z",
+      "date_et": "2026-10-14",
+      "time_et": "11:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "AP News",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
