@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:40:42.544Z",
+  "generated_at": "2026-10-15T21:41:28.858Z",
   "articles": [
     {
       "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
@@ -17,6 +17,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHIydEFZRkpGUlRjdy02UlFMbk16eEpHQlZFOXdOenFlNzBzb2pzSFpGY1ExYXB3SVluZlpxSGFoWmlJUkxfbjk0MEdpUGtDWVZqVi1QWDlTQmYtUjl1b1JNREc3VXdvbXpudjRMcWFHU2ZDbERMTHRPajQxbDNJd0NoNi1MUkJweTg1QnRtdEttWldJSnRIbDRvbEhWeEJibFJBcUR6S1N1UkFBYU5HTks0VTE0QVhIMVE?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261015T183557Z",
+      "date_et": "2026-10-15",
+      "time_et": "14:35",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US retail trade group forecasts healthy holiday sales, in part due to inflation",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdElYLWp0MUNBVVV1aVVQbnFpWENaN3M1c0V1MGtnazZJX0RMLXpJTF8zSGtIcnhCbjNEUDJiUVZPbFoyaDZrbTZpVFF3NzRFSWY5blNZLVNRN2tOQTlUc2dVbXIydjBydElSNGo0VEEwbkxQYVVxR0xkWHFWLURfSUN1Q25ZaTlUZE9fa2hzMllrZUk?oc=5",
       "domain": "Yahoo Finance",
@@ -28,6 +43,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims edge up to 199,000 in latest week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261015T171557Z",
+      "date_et": "2026-10-15",
+      "time_et": "13:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -73,21 +103,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US jobless claims edge up to 199,000 in latest week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261015T144605Z",
-      "date_et": "2026-10-15",
-      "time_et": "10:46",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
