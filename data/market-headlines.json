@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-16T02:40:30.768Z",
+  "generated_at": "2026-10-16T03:41:19.951Z",
   "articles": [
+    {
+      "title": "Seoul stocks extend gains late Fri. morning on bargain hunting",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXpOWFN4OUhWZFhkVjdONjJqQWx0SUtUZFNtQnQxcmJRTHc2bHV2MmVXSktjVWpCbDh0ck93NllWY0ZmMkx4d0ZQQkZBQ0pPVlBwelhtYml5c3FaVjZmV0ZUT1c2YVNYVm5Mb29RTHJOS1ZOOFZ3ODh0b0xmVmNqdVZxajI?oc=5",
+      "domain": "Yonhap News Agency",
+      "seendate": "20261016T023809Z",
+      "date_et": "2026-10-15",
+      "time_et": "22:38",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yonhap News Agency",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
       "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
@@ -229,7 +244,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T123442Z",
       "date_et": "2026-10-15",
       "time_et": "08:34",
@@ -237,7 +252,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -5823,21 +5838,6 @@
     },
     {
       "title": "Economic Week Ahead: FedSpeak, PMIs and Durable Goods Orders in Focus",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3pta0ZDUnhMNWotQ2lhMEFpU2pIYko0YW42VHYtd2hveFNQSF8yTFNFU1lWeTZpeDVZdGVwNEhSSHRKTmdwb1I2SmZSYzh0Vk5UUGUyc1dWR0JiMk8za2NfM3NUdFNZVUl4bDVkSW5KNks0ZkRlNmVBMF9nYUZJZVJSRXB2Nnh0YkNTbG9HQWllQkZ0VGRqaTZuR09BRjM3UHNzT1RBeE5XTWRaM1V0MA?oc=5",
-      "domain": "Investing.com India",
-      "seendate": "20260921T081941Z",
-      "date_et": "2026-09-21",
-      "time_et": "04:19",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com India",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Economic Week Ahead: FedSpeak, PMIs and Durable Goods Orders in Focus",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDI5QVFGajRzcXFmUjBLYWVJaXJQT1lqMXZod05UOFRWQXhoXzMzTWNmT0R6NGdUc2J0QjA2LTdzY1RoS3JTR282RGIzT3JxRkVYZWJMYlV1ZnJJWkx0ZE9qeEhEY0hoMzZrMXMzRkh4d25LckMtYW5NRG5WZEtOUlpVWnNWVGFHZGxwc0U0Q2J6OVhrMnVpSGdSNF9wTTZaVmlYMlBTSmhnN2dtYV9JMklR?oc=5",
       "domain": "Investing.com",
       "seendate": "20260921T070128Z",
@@ -5848,6 +5848,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Economic Week Ahead: FedSpeak, PMIs and Durable Goods Orders in Focus",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3pta0ZDUnhMNWotQ2lhMEFpU2pIYko0YW42VHYtd2hveFNQSF8yTFNFU1lWeTZpeDVZdGVwNEhSSHRKTmdwb1I2SmZSYzh0Vk5UUGUyc1dWR0JiMk8za2NfM3NUdFNZVUl4bDVkSW5KNks0ZkRlNmVBMF9nYUZJZVJSRXB2Nnh0YkNTbG9HQWllQkZ0VGRqaTZuR09BRjM3UHNzT1RBeE5XTWRaM1V0MA?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20260921T070000Z",
+      "date_et": "2026-09-21",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com India",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
