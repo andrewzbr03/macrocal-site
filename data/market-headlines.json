@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:45:06.675Z",
+  "generated_at": "2026-10-16T08:43:27.358Z",
   "articles": [
     {
       "title": "Seoul stocks extend gains late Fri. morning on bargain hunting",
@@ -137,6 +137,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
+      "domain": "Bloomberg",
+      "seendate": "20261015T152948Z",
+      "date_et": "2026-10-15",
+      "time_et": "11:29",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Retail Sales Look Strong, but Shoppers Aren’t Buying Much More",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3dCZzJkWUlXZ2ViOXlJaFJEdk9TdGdpSWg4LUhfN1hkdmdwbEk4Q3NReWh6LXdFQVFiZng0VTFDX3FETVdXaVZwSkdXWTdfc192YjcwQ1pJOWtJM01TT1h5S1J4aV83YzZwdUg1MkpLY0gxamFGMzNINXI3Z00tRE1aQUc1V00?oc=5",
       "domain": "Barron's",
@@ -253,21 +268,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg",
-      "seendate": "20261015T123442Z",
-      "date_et": "2026-10-15",
-      "time_et": "08:34",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1442,21 +1442,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "State Spotlight: Consumer Spending Increased in All States in 2025",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1hIdlVGZXRZOXdIbmcwWkx4MkFlSGxzcXd3ekxRS0RGWVVNVXFPY1dNbXM1UzhucjNfcU5oeFFYcmtxMXBEbWlLcmkxci1MTGJxem5IeVluTDVodXoybnI2XzdscFJSTXVMNmo5Ty1EXzVyUzlqem9wVWZkbDRheHU2WEpIbnY1TG4yblRLQi1aTWw5a3k2d3BZNUc0VmVpWUE?oc=5",
-      "domain": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
-      "seendate": "20261007T155403Z",
-      "date_et": "2026-10-07",
-      "time_et": "11:54",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Bitcoin Falls as Treasury Yields Rise and Attention Turns to the FOMC Minutes",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEx1X2s5SGRIbXVDWnRTLTlYQWVoRjZHVzBjR3FYekIxRTJrNHd1cHRyaWpYXzlPRmk5WV9KMm9GVGM3WEVNYnhldnZQRWNLb294T1NMQnhYaHpPM1JiTkRwclI3eTc4WGpyZVN0UWlIbTdFS2xGc1ppU2M0eFBJSnVjZ3BQeXlhUWFtUXdvZllvWXZiZDNXalBnY01Fd1VXcWxMUkxTaGN0b2hDR2ZSOHJ2VHN3eWNHazlrMmxmaw?oc=5",
       "domain": "Investing.com",
@@ -1468,6 +1453,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "State Spotlight: Consumer Spending Increased in All States in 2025",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1hIdlVGZXRZOXdIbmcwWkx4MkFlSGxzcXd3ekxRS0RGWVVNVXFPY1dNbXM1UzhucjNfcU5oeFFYcmtxMXBEbWlLcmkxci1MTGJxem5IeVluTDVodXoybnI2XzdscFJSTXVMNmo5Ty1EXzVyUzlqem9wVWZkbDRheHU2WEpIbnY1TG4yblRLQi1aTWw5a3k2d3BZNUc0VmVpWUE?oc=5",
+      "domain": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
+      "seendate": "20261007T070000Z",
+      "date_et": "2026-10-07",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
