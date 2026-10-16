@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:40:33.591Z",
+  "generated_at": "2026-10-16T16:41:23.024Z",
   "articles": [
     {
       "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
@@ -268,6 +268,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims inch up to 199,000",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3BBMlMtU3NScE9hVmpqLUpJMFRhU3JjaW1nYWstbGZnY2NsTXVNSl84VlhIZkhfSUNXQlRRdzY4UWd4TDNRN2pNUmdzaXF1dzRsSVp3VHFHN3ZtUGNxeEpDaTVGcVAyN3F0X2xQbWYyWWZLaG9vQUlrd25BZmh2RkpLZnotMWtFREJyNS1FdkY?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T130331Z",
+      "date_et": "2026-10-15",
+      "time_et": "09:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
