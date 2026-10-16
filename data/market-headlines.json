@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-16T10:41:55.271Z",
+  "generated_at": "2026-10-16T11:41:14.597Z",
   "articles": [
+    {
+      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "url": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261016T105600Z",
+      "date_et": "2026-10-16",
+      "time_et": "06:56",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Seoul stocks extend gains late Fri. morning on bargain hunting",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXpOWFN4OUhWZFhkVjdONjJqQWx0SUtUZFNtQnQxcmJRTHc2bHV2MmVXSktjVWpCbDh0ck93NllWY0ZmMkx4d0ZQQkZBQ0pPVlBwelhtYml5c3FaVjZmV0ZUT1c2YVNYVm5Mb29RTHJOS1ZOOFZ3ODh0b0xmVmNqdVZxajI?oc=5",
@@ -6208,9 +6223,9 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
+      "title": "US Housing Starts Unexpectedly Decline on Multifamily Projects",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX194X2lRNG4zMDdWelhacjJDX3dTc09lYVpvUml4cnQ3RnZYMk10U3NGTWdQcWRvSC11UFhIako3R01mNnd5NUdockNwVXE5UTJmT2pkTXhJemUyMlNDZzM5bHdnYk1lcURMYU53MUUxWTdXU0w3a3dvM2liSjV2ZnlCbUhMaWRXVDRFbEU3NDU2WVp0eXY5NFIxaEh0MVBJZ3NNTm15OXQ2UFluWU5ta00wNA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
       "time_et": "03:00",
@@ -6218,7 +6233,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
