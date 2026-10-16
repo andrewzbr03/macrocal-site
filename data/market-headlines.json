@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-16T21:39:02.459Z",
+  "generated_at": "2026-10-16T22:39:38.522Z",
   "articles": [
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261016T215900Z",
+      "date_et": "2026-10-16",
+      "time_et": "17:59",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
       "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
@@ -1757,21 +1772,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261005T111600Z",
-      "date_et": "2026-10-05",
-      "time_et": "07:16",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "What Bessent is now saying after bond yields didn&#x2019;t stop rising on &#x2018;I am the house&#x2019; remark",
       "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1828,6 +1828,21 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Yahoo Finance UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261005T070000Z",
+      "date_et": "2026-10-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -5449,6 +5464,21 @@
     {
       "title": "US Initial Jobless Claims Decline in Week Ended Sept. 19",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3FYTDVYZ0dwM3FSU2tMYk10eTJsOGEyRkk0YXg0Q0RCY05MMEtIOXY3QXRXdVVyOUlKeEYzSjF6N0RnMHJpTTBNOGhPY1o0dGg5NEhJTElCcXpoNlRUZDIzY0JleVpHSlN2dHBYYVdYb2NEUldVamQ0TFp1LUpCcnlURV9zdlExMjU3YVB5dTctSk82R1E?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. Initial Jobless Claims Edge Lower to 197,000, Below Expectations",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlNLeFVKZ1BoYWpfcXU5UkxOc2FSNzRBLWFrX0NKYnRhSkM4cWpfUVV2aWZtNUh5STVZOTVZejJHTFV3am5SUUxRa2Vsa0VHb3hEUDdMUXdBZURDMmxqalVzN1dCTVB6dXhFLWZxYkU1ZkRoYUxTVFJSY1RYOWJoN0Rsb20yVzVSeThiYm9jQjM?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260924T070000Z",
       "date_et": "2026-09-24",
