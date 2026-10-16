@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:50:57.849Z",
+  "generated_at": "2026-10-16T07:45:06.675Z",
   "articles": [
     {
       "title": "Seoul stocks extend gains late Fri. morning on bargain hunting",
@@ -107,9 +107,24 @@
       "timestamp_type": "published"
     },
     {
+      "title": "September Retail Sales Rise More Than Forecast Amid Higher Gas Station Spending",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWVNbE1zaVNLZ0hkZV91S0xETnV3XzYweE5zeVV3ZXdlMmp5WkFzY1pmWG83SkVpVllpQmVjOGNfaHd1WkFZQzc3RThmdkp4NmM3eGFXVVI4MW1tZUdMd0gtcE9fVWZoT3pSRkM2Qk9zS3F1eWw4a05FTGhVSzNHaldvV2lOMHNJUFJ2VTBtc1h0N1lY?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T163216Z",
+      "date_et": "2026-10-15",
+      "time_et": "12:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Wealthy Shoppers Expected to Fuel Faster US Holiday Retail Sales",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3ZETkZBY004WldER1AwSlotQ25sSnlXc1RTaE9lR0hwSDRpeTRsMWNZNldmaS1zRFp3ZWJiSFFQcW9sdlhlRTJhZ09xM21ESFBaWnY1V2VyakdxcE80RU8xRFMzajl5SjFYYnJsSEUzYXpqR2NJX0pyNFZpMmxMUVctUE10NF91dDA5U0xOSEdaQkdjaDhZN0VoRHFIa1pFdnBzc2F2M1NjZDdIdS05dDJJTU9pZw?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T153327Z",
       "date_et": "2026-10-15",
       "time_et": "11:33",
@@ -117,7 +132,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -287,7 +302,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Retail sales up a better-than-expected 0.8% in September as shoppers remain resilient",
+      "title": "Retail sales up 0.8% in September, but a big chunk of spending went to paying gasoline bills",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1loWFp6LXVwY0xGbElGWENILVdtWlVOOHB0Z19xSWFmNTBBZEg0emhOOWV6NUM0OEJWc0F0VVh3Y2JBVDlsWXVPQ0xtTFpqdEtSWXg0X2ZaQmRUMXExbWNkQmpoZmlndHFUa0lReDBHeTVGQWhQNVVEVkg2OUZLODdDcElpUDEwSk5zS2I5RUpjUQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261015T123208Z",
@@ -1322,21 +1337,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
-      "domain": "AP News",
-      "seendate": "20261008T131500Z",
-      "date_et": "2026-10-08",
-      "time_et": "09:15",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlAxQ1huRmRTY29rZlZ0NVpMRzUxQlJlZXk1S3N1ZnMxN1B5dnNiaG0yVTg1RnFXZUQ3bVZHM0Q3UXp1VjRSblljZDlQS0FHR2RFQzJoWWpXT0FwZW1XSkQtdzRwRnY2UV9taFBsNXFtaGlhNVozdUUyZG5yeVRsbHZidllTQi1hZmdkNnJZdHBrZ01KaWMwR0ZGSzVlVDA2TVNtT2dWaU56VURGSk8ycg?oc=5",
       "domain": "Bloomberg.com",
@@ -1408,6 +1408,21 @@
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
+      "domain": "AP News",
+      "seendate": "20261008T070000Z",
+      "date_et": "2026-10-08",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4787,21 +4802,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Michigan consumer sentiment edges higher than forecast, but remains low By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMnVUbFpVYWZseFJKTGJmSnVkZE45VXhsLTdqemJVaERyZnNYc1JaTGY0R21nTE90bGR0OEt4U190SmlTZFpHRFcwaWRrajg3SHI3Q0xnTVhDcXQtSmF0YzRnMlU3VVVJRm0wT1R4eUhvWnBNRWo3dEp2cW0yRndvdDl6NkNOVzFIWnZ0eHM2S3k4QUxmVEwxakhRT2U1UmFudEZNeE5jN1FlQktXbE5YdmZlbW0xQVpyWHp3dXdBTXkxaC16YUxOclZBQQ?oc=5",
-      "domain": "Investing.com UK",
-      "seendate": "20260925T140200Z",
-      "date_et": "2026-09-25",
-      "time_et": "10:02",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Investing.com UK",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Michigan consumer sentiment edges higher than forecast, but remains low",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVYzLTBuZkJnWWlGQmg4d0pUN3N4dHNtU0ZIS25IcV9ydFU0VkpkY2RRemltMGZSWDBpYlpIS2ZnWEtMNmdzRE5qMERlTXZNVFc1QWZQblN2YlJla0RoNDBFaTBGOUNmMDR3TDdUN0Nha0ZPdnhqSkFNdUpUOC1MVC1EN0szUjN0Ums3ZUk1cFNFcjlONzgtQmNUejNjTlJhODA5MFdkVS0zMDNZaVZDcEhaNllQSVFlZ3lYd2h6YXRfcl8yZzVnaHl5VTFxUjQ?oc=5",
       "domain": "Investing.com",
@@ -4874,6 +4874,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan consumer sentiment edges higher than forecast, but remains low By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMnVUbFpVYWZseFJKTGJmSnVkZE45VXhsLTdqemJVaERyZnNYc1JaTGY0R21nTE90bGR0OEt4U190SmlTZFpHRFcwaWRrajg3SHI3Q0xnTVhDcXQtSmF0YzRnMlU3VVVJRm0wT1R4eUhvWnBNRWo3dEp2cW0yRndvdDl6NkNOVzFIWnZ0eHM2S3k4QUxmVEwxakhRT2U1UmFudEZNeE5jN1FlQktXbE5YdmZlbW0xQVpyWHp3dXdBTXkxaC16YUxOclZBQQ?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20260925T070000Z",
+      "date_et": "2026-09-25",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com UK",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -5269,7 +5284,7 @@
     {
       "title": "US Jobless Claims Slip to 197,000, Remain Historically Low",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWxDaXJ4MTA5dkYwOS0yMFVWSE1sUTFYNWZERjZUdEsxQ0ZEVWJTZDVIbExDZ3lTSmNpSy1vR0xsUnR3YWV2Q0toUkpLSFZJNGRsaGVqbW9mSFJfQ2VKNzllalVTRWlBUlpqZjZvZzhZdHNDaDdVMHBOTU1RbEdPMjR5QlpuUXN3bXoxWE1qXzROSDBKLTdYYWFlSm14cW5jckp6dVMyOG9qU0FqU0JGRy13?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260924T070000Z",
       "date_et": "2026-09-24",
       "time_et": "03:00",
@@ -5277,7 +5292,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
