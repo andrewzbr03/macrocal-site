@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:47:50.031Z",
+  "generated_at": "2026-10-16T14:43:44.443Z",
   "articles": [
     {
       "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
@@ -122,6 +122,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Update: Equities Mostly Higher as Investors Parse Retail Sales, Wholesale Prices Data",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZENiNU9QMVYtT0Y1eGtySjcyOFB3N21wa2Z1cnRFMVZEZkhVSEZVVlJuZWdweWlZTEFqR0RINmpMY3BhYXZRRGNzQU5KendLdjNCQWNaTVdlUDdhSW9yRzRQS0thR1BOVGZfTGVwSXdwbW0zV1BqTjI3WmVnWkJDcGduMkZIQ3JIOEhfNTRTLUFsRlZTNHZ5SV90VENNMmEzWV9zTk1R?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T163829Z",
+      "date_et": "2026-10-15",
+      "time_et": "12:38",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "September Retail Sales Rise More Than Forecast Amid Higher Gas Station Spending",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWVNbE1zaVNLZ0hkZV91S0xETnV3XzYweE5zeVV3ZXdlMmp5WkFzY1pmWG83SkVpVllpQmVjOGNfaHd1WkFZQzc3RThmdkp4NmM3eGFXVVI4MW1tZUdMd0gtcE9fVWZoT3pSRkM2Qk9zS3F1eWw4a05FTGhVSzNHaldvV2lOMHNJUFJ2VTBtc1h0N1lY?oc=5",
       "domain": "Yahoo Finance",
@@ -133,6 +148,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. retail sales rise 0.8% in September",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lTZHR4SnNXLXRjVGhZODRjeGRHdjZxaFFxYlRfdGN0ckxodm92aXRfRThVWnE4enlOUE9neFFmVEVOVjM3WlRmYmh1M2JoLXVuXzA4bHh4UzNwbnRRVUQzNmhOeHpXamlkdHVjcklhdFFxOWh6MjgwdFdwTjJmaDN5Z3lSYzFMWWNuUzh0WFd5bGZUeTc0Umd2SElyLVhCTW51S3lSNA?oc=5",
+      "domain": "BNN Bloomberg",
+      "seendate": "20261015T154804Z",
+      "date_et": "2026-10-15",
+      "time_et": "11:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "BNN Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
