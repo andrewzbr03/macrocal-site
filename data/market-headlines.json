@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:39:17.378Z",
+  "generated_at": "2026-10-16T02:40:30.768Z",
   "articles": [
     {
       "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
@@ -128,6 +128,21 @@
       "seendate": "20261015T141828Z",
       "date_et": "2026-10-15",
       "time_et": "10:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Retail Sales Rise 0.8% in September, Exceeding Economists’ Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0ZhdC1qblAxdzJZUzBocFRRc3V6YUVhTUZEVEprQUl3alN5dDBJREw3bHNWMzZ0RFk3Y3RuLVA5WWt1UE45WnRXT2pjQzBVUkVjRF9aaVNDMTJrQXFVZnFYXzdtQTVsYVFLSlBIdVFPQ0lyMmVYU3FqNWFPelZIUnJNa0NzSE0?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T132622Z",
+      "date_et": "2026-10-15",
+      "time_et": "09:26",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
