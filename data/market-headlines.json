@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-16T20:40:57.705Z",
+  "generated_at": "2026-10-16T21:39:02.459Z",
   "articles": [
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261016T213000Z",
+      "date_et": "2026-10-16",
+      "time_et": "17:30",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Did this year&#x2019;s COLA beat inflation? Here&#x2019;s how spending by American seniors stacks up so far in 2026.",
       "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
@@ -88,6 +103,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Retail sales up 0.8% in September, but a big chunk of spending went to paying gasoline bills",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcERfQVlYaXdFLUJoR1BlenBSM3hmTHQxTDJ3MjJKUUw2NzZTRndQMFNBYV9IcWhleGZHRzhvcVFuX1FuVjRBNXNVZVFEQTNKRjNHWEhrSk12Q1NDWmR3aklaNVFCdVlPck45cmZiVjNmRXpxRkEtRmc3MGdSWFRnUXRDQjlOTG43VGliR3VlX2VDeWVmS2xBRFVzUDdvZThhY1hrUU1WNA?oc=5",
+      "domain": "AP News",
+      "seendate": "20261015T174000Z",
+      "date_et": "2026-10-15",
+      "time_et": "13:40",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
