@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:36:43.157Z",
+  "generated_at": "2026-10-17T15:36:39.688Z",
   "articles": [
     {
       "title": "Anthropic's Jack Clark Tells the IMF AI Could Push US GDP to $44 Trillion",
@@ -1517,21 +1517,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims dip unexpectedly to 197,000",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2V4c3poT3NtMWI0Ukxlb1I4bU9LQ09haWoxM1dCMDV2dURzVW1ILTJwMUZEUWlxOGRoN3dRdlk1TnhHUEptaHEwbkl6blo2TmVMUW53akJkSnBQYi1Qa2RGYlllMnlNa1huWnZyU05Ibjk0aTVPSF9IV3h3QkNKdXJCUk5pQndzWW5MMV9YS2RLLWV2WTlJ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261008T143327Z",
-      "date_et": "2026-10-08",
-      "time_et": "10:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US jobless claims dip as labour market remains resilient despite hiring slowdown",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGRZOEZJSm9NUnZvbXBkajlYSmN6cnpGNVJ4UlVVWkRJVU5iSFY4ZnJVU1pldVNMX09leFpPRDRfcjMyUWsxX3h2WDNTZkNsQ0RWR2JWQzN1VW9XWEhoRERic093aTFVazJrSUNOanRnSUl6d0tiVmhfNjhPYVpHMjZ3TjZrdmU4MlBKbkloSHhIOUtxODNYQzF0cnFOb3RZMDhtRjRqNnVJZUZqS1FPb09QdUZ2MlUwb2QyM0l2d1o5d9IBxwFBVV95cUxOUkNJWTRyRzh5THdVR1R2STJUT2ZOV05BaG9RcFhXajc4V1UwYmpscF9vVjVUZFJKM2F5OG12UXNxSGUtbWUyajk0TWZKSUhMWHpUaEQzUGVaZGZFUkxuaDFkS2IxX2hZeEpnUXBQdFI2NVNZQXB6akRadUxxQmY4Vnd5b2VCU3JiNHM2MWNvaDMyWFdiUmhsem9ybjE0TGdNeE9fS0JPUnh4UmJNRjN2WC1LRVJqXzR1WGNkSHc5TGphSThaenow?oc=5",
       "domain": "CNBC TV18",
@@ -1607,6 +1592,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Czech retail sales growth eases to 4.3%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T104825Z",
+      "date_et": "2026-10-08",
+      "time_et": "06:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
       "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1637,15 +1637,15 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Czech retail sales growth eases to 4.3%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "title": "US jobless claims dip unexpectedly to 197,000",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2V4c3poT3NtMWI0Ukxlb1I4bU9LQ09haWoxM1dCMDV2dURzVW1ILTJwMUZEUWlxOGRoN3dRdlk1TnhHUEptaHEwbkl6blo2TmVMUW53akJkSnBQYi1Qa2RGYlllMnlNa1huWnZyU05Ibjk0aTVPSF9IV3h3QkNKdXJCUk5pQndzWW5MMV9YS2RLLWV2WTlJ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261008T070000Z",
       "date_et": "2026-10-08",
       "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Consumer",
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
