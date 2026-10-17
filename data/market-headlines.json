@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:38:50.702Z",
+  "generated_at": "2026-10-17T04:39:17.711Z",
   "articles": [
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -1858,6 +1858,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "FTSE 100 Edges Higher After US Jobs Report",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZLTVISVltQ1FCeHJXR3RLTDNUOUlOdkJxdHNPQkR1cENIeDBRYkg3c2hUZWJ5TEJpemhOWVlpUVZmSnJIUDYwblBMbER4bjQzYnhITk9oUFRZNUZUaE5DeFlnUkVNOWsyLVk2Y19zZjhxQjZFVnhMVTdCXzM?oc=5",
+      "domain": "Yahoo Finance UK",
+      "seendate": "20261005T070000Z",
+      "date_et": "2026-10-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
