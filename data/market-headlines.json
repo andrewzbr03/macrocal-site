@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:37:48.733Z",
+  "generated_at": "2026-10-17T06:46:24.999Z",
   "articles": [
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -1787,17 +1787,17 @@
       "timestamp_type": "published"
     },
     {
-      "title": "PepsiCo and Delta Air Lines earnings, Fed minutes, University of Michigan consumer sentiment: What to Watch",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWx5RHBvZEJCVHNvZ3ZRRnI0MXpZQVNEUWxCQXBKemRCYjBzX19hZzBkck40dkR0b2J1cG45RFpQcE5hUUxrNy1xXzFoUGJjYnVVdDAzYmhpenVrWUpKbDNuZ3R4Y3dvMTAtMjZQWjc0bldRdG1LWmluSVd6d2RzVWxiTk4tQQ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261005T120000Z",
+      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261005T111600Z",
       "date_et": "2026-10-05",
-      "time_et": "08:00",
+      "time_et": "07:16",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Consumer",
+      "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Yahoo Finance",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1862,17 +1862,17 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
-      "domain": "CNBC",
+      "title": "PepsiCo and Delta Air Lines earnings, Fed minutes, University of Michigan consumer sentiment: What to Watch",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWx5RHBvZEJCVHNvZ3ZRRnI0MXpZQVNEUWxCQXBKemRCYjBzX19hZzBkck40dkR0b2J1cG45RFpQcE5hUUxrNy1xXzFoUGJjYnVVdDAzYmhpenVrWUpKbDNuZ3R4Y3dvMTAtMjZQWjc0bldRdG1LWmluSVd6d2RzVWxiTk4tQQ?oc=5",
+      "domain": "Yahoo Finance",
       "seendate": "20261005T070000Z",
       "date_et": "2026-10-05",
       "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
-      "catalyst_tag": "Labor",
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "CNBC",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
