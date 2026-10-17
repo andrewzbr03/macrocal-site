@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:37:30.480Z",
+  "generated_at": "2026-10-17T11:36:27.880Z",
   "articles": [
     {
       "title": "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP By Reuters",
@@ -1547,6 +1547,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Czech retail sales growth eases to 4.3%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T104825Z",
+      "date_et": "2026-10-08",
+      "time_et": "06:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
       "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1571,21 +1586,6 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Czech retail sales growth eases to 4.3%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261008T070000Z",
-      "date_et": "2026-10-08",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -3148,6 +3148,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "ISM Manufacturing PMI Dips Slightly, Misses Forecast By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHJieU5kcF9kV1BfaFREYUE5WnRYLUVUNWQzNzhhelc1QWN2SFpHSWNpS1ZVV2lDazNobW05cHdlMC1QbW41X2l3SWhWNGdlem1uSGxRQUxyUnZrMDVzRWxGNkxOTFNNcDROTzNMMzNGbk9ISTlGbjJYRTZpWU82OEtBX2NTbXZfcG1ycEVpVEhqcEpZeWxvV2hZblV4bmZUN2ctbHlLXzBaQkE5OGg5ZUVn?oc=5",
+      "domain": "Investing.com Nigeria",
+      "seendate": "20261001T142336Z",
+      "date_et": "2026-10-01",
+      "time_et": "10:23",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Nigeria",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
