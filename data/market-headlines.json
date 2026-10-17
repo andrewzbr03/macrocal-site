@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:39:17.711Z",
+  "generated_at": "2026-10-17T05:37:48.733Z",
   "articles": [
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -673,6 +673,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "VIEW Hot September CPI sends rate-hike bets soaring",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXp1eVNTSWNkc1FiNVdUMTd0NEY1SDlkR0FKTUlOd0s2SU9rZEJUVkJ1d3lQSXVCeEpIS25fTkF5UkFzZUdEMXp2SUkxVDVPREpIT2ZtbHh6aFB3NnlBR1BVSWpDbHY0UFBOclp1SFVZcTdMWENmVHp0NlJzVzNoeG4tTUJGOXBxTWdlRS14WkVpUGI2b0ZzY1pFdW4?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261014T133208Z",
+      "date_et": "2026-10-14",
+      "time_et": "09:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1547,6 +1562,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Labor Department marks low layoffs milestone",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcUpUMFRVY2puYWdBT040Q1JLYjNpeEwxQ0k3Zk5uUVpacE9DbkZLTFB1VEhjMmlaa2pLSTFUODNYZWxtUTM5bHdoUnJfaE4xSy1nODNmLU1ma0xmUEVtTHJhZENoSVg5NTlV?oc=5",
+      "domain": "Axios",
+      "seendate": "20261008T070000Z",
+      "date_et": "2026-10-08",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Axios",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Watch US Jobless Claims Fall to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUYtSVRrbm1kM2p3d2lXOWNWS2ZWS0daeEpqdW9qUV8xUGxUTC0xUzlFc041V2V1cHlwQVRaTTRvMzhORlFMczZPZHlYTkVpYW1SWjBzZ0dJemloYll4OHhUQkxpRG9BU3RhcnR3SjFGYkp4QmdiaW0ybzh2WGxvRmtVa05BTDkzQjNLSnhGelZaQVE1bDZfRzdEcXg1X1Q5cURkOWJiNA?oc=5",
       "domain": "Bloomberg.com",
@@ -1772,21 +1802,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261005T111600Z",
-      "date_et": "2026-10-05",
-      "time_et": "07:16",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "What Bessent is now saying after bond yields didn&#x2019;t stop rising on &#x2018;I am the house&#x2019; remark",
       "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1843,6 +1858,21 @@
       "catalyst_tag": "Geopolitical",
       "provider": "Google News",
       "source": "Yahoo Finance UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXIzVzZXQTM2R01JbkpySk9NSFA3cHlMZUxybGpzRUYyVkZuNlFuVFZMbkhBZnBUd0NKbV9YcU53cmswVVozVmZ2YWpRWHNxNlh5S3RZbjVTWFBGRTJKd0RzTjVXRDBBUE9BUzZKMXM3VkQ5LWxPbV96UE9nNGQ3dDV5NVdfakpXcTlmZUFOZHlvOVMyWnNXRnk2Z2cyRjJHS0Y2RG9mZE52bDFoZWRZUExlMnRmaFlvSlRGdFZrOHlRWTR3SDlWRTZBWFFtUQ?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261005T070000Z",
+      "date_et": "2026-10-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -6360,7 +6390,7 @@
     {
       "title": "US Housing Starts Unexpectedly Decline on Multifamily Projects",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX194X2lRNG4zMDdWelhacjJDX3dTc09lYVpvUml4cnQ3RnZYMk10U3NGTWdQcWRvSC11UFhIako3R01mNnd5NUdockNwVXE5UTJmT2pkTXhJemUyMlNDZzM5bHdnYk1lcURMYU53MUUxWTdXU0w3a3dvM2liSjV2ZnlCbUhMaWRXVDRFbEU3NDU2WVp0eXY5NFIxaEh0MVBJZ3NNTm15OXQ2UFluWU5ta00wNA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20260917T070000Z",
       "date_et": "2026-09-17",
       "time_et": "03:00",
@@ -6368,7 +6398,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
