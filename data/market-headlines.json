@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:51:42.493Z",
+  "generated_at": "2026-10-17T01:37:50.876Z",
   "articles": [
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -4918,6 +4918,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com Nigeria",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan consumer sentiment edges higher than forecast, but remains low By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHZVVXZWcm55bUlWYk5zNUVfVGN3UndXVW5uS0ZxdlBudnUwWk5hd1pJYm15T0pKc2hmbUtMV0FBNjBvblRjdm54NldyZ2twbUp5M19NWDJVbUFFSEw1dnNwc2hReU9RUm1ZeUhNM0xnS1hKLTZ4OHd4dkdrUWh6QkVFNHdwbEhRUnduWlZlYUxOOGNzZFlvb01uZFlDblV6ZVc2Z1FoNUNVbzFHMFI4dWE4WlZmblYyb0dkQjU5RDF3UDVOdm1sOTdFTQ?oc=5",
+      "domain": "Investing.com South Africa",
+      "seendate": "20260925T141532Z",
+      "date_et": "2026-09-25",
+      "time_et": "10:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com South Africa",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
