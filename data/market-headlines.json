@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T06:46:24.999Z",
+  "generated_at": "2026-10-17T07:38:29.469Z",
   "articles": [
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -513,6 +513,21 @@
     },
     {
       "title": "PPI, retail sales, jobless claims, and oil inventories among economic data due Thursday",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWpTZVZyRVdXQTctbGM3VE14YmhZbzBhMTlVdk5fdE4zNHNPSmdhaXhVV1BsQjBELWJGSjBYSHIzaTJMMVVjNnJsaFNFY0lEZE9RRWd1OG1TUDR0RkVtOXVEMWI0X0cwcjR6bnVvTWFrOFBVR0d2UXowQTNrTXF2MlZvb3F2RFdGZkJ5RW9Va1B6WWhLelZzdUxuam1FU01pNmp6N2ZNUF93ek56RnR1LUpxVUdhVHRqT2lGdU05MzBtVzVreDRmcFI1eGhKOTBySDhCdHUwYVV4clRZWWQ4?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261014T180757Z",
+      "date_et": "2026-10-14",
+      "time_et": "14:07",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "PPI, retail sales, jobless claims, and oil inventories among economic data due Thursday",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd3dSV01VbWhzV3ZVbkQwdDUybWJYblpSazZuYVAtU3daanpEbm5ucmd6cHZIUUtEVGU2eGlaR0ZCemhjb2dHaUFKd0JZMFFETmxGdmZJR0JhdkFmVldtZ2ViVU9KWjY1bjVaZldNRmlSdE5ycmJMeUg2Yk92b2lLVUdCTWRDZW11MUY2Y1ZlaHYxZ3dKZ2JXbGc4dlU4VkJtU2VWaWhBS1I2MWNsUzBRZlBadnhRQWs1Wi1UNTVFZGJBRk9lTG16LTZqbk5MQ0NvdFhBSHJqcTYwWGh5Q3c?oc=5",
       "domain": "Investing.com Nigeria",
       "seendate": "20261014T180615Z",
@@ -716,6 +731,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Canada's Building Permits Rise More Than Expected in August Thanks to Residential Sector",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME1oV25yNzAwdWJhMW02YlpIc2IyS1dnQ2ZMaVNaUTBjb281VDJnY3lMcTlMVUJhR3BpVS1yQUp5NmFxbzBfZjBpWTBlMTRMXzB6RFdSM2hwQmcxX3JLemRTcDN4a0J5Wkx3R1pCc0lZME5iNWN4clhrb0JSbmxTMVMxZV9UdEZpZllrdXdQTkxWaFVYM1ZfOVRKZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261014T125306Z",
+      "date_et": "2026-10-14",
+      "time_et": "08:53",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -1487,21 +1517,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Czech retail sales growth eases to 4.3%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261008T104825Z",
-      "date_et": "2026-10-08",
-      "time_et": "06:48",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
       "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1526,6 +1541,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Czech retail sales growth eases to 4.3%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T070000Z",
+      "date_et": "2026-10-08",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
