@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-17T13:37:11.956Z",
+  "generated_at": "2026-10-17T14:36:43.157Z",
   "articles": [
+    {
+      "title": "Anthropic's Jack Clark Tells the IMF AI Could Push US GDP to $44 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY19kRVBzclJ2Z09lTWFMM1otSnV0azB3QW1YYlNhbGRVWWRDQm9CTlBnNWdvaF9fZnJpb2FSb25PMHFxaG1uMzNMMEFZN25rQlI4RnNBNTZDSTdHU0lBUGFLeHo3OGlBY0VTSjFnV1hTVnRLNERNRVBwT2RzVzA5SXRGdnlDcU9SakVQaE5xRk1kR29tZzdiSTB3elZpUlBy?oc=5",
+      "domain": "Startup Fortune",
+      "seendate": "20261017T135525Z",
+      "date_et": "2026-10-17",
+      "time_et": "09:55",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Startup Fortune",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
       "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
@@ -326,6 +341,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Bitcoin & XRP Slip as US PPI Inflation Comes in Hot at 6.3%, Eyes on Fed Kevin Warsh’s Speech",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTMyT0tYTjlVNy1RTXRzSmh3TFlnOURTa0lUYVkxS3JGOGp6ekVZTFpvUVFrVktxMkJLR1VEMndFRmc1ZjdIc0ZMSkFrcTBEVW1EV21yNU1SSFBXT01VQ1VQZFprTWMwVkZ0ME5fenVXcHVUVlkzdHhON2dENFk2aW9JZGswRXBVU0Z6bHZfX0JPZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T134202Z",
+      "date_et": "2026-10-15",
+      "time_et": "09:42",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -1577,21 +1607,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Czech retail sales growth eases to 4.3%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261008T104825Z",
-      "date_et": "2026-10-08",
-      "time_et": "06:48",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
       "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1616,6 +1631,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Czech retail sales growth eases to 4.3%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T070000Z",
+      "date_et": "2026-10-08",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
