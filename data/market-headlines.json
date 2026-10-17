@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:36:18.405Z",
+  "generated_at": "2026-10-17T22:34:55.697Z",
   "articles": [
     {
       "title": "Anthropic's Jack Clark Tells the IMF AI Could Push US GDP to $44 Trillion",
@@ -1382,6 +1382,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Michigan consumer sentiment dips below forecast, signals caution By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUJSeXZqanpCV21PakVTQUtaaFBiTTZiYjRHcHVaNFpSWXd4ZWR1SHBoWjBuQUNkRXZ3UW9rb2gxOFJFR1FrdG9mbmpyanZWV05sdm5JekhRMjJibWhTVkFpdjRnVTliSTBqSXFFWHZHQmlvTUpmYldNVGF6V2dRMXRLOGdTWDdOWVBEdzJEck5zV1U4V0RPZEl6ZFhDdVFGaEZDeXVMV0gtN1hZTFJTRm5VTUxnNkdjWV83aU83YjJ0UQ?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261009T140400Z",
+      "date_et": "2026-10-09",
+      "time_et": "10:04",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Michigan consumer sentiment dips below forecast, signals caution",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYV9za3dvNjV3QjRBSXQwSW5yVE5KRXJ1c0ZvYXFHbl9vekRqVHYtQjFfTEdOTGpDWko3My04WHhKQVdIUVhaelFMUTg3Qk1sckR4LUNoTGFtS0ZwVDZJOEI1MkJhWEtmdzBoVTNPbFVKcmR5aHR4VGlSSG1JZEhtRTd2ZlZCRlpwZTdKV1ROQkZlT25xNGlDZG41ZHdkYUhkLVR2bVlQVnBBY1ROaThXSzRaUHhLZnl1b0dxOFVHODVWLTdYQ2c?oc=5",
       "domain": "Investing.com",
@@ -1393,21 +1408,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Michigan consumer sentiment dips below forecast, signals caution By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUJSeXZqanpCV21PakVTQUtaaFBiTTZiYjRHcHVaNFpSWXd4ZWR1SHBoWjBuQUNkRXZ3UW9rb2gxOFJFR1FrdG9mbmpyanZWV05sdm5JekhRMjJibWhTVkFpdjRnVTliSTBqSXFFWHZHQmlvTUpmYldNVGF6V2dRMXRLOGdTWDdOWVBEdzJEck5zV1U4V0RPZEl6ZFhDdVFGaEZDeXVMV0gtN1hZTFJTRm5VTUxnNkdjWV83aU83YjJ0UQ?oc=5",
-      "domain": "Investing.com UK",
-      "seendate": "20261009T070000Z",
-      "date_et": "2026-10-09",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1592,21 +1592,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Czech retail sales growth eases to 4.3%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261008T104825Z",
-      "date_et": "2026-10-08",
-      "time_et": "06:48",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
       "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1631,6 +1616,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Czech retail sales growth eases to 4.3%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalM2NU1maXc2MzRsUUJBeV83RkFFWmZqNEpCYUwyXy03TElFd2hOUHMtWl9FNkZxeTNGbWUxNzFTaDZKT2dmVVdMNHJCcTRCX1B0bFhoNHZpX0xFcDA0S1o0SW1DLUktNjFWN1FSYjFENUhVcE54SzhycEMzM2Fwc2hmVUg4NDZEU1pCcV9vRnA5Ylk?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261008T070000Z",
+      "date_et": "2026-10-08",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
