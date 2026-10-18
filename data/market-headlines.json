@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:36:38.538Z",
+  "generated_at": "2026-10-18T16:38:25.398Z",
   "articles": [
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
@@ -545,9 +545,9 @@
       "title": "Global AI sell-off jolts European chip stocks",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHBmOVFaQWVPdFdqZEdwZVFhei00Ty1HYzNUQ0E5akFPNUZrelFfUFF6YTZtVV9JeVlCbC1zRV96UEpQWmlaaG5fcmxLVHlfUGo5bUlrRkxQWTltcGpvU3J0OUhCb2paOUdXd2l6SXZZV0czWEp0UWtJdGh0ZjZEWDdfVERONnVMNVFudXg0bDQ4UQ?oc=5",
       "domain": "CNBC",
-      "seendate": "20261015T072007Z",
+      "seendate": "20261015T071900Z",
       "date_et": "2026-10-15",
-      "time_et": "03:20",
+      "time_et": "03:19",
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
@@ -1218,6 +1218,21 @@
     },
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUtkTGNzd3dBRGhMa2FGTTdkazZtM3N1ZTBDdENWbkZEc1BUdWcyQ1lrc1dnTG44S2VGcTBJT09teXRWYV9aTWF1UEZNX0RraWl2Z2NRb2N2bTNhREM4MWozYXBMMGx1bjRxLVRaQlAydy1TOFRPXzRrOGlibWtjTVVvbTdVUno0QWtWajdwdWV3bTZxbXB0MkZYNzNfQVNkaTZjVmRZajlvNV9Jenc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261009T201317Z",
+      "date_et": "2026-10-09",
+      "time_et": "16:13",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1dJR1FrNzZWX3k1UXNVcllmS254czlsYS1kZUVKeXZ0MVdyYUo1Vzh5c25vclRBQjB2Y0NKZUxsY2lwWW1jU0pqSC1sX1k3aVc0SW8wMmFibVRxVlFZRmxSY1pNVjR3SmJETmFlUkNFZDRPTUt1NmRUNzFQYVFseEZlYkxWVU1WcG02aEhhRjFLM01GVUk5X1pTb0QwelRobVA5UzY4QVJMS3pn?oc=5",
       "domain": "Investing.com UK",
       "seendate": "20261009T200500Z",
@@ -1363,21 +1378,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com Canada",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUtkTGNzd3dBRGhMa2FGTTdkazZtM3N1ZTBDdENWbkZEc1BUdWcyQ1lrc1dnTG44S2VGcTBJT09teXRWYV9aTWF1UEZNX0RraWl2Z2NRb2N2bTNhREM4MWozYXBMMGx1bjRxLVRaQlAydy1TOFRPXzRrOGlibWtjTVVvbTdVUno0QWtWajdwdWV3bTZxbXB0MkZYNzNfQVNkaTZjVmRZajlvNV9Jenc?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261009T070000Z",
-      "date_et": "2026-10-09",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4999,7 +4999,7 @@
     {
       "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260926T070000Z",
       "date_et": "2026-09-26",
       "time_et": "03:00",
@@ -5007,7 +5007,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
