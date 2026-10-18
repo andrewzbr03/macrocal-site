@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:36:31.053Z",
+  "generated_at": "2026-10-18T22:35:40.646Z",
   "articles": [
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
@@ -499,6 +499,21 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGotYWdIU1lxZnBYdkpjajR0LUx4V3JhbkJuMEpJZ3FnUWdfbm1wa1NlU1JCUlpGb3BRM0kzQnJseHZwQUxtdm56Z3EyZHdoV19ELXNZcVF3RXJvZTNURndrNG0zcVViN0FIV0lOdjVJWXk4RDlNc09iRzB6c3NfbWw5clFCeHI0ZUNCMWF0V3Q5dkRiaG5NQldzZl9LNnNhRFMxbm1yZnRQY3pYejd2NmxKZHhlWkl2ZXdtY01DVWxTRlk1U3RPVzVIM3Q0a1k?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261015T123442Z",
+      "date_et": "2026-10-15",
+      "time_et": "08:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR09LNnZfaTYycGRLNTg2RWlpZF90X2hqQ2xoUDVqd01QMkJnVUZtU1ktM1lBOXlrUE9ybWs4N2FwWWxEQTlsdW1vQWNRMW9HS0E5WElucnRRSDllV2lrdXdhc3BZQzVrcFpXS2JzMEQ5RUdHdENaUHBDMEFlVGpQYy1rWXFfQ3BnMk1EUXYySE9MVkY4MlM0Q0dOSGVXczF3bnpXM1RDQlo3T0I3ZVBIT3FjVjE5eGVSUU9waVN4Qlo2djhM?oc=5",
       "domain": "Bloomberg.com",
       "seendate": "20261015T123442Z",
       "date_et": "2026-10-15",
@@ -1352,21 +1367,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Michigan Consumer Sentiment Index Declines More Than Expected in Preliminary October Survey",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdMdklCcndveTExN0JrNTNlbnNQZ2d3VnI1QzN6SElOOFVhNi13OTdreS1LSTlVdHRrMDdtUHBTT2F0SG5HMzZ2cFpWYm1CYkpqb210ZktONUlfNGxsWWZTR2t4S29UeTlqNzF6NmVOaWp5aEhQZUZXQzhFbDRvcEJWQ2Y1WDNRZG52RWtJaG1nM2FaZGlHQm4yLXBOQ0lyU2c?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261009T141659Z",
-      "date_et": "2026-10-09",
-      "time_et": "10:16",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US consumer sentiment deteriorates further in October",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOER2VjFnRWVGaG9OV1lwa2w5OG1yODRkMzBpdkN0c0dxbDRvMDJqcF9lNm9YN3ZoQ2s4Nlp5b1R5bklWM3FsaWxxRHB0TFBtcTNBUXVJS05NZWNLSVVhWG85MHRMVTVnMDM5QnR3V2g4OHZIZVB5NTFIN1lab3FWMkJUSWlQWjJtNnQyeDR6bmVBN1ZpODlMVVJwTWZGcm9RVGc?oc=5",
       "domain": "Yahoo Finance",
@@ -1393,6 +1393,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan Consumer Sentiment Index Declines More Than Expected in Preliminary October Survey",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdMdklCcndveTExN0JrNTNlbnNQZ2d3VnI1QzN6SElOOFVhNi13OTdreS1LSTlVdHRrMDdtUHBTT2F0SG5HMzZ2cFpWYm1CYkpqb210ZktONUlfNGxsWWZTR2t4S29UeTlqNzF6NmVOaWp5aEhQZUZXQzhFbDRvcEJWQ2Y1WDNRZG52RWtJaG1nM2FaZGlHQm4yLXBOQ0lyU2c?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261009T070000Z",
+      "date_et": "2026-10-09",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3019,6 +3034,21 @@
     {
       "title": "Update: US Equity Indexes Jump as Weak Jobs Report Slashes Fed Policy Tightening Bias, Crude Oil Slumps",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGt5WVNWVkQ4MUpIR0JJQ0JpMEcwb3NoaThPTm1KLXNUQjUwYlh4NVVDbWh4dmR4dWM2YmYzNERDZnhReFJqX0xNMFZGR3hBLVFJTjlJUE04MWowTUxGNXktZmpfUWdGUmlPM2NqSU50TTJCbVlBaTU5X3A3NUhfU0FpWWxBNXdwd1BnWklveUpRYUR1Uk00?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "S&P 500 and Nasdaq Climb After Weak Jobs Report",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUQ5U1Uxd0FrOXZpd1ZGYnBRUkREazhZZTREbXZFLTZNVmpBWEhqTGJ5S0lhWkhXUWQ3dkduX3A1cjhOMmdwcGJxb2VSOUlWdEJLWGtVNkkzaU5oWXB4Q2pRNVZPYTdVRGhheGgyTmV2ZmI4bEVnUTc3NXJqUVlTb1pHdGk0cldfbm5BVm5NdmFFQQ?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261002T070000Z",
       "date_et": "2026-10-02",
