@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:42:29.719Z",
+  "generated_at": "2026-10-19T20:40:55.577Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -1071,10 +1071,10 @@
       "release_tz": "Asia/Shanghai",
       "all_day": false,
       "period": "Q3 2026",
-      "status": "confirmed",
+      "status": "released",
       "consensus": null,
       "prior": "5.0% YoY (Q1 2026, April 16, 2026)",
-      "actual": null,
+      "actual": "+4.5% YoY (vs 4.4% consensus, 4.3% prior); +1.2% QoQ (vs 1.1% consensus, 0.9% prior)",
       "unit": "% y/y",
       "source_url": "https://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html",
       "source_name": "National Bureau of Statistics of China",
@@ -1119,7 +1119,7 @@
       "period": null,
       "status": "confirmed",
       "consensus": null,
-      "prior": null,
+      "prior": "1,275,000 annualised rate (August 2026)",
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
