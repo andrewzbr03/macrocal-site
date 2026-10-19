@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:42:11.746Z",
+  "generated_at": "2026-10-19T12:51:29.376Z",
   "articles": [
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
@@ -1248,21 +1248,6 @@
     },
     {
       "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUtkTGNzd3dBRGhMa2FGTTdkazZtM3N1ZTBDdENWbkZEc1BUdWcyQ1lrc1dnTG44S2VGcTBJT09teXRWYV9aTWF1UEZNX0RraWl2Z2NRb2N2bTNhREM4MWozYXBMMGx1bjRxLVRaQlAydy1TOFRPXzRrOGlibWtjTVVvbTdVUno0QWtWajdwdWV3bTZxbXB0MkZYNzNfQVNkaTZjVmRZajlvNV9Jenc?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261009T201317Z",
-      "date_et": "2026-10-09",
-      "time_et": "16:13",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1dJR1FrNzZWX3k1UXNVcllmS254czlsYS1kZUVKeXZ0MVdyYUo1Vzh5c25vclRBQjB2Y0NKZUxsY2lwWW1jU0pqSC1sX1k3aVc0SW8wMmFibVRxVlFZRmxSY1pNVjR3SmJETmFlUkNFZDRPTUt1NmRUNzFQYVFseEZlYkxWVU1WcG02aEhhRjFLM01GVUk5X1pTb0QwelRobVA5UzY4QVJMS3pn?oc=5",
       "domain": "Investing.com UK",
       "seendate": "20261009T200500Z",
@@ -1393,6 +1378,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com Canada",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Sentiment Weakens as Inflation Expectations Climb Again",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUtkTGNzd3dBRGhMa2FGTTdkazZtM3N1ZTBDdENWbkZEc1BUdWcyQ1lrc1dnTG44S2VGcTBJT09teXRWYV9aTWF1UEZNX0RraWl2Z2NRb2N2bTNhREM4MWozYXBMMGx1bjRxLVRaQlAydy1TOFRPXzRrOGlibWtjTVVvbTdVUno0QWtWajdwdWV3bTZxbXB0MkZYNzNfQVNkaTZjVmRZajlvNV9Jenc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261009T070000Z",
+      "date_et": "2026-10-09",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1895,9 +1895,9 @@
       "title": "Slovakian retail sales rise 1.6%",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazFQVHZ4amlFQjBOM1lfSThpa2JGVTBudEZWNGw1RGJoeEJTc1BLRWxQUlpvVEJocnFJYjJFOHF6TzhQOEtmNGRjbmZrLWpVTTFndTJYQXBRMjY1aTdjMWt6R1F3dWJ6Vl9ZcjE0Q3FGN3AzdldjRmNWVm1qdmJaSVFTZXdodDBnODNRN19zc00?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261006T131841Z",
+      "seendate": "20261006T070000Z",
       "date_et": "2026-10-06",
-      "time_et": "09:18",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
