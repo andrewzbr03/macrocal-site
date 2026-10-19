@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:40:09.528Z",
+  "generated_at": "2026-10-19T06:54:15.557Z",
   "articles": [
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
@@ -5818,6 +5818,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Canada Retail Sales Set to Rebound After Falling in July",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVU1lcnBwdlUxRzB6Y2lGZVNZMzZ5STMxdkVVYzNiQTh0T0JzREN6Z0hvWDRtdnU5RnB6QkdUUGZRckZNeVJXNUtSaXNyckNBal9TQjlqRU9YM1VRX3VyalJOWnpJNHF5M1dpeW1kNFBCN2JPTldPQ2VYREZMRVBwcUR0TGR3VUxPM0xEOFR3NHZ0MXRPT1VIdlV0WkNKa2NPREZwVFdQdjZ2Y0FPQTF2dHBfeDA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260924T070000Z",
+      "date_et": "2026-09-24",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
