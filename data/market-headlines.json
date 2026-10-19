@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-19T12:51:29.376Z",
+  "generated_at": "2026-10-19T13:54:23.658Z",
   "articles": [
+    {
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261019T133300Z",
+      "date_et": "2026-10-19",
+      "time_et": "09:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261019T132200Z",
+      "date_et": "2026-10-19",
+      "time_et": "09:22",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTFBTm5NZHNRTUhtZHZlWmM0WWhXTzd3T3ZFbDBfMFBaYl8yMzR1YkVXTTNtQmloZXR2aGxYY1hKMVNOSFM4ektZSXh1MHAxU3gxaXFQWUVWbDROdGJnalk2OWNxVVFKeHdwTFRGRzhocUN4VWtDdGxDVW1DZnBTNFlHcjcxR1c1LU5EdEtVbXNmdzYyMVE?oc=5",
@@ -44,21 +74,6 @@
       "provider": "Google News",
       "source": "Startup Fortune",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261017T130000Z",
-      "date_et": "2026-10-17",
-      "time_et": "09:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
