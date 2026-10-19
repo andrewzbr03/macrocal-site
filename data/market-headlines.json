@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T20:41:24.547Z",
+  "generated_at": "2026-10-19T21:40:29.173Z",
   "articles": [
     {
-      "title": "CoreWeave&#x2019;s selloff is a lesson in &#x2018;Finance 101&#x2019; &#x2014; and Wall Street says the stock can recover",
-      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
-      "seendate": "20261019T191700Z",
+      "seendate": "20261019T210600Z",
       "date_et": "2026-10-19",
-      "time_et": "15:17",
+      "time_et": "17:06",
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
@@ -17,12 +17,12 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "title": "CoreWeave&#x2019;s selloff is a lesson in &#x2018;Finance 101&#x2019; &#x2014; and Wall Street says the stock can recover",
+      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
-      "seendate": "20261019T165900Z",
+      "seendate": "20261019T191700Z",
       "date_et": "2026-10-19",
-      "time_et": "12:59",
+      "time_et": "15:17",
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
@@ -394,7 +394,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T152948Z",
       "date_et": "2026-10-15",
       "time_et": "11:29",
@@ -402,7 +402,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4099,7 +4099,7 @@
     {
       "title": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHItMEI0VmMzWjl0SVlBZUplMXgxYVVvRjRoUVhHd0p5OUZVQlNzWGZkM1kwR2ZfT3NGVS04aTdOZkxYd3NtRWxpOTg4NWNQVmdZZWVmdXVYMDRrS05hNW9wVVNFX0EtQTRvY25WcnhVSXMtUERtUUFxb1AzVWNudzBtRmZkeFg3ZlRvNzYxemRBVlpUemNwcGNXRmcxeVpHckxNeElyNHhGb3lMYVNDcEMxdw?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20260930T070000Z",
       "date_et": "2026-09-30",
       "time_et": "03:00",
@@ -4107,7 +4107,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },

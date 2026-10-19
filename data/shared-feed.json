@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:40:55.577Z",
+  "generated_at": "2026-10-19T21:39:59.379Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -1082,7 +1082,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00",
+      "updated_at": "2026-10-19T20:44:03+00:00",
       "note": "Covers Q3 2026"
     },
     {
@@ -1128,7 +1128,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00"
+      "updated_at": "2026-10-19T20:44:03+00:00"
     },
     {
       "date": "2026-10-22",
@@ -4573,16 +4573,16 @@
       "period": null,
       "status": "confirmed",
       "consensus": null,
-      "prior": null,
+      "prior": "1.25% (held since September 18, 2026; further meetings Oct 30 and Dec 18, 2026 precede this decision)",
       "actual": null,
       "unit": "% policy rate",
       "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
       "source_name": "Bank of Japan",
-      "url": null,
+      "url": "https://www.financecalendar.com/event/bank-of-japan-rate-decision-january-2027/",
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00",
+      "updated_at": "2026-10-19T20:44:03+00:00",
       "starts_on": "2027-01-21",
       "note": "Outlook Report; announced around midday JST"
     },
