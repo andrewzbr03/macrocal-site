@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:38:38.196Z",
+  "generated_at": "2026-10-19T23:39:22.592Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -4604,16 +4604,16 @@
       "period": null,
       "status": "estimated",
       "consensus": null,
-      "prior": null,
+      "prior": "88.7 (November 2025, most recent confirmed reading)",
       "actual": null,
       "unit": "index",
       "source_url": null,
       "source_name": "The Conference Board",
-      "url": null,
+      "url": "https://www.financecalendar.com/event/us-consumer-confidence-january-2027/",
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00"
+      "updated_at": "2026-10-19T22:41:34+00:00"
     },
     {
       "id": "bank-of-canada-rate-decision-january-2027",
