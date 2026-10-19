@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:41:17.968Z",
+  "generated_at": "2026-10-19T11:42:11.746Z",
   "articles": [
     {
       "title": "In Michigan, consumer sentiment is pessimistic before midterms",
@@ -3058,6 +3058,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. job growth cools, unemployment ticks up in last jobs report before midterms",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHIza0N4cFVQTFd3REZtSEpZYVlyZ28xQU45NFU1NGplVnh2ODlhdjhPWlBKeWtKNGxMTGxiazNjMEJlM1FpN0pjbWZDU3N2bkR6RGpLTXJXN0d3TEZZSTUwWUFjY2F5ek1DdFJaM2haZnVIMDFhNjZPMDNNUHJVbXBhU2RCQzdiVVJjb0E0bGoyRXVQZUdBNGVyTlZSMFVVZUc5REoybUc?oc=5",
+      "domain": "CBS News",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CBS News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
