@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-20T13:50:00.453Z",
+  "generated_at": "2026-10-20T14:43:29.483Z",
   "articles": [
+    {
+      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261020T140600Z",
+      "date_et": "2026-10-20",
+      "time_et": "10:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261020T131349Z",
+      "date_et": "2026-10-20",
+      "time_et": "09:13",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "US single-family housing starts, building permits tumble in September",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2htS1FUS3p1M0dBYTAxbU9HY1ViSVBFQ1JpU3NERnNQSkVTWFBTS1R4ekZVb0NEajZtM3RwTnlGVi1VZmxQdms4cHVqVGgyVWdvbERHc0ZLdUNvTFRCNVowOFR6OTFmUml2cmtsdzdfRE9sRHdDYnVXS3dtTEFqUmdjZ2tUSlNranZGNklxNzhWcmd0dHdFUElxRlA1cm9JXzcxNzhmeXphenFCUHJz?oc=5",
@@ -28,21 +58,6 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261020T123316Z",
-      "date_et": "2026-10-20",
-      "time_et": "08:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -808,6 +823,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "PPI, retail sales, jobless claims, and oil inventories among economic data due Thursday",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZW0zTmZrWnFUY0dadGFnUlVwc3cyc0huT0szOWkydG16YW5aZm1tb3lmbkpXeF9OWTIzQWl5ek1aVmNOVFJNTjJMZXFsSk5aSUtUaGZUN1VSbXZUcTRUSlBFU1RHWnBFNlc4dE1zd25sb0N4THF2VDEzclFKeG02a0ZYQ2JYcjVCQXVyOGFMclpwUnFhRWkzcUxkS29PR0x4VlJsUkQ0UG9BV21PbW1TdUZwdktkQU03U3hhR2stVmZQRmhoUUxWWXN3cVJrUExreEIzVW5kcEgxV01YNmc?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261014T180200Z",
+      "date_et": "2026-10-14",
+      "time_et": "14:02",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
