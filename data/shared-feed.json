@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:41:02.958Z",
+  "generated_at": "2026-10-20T12:50:46.419Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -1164,7 +1164,7 @@
       "period": null,
       "status": "confirmed",
       "consensus": null,
-      "prior": "206,000 initial claims (week ending August 15, 2026)",
+      "prior": "199,000 (week ending October 10, 2026)",
       "actual": null,
       "unit": "claims",
       "source_url": null,
