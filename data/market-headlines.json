@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-20T17:42:08.784Z",
+  "generated_at": "2026-10-20T18:46:01.506Z",
   "articles": [
+    {
+      "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTVVRGlGQ1o1SGRCV3pDc1gyaG1Mb0duM19na0hPZXl3YW5uZGUyUzFydXRaYnF2c0VWanJBM2pZMFBIZE1sb1JLTElhZW0xcHhHQjIzeDYzZmFVSzU0MzVNZ1lTX2F6X3FDanNXSFljNmRwQnBZS1FzNFB5eUFDSlhfTy1YVU1HYW5LQzkyTFgxSHJ6bTEyaFlTeTM?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261020T163524Z",
+      "date_et": "2026-10-20",
+      "time_et": "12:35",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
       "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
@@ -178,6 +193,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "CBS News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Anthropic Co-Founder Jack Clark Sees AI Driving US GDP Toward $44 Trillion, Delivering A Nearly 50% Surge By 2030 — ‘The Singularity Is Here’",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEY2bDB6OXZ0Q2NLXzI3LXBhZGUtelBiQlF4MjhpelV1MGhmWnhwby1mMTBhczh1XzliMG5SZUQyYVVBWUkxai1BRHdLSUlOZm8xZzQyR1lTVl8xOGFYVlBmNG51OTdUbGdzamEwaGh4WXpNNVVINFVlMTBMaXNKclg4YnNXdG1sSGpLNEUtMC0zTVNoRU50VWJ0Zw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261018T104941Z",
+      "date_et": "2026-10-18",
+      "time_et": "06:49",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1187,6 +1217,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "CPI data, Beige Book and oil inventories among economic data due Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkt2M21yeTF3d3pJZ01wNURFa2x0U211RVRQZHpHX1R4SWJTUFFCNWhfTk5zUUZwZ1BDd0xZbDMtd1JVYUlieGxWazRKaHRrWjNpYXd3Y3J0WEp0UktwLXlsWG55ZURCX2hVWXNzZ0NRTGdjQ1JIM0dPdDlBM1d0Y282VmNnR1Y3OUxNajIzS09JRmJnQmxGMlNmdXFQX3M5TmlDQUxNekVFOE5CdGhEZ3JUOWxySFFaejNCTXJiQm1aOFNWajJham42TS0tOHM?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20261013T203352Z",
+      "date_et": "2026-10-13",
+      "time_et": "16:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "How you can prepare for 6% bond yields",
       "url": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1213,21 +1258,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "CPI data, Beige Book and oil inventories among economic data due Wednesday",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkt2M21yeTF3d3pJZ01wNURFa2x0U211RVRQZHpHX1R4SWJTUFFCNWhfTk5zUUZwZ1BDd0xZbDMtd1JVYUlieGxWazRKaHRrWjNpYXd3Y3J0WEp0UktwLXlsWG55ZURCX2hVWXNzZ0NRTGdjQ1JIM0dPdDlBM1d0Y282VmNnR1Y3OUxNajIzS09JRmJnQmxGMlNmdXFQX3M5TmlDQUxNekVFOE5CdGhEZ3JUOWxySFFaejNCTXJiQm1aOFNWajJham42TS0tOHM?oc=5",
-      "domain": "Investing.com India",
-      "seendate": "20261013T180603Z",
-      "date_et": "2026-10-13",
-      "time_et": "14:06",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com India",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
