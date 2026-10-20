@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:39:09.969Z",
+  "generated_at": "2026-10-20T05:40:15.012Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -4986,17 +4986,17 @@
       "all_day": false,
       "period": null,
       "status": "estimated",
-      "consensus": null,
-      "prior": null,
+      "consensus": ", tone in the minutes, suggesting rates stay higher for longer, tends to keep mortgage and loan rates elevated; a tone suggesting the Fed is ready to cut can filter through to cheaper borrowing over t",
+      "prior": "Held at 3.50% to 3.75% (cut December 10, 2025)",
       "actual": null,
       "unit": null,
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "source_name": "Federal Reserve",
-      "url": null,
+      "url": "https://www.financecalendar.com/event/fomc-minutes-february-2027/",
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00",
+      "updated_at": "2026-10-20T04:46:32+00:00",
       "note": "Minutes of the January 26-27, 2027 FOMC meeting"
     },
     {
