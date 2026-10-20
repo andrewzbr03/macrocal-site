@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:50:46.419Z",
+  "generated_at": "2026-10-20T13:49:27.255Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -1117,10 +1117,10 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "released",
       "consensus": null,
       "prior": "1,275,000 annualised rate (August 2026)",
-      "actual": null,
+      "actual": "1,221,000 SAAR, -5.2% MoM (permits 1,400,000)",
       "unit": "thousand units, annualised",
       "source_url": null,
       "source_name": "Census Bureau",
@@ -1128,7 +1128,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T20:44:03+00:00"
+      "updated_at": "2026-10-20T13:45:19+00:00"
     },
     {
       "date": "2026-10-22",
@@ -1173,7 +1173,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-20T12:52:45+00:00"
     },
     {
       "date": "2026-10-23",
