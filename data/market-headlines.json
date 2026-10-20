@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:40:44.881Z",
+  "generated_at": "2026-10-20T17:42:08.784Z",
   "articles": [
     {
       "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
@@ -32,21 +32,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261020T131349Z",
-      "date_et": "2026-10-20",
-      "time_et": "09:13",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US Housing Starts Fall to One of the Worst Paces Since Pandemic",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHZGU1hGOWU3RkRmNTBPbm5iQkRoOUc0VW5JS0VwaUtMMWxEUzI1OGxrbG1ldWdXdkxpTzVQb2xoOU9icV9ZQjF4eHRmMjBBbTYzQU5xeFRxM1lhUGNjQXd5MFRkQWNKdFF5cGNoZFJLSk9NSmczVzFZS0RtZ2dCbQ?oc=5",
       "domain": "Yahoo Finance UK",
@@ -73,6 +58,21 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261020T123316Z",
+      "date_et": "2026-10-20",
+      "time_et": "08:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -5029,6 +5029,21 @@
     {
       "title": "September US Consumer Confidence Falls on Declines in Current Conditions, Expectations",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUVtYTFWOVViYzNmNV9MSVl4a1ozRTdZR1NvdWY2eld4ek1qM1VpckVoZlZyLVQwbms0MVlvUmVvcGp6aldjRXJsbFJvV00xTzc3MmIyRkFYTlpHaWhiZ3RVSExsTGxPeVFfVDN5LUdHS1BacVNFOWx1OGNOOE9kVjlKSGFmTUFDTTlQdE1tZzdwSXFGbGZ0bE9KdVU?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. consumer confidence hits 12-year low in September 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFF6RlN5MFFmb0RmREtZbUZteEpHaXB2M0wzZ3QwdmtEU1M1UEgxWjlpRDVHQ2E2WFVvbzk0T3RXcXk5X3pCMWlqVlR2VVI4RGRfYWhBbWppa2VjMVBxVGRCUjIwRE50cjhIeWIwTHVoTVN1MzI3VjBNVE9PajhpTnRDSXppdUlBTEpDZExfbzk?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20260929T070000Z",
       "date_et": "2026-09-29",
