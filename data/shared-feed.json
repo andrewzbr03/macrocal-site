@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:39:22.592Z",
+  "generated_at": "2026-10-20T00:52:29.431Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -4781,16 +4781,16 @@
       "period": null,
       "status": "estimated",
       "consensus": null,
-      "prior": null,
+      "prior": "+41,000 jobs (December ADP report)",
       "actual": null,
       "unit": "jobs",
       "source_url": null,
       "source_name": "ADP Research Institute",
-      "url": null,
+      "url": "https://www.financecalendar.com/event/us-adp-employment-report-february-2027/",
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00"
+      "updated_at": "2026-10-19T23:42:05+00:00"
     },
     {
       "id": "us-ism-services-pmi-february-2027",
@@ -4810,16 +4810,16 @@
       "period": null,
       "status": "estimated",
       "consensus": null,
-      "prior": null,
+      "prior": "54.1 (July 2026, latest verified)",
       "actual": null,
       "unit": "index",
       "source_url": null,
       "source_name": "Institute for Supply Management",
-      "url": null,
+      "url": "https://www.financecalendar.com/event/us-ism-services-pmi-february-2027/",
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:02:05+00:00"
+      "updated_at": "2026-10-19T23:42:05+00:00"
     },
     {
       "id": "bank-of-england-mpc-rate-decision-february-2027",
