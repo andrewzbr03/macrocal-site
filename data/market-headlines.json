@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:41:34.216Z",
+  "generated_at": "2026-10-21T04:40:27.538Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -1108,6 +1108,21 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September CPI report shows inflation accelerated to 3.7% as energy costs soared",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FOV9waFFyY1ktcHJ6LTMtcmRZa01rMHRnenRGZEgzcWlDazhQb3BRMEdPS3VJUWdHeTFIRlNHeThXMVMzU2N1OG10OXlFckhub3RxSVdSSWhVdXlUV0o1OEJhQ2RrTmRqd1ZpRTdLTk5tTVBJRmFvbWFCaWZ3dw?oc=5",
+      "domain": "CBS News",
+      "seendate": "20261014T123400Z",
+      "date_et": "2026-10-14",
+      "time_et": "08:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CBS News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4618,6 +4633,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US second-quarter GDP revised higher amid robust consumer spending",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUNjeGFUTWVjeXFTM2tZeExBbEcyLXUyMVIyZDYwV0lyOG45TDRkd0x2NUhrLWxEdVNBUmZ4LXF2clhWRW1hQ0cyalIyQTFJVzBWTG52LU5uX2J6UzVtbDMzaHhwblhxV2VpdUFoVlRrNnQ5aHk2NEVyNWFBZ3paakF5LU15NWtqNzVscVZkYzRQR0hieGFfNzlGZTZSNUxSblFhLWNXUzdaYnJ6dk9WYg?oc=5",
+      "domain": "Reuters",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
