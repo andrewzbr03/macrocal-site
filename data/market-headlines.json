@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-21T13:48:22.254Z",
+  "generated_at": "2026-10-21T14:43:40.341Z",
   "articles": [
+    {
+      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261021T134800Z",
+      "date_et": "2026-10-21",
+      "time_et": "09:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Opposition to data centers will drive up inflation, says BlackRock&#x2019;s Larry Fink",
       "url": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
@@ -44,21 +59,6 @@
       "provider": "Google News",
       "source": "Reuters",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261020T150100Z",
-      "date_et": "2026-10-20",
-      "time_et": "11:01",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
