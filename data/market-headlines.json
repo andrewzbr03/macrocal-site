@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:40:30.664Z",
+  "generated_at": "2026-10-21T03:41:34.216Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -273,6 +273,21 @@
     },
     {
       "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261017T125311Z",
+      "date_et": "2026-10-17",
+      "time_et": "08:53",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261017T113903Z",
@@ -298,21 +313,6 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261017T091500Z",
-      "date_et": "2026-10-17",
-      "time_et": "05:15",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
