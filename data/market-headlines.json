@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:39:26.242Z",
+  "generated_at": "2026-10-21T18:47:15.791Z",
   "articles": [
     {
       "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
@@ -4877,21 +4877,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Job Openings Fall to Lowest Since March, Layoffs Subdued",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2tuR0p2Zm10b2JFb2dDMmhjZHo5cFl4dFhuLUpMNmZ2WF9DVFZldmNQOThMQTRhbTZ6M01iSjAxWDVHNEcyQ2Q4N0VDUHRNcEVZSFNmLVRYRVlBVHFSQlNDUl95VXpKSWZFM19aR1pNX1habXpGSDAyd1NkMzFOYlJodEdzcUdNSUtVbUhDTU9DTGl6ZkVHYVQ1M1JQMmNnZk54QmRvUFBhNlhuQkE5cDVqY0I?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20260929T151709Z",
-      "date_et": "2026-09-29",
-      "time_et": "11:17",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings slid to 7.1 million in August but labor market remains resilient despite high energy costs",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeE56RGFkNVFiV3Y0RHlSd09EVVYwRjQ0U1dZZnUydDc5Y080TW9hT2o2ZmZzeU5VTThwWW40Rl8zZ1dleXg4eWtHclFZSWZMWjFVaF9tR0xkcUQzbFdEbmpEMElUNkZZdzRMUlB0UnpRdVZKTDlLNlU0dVZ4dmlWUk9DUFk5dFE?oc=5",
       "domain": "Yahoo Finance",
@@ -4916,6 +4901,21 @@
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Job Openings Fall to Lowest Since March, Layoffs Subdued",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2tuR0p2Zm10b2JFb2dDMmhjZHo5cFl4dFhuLUpMNmZ2WF9DVFZldmNQOThMQTRhbTZ6M01iSjAxWDVHNEcyQ2Q4N0VDUHRNcEVZSFNmLVRYRVlBVHFSQlNDUl95VXpKSWZFM19aR1pNX1habXpGSDAyd1NkMzFOYlJodEdzcUdNSUtVbUhDTU9DTGl6ZkVHYVQ1M1JQMmNnZk54QmRvUFBhNlhuQkE5cDVqY0I?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
       "link_type": "google_news",
