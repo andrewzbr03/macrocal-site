@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:40:30.942Z",
+  "generated_at": "2026-10-21T06:50:36.867Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -3677,21 +3677,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Initial Jobless Claims Fall to 197,000, Below Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE5aRXc2VEl1ckRORmNxaXVkc1BDSWotNlEzZnRpQVJ1WXZLeG8taDBFaUhtbE1YckM2T3pMNmpJbElFbUJZLUp5VjZIYU5DaGZlYVlid0ZLQW5sWG01QVphV3VxQThEWkp5Z0FSZzFNSTY1UVRDSG5IMjdjaERMTmZIMnBJUGtOT2lNWEtrS1ctdw?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261001T125455Z",
-      "date_et": "2026-10-01",
-      "time_et": "08:54",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Stocks Mostly Up Pre-Bell as Traders Shift Focus to Upcoming Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUh1NWJ2REo1QTltLV9tMFlhU0E4UkFVTXlYRFRCR3c3S3VLaWFUZDlpaGRtWVQzSjBma0hmRVIwTlBsT0llazFBQXJoYkRrYmRLbjRjVXdIUWFxd1NUQXpHQ0hrSGtYY2QyOHJkOVBwWXJJWVNLY2ZCVkZJYnN1SERaYVlpNzVQcFFEZHlXVDgyMGNFWmVWTjNYQQ?oc=5",
       "domain": "Yahoo Finance",
@@ -3731,6 +3716,21 @@
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Initial Jobless Claims Fall to 197,000, Below Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE5aRXc2VEl1ckRORmNxaXVkc1BDSWotNlEzZnRpQVJ1WXZLeG8taDBFaUhtbE1YckM2T3pMNmpJbElFbUJZLUp5VjZIYU5DaGZlYVlid0ZLQW5sWG01QVphV3VxQThEWkp5Z0FSZzFNSTY1UVRDSG5IMjdjaERMTmZIMnBJUGtOT2lNWEtrS1ctdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -5171,6 +5171,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer confidence near 12-1/2-year low amid labor market fears",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGpZcWVNeGh1Tml0ZUNwODEwX1Bnc3cwaGNjTmVSWXpEeHdQX1VxTml5MlJxMUJ1X2pFVUtveW15UmRSRVpGaGRDU3lLUVF1YXhSZElueXVkVzFPZFJZUnBTZFQzemhaanQyTjViSXFNSFllOEt1eVFjNWJDTjhlOXNCTmhuWHMyWk1kTjl1cDRIcXUyYWc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
