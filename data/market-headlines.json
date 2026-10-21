@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:41:50.628Z",
+  "generated_at": "2026-10-21T20:41:43.349Z",
   "articles": [
     {
       "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
@@ -163,6 +163,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US holiday retail sales forecast to reach US$1.013 trillion in 2026",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVpS1haWTlfTVNfWlcwY1NraHJ6RjFqT2dOS1BzNzZ0VVUxc2dxdWxWYVdCeHlWZlo2YVZSU0E4NkE5eVMxdFVQbkhrU2JNWUtFY2JnNWl3cWNzTFREZ0tCUWM3dnNqcHNlTGdTMkN5cjVvNjl2THJUS3c1MUUxSllnSEc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261020T015400Z",
+      "date_et": "2026-10-19",
+      "time_et": "21:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -491,6 +506,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjd2SV90YWRKSHlQTTNockxKdmJiNjU5Mzl1a0x0ZlY3LVBHUFVJak5KTGc3eXF3TlpMX191MHROd2VtTkZSYzBzXzdTNktPcTlMZDdDX1NuQmVZYjFtT3RmQlhCUG1TeTBTRGFVN3phM2lHQUgyOU04TVBrMjQ1YU8xQnp4VVNtMDhzR04zNWdvRk9fc09oelNDVjM?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T172801Z",
+      "date_et": "2026-10-15",
+      "time_et": "13:28",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
@@ -853,6 +883,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Hot CPI Revives the Case for Sticky Inflation and Higher Fed Rate Risk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpvTzA3YWQ0R0ViUnltWUNRN3Rsczg3cHZ4LWdtOUhnYUVZTFhsZmlLcnd1Vjl2QVZ4dExrbng3N1RSV1pZbFlGZF9JM2F2QmJ5bzJKS0swZmxURy0wNGxSY2l6NFZXMzhzMzVZTEc0N21Xbm5OX1RWdVZVZGN6cU14V3JrRjZkb1NlS0gwUTBndUQxeFFrdDV0M0lLTzFKQnlwODZjMDdpUF95eGl0MA?oc=5",
+      "domain": "Investing.com Nigeria",
+      "seendate": "20261014T212013Z",
+      "date_et": "2026-10-14",
+      "time_et": "17:20",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com Nigeria",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
