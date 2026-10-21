@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:43:18.693Z",
+  "generated_at": "2026-10-21T02:40:30.664Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -3317,6 +3317,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "September US Nonfarm Payrolls Rise Less Than Expected, Unemployment Rate Up",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHp4bGkxcnJKLWIxOXpGSFlweUZQeWFpRXVpSnNkM1VaWmQ1djh0OGRlNU9WaGpQN0gtbEQ2SjNKcnViYzRfTk1EdGNoXzVGa3RGN0Y3YkFTR2h0b2R0ZmJzOEYzaEUyZnYyaUxadmZGZ0tCT0FWc3lubFdkR3ZoNUV1RFgwM2xUNFlHQm1TMHRvYk9VS093?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTZJa2EyZ181amxFRGo2WHhlcUNtZkxiSmlPOTJDNUpKSk9GSUFCa3owbGZPMUt1QkxoOGVUNlBTSkpreklRWC1GNzRmXzNWeHJEalVvSk5KWWpPbWRQUTdPcFlqQUZaVVVncXdKd25aSVVCeENaYllPOC1qQ0tqeHJ2dlJyYkhKdDVvMS1fUGpTQXBhQUpCbW1wVU5lMEJkVmF3REZ2MUxiZU00c3otR3hndUwzNF9OUmZTS2dMWXVlbDl1a2c?oc=5",
       "domain": "Investing.com",
@@ -3853,6 +3868,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. Q2 2026 GDP revised up to 2.2%, beating estimates",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1luaWVrckZqczFoUTl5anBpeU40WDJBVDZDaTF3OC1FMW5PeUZZQkp5aGVEXy1WV1RGRjdaU2tOdWRUenVXU1hLRFU4QnRXWlZ6WHllenhWSUUxV3MzT3JwQWk0VHh3ZVp0TEdtNXNNWEpJaVRWWUdCR3g2b0pRaVExT2V2UQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
