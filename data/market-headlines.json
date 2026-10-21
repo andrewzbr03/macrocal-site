@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:45:45.186Z",
+  "generated_at": "2026-10-21T09:41:58.132Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -1003,6 +1003,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "AP News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Nonfarm payroll employment increased in 9 metropolitan areas over the year ending August 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPejF2LVlOUEtyak1IZHV2M3RCaWl1LW4xUDRPSTNBZU85MGRyR2lIYW5sYVdXT3k3RFdUZ0pLcktLWEJzRHA1M29aLWlNenlNMFp4SW1YbXduOHl6Y2RGOUIxeEo3alNuZllITDRRUmxlcDFzRjRLX3dORlU3VFRyNWY5WFFxZWZKZ2dMeXAyTW5DMUQ4SGhIblRscWFiUVlaVzhhTlRfZjVUSnljQ0o0SnZ3bE90S0ptT0I0bUpReGdCaEFtcm5LekYyUQ?oc=5",
+      "domain": "Bureau of Labor Statistics (.gov)",
+      "seendate": "20261014T152108Z",
+      "date_et": "2026-10-14",
+      "time_et": "11:21",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bureau of Labor Statistics (.gov)",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
