@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:41:23.606Z",
+  "generated_at": "2026-10-21T12:50:22.828Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -1209,7 +1209,7 @@
       "period": null,
       "status": "confirmed",
       "consensus": null,
-      "prior": "55.2 (July 2026, final)",
+      "prior": "46.3 (preliminary, October 2026)",
       "actual": null,
       "unit": "index",
       "source_url": null,

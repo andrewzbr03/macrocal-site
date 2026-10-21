@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:41:42.433Z",
+  "generated_at": "2026-10-21T12:50:41.686Z",
   "articles": [
     {
       "title": "Opposition to data centers will drive up inflation, says BlackRock&#x2019;s Larry Fink",
@@ -2104,7 +2104,7 @@
     {
       "title": "State Spotlight: Consumer Spending Increased in All States in 2025",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1hIdlVGZXRZOXdIbmcwWkx4MkFlSGxzcXd3ekxRS0RGWVVNVXFPY1dNbXM1UzhucjNfcU5oeFFYcmtxMXBEbWlLcmkxci1MTGJxem5IeVluTDVodXoybnI2XzdscFJSTXVMNmo5Ty1EXzVyUzlqem9wVWZkbDRheHU2WEpIbnY1TG4yblRLQi1aTWw5a3k2d3BZNUc0VmVpWUE?oc=5",
-      "domain": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
+      "domain": "Bureau of Economic Analysis (BEA) (.gov)",
       "seendate": "20261007T070000Z",
       "date_et": "2026-10-07",
       "time_et": "03:00",
@@ -2112,7 +2112,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
+      "source": "Bureau of Economic Analysis (BEA) (.gov)",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2552,21 +2552,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. labor market slows with midterms on the horizon",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHAyRS1ZQlRES2dOclZhelhWNDVucUZRanNFQUhlN0dRR1d3R2l3VkxVRWU4TlNva0FuQVdIMUdGSkxfTGtRYjVTQVFoRE9uRjJPdkk5Zmg4S3hkYU8tUnlLZWFXN2ZhTUxPS2xEVzRUb3V5czVXVW1zMTlmOUltdi1uZ3FXRzVUbGk1VjB4MEdMOG4yNXNrQzNaX1RGMERtS2Z6dWo2UklGM1NKMW9HMnlIWGVQWnl6NWFfU3UyVQ?oc=5",
-      "domain": "NBC News",
-      "seendate": "20261002T200549Z",
-      "date_et": "2026-10-02",
-      "time_et": "16:05",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "NBC News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "How much higher can bond yields rise &#x2014; and what does it mean for stocks?",
       "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2818,6 +2803,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. labor market slows with midterms on the horizon",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHAyRS1ZQlRES2dOclZhelhWNDVucUZRanNFQUhlN0dRR1d3R2l3VkxVRWU4TlNva0FuQVdIMUdGSkxfTGtRYjVTQVFoRE9uRjJPdkk5Zmg4S3hkYU8tUnlLZWFXN2ZhTUxPS2xEVzRUb3V5czVXVW1zMTlmOUltdi1uZ3FXRzVUbGk1VjB4MEdMOG4yNXNrQzNaX1RGMERtS2Z6dWo2UklGM1NKMW9HMnlIWGVQWnl6NWFfU3UyVQ?oc=5",
+      "domain": "NBC News",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "NBC News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
