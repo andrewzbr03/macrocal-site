@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:36:50.081Z",
+  "generated_at": "2026-10-21T00:52:06.031Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -44,6 +44,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "2 Mutual Funds to Boost Your Portfolio on Solid Jump in Retail Sales",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNG5JWnVTV0M5ZmR0OHVJWGxkaHRJUmNYZHlnS3M1bG50OHE5V1NST3ByaVgwRWI1RUNHOWFxUEVXZmlwckl3WXdnZXZXYWREekpxbkNHSFZDTzlTNVhyRFlBbnREWm5adkVCYXVCSXdHQjk5ZTUwQTB6VXY5dDdJanFiMkRJc2FIRk5jSTRUYjc4d2w3elhuMWN0MA?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261020T140000Z",
+      "date_et": "2026-10-20",
+      "time_et": "10:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
