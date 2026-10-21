@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:43:31.935Z",
+  "generated_at": "2026-10-21T16:41:36.110Z",
   "events": [
     {
       "date": "2026-09-24",
@@ -84,7 +84,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-home-sales-september-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -129,7 +129,7 @@
       "actual": null,
       "unit": "index",
       "source_url": null,
-      "source_name": "University of Michigan",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-september-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -281,7 +281,7 @@
       "actual": null,
       "unit": "% q/q annualised",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-gross-domestic-product-september-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -290,8 +290,8 @@
     },
     {
       "id": "us-personal-income-and-outlays-pce-september-2026",
-      "series_code": "us-pce",
-      "series_name": "US Personal Income and Outlays (PCE)",
+      "series_code": "us-retail-sales",
+      "series_name": "US Retail Sales",
       "name": "PCE inflation",
       "title": "US Personal Income and Outlays (PCE) September 2026",
       "country": "US",
@@ -308,9 +308,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% y/y",
+      "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-september-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -491,7 +491,7 @@
       "actual": null,
       "unit": "jobs",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-employment-situation-non-farm-payrolls-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -581,7 +581,7 @@
       "actual": null,
       "unit": "USD bn",
       "source_url": null,
-      "source_name": "Census Bureau and BEA",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-international-trade-balance-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -807,7 +807,7 @@
       "actual": null,
       "unit": "% y/y",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-cpi-report-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -958,7 +958,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-producer-price-index-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -967,8 +967,8 @@
     },
     {
       "id": "us-retail-sales-october-2026",
-      "series_code": "us-retail-sales",
-      "series_name": "US Retail Sales",
+      "series_code": "us-pce",
+      "series_name": "US Personal Income and Outlays (PCE)",
       "name": "Retail Sales",
       "title": "US Retail Sales October 2026",
       "country": "US",
@@ -985,9 +985,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% m/m",
+      "unit": "% y/y",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-retail-sales-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1032,7 +1032,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Federal Reserve",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-industrial-production-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1123,7 +1123,7 @@
       "actual": "1,221,000 SAAR, -5.2% MoM (permits 1,400,000)",
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1162,7 +1162,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "199,000 (week ending October 10, 2026)",
       "actual": null,
@@ -1173,7 +1173,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-20T12:52:45+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-10-23",
@@ -1213,7 +1213,7 @@
       "actual": null,
       "unit": "index",
       "source_url": null,
-      "source_name": "University of Michigan",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1303,7 +1303,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-home-sales-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1472,7 +1472,7 @@
       "actual": null,
       "unit": "% q/q annualised",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-gross-domestic-product-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1495,7 +1495,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": null,
       "actual": null,
@@ -1506,12 +1506,12 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-personal-income-and-outlays-pce-october-2026",
-      "series_code": "us-pce",
-      "series_name": "US Personal Income and Outlays (PCE)",
+      "series_code": "us-retail-sales",
+      "series_name": "US Retail Sales",
       "name": "PCE inflation",
       "title": "US Personal Income and Outlays (PCE) October 2026",
       "country": "US",
@@ -1528,9 +1528,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% y/y",
+      "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-october-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1730,7 +1730,7 @@
       "actual": null,
       "unit": "million openings",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-jolts-job-openings-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -1896,7 +1896,7 @@
       "actual": null,
       "unit": "USD bn",
       "source_url": null,
-      "source_name": "Census Bureau and BEA",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-international-trade-balance-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2026,7 +2026,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "203,000 (week ended August 15, 2026, most recent confirmed figure found in research)",
       "actual": null,
@@ -2037,7 +2037,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-11-06",
@@ -2077,7 +2077,7 @@
       "actual": null,
       "unit": "jobs",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-employment-situation-non-farm-payrolls-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2122,7 +2122,7 @@
       "actual": null,
       "unit": "% y/y",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-cpi-report-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2161,7 +2161,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "Around 203,000 to 206,000 (recent 2026 weekly readings)",
       "actual": null,
@@ -2172,7 +2172,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-11-12",
@@ -2257,7 +2257,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-producer-price-index-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2282,8 +2282,8 @@
     },
     {
       "id": "us-retail-sales-november-2026",
-      "series_code": "us-retail-sales",
-      "series_name": "US Retail Sales",
+      "series_code": "us-pce",
+      "series_name": "US Personal Income and Outlays (PCE)",
       "name": "Retail Sales",
       "title": "US Retail Sales November 2026",
       "country": "US",
@@ -2300,9 +2300,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% m/m",
+      "unit": "% y/y",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-retail-sales-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2347,7 +2347,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Federal Reserve",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-industrial-production-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2392,7 +2392,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2477,7 +2477,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": null,
       "actual": null,
@@ -2488,7 +2488,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-11-20",
@@ -2528,7 +2528,7 @@
       "actual": null,
       "unit": "index",
       "source_url": null,
-      "source_name": "University of Michigan",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2650,7 +2650,7 @@
       "actual": null,
       "unit": "% q/q annualised",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-gross-domestic-product-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2679,7 +2679,7 @@
       "actual": null,
       "unit": "claims",
       "source_url": null,
-      "source_name": "Department of Labor",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-initial-jobless-claims-november-25-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2688,8 +2688,8 @@
     },
     {
       "id": "us-personal-income-and-outlays-pce-november-2026",
-      "series_code": "us-pce",
-      "series_name": "US Personal Income and Outlays (PCE)",
+      "series_code": "us-retail-sales",
+      "series_name": "US Retail Sales",
       "name": "PCE inflation",
       "title": "US Personal Income and Outlays (PCE) November 2026",
       "country": "US",
@@ -2706,9 +2706,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% y/y",
+      "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2753,7 +2753,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-home-sales-november-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -2832,7 +2832,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-12-01",
@@ -2963,7 +2963,7 @@
       "actual": null,
       "unit": "million openings",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-jolts-job-openings-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3047,7 +3047,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "See November 19, 2026 report",
       "actual": null,
@@ -3058,7 +3058,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-12-03",
@@ -3143,7 +3143,7 @@
       "actual": null,
       "unit": "jobs",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-employment-situation-non-farm-payrolls-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3204,7 +3204,7 @@
       "actual": null,
       "unit": "USD bn",
       "source_url": null,
-      "source_name": "Census Bureau and BEA",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-international-trade-balance-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3432,7 +3432,7 @@
       "actual": null,
       "unit": "% y/y",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-cpi-report-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3455,7 +3455,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "220,000 (week ending Nov 15, 2025)",
       "actual": null,
@@ -3466,7 +3466,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-12-15",
@@ -3506,7 +3506,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Labor Statistics",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-producer-price-index-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3531,8 +3531,8 @@
     },
     {
       "id": "us-retail-sales-december-2026",
-      "series_code": "us-retail-sales",
-      "series_name": "US Retail Sales",
+      "series_code": "us-pce",
+      "series_name": "US Personal Income and Outlays (PCE)",
       "name": "Retail Sales",
       "title": "US Retail Sales December 2026",
       "country": "US",
@@ -3549,9 +3549,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% m/m",
+      "unit": "% y/y",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-retail-sales-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3596,7 +3596,7 @@
       "actual": null,
       "unit": "% m/m",
       "source_url": null,
-      "source_name": "Federal Reserve",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-industrial-production-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3743,7 +3743,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "Pending (week ending December 5, 2026 release)",
       "actual": null,
@@ -3754,7 +3754,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-new-residential-construction-housing-starts-december-2026",
@@ -3778,7 +3778,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3839,7 +3839,7 @@
       "actual": null,
       "unit": "index",
       "source_url": null,
-      "source_name": "University of Michigan",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3931,7 +3931,7 @@
       "actual": null,
       "unit": "% q/q annualised",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-gross-domestic-product-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -3940,8 +3940,8 @@
     },
     {
       "id": "us-personal-income-and-outlays-pce-december-2026",
-      "series_code": "us-pce",
-      "series_name": "US Personal Income and Outlays (PCE)",
+      "series_code": "us-retail-sales",
+      "series_name": "US Retail Sales",
       "name": "PCE inflation",
       "title": "US Personal Income and Outlays (PCE) December 2026",
       "country": "US",
@@ -3958,9 +3958,9 @@
       "consensus": null,
       "prior": null,
       "actual": null,
-      "unit": "% y/y",
+      "unit": "% m/m",
       "source_url": null,
-      "source_name": "Bureau of Economic Analysis",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -4005,7 +4005,7 @@
       "actual": null,
       "unit": "thousand units, annualised",
       "source_url": null,
-      "source_name": "Census Bureau",
+      "source_name": null,
       "url": "https://www.financecalendar.com/event/us-new-home-sales-december-2026/",
       "exchange": null,
       "holiday_status": null,
@@ -4044,7 +4044,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": "203,000 (week ending August 22, 2026, most recent confirmed reading)",
       "actual": null,
@@ -4055,7 +4055,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2026-12-29",
@@ -4180,7 +4180,7 @@
       "release_tz": "America/New_York",
       "all_day": false,
       "period": null,
-      "status": "confirmed",
+      "status": "estimated",
       "consensus": null,
       "prior": null,
       "actual": null,
@@ -4191,7 +4191,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:47:07+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2027-01-01",
@@ -4403,7 +4403,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2027-01-13",
@@ -4478,7 +4478,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "date": "2027-01-17",
@@ -4553,7 +4553,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "bank-of-japan-rate-decision-january-2027",
@@ -4702,7 +4702,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-ism-manufacturing-pmi-february-2027",
@@ -4908,7 +4908,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "rba-rate-decision-february-2027",
@@ -4967,7 +4967,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "fomc-minutes-february-2027",
@@ -5026,7 +5026,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-consumer-confidence-february-2027",
@@ -5114,7 +5114,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-ism-manufacturing-pmi-march-2027",
@@ -5319,7 +5319,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-initial-jobless-claims-march-11-2027",
@@ -5348,7 +5348,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "fomc-rate-decision-march-2027",
@@ -5437,7 +5437,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "ecb-rate-decision-march-2027",
@@ -5557,7 +5557,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-consumer-confidence-march-2027",
@@ -5645,7 +5645,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "us-ism-manufacturing-pmi-april-2027",
@@ -5791,7 +5791,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "beige-book-april-2027",
@@ -5850,7 +5850,7 @@
       "exchange": null,
       "holiday_status": null,
       "close_time_local": null,
-      "updated_at": "2026-10-19T16:26:34+00:00"
+      "updated_at": "2026-10-21T15:45:45+00:00"
     },
     {
       "id": "china-gdp-april-2027",
