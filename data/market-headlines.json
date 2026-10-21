@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:50:03.592Z",
+  "generated_at": "2026-10-21T08:45:45.186Z",
   "articles": [
     {
       "title": "September Housing Starts Fall to Four-Month Low as Permits Edge Lower",
@@ -77,6 +77,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261020T131349Z",
+      "date_et": "2026-10-20",
+      "time_et": "09:13",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "September US Housing Starts, Permits Both Decline, Completions Up",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHVjTmk4djRtWlFIWV9ZZjhDYlRWdE5aeHdmSXZ3TXExY2hmQnRCUm9LZXpfR0I3Q0hYYlBpMzF6dUoydFVRZ1FqenN4VXJxeWhlTHdLRUZjajBFbnR6Z0ozZjF6V1dYQlVnTjFEanlwSWRkQ1YxcGwyRGRwWVdkbzdBZW9TTFJLbTg5OG9fbDRMb3FYUXI4aVVYMW5EQQ?oc=5",
       "domain": "Yahoo Finance",
@@ -103,21 +118,6 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261020T123316Z",
-      "date_et": "2026-10-20",
-      "time_et": "08:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
