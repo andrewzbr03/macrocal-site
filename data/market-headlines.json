@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-22T18:46:41.449Z",
+  "generated_at": "2026-10-22T19:42:32.142Z",
   "articles": [
+    {
+      "title": "Moderna&#x2019;s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+      "url": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261022T193100Z",
+      "date_et": "2026-10-22",
+      "time_et": "15:31",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trade / Sanctions",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "PMI data and consumer sentiment among economic releases due Friday",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnU0aU04WEN5X2NkMTBKVm1QVGJVTlE1bndiMVJBOUJiLWxjNDdnZ3hSWkJSQlJMYnA0STV0a05ab1o5T043XzFSMFBDZ1VnUWctd0ZvMHFMNUtsVzhKZEtrYUFQUHBuSjFxcHdrU3AyQlR0ZWhMRzE1cWFaZnMzMko2SHFSQmZZbHE0WENuU21PbUpkazBVdWxUdTlTSEp6X0NmSHMzZU4tcXNXWFRsUGlsOF82MUptNWdSREFkcS1pU2UwM2tR?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261022T180908Z",
+      "date_et": "2026-10-22",
+      "time_et": "14:09",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "PMI data and consumer sentiment among economic releases due Friday By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3RINERvZWQ3U1hpUzN2YzlFelFmMWJyRlZ6akNmRlhOclRYUUN1UFhfdENyZXJPb2VHQVhQSUstNkZlTmtSU295dVY3cnhWLWRJOTNoazIzYllaVldtcWE4TjY4NmdTUWFBcFpzbEpSMHZ4ekxnWXVfTHJEWXc1bzVuaTRHY3hLdUZxTHpDeHJOMDZvNTUyelV3NWFDZVZ3VU4xdm9JenFmT25DNjI4ZVFpY0VfaW5PQWFHZkNLdXZCLTJFMHc?oc=5",
@@ -47,21 +77,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261022T125311Z",
-      "date_et": "2026-10-22",
-      "time_et": "08:53",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US jobless claims fell to 194,000 last week, lowest since July",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVMxRFAzb3Zub0ZNSEgwc09QUENPdTcwUDlaNTl3cEJEMm05R3NENi1sdkk5bE5scXA0MWIzYVdIVjFZVUNNTUlsRk9Qd2tYQk55WHdfODJpcU5WZmZaaDNmbDdOaUdhaGlCU3MxLTd2S1M3S0JDX3RGdklJcFNCQnhhcG5mZFpnNGdBSkxQWExMU0NKaTlpNnJRSlM?oc=5",
       "domain": "AP News",
@@ -104,6 +119,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261022T000000Z",
+      "date_et": "2026-10-21",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -1232,21 +1262,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Surging gas prices pushed CPI inflation to 3.7% in September. The Fed is watching.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzNLSENWZExEV0pwc2lETmxxNFA4dV9rNXlqcnZXOGlaTjVOTXItRUowQTdPY05MUTQ0R0U1LUl2WWtqcllWQk4tZXdtd1pJYm5pVFJDclRiYkgwejJCQk9CWkNBN3FZUUFwcmZrUkhZWXVFSF9VT0VBaUo2X1FrUWNwU3lIM1BaS0Vlc0NvUmp3bUdQTERpeVdOLVlDSXM5bTJ1QldBN2RjV3ZFOFozR3h1YXY4NzFDeXZ3VlZNTFRzd0xsUG0yUzBpR3hZTklE?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261014T133518Z",
-      "date_et": "2026-10-14",
-      "time_et": "09:35",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "VIEW Hot September CPI sends rate-hike bets soaring",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXp1eVNTSWNkc1FiNVdUMTd0NEY1SDlkR0FKTUlOd0s2SU9rZEJUVkJ1d3lQSXVCeEpIS25fTkF5UkFzZUdEMXp2SUkxVDVPREpIT2ZtbHh6aFB3NnlBR1BVSWpDbHY0UFBOclp1SFVZcTdMWENmVHp0NlJzVzNoeG4tTUJGOXBxTWdlRS14WkVpUGI2b0ZzY1pFdW4?oc=5",
       "domain": "Reuters",
@@ -1352,12 +1367,27 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Surging gas prices pushed CPI inflation to 3.7% in September. The Fed is watching.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzNLSENWZExEV0pwc2lETmxxNFA4dV9rNXlqcnZXOGlaTjVOTXItRUowQTdPY05MUTQ0R0U1LUl2WWtqcllWQk4tZXdtd1pJYm5pVFJDclRiYkgwejJCQk9CWkNBN3FZUUFwcmZrUkhZWXVFSF9VT0VBaUo2X1FrUWNwU3lIM1BaS0Vlc0NvUmp3bUdQTERpeVdOLVlDSXM5bTJ1QldBN2RjV3ZFOFozR3h1YXY4NzFDeXZ3VlZNTFRzd0xsUG0yUzBpR3hZTklE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2tMMWR6VndxZ3BieEtlc2x3bVYtemRBenlFMndFRGxiQ1o1UngxUnFLb1VrMXdCUHYzbUR0a2p6d2lHa2twcU5mQWd6ODIxdk4tdGhLTEREN3VndDFrd1NDY3R2Rm5VTTJ6SFdxVnZzS3NaczlCMG5GcGRVVHpoZ1Bn0gGHAUFVX3lxTE1fNTFuZmRWb092MjVDZHFGTmE1SDFld2RJeFpsdGd2UEF2aEhJbE5Pb2xHbDNYc01WZ09BT3lxOEd6M1g1MjBfQS1pSE5RcmdSNHJYRnBzTy1JVzkzSFZyNlYxOEUtNUpmQnVUUG5nM3l5WTNyQXNTbG5vRVZ0T1duSUd1bUZPdw?oc=5",
       "domain": "CNBC",
-      "seendate": "20261014T072057Z",
+      "seendate": "20261014T070000Z",
       "date_et": "2026-10-14",
-      "time_et": "03:20",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
