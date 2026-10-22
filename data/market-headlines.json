@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22T21:39:15.626Z",
+  "generated_at": "2026-10-22T22:38:28.652Z",
   "articles": [
     {
-      "title": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here&#x2019;s what&#x2019;s going on.",
       "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
-      "seendate": "20261022T213200Z",
+      "seendate": "20261022T220700Z",
       "date_et": "2026-10-22",
-      "time_et": "17:32",
-      "effect_reported": false,
+      "time_et": "18:07",
+      "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
       "provider": "Publisher RSS",
@@ -137,21 +137,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261022T125311Z",
-      "date_et": "2026-10-22",
-      "time_et": "08:53",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US jobless claims fell to 194,000 last week, lowest since July",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVMxRFAzb3Zub0ZNSEgwc09QUENPdTcwUDlaNTl3cEJEMm05R3NENi1sdkk5bE5scXA0MWIzYVdIVjFZVUNNTUlsRk9Qd2tYQk55WHdfODJpcU5WZmZaaDNmbDdOaUdhaGlCU3MxLTd2S1M3S0JDX3RGdklJcFNCQnhhcG5mZFpnNGdBSkxQWExMU0NKaTlpNnJRSlM?oc=5",
       "domain": "AP News",
@@ -194,6 +179,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261022T000000Z",
+      "date_et": "2026-10-21",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
