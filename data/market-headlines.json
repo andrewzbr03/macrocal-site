@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-22T17:38:35.369Z",
+  "generated_at": "2026-10-22T18:46:41.449Z",
   "articles": [
+    {
+      "title": "PMI data and consumer sentiment among economic releases due Friday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3RINERvZWQ3U1hpUzN2YzlFelFmMWJyRlZ6akNmRlhOclRYUUN1UFhfdENyZXJPb2VHQVhQSUstNkZlTmtSU295dVY3cnhWLWRJOTNoazIzYllaVldtcWE4TjY4NmdTUWFBcFpzbEpSMHZ4ekxnWXVfTHJEWXc1bzVuaTRHY3hLdUZxTHpDeHJOMDZvNTUyelV3NWFDZVZ3VU4xdm9JenFmT25DNjI4ZVFpY0VfaW5PQWFHZkNLdXZCLTJFMHc?oc=5",
+      "domain": "Investing.com Australia",
+      "seendate": "20261022T180805Z",
+      "date_et": "2026-10-22",
+      "time_et": "14:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com Australia",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "&#x2018;AI is on trial&#x2019;: Bond yields sink below 5% as investors look for safety",
       "url": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
@@ -28,6 +43,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261022T125311Z",
+      "date_et": "2026-10-22",
+      "time_et": "08:53",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -74,21 +104,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261022T000000Z",
-      "date_et": "2026-10-21",
-      "time_et": "20:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -992,21 +1007,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US inflation heats up in September; Fed rate hike this month back on table",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261014T214535Z",
-      "date_et": "2026-10-14",
-      "time_et": "17:45",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Hot CPI Revives the Case for Sticky Inflation and Higher Fed Rate Risk",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpvTzA3YWQ0R0ViUnltWUNRN3Rsczg3cHZ4LWdtOUhnYUVZTFhsZmlLcnd1Vjl2QVZ4dExrbng3N1RSV1pZbFlGZF9JM2F2QmJ5bzJKS0swZmxURy0wNGxSY2l6NFZXMzhzMzVZTEc0N21Xbm5OX1RWdVZVZGN6cU14V3JrRjZkb1NlS0gwUTBndUQxeFFrdDV0M0lLTzFKQnlwODZjMDdpUF95eGl0MA?oc=5",
       "domain": "Investing.com Nigeria",
@@ -1363,6 +1363,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US inflation heats up in September; Fed rate hike this month back on table",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
