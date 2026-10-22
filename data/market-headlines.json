@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:50:42.247Z",
+  "generated_at": "2026-10-22T13:51:34.894Z",
   "articles": [
     {
       "title": "US weekly jobless claims near 57-year lows",
@@ -13,6 +13,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fell to 194,000 last week, lowest since July",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVMxRFAzb3Zub0ZNSEgwc09QUENPdTcwUDlaNTl3cEJEMm05R3NENi1sdkk5bE5scXA0MWIzYVdIVjFZVUNNTUlsRk9Qd2tYQk55WHdfODJpcU5WZmZaaDNmbDdOaUdhaGlCU3MxLTd2S1M3S0JDX3RGdklJcFNCQnhhcG5mZFpnNGdBSkxQWExMU0NKaTlpNnJRSlM?oc=5",
+      "domain": "AP News",
+      "seendate": "20261022T124100Z",
+      "date_et": "2026-10-22",
+      "time_et": "08:41",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "AP News",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -44,6 +59,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Hit Three-Month Low at 194,000",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQektoQmNxRVk1bWQ1bzhiYnMwRjZucFcxWWxDdEItT0JYU0c0d2hueFFWZUZ3WlhTVWc3d2k2NnRQb1cyb3VCaXNoZzU1UW9KanV3aWNYN0tZeElvSXJJLWhscnBqbnNYY25VY3FhQTNWMVJxMlZfbC12YlpLQW5CVDFYNHdYb05oRnRmZkt2NmVnUXBKZmJPaUM1SklvaElSSFVNV0xB?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261022T000000Z",
+      "date_et": "2026-10-21",
+      "time_et": "20:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
