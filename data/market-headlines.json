@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:39:31.210Z",
+  "generated_at": "2026-10-22T00:52:16.218Z",
   "articles": [
     {
       "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
@@ -5308,6 +5308,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Confidence Falls Short of Expectations, Signals Caution Ahead",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0otNXEtZ25IdmJFVlZ2amJXNFRhWlZ1ekRubGRvYVVTZDZURW83UGg4VXVNY2k3RmE2UFQwWUI1TldqbldheklHMEg1dHdqQi0wVGhqMFlxRk83eDRkYWhKMWNzNWZVc1NMU2ZMS3Z2Q2pBR3FoMTh1WXpyMmJTQzZPYlM0b1lTZTBiaFVWWUdXdk5BRlBYTkVKaFVDN00xZXJrSkNzb2E4NWdwWTBhU2xMVlhRRzFPOXpNNGtvenhrSkxtU2lTb01JaDhxdw?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20260929T070000Z",
+      "date_et": "2026-09-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
