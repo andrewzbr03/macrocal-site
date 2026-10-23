@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:44:06.465Z",
+  "generated_at": "2026-10-23T09:41:43.792Z",
   "articles": [
     {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
@@ -1588,6 +1588,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Bureau of Labor Statistics (.gov)",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US retail sales rise more than expected on gasoline receipts",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOE13aGkxREVqaW9wWm8yMlhSa2VfY2RMOXp3SVFvSHJzaXZSRmF4bVl1UVkwcnJiblVOQm1Kb3ZRa0VYNXRXUkV0Qnk5dkJjazIyM3NJdVFsZDVIakRmNzVTMWFUeXBaMEhoQ2NuTmI5c24xVUtlMTc4UFpaZEU?oc=5",
+      "domain": "Yahoo Finance Singapore",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance Singapore",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
