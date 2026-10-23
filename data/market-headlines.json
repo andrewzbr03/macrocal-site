@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T05:40:08.522Z",
+  "generated_at": "2026-10-23T06:50:13.960Z",
   "articles": [
     {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHNZZjJfdTk0RFdwc0Z4MkY0V19lLWVfMW9HMHI3MVJQc2hCYjhiaGVzXy05TGtEOXRsZ1p4SXVpOW9nYUxwS0lra0VpSUFYZTVUeHlLYWVjbDNpSm9BQ2ZSck5YUGtfa3NKSlhrcnYtbVZiNmJDYWNBQmIwNWh6aHR4SVdPV01tNE41RmU2U19fczgtUkhvQlAzTVhCeEtyTmkxbEV4MWVxVXRMODFsWTBBMjZPTkJNWjdkag?oc=5",
       "domain": "Investing.com",
-      "seendate": "20261022T235039Z",
+      "seendate": "20261023T025748Z",
       "date_et": "2026-10-22",
-      "time_et": "19:50",
+      "time_et": "22:57",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
@@ -1247,21 +1247,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "CPI inflation: Lauren Simonetti warns of rising energy and healthcare costs",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdmlVY0x2Q3lOY2kyN0NEVEhrU0p3cFM5VXNERDZ0c3YzTjYwWW9FWTlPM3ZFY0hnRVFCSEdlbVNvcUdPdUJoVi1Xd290bnBRYktqUkhTT0dtekU?oc=5",
-      "domain": "Fox Business",
-      "seendate": "20261014T173849Z",
-      "date_et": "2026-10-14",
-      "time_et": "13:38",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Fox Business",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "3 things that are driving inflation higher",
       "url": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1453,6 +1438,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "CPI inflation: Lauren Simonetti warns of rising energy and healthcare costs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdmlVY0x2Q3lOY2kyN0NEVEhrU0p3cFM5VXNERDZ0c3YzTjYwWW9FWTlPM3ZFY0hnRVFCSEdlbVNvcUdPdUJoVi1Xd290bnBRYktqUkhTT0dtekU?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
