@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-23T10:39:40.620Z",
+  "generated_at": "2026-10-23T11:42:45.775Z",
   "articles": [
+    {
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here&#x2019;s what&#x2019;s going on.",
+      "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261023T110100Z",
+      "date_et": "2026-10-23",
+      "time_et": "07:01",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+      "url": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261023T104500Z",
+      "date_et": "2026-10-23",
+      "time_et": "06:45",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHNZZjJfdTk0RFdwc0Z4MkY0V19lLWVfMW9HMHI3MVJQc2hCYjhiaGVzXy05TGtEOXRsZ1p4SXVpOW9nYUxwS0lra0VpSUFYZTVUeHlLYWVjbDNpSm9BQ2ZSck5YUGtfa3NKSlhrcnYtbVZiNmJDYWNBQmIwNWh6aHR4SVdPV01tNE41RmU2U19fczgtUkhvQlAzTVhCeEtyTmkxbEV4MWVxVXRMODFsWTBBMjZPTkJNWjdkag?oc=5",
@@ -14,21 +44,6 @@
       "provider": "Google News",
       "source": "Investing.com",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here&#x2019;s what&#x2019;s going on.",
-      "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261022T220700Z",
-      "date_et": "2026-10-22",
-      "time_et": "18:07",
-      "effect_reported": true,
-      "major_catalyst": true,
-      "catalyst_tag": "Fed / Rates",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
@@ -137,6 +152,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US weekly jobless claims near 57-year lows, underscore labor market stability",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWpSeEVjdUpGTThIX24zazNNMlZJT2tNSFhhQklHaGJQcVpaVU1sLUFSR1lOd0FIQktnMWZ6dEQ0VzZ4dmhtOVdGcG04c2JjLVlpNklxYUlHbmFjRHV6Vkg1LW41c04tYVNlRnNHV3JHTmgyWGRqb1V4dVpWbGotaGZLemcwNXY1czNCVUhaQzlFcVNTSGZMYUp3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261022T155002Z",
+      "date_et": "2026-10-22",
+      "time_et": "11:50",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US weekly jobless claims near 57-year lows amid low layoffs",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
       "domain": "Reuters",
@@ -178,21 +208,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US weekly jobless claims near 57-year lows",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWpSeEVjdUpGTThIX24zazNNMlZJT2tNSFhhQklHaGJQcVpaVU1sLUFSR1lOd0FIQktnMWZ6dEQ0VzZ4dmhtOVdGcG04c2JjLVlpNklxYUlHbmFjRHV6Vkg1LW41c04tYVNlRnNHV3JHTmgyWGRqb1V4dVpWbGotaGZLemcwNXY1czNCVUhaQzlFcVNTSGZMYUp3?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261022T123641Z",
-      "date_et": "2026-10-22",
-      "time_et": "08:36",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
