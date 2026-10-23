@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:40:48.504Z",
+  "generated_at": "2026-10-23T03:41:34.894Z",
   "articles": [
     {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
@@ -148,6 +148,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Initial Jobless Claims Decline in Week Ended Oct. 17, Lowest Since Week Ended July 18",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2ItQ0o3bk1udmZfb2M0YXhlMXcxbTEtc2V0QW12LXROMnYzNWRFcmpHRndqTW9Ga295bmpqcnJlckd6cmdkUjFhZm5yNWplTElMVVNaOUF6aFJiN0ZnMVI1RFBQWHpfNWFYam5TcXVoYk1wNWRpTF9VakNBUEJESUE4aktUM1ItcTZfeGF1X3pFU0ZEakE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261022T124138Z",
+      "date_et": "2026-10-22",
+      "time_et": "08:41",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
