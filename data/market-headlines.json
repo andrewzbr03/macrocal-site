@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:41:43.792Z",
+  "generated_at": "2026-10-23T10:39:40.620Z",
   "articles": [
     {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
@@ -238,6 +238,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Producer Price Index up 6.3 percent in September; largest 12-month increase since December 2022",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0NDejhnTzZVT29aRjBQLVl6cE14ZmxXdXZzdW53RXhZUGpUNWlDMFJvWTVMTm5kdEM4NW5QbkhzSzl5eU1BRlUybGdRUGlKYUpaeWJOSV96V3RWOWw4enVyNGlGa2JkNTMzVGlJRE9RRndvMFFQNVNtMnY5NmhYUkZtOHJCbW9iajFWTUpYNXhLXzVHMExSMzd3Nm5DcVRrUWVGQkQ2M3QtOXoyY1A4YXpfOHNvSEtQS1NTRG93TWhxbHNFXzhxSWFsTTc?oc=5",
+      "domain": "Bureau of Labor Statistics (.gov)",
+      "seendate": "20261021T150624Z",
+      "date_et": "2026-10-21",
+      "time_et": "11:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bureau of Labor Statistics (.gov)",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
