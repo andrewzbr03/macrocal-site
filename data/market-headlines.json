@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:42:45.775Z",
+  "generated_at": "2026-10-23T12:49:17.787Z",
   "articles": [
     {
       "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here&#x2019;s what&#x2019;s going on.",
@@ -17,7 +17,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+      "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
       "url": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
       "seendate": "20261023T104500Z",
@@ -178,6 +178,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims hover near 57-year low as layoffs remain subdued",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0tyVkF4MndOcFJBdlN6X1BEMFdEY3FKVFhBekxkVlBPOUdpMzY3b1JxbDVucmpxQTlBZHJmcVJmMG55TlJrSS1tQUEyU1dwSGQ5YW9Zd2VQaHZQZHRWWDdpT1hmUE1IUUJpVjdfUFBVZ3ZnLTI3VGJJVHQyUjZNWmhvcjVEX3EwVHN3Uk5UeWtRY2V6SDZzWUhyNGcxbHN2WjNJemRBQXJtR0d0LU51MlRn0gG3AUFVX3lxTE5IS2F0YV9rM0wyS0NqbHJRU00ydjZ0d3BYU2xoOEtwdzNabGx0dU11dHNfRXpLYlBwTlhaRFg3dXBuVUJPaGdfell4My1aZTZ2bi1UZGlFTlZhV2tuZVd2eHptX3JDc3A4TmdkTnVya0Vnd1JTZ1h6MVk3MEtaTUt1NVdpWmhWQzVtaUwxekE2aVp1STF5SnBEdVlxdEpRVFFPUmtuSFMySjg3TVBoZGRucDlZNHRCRQ?oc=5",
+      "domain": "CNBC TV18",
+      "seendate": "20261022T125403Z",
+      "date_et": "2026-10-22",
+      "time_et": "08:54",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC TV18",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -620,9 +635,9 @@
       "title": "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP By Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS244Ml9RbXJZYV9XdXJ0bnVCeU8tM2s3b0pXOUlscWN2aktVYllaeF9CUGNtNEJnV1NyVXB3RG8yRHZwREJCNHBiOVJDYkpFZlFyT1loWDVLeUFad3NLV0xHcXRYZ28xNklsVlJnMmZJWHhTZVRkaG1ab3J5UlJKUnVlMHRqYlQ4N29NMC1zbGxRMGNlaFRNbTVVdUpPYmJpQ3h6RE9VakYzOUxtN1ZOc1VGRTN2SktYWTFoSTRvX1ZJaVIyaDJwcWRJNkNWcF90?oc=5",
       "domain": "Investing.com",
-      "seendate": "20261017T094947Z",
+      "seendate": "20261017T092519Z",
       "date_et": "2026-10-17",
-      "time_et": "05:49",
+      "time_et": "05:25",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
@@ -1037,21 +1052,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US retail sales beat expectations in September on higher gasoline prices",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261015T124946Z",
-      "date_et": "2026-10-15",
-      "time_et": "08:49",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September US Producer Price Index, Core PPI Rise More Than Expected",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0dXQXk5SmtaUHF4NmVtT1AwTGtqeEZZRndjV1FHbmhMZHc0bWlIRkJ5cFZ3dXJ6VVRfc2EzYjQ1YjVNT1hnUWdUOWlSMnBzWjJUTUYyd3VKNXZCVXMxX2ZKS3NncE9tTU94X1lDcFdZMURBVWRtR3FEQ1RkcVBkSlRpOGZaZ1BPeUNXRzRzOENyRjZqZGc?oc=5",
       "domain": "Yahoo Finance",
@@ -1138,6 +1138,21 @@
       "catalyst_tag": "Market move",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US retail sales beat expectations in September on higher gasoline prices",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261015T070000Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
