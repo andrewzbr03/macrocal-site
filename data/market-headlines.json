@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T20:46:27.758Z",
+  "generated_at": "2026-10-24T23:11:33.388Z",
   "articles": [
     {
       "title": "Consumer sentiment shows cost-of-living frustration",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3RJVDFEdmhfYnZyODRXNHhYOVo0U2RrZlJpaUhtVExUdzNmYjJKT2pmUXItdktwN3o5UE5WNmQzWXlWcVk4bHZndnV6Ry1GdUc3bmowVFNkM2VxWHo2T0swSk1ZaHhhT1F0cGZ3NHYtRDY2SFpvX0pPWDZSMUpIOFMzS0QxWUpBb09jOA?oc=5",
       "domain": "Axios",
-      "seendate": "20261024T081150Z",
+      "seendate": "20261024T141150Z",
       "date_et": "2026-10-24",
-      "time_et": "04:11",
+      "time_et": "10:11",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -77,6 +77,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "October Michigan Consumer Sentiment Revised Upward from Preliminary Print, Slightly Below September Reading",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVlTM3NlYmJvOHBZV3UtR2FkSGtyNl91Y29lOTZ5ZlRQbnZBazNzXzZrSDFxS21sVFJzU0w4a1Nsb2xUMlB6cF9OQ3lUd0xFS3hRbnA4VThsYzZUTkF0d29XM0JsU245Wmx0UkVTaUVJaW1ueWRKZm1ubkRUUURuNkxGZGhVVGFCRVRHVlpaWmhHcEQ0R0VBdzUtVVo1R05LTzdB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261023T141148Z",
+      "date_et": "2026-10-23",
+      "time_et": "10:11",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Michigan Consumer Sentiment Falls Slightly, Below Forecast",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWhRbTJrSG5kbi1EWGJYa2djRldSQzM3b2NtZmlETDZiOUFEVWtNWUpTVFdZT25LaGNsT1o3UnlKY055dDhrcDlVTkNSQV9YZDhVTjZrVDdscEtJZkJvbVNiVWZUMG5raWg5SjJUcElEcXM4NmxSZXVsNGw1VUQ3Wld4RHg4aEV0MG0tNllFZ25WenYtZkZkRzFRQ3FYMGdQVXd3blJKZ2tPaFhaQjBaU29VcDI0QnNjMGJQZ0hn?oc=5",
       "domain": "Investing.com",
@@ -134,6 +149,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "UK retailers demand Budget tax cut as consumer confidence weakens",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzZNVFRrdTM0TGJQRDRpVUgxWXdKOVFxV2d2X3phR0RVWnE3aTRhTUdfVXBkckdsTEo4VkhGSFBsOEpUMjlPQWRmVi1EMTNuZFhLWTJMTjA1TlpVQ0gyY3NfMjlCMmNINXdFNlVPeGNvWE9WRHdOMW1aMGtOVDl6QVdVYUJLSDU3YjNPWU80ZVktZ2RBcUFTZ2Qwcw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261023T104232Z",
+      "date_et": "2026-10-23",
+      "time_et": "06:42",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -1127,21 +1157,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "September US Producer Price Index, Core PPI Rise More Than Expected",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0dXQXk5SmtaUHF4NmVtT1AwTGtqeEZZRndjV1FHbmhMZHc0bWlIRkJ5cFZ3dXJ6VVRfc2EzYjQ1YjVNT1hnUWdUOWlSMnBzWjJUTUYyd3VKNXZCVXMxX2ZKS3NncE9tTU94X1lDcFdZMURBVWRtR3FEQ1RkcVBkSlRpOGZaZ1BPeUNXRzRzOENyRjZqZGc?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261015T124313Z",
-      "date_et": "2026-10-15",
-      "time_et": "08:43",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGotYWdIU1lxZnBYdkpjajR0LUx4V3JhbkJuMEpJZ3FnUWdfbm1wa1NlU1JCUlpGb3BRM0kzQnJseHZwQUxtdm56Z3EyZHdoV19ELXNZcVF3RXJvZTNURndrNG0zcVViN0FIV0lOdjVJWXk4RDlNc09iRzB6c3NfbWw5clFCeHI0ZUNCMWF0V3Q5dkRiaG5NQldzZl9LNnNhRFMxbm1yZnRQY3pYejd2NmxKZHhlWkl2ZXdtY01DVWxTRlk1U3RPVzVIM3Q0a1k?oc=5",
       "domain": "Bloomberg.com",
@@ -1196,6 +1211,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "September US Producer Price Index, Core PPI Rise More Than Expected",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0dXQXk5SmtaUHF4NmVtT1AwTGtqeEZZRndjV1FHbmhMZHc0bWlIRkJ5cFZ3dXJ6VVRfc2EzYjQ1YjVNT1hnUWdUOWlSMnBzWjJUTUYyd3VKNXZCVXMxX2ZKS3NncE9tTU94X1lDcFdZMURBVWRtR3FEQ1RkcVBkSlRpOGZaZ1BPeUNXRzRzOENyRjZqZGc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261015T070000Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance",
       "link_type": "google_news",
