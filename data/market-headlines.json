@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:23:23.600Z",
+  "generated_at": "2026-10-24T00:40:05.283Z",
   "articles": [
     {
       "title": "Consumer sentiment shows cost-of-living frustration",
@@ -20,9 +20,9 @@
       "title": "US consumer sentiment near record low ahead of midterm elections",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWV8zeGF1cnFZY3Y0MmRUMS1xT1ljWHA1Uk9hUkljQ0NkUXVpYmFaWlJPbG5pb21iRXQ0NC16SklUbGlXN3NoXzZHVjE1RDBFQU54Q1FMc2tYUlZ0cnc2SEd3T20tQVU4V25tWmt3UjFVY1h6bUFCNzAtc2FvX2lERTJCRjRWLWVtSExSb28tOWhfZmNEd0E?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261023T152823Z",
+      "seendate": "20261023T141940Z",
       "date_et": "2026-10-23",
-      "time_et": "11:28",
+      "time_et": "10:19",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -932,21 +932,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. retail sales rise 0.8% in September",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lTZHR4SnNXLXRjVGhZODRjeGRHdjZxaFFxYlRfdGN0ckxodm92aXRfRThVWnE4enlOUE9neFFmVEVOVjM3WlRmYmh1M2JoLXVuXzA4bHh4UzNwbnRRVUQzNmhOeHpXamlkdHVjcklhdFFxOWh6MjgwdFdwTjJmaDN5Z3lSYzFMWWNuUzh0WFd5bGZUeTc0Umd2SElyLVhCTW51S3lSNA?oc=5",
-      "domain": "BNN Bloomberg",
-      "seendate": "20261015T154804Z",
-      "date_et": "2026-10-15",
-      "time_et": "11:48",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "BNN Bloomberg",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Wealthy Shoppers Expected to Fuel Faster US Holiday Retail Sales",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3ZETkZBY004WldER1AwSlotQ25sSnlXc1RTaE9lR0hwSDRpeTRsMWNZNldmaS1zRFp3ZWJiSFFQcW9sdlhlRTJhZ09xM21ESFBaWnY1V2VyakdxcE80RU8xRFMzajl5SjFYYnJsSEUzYXpqR2NJX0pyNFZpMmxMUVctUE10NF91dDA5U0xOSEdaQkdjaDhZN0VoRHFIa1pFdnBzc2F2M1NjZDdIdS05dDJJTU9pZw?oc=5",
       "domain": "Bloomberg.com",
@@ -1187,12 +1172,27 @@
       "timestamp_type": "published"
     },
     {
+      "title": "U.S. retail sales rise 0.8% in September",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lTZHR4SnNXLXRjVGhZODRjeGRHdjZxaFFxYlRfdGN0ckxodm92aXRfRThVWnE4enlOUE9neFFmVEVOVjM3WlRmYmh1M2JoLXVuXzA4bHh4UzNwbnRRVUQzNmhOeHpXamlkdHVjcklhdFFxOWh6MjgwdFdwTjJmaDN5Z3lSYzFMWWNuUzh0WFd5bGZUeTc0Umd2SElyLVhCTW51S3lSNA?oc=5",
+      "domain": "BNN Bloomberg",
+      "seendate": "20261015T070000Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "BNN Bloomberg",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Global AI sell-off jolts European chip stocks",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHBmOVFaQWVPdFdqZEdwZVFhei00Ty1HYzNUQ0E5akFPNUZrelFfUFF6YTZtVV9JeVlCbC1zRV96UEpQWmlaaG5fcmxLVHlfUGo5bUlrRkxQWTltcGpvU3J0OUhCb2paOUdXd2l6SXZZV0czWEp0UWtJdGh0ZjZEWDdfVERONnVMNVFudXg0bDQ4UQ?oc=5",
       "domain": "CNBC",
-      "seendate": "20261015T071900Z",
+      "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
-      "time_et": "03:19",
+      "time_et": "03:00",
       "effect_reported": true,
       "major_catalyst": false,
       "catalyst_tag": "Market move",
