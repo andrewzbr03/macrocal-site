@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:56:04.348Z",
+  "generated_at": "2026-10-24T14:31:03.345Z",
   "articles": [
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
@@ -34,6 +34,21 @@
     {
       "title": "US Consumer Confidence",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOcjlOSHYtOHVyM0dtNUltUlp3UzcxcVpvdXlHb3dYQklaWkZxQUJzUm9iWVJHeUlGZTJxREFuWURYT1Y0WmNQbnhCTkhwcHA4MlZzcDdRVldxSnluc3dhd3dNekdtMWdydW03WFR5M0hVLWdSa1NDRTVTd01XcmR2S3dsOWxINFp1dHQ5QnFJRGNLUFU3alY4YmJWb3dWRFdXUEFfcTA4d1NSbHc4bWxfa3ZfLXd3am41b25qeTdIRFNsQklBYVRqcVFuakg3NWtIUy1yS0ZVaXI4cGE4UXVWTnpZUi1GcV8wQVJuV0xVRWNoYThONEFkOUlHY1ZKMERzeGktVEdta1NHem0zQ2dqOFRPaC14dUxWQlMwT01DWHdIQzNseFRvcWx3SHlfTy1Yb2JFeWJYbVJDN1NmZlg1dEc4WjJCU1kweGxzY2dJRlBEWEtET2dlVTBJTXM1dw?oc=5",
+      "domain": "The Conference Board",
+      "seendate": "20261023T192429Z",
+      "date_et": "2026-10-23",
+      "time_et": "15:24",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Consumer Confidence",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUkNqNEdQUENFUDNxMUoyYy1Zb0pOd080Rk5XbHBWMWU0ZWVTS0tKQmFza1pid2pXa0NYMUdSSm5zV0Q0ekw3bU13bUVpOV9UNllnamdBbmE1eldTLTBOUl9SaG9RUkJFZXNaMTY0YmxyT3JhZjA2aFVFSnRPaGpxd2tXRnhpQzFST3NVRlpmNFdEaWp0M3dsZHFKTlYwRkhSYVpRaVhwMWhaaF9Bam1qNG0wMHVLS1BLOWp0bmRpeW1OMS00VEhzU040elJTNVlpZWhwSHhWVjlabnFtNzF1MEViSXhaendBeUozQWRlcDJxMERLclpYSm4xRjlhSUR3dzFERGxJaGVfMG1VYWV2MjYzWW9WOXNJVVJBZGhPMERMVDc2WTVIT3l5SjcwS3ZmeUI3R1VCLWNOYmpNMy0zX0R3Yk1WaU54a1Z2ZC1UYjFhQktfLWVfNlNhbWQ?oc=5",
       "domain": "The Conference Board",
       "seendate": "20261023T192429Z",
       "date_et": "2026-10-23",
@@ -514,7 +529,7 @@
     {
       "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261020T131349Z",
       "date_et": "2026-10-20",
       "time_et": "09:13",
@@ -522,7 +537,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2494,7 +2509,7 @@
     {
       "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlAxQ1huRmRTY29rZlZ0NVpMRzUxQlJlZXk1S3N1ZnMxN1B5dnNiaG0yVTg1RnFXZUQ3bVZHM0Q3UXp1VjRSblljZDlQS0FHR2RFQzJoWWpXT0FwZW1XSkQtdzRwRnY2UV9taFBsNXFtaGlhNVozdUUyZG5yeVRsbHZidllTQi1hZmdkNnJZdHBrZ01KaWMwR0ZGSzVlVDA2TVNtT2dWaU56VURGSk8ycg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261008T070000Z",
       "date_et": "2026-10-08",
       "time_et": "03:00",
@@ -2502,7 +2517,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
