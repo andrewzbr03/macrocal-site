@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:11:33.388Z",
+  "generated_at": "2026-10-25T01:08:45.988Z",
   "articles": [
     {
       "title": "Consumer sentiment shows cost-of-living frustration",
@@ -1348,6 +1348,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims edge up to 199,000 in latest week By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUhucFpqOTgySnZRcEZxSlRBYnVlNi1INk40WlU3Q0tTZnBhMlVwMG1HLUEyRWJxLWNmX2ZYVUdsc0ZPckFBVHdNcnpIZW5yWmE3OTgzMW84Wk9BWERMMFIyejhnUTFKcmgxTjRib0xyRHZuTmxIU05Ld2xnUW9vOC1hNWFsVXVnTVhpM0U5aU1QaWY2QmFFQ0dxSC1obTdkRXd6VFhHOGFucUVxRElobg?oc=5",
+      "domain": "Investing.com South Africa",
+      "seendate": "20261015T070000Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com South Africa",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
