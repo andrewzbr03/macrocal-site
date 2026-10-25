@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:14:26.996Z",
+  "generated_at": "2026-10-25T19:03:43.606Z",
   "articles": [
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
@@ -137,6 +137,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Dollar Rises Early Friday Ahead of S&P Global Flash Estimates, Michigan Sentiment",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjdZLWFSRUxwRmZteEpsc0dfdU9OM0pmNFd6X3pDNnIyXzAxQ1UtY2ppZVlPNUtWbl9uTndfeHZaWC1yNm8xUzBTeU8tMXo0SGI0ZFU4M25ndkt6dHhFY1o2X3Z6bTdISU92SzkydHNzQndXYmZ4QlFtOHBFRkhFUWs3NFlYdnR1MTdPc29zMVZGcnhKZUhJM3h0WlVPQQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261023T114202Z",
+      "date_et": "2026-10-23",
+      "time_et": "07:42",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here&#x2019;s what&#x2019;s going on.",
       "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -212,6 +227,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Nasdaq, Treasury Yields and US Dollar Face a Major AI Sentiment Test",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGxMLU5yaTgyS1RsYnRGWklBQ2xfOGpXRVpQbUh2aFVVcHhUbnpTdnpzbVNULVBBQ0s1dV9nMnpWaUU3cUVHdVVNTXlyWE1kYUFBTGRwdGI0YkJidmFMRjJOekwyaHNCQkhVSndFUFE0ZVYzMEZyLV9sbmUtcXdlN2QxeEpib2FQRzhGa1JjenU5Nm9oaEFrSnM3Z25QT09kcXI5M3BlcldudjBHSkhxZGlB?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261023T063432Z",
+      "date_et": "2026-10-23",
+      "time_et": "02:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHNZZjJfdTk0RFdwc0Z4MkY0V19lLWVfMW9HMHI3MVJQc2hCYjhiaGVzXy05TGtEOXRsZ1p4SXVpOW9nYUxwS0lra0VpSUFYZTVUeHlLYWVjbDNpSm9BQ2ZSck5YUGtfa3NKSlhrcnYtbVZiNmJDYWNBQmIwNWh6aHR4SVdPV01tNE41RmU2U19fczgtUkhvQlAzTVhCeEtyTmkxbEV4MWVxVXRMODFsWTBBMjZPTkJNWjdkag?oc=5",
       "domain": "Investing.com",
@@ -254,6 +284,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims fell to 194,000 last week, lowest since July",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0hIUHJtMWlyM2xXV1hpd3ZZX1JZUlVCVTF6Z0tOcmRiU1ZFYUd0ZWlFUURzcmw4QjA4dDZCbmMyOFVWakdPSnZDcDlMVVpxWjNhdjBTTnBxUXNZMFhnVVdmTkRPTXZNRWdiSHBJdmliTGxqRTZPR2o0aldsSklYSmExVVc2cnBycjBBWldtR1VJM3ZOYjNPd0pHRHR1ZzN6MUMxTktndVdwbXdyVmYxNExR?oc=5",
+      "domain": "23ABC News Bakersfield",
+      "seendate": "20261022T193313Z",
+      "date_et": "2026-10-22",
+      "time_et": "15:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "23ABC News Bakersfield",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
