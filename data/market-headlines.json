@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-10-25T01:08:45.988Z",
+  "generated_at": "2026-10-25T06:05:54.585Z",
   "articles": [
-    {
-      "title": "Consumer sentiment shows cost-of-living frustration",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3RJVDFEdmhfYnZyODRXNHhYOVo0U2RrZlJpaUhtVExUdzNmYjJKT2pmUXItdktwN3o5UE5WNmQzWXlWcVk4bHZndnV6Ry1GdUc3bmowVFNkM2VxWHo2T0swSk1ZaHhhT1F0cGZ3NHYtRDY2SFpvX0pPWDZSMUpIOFMzS0QxWUpBb09jOA?oc=5",
-      "domain": "Axios",
-      "seendate": "20261024T141150Z",
-      "date_et": "2026-10-24",
-      "time_et": "10:11",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Axios",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanhSSkxkUG9CejhaMnBGcUROMWJWbmRBTDcwTjVvUXV2Z2VCTU1IUWV2N3FCZlk0YUJES3ZlbzBLZXhDaHM2Nk8yOU04X2JMcktEeVRZelAzOFZ0SzUzY0JDVVY5YXlVT25rTS1XdkFFd2FDaTFoaEtYVVE4cm41bkhvY1hkMjF3dFlDMkZGUmIzVlp2cXR0ZUVDZw?oc=5",
@@ -58,6 +43,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer sentiment shows cost-of-living frustration",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3RJVDFEdmhfYnZyODRXNHhYOVo0U2RrZlJpaUhtVExUdzNmYjJKT2pmUXItdktwN3o5UE5WNmQzWXlWcVk4bHZndnV6Ry1GdUc3bmowVFNkM2VxWHo2T0swSk1ZaHhhT1F0cGZ3NHYtRDY2SFpvX0pPWDZSMUpIOFMzS0QxWUpBb09jOA?oc=5",
+      "domain": "Axios",
+      "seendate": "20261023T163449Z",
+      "date_et": "2026-10-23",
+      "time_et": "12:34",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Axios",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1279,7 +1279,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
       "time_et": "03:00",
@@ -1287,7 +1287,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
