@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:23:20.612Z",
+  "generated_at": "2026-10-25T16:14:26.996Z",
   "articles": [
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
@@ -58,6 +58,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Axios",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer sentiment falls less than previously estimated in October",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTVGTG1IdHloOXpuTXpaWEFEVExPVk1iUzk3Q0RNQTdJbzZxN2FYLVRjZXRpbmNTUWduelFpWHk3Y1NNRHVPS0VDM1pyOXNBTlVocHplZWZ5RWtsWlJOc1pKU0pEWHdURmZHYnVQNjJtT2ZtUjk3UzMteFRxZm5rZVhybGZQZ1F1YjRZaVZlWUZZbVBM?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261023T160324Z",
+      "date_et": "2026-10-23",
+      "time_et": "12:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2569,7 +2584,7 @@
     {
       "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlAxQ1huRmRTY29rZlZ0NVpMRzUxQlJlZXk1S3N1ZnMxN1B5dnNiaG0yVTg1RnFXZUQ3bVZHM0Q3UXp1VjRSblljZDlQS0FHR2RFQzJoWWpXT0FwZW1XSkQtdzRwRnY2UV9taFBsNXFtaGlhNVozdUUyZG5yeVRsbHZidllTQi1hZmdkNnJZdHBrZ01KaWMwR0ZGSzVlVDA2TVNtT2dWaU56VURGSk8ycg?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261008T070000Z",
       "date_et": "2026-10-08",
       "time_et": "03:00",
@@ -2577,7 +2592,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4018,6 +4033,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Reaction roundup: Experts, analysts weigh in on September jobs report",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNURnZFh1ME1oOXhFd2szc0VQVTFlUGpiSkdxQzREUjkzVkZRWGRYc0hTcTlFVG9VbWV3Y05JVlR0alkwSm9lYVJKVTlYWEViYlJoWjlKaXJ3N2dUVDRpMk1mVkJYYXFSM2FQRlpHUEFwUGE4dDhWai1xcHE0bWlwdjJHMkxwTkVLZHhCejloVEsxQQ?oc=5",
+      "domain": "Yahoo Finance Australia",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance Australia",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
