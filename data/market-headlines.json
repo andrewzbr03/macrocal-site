@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:46:00.861Z",
+  "generated_at": "2026-10-26T00:21:31.594Z",
   "articles": [
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
@@ -392,6 +392,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US weekly jobless claims near 57-year lows, underscore labor market stability",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWpSeEVjdUpGTThIX24zazNNMlZJT2tNSFhhQklHaGJQcVpaVU1sLUFSR1lOd0FIQktnMWZ6dEQ0VzZ4dmhtOVdGcG04c2JjLVlpNklxYUlHbmFjRHV6Vkg1LW41c04tYVNlRnNHV3JHTmgyWGRqb1V4dVpWbGotaGZLemcwNXY1czNCVUhaQzlFcVNTSGZMYUp3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261022T155002Z",
+      "date_et": "2026-10-22",
+      "time_et": "11:50",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US jobless claims unexpectedly drop to three-month low",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0hhOFpGdnNjRVA5Rm9CbkwxVEhRRlc3VFowY1pWbHNUdVZQRFpnRlRUNS1PN0dXMmdPVmJ2cENiX1ppVjNkVDRMczNsUWVBcEZNVFdiS29VdzJCRXVURGFmd19HTVp0dmlwTkItaC1zVEhiUHVtWG5YSFVQemxsUW9jVFlZcGltTERrVE45MXZKOF81WnIzVw?oc=5",
       "domain": "Yahoo Finance",
@@ -448,21 +463,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "AP News",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US weekly jobless claims near 57-year lows",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWpSeEVjdUpGTThIX24zazNNMlZJT2tNSFhhQklHaGJQcVpaVU1sLUFSR1lOd0FIQktnMWZ6dEQ0VzZ4dmhtOVdGcG04c2JjLVlpNklxYUlHbmFjRHV6Vkg1LW41c04tYVNlRnNHV3JHTmgyWGRqb1V4dVpWbGotaGZLemcwNXY1czNCVUhaQzlFcVNTSGZMYUp3?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261022T123641Z",
-      "date_et": "2026-10-22",
-      "time_et": "08:36",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
