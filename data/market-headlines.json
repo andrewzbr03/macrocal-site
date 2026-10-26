@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-26T19:17:04.470Z",
+  "generated_at": "2026-10-26T23:09:56.494Z",
   "articles": [
+    {
+      "title": "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVE2akJ2V1E1aU91WFdEVWpINTdOSFVKNTFkLXUxR2dna001RU9sek10OTd3QU9nb0E3R1o2Z2tjUVNRaU94UTZqNlNUVXV1MElEU0pPTnhmMk95Ny0wbG11YXdJbjZoRmNFc3ladThialB4SGdJZUhJRWNiaDYxdW9TbXlIc1NuRW5tRWh3SmdmbnN1b2diem5IX29BUjZubXdCRTJudW1NdUgzM2dYRnowRmU?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261026T204504Z",
+      "date_et": "2026-10-26",
+      "time_et": "16:45",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Building permits, durable goods orders, new home sales and consumer confidence due Tuesday",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZXRuV1pHbExDRHVpMXhmRkRQRzhNcFFLbHdZNGFNSDlWM3pQRkpkeTQ5Uk9MSUVKV25JUEFQaUw3Z1hjeG41SGU0RXc1VldZRHlXc0Q0Vm1QMlAwMm9SNEUxS0d3cWpmTEJLcXVBM2VFVXZ0bWw2Q3hPZTlnT040WnpSVF9GUWhOdFNKSGRrVkFHRDdjckxuLXRaTXE0YkFjaG1VTUk5UTZMT1lNenVrSmNTSjRZM1l2V3pBaWRMZEtCTmhGOTd0eHZRR1RTMkp5RnJmU3R6d1VhRy0yUVJ0b2FMZkg?oc=5",
@@ -13,21 +28,6 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVE2akJ2V1E1aU91WFdEVWpINTdOSFVKNTFkLXUxR2dna001RU9sek10OTd3QU9nb0E3R1o2Z2tjUVNRaU94UTZqNlNUVXV1MElEU0pPTnhmMk95Ny0wbG11YXdJbjZoRmNFc3ladThialB4SGdJZUhJRWNiaDYxdW9TbXlIc1NuRW5tRWh3SmdmbnN1b2diem5IX29BUjZubXdCRTJudW1NdUgzM2dYRnowRmU?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261026T151841Z",
-      "date_et": "2026-10-26",
-      "time_et": "11:18",
-      "effect_reported": true,
-      "major_catalyst": false,
-      "catalyst_tag": "Market move",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1532,21 +1532,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Stocks tumble as hot CPI inflation fuels Fed rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MXFLaERSVlFabFpVYVdNem1yWGZQR29aejByeUt3cjh4WXF1cTRmU3g4MGNMdUhtT0RBUV9ySWRzRTZud01QcEZnS2NPRGNWak1pZTFBOVVQZTA?oc=5",
-      "domain": "Fox Business",
-      "seendate": "20261014T191302Z",
-      "date_et": "2026-10-14",
-      "time_et": "15:13",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Fox Business",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
       "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -1798,6 +1783,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Stocks tumble as hot CPI inflation fuels Fed rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MXFLaERSVlFabFpVYVdNem1yWGZQR29aejByeUt3cjh4WXF1cTRmU3g4MGNMdUhtT0RBUV9ySWRzRTZud01QcEZnS2NPRGNWak1pZTFBOVVQZTA?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Fox Business",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4693,6 +4693,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVVObDdJSHVCcmFpSzl1MnZyeUo4OFd6cHNtanNuWDhCdWhtODhRX0FseTNEaTQwaFFMSk9XcGRUd3BzWG9GUEtQSXkzSTB5X25URXJkOFQ2NTNEVGo0WnFPVkdxZHhGOGV0UUdma082bHItY29zU3hIamE2b0RKeTJlanU3cFBMRnNnN01DaXMzc3BhUHppOWhGbExDMm1nYkRmYW9UcnNGNy0xZHIwZTZHMllFS1dnTzV5blJOX1Bwb3Vv?oc=5",
+      "domain": "Investing.com Nigeria",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com Nigeria",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
