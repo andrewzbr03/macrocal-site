@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-27T07:49:30.416Z",
+  "generated_at": "2026-10-27T14:29:16.296Z",
   "articles": [
+    {
+      "title": "US Orders for Durable Goods Increase by Most in Five Months",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnF6WURETG9sTnd0cHFDZEFPVGtlekZhQ2o3c0xHRk85TnJwVGxRX0RKX1FxUzhTQVpnelZ6aktSM01QRi1sekd1ei1rd21MaHZBcXBGRDF1bmxjbzd4LXpaVEVySkdydTkxYWhFQ2VxaEJNOWEyQmpFYnZ5ZE1sdmNkY0xMWUhES1Z1UHBFRnFJd0Jac2pZWG1aVktEbnVRTlQ5Vnp2LW16NHo5dHV3?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261027T124802Z",
+      "date_et": "2026-10-27",
+      "time_et": "08:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable goods orders rise, but miss forecasts",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnRlMldJeFN6eVFyLXpuclBpZzdSRFF2Y2U4MVRCWk9BUDJjTmppcDZJbEZIdnY1YnJ3NWRDZzZ0TTlLYUdLRkYycVJ4Q280SjMyVTZsZXo1QzBfbVVBdmREQk42SF9Ra3ktZzVHTlVPbnotOTNseVpZejdqVUtLNFg0aXpTU3Q1d3ZSQ0sxcXQyc0JMZEJZbzE5Rlg2bzQ3QmlJbGxtMmQ5T1Bi?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261027T123351Z",
+      "date_et": "2026-10-27",
+      "time_et": "08:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Retail Sales Signal Healthy Q3 Consumer Spending",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanhSSkxkUG9CejhaMnBGcUROMWJWbmRBTDcwTjVvUXV2Z2VCTU1IUWV2N3FCZlk0YUJES3ZlbzBLZXhDaHM2Nk8yOU04X2JMcktEeVRZelAzOFZ0SzUzY0JDVVY5YXlVT25rTS1XdkFFd2FDaTFoaEtYVVE4cm41bkhvY1hkMjF3dFlDMkZGUmIzVlp2cXR0ZUVDZw?oc=5",
@@ -1127,21 +1157,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US jobless claims edge up to 199,000 in latest week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261015T171557Z",
-      "date_et": "2026-10-15",
-      "time_et": "13:15",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Wealthy Shoppers Expected to Fuel Faster US Holiday Retail Sales",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3ZETkZBY004WldER1AwSlotQ25sSnlXc1RTaE9lR0hwSDRpeTRsMWNZNldmaS1zRFp3ZWJiSFFQcW9sdlhlRTJhZ09xM21ESFBaWnY1V2VyakdxcE80RU8xRFMzajl5SjFYYnJsSEUzYXpqR2NJX0pyNFZpMmxMUVctUE10NF91dDA5U0xOSEdaQkdjaDhZN0VoRHFIa1pFdnBzc2F2M1NjZDdIdS05dDJJTU9pZw?oc=5",
       "domain": "Bloomberg.com",
@@ -1318,6 +1333,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US jobless claims edge up to 199,000 in latest week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RReHF6RDRHQzk1emRac0pqaUp1d1pqTENIY0dBTF9uam93UnVGa2h3bjd1V3VKY0lwWUdNOGp5bXM1YXBBTmZDVzRHYTBvamItay1sRFpEZXF6R2ltRGMwYmQzZXFnR05MSjkyaEk2c2lhY3U2T282NE1HNjUwaWlLZXpsOGhPdk9jS3VFX3JlZXhac3VLLTJ6UnNjM0dDd3FWZVg3WFhtVTQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261015T070000Z",
+      "date_et": "2026-10-15",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
