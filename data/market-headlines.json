@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-27T20:05:18.538Z",
+  "generated_at": "2026-10-27T23:46:39.422Z",
   "articles": [
+    {
+      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market&#x2019;s faith in sustained spending",
+      "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261027T214100Z",
+      "date_et": "2026-10-27",
+      "time_et": "17:41",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "US consumer confidence recovers in October as gas prices eased a bit - ABC News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdy16Uk93cTdrbDN0UWZmc1JhZVE4UmUwb2ljTWlPckxrQTJna1h1R3NCeXFGbDV1Vmx4UXBLWmtxT2RyNW5ETTVaMDJlRG9LMDRhWnk0emN5clJrR296cXhXanBWZE1YS1ZVMDFPQXk0Q2hGemZwaGN3MEVMS1h5aEdmcEk3Zmx0SnE2Z2g3RHRUMUNNbzRRSGZBT0d0NGtkOGxNVjNVMETSAa4BQVVfeXFMTjAxTU5CcV9XWkxKcEVpMWhvYzY4Y3EyUWRtdDZDU0pScW83ZmM5d2hQLVJackxLY2FlM0JYVHJ6MVp6MllLQm00THJlRVZ0b2tvZmtYdWVRN2FSTjVkbHEzLXJaVGo1MjFBUGt5TGVic3pLSy1ZV2xLTHlITkphRmhoR18xTFBpdk5DQkNpcVhJRURvMkJTWWkxdGdod3V4Tmt3aUFUVmJpUEJpNVZ3?oc=5",
@@ -28,6 +43,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer confidence improves in October",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjJLZEFSMkx5WmRLY3pUdlRCVFlwNURqUkNEV2F6blQxU1NUemxWc052d3k5dU53UFVwZE9MVjdyMjlOQXhUc1dTS0M3Vk1lcGZVQjVtZEJOSVVKVFZsUTR1a29wVHNMQ2dveVQyWFZvSEc4Rkt0LV83NWxQYkNkNU0wMzl4Z1lfZlBKMTZ1SQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261027T142405Z",
+      "date_et": "2026-10-27",
+      "time_et": "10:24",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -935,9 +965,9 @@
       "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
       "domain": "Reuters",
-      "seendate": "20261018T212348Z",
+      "seendate": "20261018T070000Z",
       "date_et": "2026-10-18",
-      "time_et": "17:23",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
@@ -4783,6 +4813,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Investing.com Nigeria",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US unemployment claims dip to 197,000, lowest since mid-July",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUHhfXzBIbWpMTWxSN2JybTRaTFRIMHJqb3NPaTNycmh2QXdoWkRlSXhBMFp0Nmt2dmlsYndUeTRIYnBmTVVlZ0VackhEaV9CNWJmS3p3V1hVS1llSTNuUThMLXE1N2pndVN0QWktUm5qb3FJLXVPM3YyNHRjb0RhOG1KUmo4VlFjZVZZV0JTcWY?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261001T070000Z",
+      "date_et": "2026-10-01",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
