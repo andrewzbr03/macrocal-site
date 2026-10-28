@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:50:34.310Z",
+  "generated_at": "2026-10-28T18:51:36.993Z",
   "articles": [
     {
       "title": "Will Robust Q3 GDP Growth Complicate the Inflation Outlook?",
@@ -5777,6 +5777,36 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Trimmed Mean PCE Inflation rate, August 2026",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNVBaQ3NrcS1OYk40UUpQZ2JvanMwb3VqV2lRZDBtckl5VUd1MjB0VEl0OUkzUFc1dnJXWTJkN3VyNjlYcUxadDFGZWxWMWc?oc=5",
+      "domain": "Federal Reserve Bank of Dallas",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Federal Reserve Bank of Dallas",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Holiday retail sales forecast to hit record in 2026",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYU5wYW9SaDJwblBjN1RGdkhPNkRrbEJBaFhteENIUGpIZUxCTDBkOGpKMzc2OG5EMUx4bS13ZUUzaUVQX0YzR2kyMmRYb3hCV0JGM0VKOXVjR0RhU09CbmtXUVhwTUlJNTd2YmJqenNjZ1poMmpTVjlYSlRsd1lsMDlJUUpTQnpLdU1Nd1ZMUFZYRVg2RXc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20260930T070000Z",
+      "date_et": "2026-09-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQlZiZlp1SF9QQThOeTVMdlZRdzFWWmJCQTNscjM0SXpCM1N0NnFqcEI4Uk5ZdVhyak5xQkplS0xseklzSVlNS3IzdUtvRXExNUNZcG1wYU5vVDA1LUlmeVNxdm5vbG5lYXpzQWhTdUFLNTlV0gF6QVVfeXFMTVpOSXVkYm1ua3ZWMy0tUFozWW1DM20zU3h3cExyR3lVckNPb240R1RYTFhJRUNPRkMtOU5pSmpPQTVRa1VYTmNYUnVBMTdpdURWQlJTeF84d1Rsc0xYS3VLZXF1SndfTzZHTXFMeTV2aGZ4X2J6SVlzUGc?oc=5",
       "domain": "cnbc.com",
@@ -10869,21 +10899,6 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Trimmed Mean PCE Inflation rate, July 2026",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNVBaQ3NrcS1OYk40UUpQZ2JvanMwb3VqV2lRZDBtckl5VUd1MjB0VEl0OUkzUFc1dnJXWTJkN3VyNjlYcUxadDFGZWxWMWc?oc=5",
-      "domain": "Federal Reserve Bank of Dallas",
-      "seendate": "20260826T070000Z",
-      "date_et": "2026-08-26",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Federal Reserve Bank of Dallas",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
