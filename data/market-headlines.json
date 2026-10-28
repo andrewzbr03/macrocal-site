@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-27T23:46:39.422Z",
+  "generated_at": "2026-10-28T05:39:06.389Z",
   "articles": [
+    {
+      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0x2UURrTzFxeXZLNWhOaVFndDNzVURqV2VNbVpyX2dvS2N0UzJRQXFISE9hT1NzbGI2VnFKeFBrQ2RxaE1KRHBWbXdXSXZkVUhkSW0zVFNSN0cybGRYMkljOVluTDhjdDNIS1V2ZmhnQl9DdjhsbDZaek5VZnpnRGlISW9TcjFfak5iZ0ZkNW9NVF8xUThUbGloaGYwUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261028T013900Z",
+      "date_et": "2026-10-27",
+      "time_et": "21:39",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjI1VnRaM2NYVEJKYVJwU192dG4yOTFjRmVDQkVXVlVGYi1oUGpvMkJjdFpvMTN5RGE3eGFCbUlheTU3RlVxZ3hKbk5xSHBwTXB2cjNBbTVLZG9aMDIwX2lmYmRPMUNaeUYtTjlRU2JqLUo3dWYxSUlxQ2g2WXUtS1BtbXd4LUpwa0ZTcFlDUk9ObDhCVmhaNlYtYXlWMWh6U1JLSDhOSDNreFN2anYzRnpoNGZBMVFNM0k2ZEpoV0VHTTQwb3c?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261028T011805Z",
+      "date_et": "2026-10-27",
+      "time_et": "21:18",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "CoreWeave and other AI stocks rise as Anthropic restores the market&#x2019;s faith in sustained spending",
       "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
@@ -14,6 +44,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Beyond the Boardroom: Vinson & Elkins Partner Adetutu on Trade in the Trump Era",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW56RG1mWmloT1NVZ0xIczBnb3pBMVM4alpqNXBFYVZlT0JjUVRNaGpwTmZvZHR2czVRU3RYLXNhSUpuVVRaNEVPaEUwWWQxZWxKMkl2b0RvNEVUS3ZNVUxWUlB2Y0VIRW1UaUxSYTJvM1IyZWlUYTJQZ1FfblNjMEt0SG11MzdFdUlxWDVMTDRfckYwTHEwd3Y3bTd6UElpX1A1YkJn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261027T155025Z",
+      "date_et": "2026-10-27",
+      "time_et": "11:50",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -73,6 +118,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Consumer Confidence Rises for First Time in Four Months",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
+      "domain": "Bloomberg",
+      "seendate": "20261027T140352Z",
+      "date_et": "2026-10-27",
+      "time_et": "10:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -403,6 +463,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2x3bzMzd0REOWxlT3BBd2gyd3A4OVYwUkwzYXBDdXFvbGE1dzhlekVBRmhaYlpUdmdtNmJQcVdkUHR0NC1iLUZSOFNnWGluX2R5SkdJSTlqWGlhZDFiLTBmOEFBS3E2bXdVcGhIVHNMbUxONUc5d2ZsYTgxaVc0VGdPVDY0Ym5OYjMybnlwdWE3bjJpSWc?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261023T001900Z",
+      "date_et": "2026-10-22",
+      "time_et": "20:19",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
