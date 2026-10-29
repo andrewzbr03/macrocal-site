@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T09:55:33.261Z",
+  "generated_at": "2026-10-29T16:55:39.387Z",
   "readings": {
     "claims": [
       {
         "label": "Initial claims",
         "value": "194K",
-        "period": "2026-10-17",
+        "period": "2026-10-24",
         "url": "https://fred.stlouisfed.org/series/ICSA"
       }
     ],
@@ -48,14 +48,14 @@
     "pce": [
       {
         "label": "Headline PCE MoM",
-        "value": "0.3%",
-        "period": "2026-08-01",
+        "value": "0.5%",
+        "period": "2026-09-01",
         "url": "https://fred.stlouisfed.org/series/PCEPI"
       },
       {
         "label": "Core PCE MoM",
-        "value": "0.2%",
-        "period": "2026-08-01",
+        "value": "0.3%",
+        "period": "2026-09-01",
         "url": "https://fred.stlouisfed.org/series/PCEPILFE"
       }
     ]
@@ -266,9 +266,15 @@
       "url": "https://fred.stlouisfed.org/series/ICSA"
     },
     "2026-10-22": {
-      "actual": "194K",
+      "actual": "195K",
       "previous": "200K",
       "period": "2026-10-17",
+      "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    "2026-10-29": {
+      "actual": "194K",
+      "previous": "195K",
+      "period": "2026-10-24",
       "url": "https://fred.stlouisfed.org/series/ICSA"
     }
   }
