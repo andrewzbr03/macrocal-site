@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-29T21:48:48.919Z",
+  "generated_at": "2026-10-30T01:57:16.054Z",
   "articles": [
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261030T000500Z",
+      "date_et": "2026-10-29",
+      "time_et": "20:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Euro Area Consumer Confidence Continues to Deteriorate in October",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcXl2ZWlYRlFGbWJlVzhZOFBaT3RNcDlETGZ4RGFEV3FvcnFuTGRDQy1HZmJudkNvcGRrOE5PNUw3N2s2b3J4NGtZWFIzdUw2VTZGZlg2WEJfZk45Nkt3cU5xS2pUSHFOVTJjYThvQUxEeEFhSW9XYVM5OGdtSGhJQmVFelltcUdHejJUaTMwTEdWTXEzR2RQUUdmWHhMOFF4ekFXeGM0YjZrZ0hpWkQtUmNMdlRvdHZJN0pnSTIyODg3aDJfUmtN?oc=5",
+      "domain": "The Conference Board",
+      "seendate": "20261029T231722Z",
+      "date_et": "2026-10-29",
+      "time_et": "19:17",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "The Conference Board",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
@@ -29,21 +59,6 @@
       "provider": "Google News",
       "source": "Reuters",
       "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "domain": "marketwatch.com",
-      "seendate": "20261029T160000Z",
-      "date_et": "2026-10-29",
-      "time_et": "12:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Publisher RSS",
-      "source": "marketwatch.com",
-      "link_type": "publisher",
       "timestamp_type": "published"
     },
     {
@@ -388,6 +403,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "PCE Inflation Data Offers Key Insight Into December Rate Hike",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmh6MW5UOFZVendTUEZpZEo3aXNoN2dxQ3dBSWJVZVpuQTJ3THdpcVNhdFl1c250SG9RR2h5RGpUY1JJSEhuUzY1V2ZDY0pFTGR2UlVGdEJ6dzBGMC02OXh5M3NRZFNDamxGYjRQRjJtUm1KX1hhQmRuR0NtLUxZNmN5U0tWRUZOUGZOMHowNW9UdGxSME8tV2NFNDY?oc=5",
+      "domain": "Barron's",
+      "seendate": "20261028T233300Z",
+      "date_et": "2026-10-28",
+      "time_et": "19:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Barron's",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -794,6 +824,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Layoffs Are Near a 57-Year Low — So Why Is America’s Job Market Freezing Up?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTc4SXM5aUk2UHNaM09VaFl0X0RiSEk3RlE2SjFxaWFKbENXTVFnSlZHRG5iMW9SaTRIN1pwU0FvUmFDNnloQ0FJZG16SlFMaGJVUFRsZFBaM0puZjR4cjBGZlVaY085cHNPQjRXeW5PbUNKUXZ4VDBTZ241Y0tnTFJ2VTZ4WnN3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261025T132710Z",
+      "date_et": "2026-10-25",
+      "time_et": "09:27",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -1427,21 +1472,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261020T131349Z",
-      "date_et": "2026-10-20",
-      "time_et": "09:13",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September US Housing Starts, Permits Both Decline, Completions Up",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHVjTmk4djRtWlFIWV9ZZjhDYlRWdE5aeHdmSXZ3TXExY2hmQnRCUm9LZXpfR0I3Q0hYYlBpMzF6dUoydFVRZ1FqenN4VXJxeWhlTHdLRUZjajBFbnR6Z0ozZjF6V1dYQlVnTjFEanlwSWRkQ1YxcGwyRGRwWVdkbzdBZW9TTFJLbTg5OG9fbDRMb3FYUXI4aVVYMW5EQQ?oc=5",
       "domain": "Yahoo Finance",
@@ -1483,6 +1513,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261020T070000Z",
+      "date_et": "2026-10-20",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
