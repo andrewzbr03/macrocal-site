@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:28:36.294Z",
+  "generated_at": "2026-11-01T02:13:13.336Z",
   "articles": [
     {
       "title": "The selloff in tech stocks is shifting into overdrive",
@@ -904,7 +904,7 @@
     {
       "title": "US Orders for Durable Goods Increase by Most in Five Months",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnF6WURETG9sTnd0cHFDZEFPVGtlekZhQ2o3c0xHRk85TnJwVGxRX0RKX1FxUzhTQVpnelZ6aktSM01QRi1sekd1ei1rd21MaHZBcXBGRDF1bmxjbzd4LXpaVEVySkdydTkxYWhFQ2VxaEJNOWEyQmpFYnZ5ZE1sdmNkY0xMWUhES1Z1UHBFRnFJd0Jac2pZWG1aVktEbnVRTlQ5Vnp2LW16NHo5dHV3?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261027T134850Z",
       "date_et": "2026-10-27",
       "time_et": "09:48",
@@ -912,7 +912,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -5308,6 +5308,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance Australia",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Jobs report shows 29,000 jobs were added in September",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOEFlYTdPSXAtS1lXay1wSXZKRXBxRDhuUlhQWnJQQmtnRWczQnd3S2ZOaE1TS2ltSTAxMTEwcXJ5MDBqR093WXczc0ExZVN1SGpOcjg2N0FmVjlVVlBmWXdHWmhMMnFBZ2owTzd1SmVTbVg3WEVHN2Z3aWNBSHBRRTdPUHZ1OUtud1E?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261002T070000Z",
+      "date_et": "2026-10-02",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
