@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:14:53.288Z",
+  "generated_at": "2026-11-01T16:02:48.314Z",
   "articles": [
     {
       "title": "The selloff in tech stocks is shifting into overdrive",
@@ -163,6 +163,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com South Africa",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Nasdaq slides over 5% for worst month since March 2025 as AI trade suffers",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3BsVkRQZGpDVUx3bC1nOVUxZFVxcTdNdWk5ZHB6SFJpNjlRNjBoNUNFME9TUENNZXVNczFjeFNHM1c0Wloya2dXenBtSlNHRmV5QTc4bUxLaUJIeTc1ZjFBbFpUNHVUNXJOMl95M3QtZGxOcEpmYWJSczExdVNUeF9sOEhWTUlJMVFCOWhzVU9qcS10SkFF?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261030T013600Z",
+      "date_et": "2026-10-29",
+      "time_et": "21:36",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -859,7 +874,7 @@
     {
       "title": "US Consumer Confidence Rises for First Time in Four Months",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261027T144028Z",
       "date_et": "2026-10-27",
       "time_et": "10:40",
@@ -867,7 +882,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3844,7 +3859,7 @@
     {
       "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlAxQ1huRmRTY29rZlZ0NVpMRzUxQlJlZXk1S3N1ZnMxN1B5dnNiaG0yVTg1RnFXZUQ3bVZHM0Q3UXp1VjRSblljZDlQS0FHR2RFQzJoWWpXT0FwZW1XSkQtdzRwRnY2UV9taFBsNXFtaGlhNVozdUUyZG5yeVRsbHZidllTQi1hZmdkNnJZdHBrZ01KaWMwR0ZGSzVlVDA2TVNtT2dWaU56VURGSk8ycg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261008T070000Z",
       "date_et": "2026-10-08",
       "time_et": "03:00",
@@ -3852,7 +3867,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4363,6 +4378,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer confidence hasn’t been this low in more than a decade, experts say",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmxneGtvb0E3VlpjMk12VUhmdVM4WGM4YW80UVFLUElOSVprdGlURkp2WkVDdFF6Q0I3NzRfM25sbG43UnBHeHdGNFJPZnpfTkRla3d6QlJ2Y29WU1laWVFDOWlkdDlVRFotUExPR05fazNhOFNHSnFlQW9DcjZyOVNQSDZMRDkzeFN4SzlCcGdoUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261005T070000Z",
+      "date_et": "2026-10-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
