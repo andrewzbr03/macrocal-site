@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-01T16:02:48.314Z",
+  "generated_at": "2026-11-01T20:29:37.046Z",
   "articles": [
+    {
+      "title": "U.S. jobless claims surge to record 3.28 million",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tc1BHRmVKODNFcmt3Z29XQU8yd1FPOTUyTGgtSUtTbTBKOHIyZk5UTFJ0SFdVbEFZOXNYeU11YmpQcDMxOTNNUEtUNnkxMktUakhRcnpkemg1UWV4?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261031T070000Z",
+      "date_et": "2026-10-31",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "The selloff in tech stocks is shifting into overdrive",
       "url": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
@@ -103,6 +118,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Fortune",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. retail sales drop in February",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EU0FuNnNDS0VEc3JXYVNTRUFSMGFKX2dlREs2Y0h6R3VfRGV3TVZyRlM5RWItZFR4MV9xeDVKNU1iSzJDNHVVUXE3dUxlMURrN0V3T0JwaTNkcFc2?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261030T070000Z",
+      "date_et": "2026-10-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -874,7 +904,7 @@
     {
       "title": "US Consumer Confidence Rises for First Time in Four Months",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261027T144028Z",
       "date_et": "2026-10-27",
       "time_et": "10:40",
@@ -882,7 +912,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
