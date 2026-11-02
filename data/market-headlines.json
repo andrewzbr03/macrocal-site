@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-01T20:29:37.046Z",
+  "generated_at": "2026-11-02T00:42:41.241Z",
   "articles": [
+    {
+      "title": "Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGNFemF1MkxCY1FJcC0xZE41RFpxb3NFQWlaNE9PNUNUMWtaRUFaVXlIWUdKa0lTVkc4UWFpbVE2cnZjOERHcUhIbDU1akF4ajBvUHdkU0RHUUxGblE5WENBcHBEYmxHZXhGbGxqNk8yZWQ3aW12SEpxbmtkbDU0aFJkcDdyOEEzb18xR1NiQy3SAZYBQVVfeXFMTjEtazlZUUpJRDNTYlpJSUlzNVNnbXhKT1p0cV9mODk2SDNzVU13R3VwYU9KR1dlU3BIaU1ySlJObmFnR1NBYzZhNmFERFpvbV8yQTh4VzRmX3ZUTGFSa0hxOWM3Q2E5MnpuRDJBSnZQYmtmSHpxeTZPY1B3OWNLdEF3VXJPWEtRSklicG9RcGFKTGMxUThR?oc=5",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seendate": "20261031T203240Z",
+      "date_et": "2026-10-31",
+      "time_et": "16:32",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "U.S. jobless claims surge to record 3.28 million",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tc1BHRmVKODNFcmt3Z29XQU8yd1FPOTUyTGgtSUtTbTBKOHIyZk5UTFJ0SFdVbEFZOXNYeU11YmpQcDMxOTNNUEtUNnkxMktUakhRcnpkemg1UWV4?oc=5",
@@ -131,6 +146,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. housing starts up more than expected",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nZnFOekJycVdFbmM1X2RMQXljaWYtZ2d6NFY4cFR5ajNadTF5Q1c5akQwa2s5c19UMUJpUTRJdllrU1M1SFlLVmlmSmM2M1dkZDhCX3hTdDB5VjA0?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261030T070000Z",
+      "date_et": "2026-10-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Reuters",
       "link_type": "google_news",
@@ -268,6 +298,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. GDP Growth Surpasses Expectations, Boosts Economic Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmNQemJadkRSUnIxUWpXYnRUdThMeXd3NkUySTJmbEpkVW83OXZvZ0U4M3NrRXVyOUlWR0hUSE1GdU9taFZPdTlPV2JkOC1fazhkY2xUcGxrQnI0Y1FTcTlXaEtfa250SEl2dTA2bUlKbUVadUNFQ2FDOFFBdWdwQVFsczVsOWdwNFgxYk84di1rSzQ5ZjE3RjhwME5LWnpuUHVLQU1ETVhvenFJZlpmRXNTSFJpbUxQY2tQWTliQWlzZw?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261029T180205Z",
+      "date_et": "2026-10-29",
+      "time_et": "14:02",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1109,6 +1154,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "What the September Jobs Report Really Changes for Global Markets",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc19mVURqRDdvaHR4RjE3TWJBYnVBQmhmbFhfNWxFUktRLS1mQUpYMG01SmhUM3Njd0dZTk9PZXJ1dkFoeWRPZlJBTEVXbGNFdzhWSVllMXZjNDg0eVBMSzJGZktaZkNmQWtHU1NWQTlCMHV4dHV6aTNJN0xwS3pZN3pWakl5N09wcThkdDAwUVI4YlR5djZhZVViNUJzQXQzYk5B?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261026T020000Z",
+      "date_et": "2026-10-25",
+      "time_et": "22:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
