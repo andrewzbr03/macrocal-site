@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-02T18:19:52.152Z",
+  "generated_at": "2026-11-03T01:34:19.639Z",
   "articles": [
+    {
+      "title": "Manufacturing PMI and JOLTs job openings among economic data due Tuesday",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUk1Lb0g1aENtd2pOeE9Fb1ZXRDU2b1Vlc1AzR3I5RnlHQVdhQ205N1dHa1NiNWtselc2bE1PcS01SS1vX1Q1dEVfdVZfN2FkSk9lQW0wMDlOOHQ3YUR1cDRGMjNwaTlPN1k3dUtXV1h2dmc0TTM0UElnSnN3Zjk4QW5PQnF2bUpiMzJEcUt4Sk1hb2VjeDMxTlUwWi1ndUtCQkhJdGViMXNBbVNFd2d0MGg4Wm9yVGVyY2RFMXZBX29kU2luWHBrdm1nVXBRVUk?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261102T190118Z",
+      "date_et": "2026-11-02",
+      "time_et": "14:01",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "These tech stocks got unfairly swept up in last week&#x2019;s selloff, analysts say",
       "url": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
@@ -174,6 +189,21 @@
       "date_et": "2026-10-31",
       "time_et": "03:00",
       "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Wall Street falls as yields climb on jobs report",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xdnJFUlgzOFRVZ1lzZnJ6OS1KRDZaQ2EzT09aN0RDeFJSQlZfLV9USWZYaHgyblFWS0pBQV9pQUtLMFZTY3dCclE5RmdWbzdTY3dxc1lTblU0MVVG?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261031T070000Z",
+      "date_et": "2026-10-31",
+      "time_et": "03:00",
+      "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
@@ -703,6 +733,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Robust consumer spending, AI-related investment power US economy in third quarter By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUG9FV0l0QzJxVmQ2cFZfVkFaNU0yWGdmVm5WRV9zaWhWd0M2eVI1Q2YzRC1xaDJhc1R1dEZrYmxOdFp2eHlGMDdZdTI0MjU2TmR5VmJubXdWbFI0RTU5WWhTdjFXRVNTRlY2M0RSRm51NmhaTFAyYzRLSXBySk1LUXFHb3BDX205M3gyN0hzVVpaS0w5TXIyWTJxcmZCQWk5?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261029T131922Z",
+      "date_et": "2026-10-29",
+      "time_et": "09:19",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2719,7 +2764,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
       "time_et": "03:00",
@@ -2727,7 +2772,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
