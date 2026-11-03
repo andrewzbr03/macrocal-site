@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:30:19.334Z",
+  "generated_at": "2026-11-03T17:50:17.335Z",
   "readings": {
     "claims": [
       {
@@ -26,8 +26,8 @@
     "jolts": [
       {
         "label": "Job openings",
-        "value": "7.1M",
-        "period": "2026-08-01",
+        "value": "7.5M",
+        "period": "2026-09-01",
         "url": "https://fred.stlouisfed.org/series/JTSJOL"
       }
     ],
