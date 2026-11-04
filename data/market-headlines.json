@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-11-04T14:35:37.852Z",
+  "generated_at": "2026-11-04T21:19:26.056Z",
   "articles": [
+    {
+      "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here&#x2019;s what the Democratic wave means for healthcare.",
+      "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261104T211000Z",
+      "date_et": "2026-11-04",
+      "time_et": "16:10",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump's midterm drubbing could give trade partners room to resist",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261104T183631Z",
+      "date_et": "2026-11-04",
+      "time_et": "13:36",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.",
       "url": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
@@ -62,6 +92,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "World stocks rally as investors expect more political certainty after Democrats' win",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261104T010600Z",
+      "date_et": "2026-11-03",
+      "time_et": "20:06",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Shopify&#x2019;s stock slides after earnings. This is what&#x2019;s worrying Wall Street.",
       "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -74,6 +119,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "New data shows labor market strength in September",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LQlEwbi1OVWJQRjdhTldMVURBSi1iM1V2S3RQbi1UR3YySjdBQTRvVVpXVURqYzZqQjRKYjVQWHFaMjRYWHdtNWt5UThiTVpORWhPaktHejFuWWRNbVlOWHNQQmZDYUZSWFlR?oc=5",
+      "domain": "Axios",
+      "seendate": "20261103T221214Z",
+      "date_et": "2026-11-03",
+      "time_et": "17:12",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Axios",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -152,21 +212,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "New data shows labor market strength in September",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LQlEwbi1OVWJQRjdhTldMVURBSi1iM1V2S3RQbi1UR3YySjdBQTRvVVpXVURqYzZqQjRKYjVQWHFaMjRYWHdtNWt5UThiTVpORWhPaktHejFuWWRNbVlOWHNQQmZDYUZSWFlR?oc=5",
-      "domain": "Axios",
-      "seendate": "20261103T171214Z",
-      "date_et": "2026-11-03",
-      "time_et": "12:12",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Axios",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US job openings increase more than expected in September",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk9TWHdQX2pucGQ3RFg1akNfQmZoM3FBck96enJ6VEtqR0ZNUGZScFdlM0dXRi1OV1FXZTZNLWw3ajlPNnlXN1ZRSmhTQlQ2OHNGTXJOekxPeVUtb1BDT0hPbm43QWpEOTFxbW12cEJKcW9YdnBoQ0RWQTlQLWpWbUdvU2tBNTVHQVMwM0NfaFg?oc=5",
       "domain": "Yahoo Finance",
@@ -184,7 +229,7 @@
     {
       "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjlQb09KVG56SVlQVURsTWVNakJJZHV6cmpPcmEzbVJJbGpRSHRrU201Nm5PRks5dmh2U3c1aXhOUk55WmJYSGhiV005RXg3MV9nRmhyUUdVLS1IWTI5VFNVWFMyWXFZOTZwbVZSbjMyZkctaG9VUnlyWFR0R3BvXzZVLTFTUVRxTVAwR01UNmZTTTZHQUZLdldteldUQ21tM2FjYzFnMnJMSGN6amhseA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261103T155441Z",
       "date_et": "2026-11-03",
       "time_et": "10:54",
@@ -192,7 +237,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1187,6 +1232,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US GDP growth accelerated in third quarter, surpassing expectations",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGhkSmR2QmpEaWQ0dm11UFFpZzdpSm1nZ3hLMV90X3FzWTF4N3VBMVhWYnRWaFBVcFpjS0UyRFVGN19md2JaQ2VmQUNfWFd5WUd6N0dPQy1iMWJzN3MtWlY3RFBPM0hfNzdleVpjd016bl9WZG1BTldsckMwMklORzRhOGNEZFE?oc=5",
+      "domain": "Yahoo Finance Singapore",
+      "seendate": "20261029T131135Z",
+      "date_et": "2026-10-29",
+      "time_et": "09:11",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US unemployment claims fall to lowest level since July",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BHdmR6R1FLRl9KaGwxNTBfV0pYYmFzUHZyU0ZlQjRFc25HWHVEaWxjSy1WMlotYmswUnJvMXFoOURwTXpBTjczUjlQZ1NfNjIxQkREbXVmNERyUmlDRDhydlFxTVVJd1BKbU5Db0NaTFNwbjlJYmg5RU0wd25PSV9tNDBneUJYRGxLdlVSNlVaVERPT0RXS0VRRVhPN2hFb2pRNXdsakw4S1pRMXZWSVc1djg3TXVURldrOFM2dEpWWWPSAcgBQVVfeXFMTVk4Z2RsalNkRlJMYUJ3ZElRaTItbkszXy14eUpYVXVtdG8tNjBOZG93VEM1VTFtd19HTEw3Q0QwY0NkaWpQbGNGTVk5Mlc5dFlCamExU2tJLUdsWWdYZE1fc0xXWDBUZU1qN2RMWi1rQmtUSFpUaDhDbjBqaWZNdjVUek1ldVQweVlMR1FPak8wYl9rU0EtekNaZ2JLZXdBa2NMWkx1ajhRNnNLSlV0Z1BCMVJaR2FRdDRobEp3aXlwRFJraEtZbWM?oc=5",
       "domain": "CNBC TV18",
@@ -1468,6 +1528,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak5jaGdxWkFidzhncWs1dTk0TGJOdUVYZDVMUVpvdWp5TWZBa2JzdU5CUGFxSTc5SUlPd0VYQmNyT3NRSmotOG5BMkxzVmh0T0o5c0twVjh0MXJqS0MyZG1CQXRiZTk4dWltTkRnN2lrOTY2TDBVWHhTZi04SWFKem83Z25wamNLdWIzLTIzenBCUUtzOWlKckE0bWxpVjVsT1k5M04wWjZDT2ViR0tjVnpwdm5IRWh6NG83a01pdE5PZEJr?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261028T011000Z",
+      "date_et": "2026-10-27",
+      "time_et": "21:10",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3214,7 +3289,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
       "time_et": "03:00",
@@ -3222,7 +3297,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
