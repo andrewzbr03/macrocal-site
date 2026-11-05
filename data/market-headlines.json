@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-04T21:19:26.056Z",
+  "generated_at": "2026-11-05T02:25:39.893Z",
   "articles": [
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an &#x2018;excessive knee-jerk&#x2019; reaction",
+      "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261105T003800Z",
+      "date_et": "2026-11-04",
+      "time_et": "19:38",
+      "effect_reported": true,
+      "major_catalyst": false,
+      "catalyst_tag": "Market move",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here&#x2019;s what the Democratic wave means for healthcare.",
       "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
@@ -1518,21 +1533,6 @@
     },
     {
       "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0x2UURrTzFxeXZLNWhOaVFndDNzVURqV2VNbVpyX2dvS2N0UzJRQXFISE9hT1NzbGI2VnFKeFBrQ2RxaE1KRHBWbXdXSXZkVUhkSW0zVFNSN0cybGRYMkljOVluTDhjdDNIS1V2ZmhnQl9DdjhsbDZaek5VZnpnRGlISW9TcjFfak5iZ0ZkNW9NVF8xUThUbGloaGYwUQ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261028T013900Z",
-      "date_et": "2026-10-27",
-      "time_et": "21:39",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak5jaGdxWkFidzhncWs1dTk0TGJOdUVYZDVMUVpvdWp5TWZBa2JzdU5CUGFxSTc5SUlPd0VYQmNyT3NRSmotOG5BMkxzVmh0T0o5c0twVjh0MXJqS0MyZG1CQXRiZTk4dWltTkRnN2lrOTY2TDBVWHhTZi04SWFKem83Z25wamNLdWIzLTIzenBCUUtzOWlKckE0bWxpVjVsT1k5M04wWjZDT2ViR0tjVnpwdm5IRWh6NG83a01pdE5PZEJr?oc=5",
       "domain": "Investing.com UK",
       "seendate": "20261028T011000Z",
@@ -1652,21 +1652,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US Consumer Confidence Rises for First Time in Four Months",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261027T144028Z",
-      "date_et": "2026-10-27",
-      "time_et": "10:40",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "AI investment boom drives US core capital goods orders, shipments higher in September",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEtQRUdMUzRKM3ZjSGd3UndoWkxFWVJ0UmRBd3J2RVF2eTFtWGRybzctN0k1bm1iR0JjcDZyaGJZVWlOY0prQ01FVHZPaC1xWXpYaW1JTU43eGNRZXQ0RGpXcTVFczN4cTlJX01rTXdCTTdtbUhtSzhPTGVuWHVsUWVMYWpHM3gyYUpKTg?oc=5",
       "domain": "Yahoo Finance",
@@ -1727,21 +1712,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. Durable Goods Orders Rise 1.8% in September, Exceeding Economists’ Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUFvY2hWaG9zWlBGRUJqVV9MSjhJSWNLV1BqSmMtZWgxU203V2xXQlJwODBmQ3Y3WHJmZm9XQUFLc1ZSTWt2M2RTRW9EeWtrdk91OTMyS2IzVlpfbzBuV2o0VHgyaGRfc08xMUJzR01JNGxxcm1rNmQta3ZhcDdGak5IdTE0eS04akVmcXNR?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261027T133659Z",
-      "date_et": "2026-10-27",
-      "time_et": "09:36",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "September US Durable Goods New Orders Post Smaller-Than-Expected Gain",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTF4N3V0ZUZoSnlRRVE3TGJTTE5wclBCSDdKMWI4U0gzNTZKTHBFZV9oTnlCZng0eDNhYU9GcnB1dFRFZFhfUFEzTWE3cENDRnhLUEZRRHBra2FwV0RpNkk4Q2xVQ0NzM2x6MHdxeF9kMERvM1FlcVdnNFRGYWJnWnphQm16QmlJWHpHYWVldmxzekxLbEE?oc=5",
       "domain": "Yahoo Finance",
@@ -1768,6 +1738,51 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0x2UURrTzFxeXZLNWhOaVFndDNzVURqV2VNbVpyX2dvS2N0UzJRQXFISE9hT1NzbGI2VnFKeFBrQ2RxaE1KRHBWbXdXSXZkVUhkSW0zVFNSN0cybGRYMkljOVluTDhjdDNIS1V2ZmhnQl9DdjhsbDZaek5VZnpnRGlISW9TcjFfak5iZ0ZkNW9NVF8xUThUbGloaGYwUQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261027T070000Z",
+      "date_et": "2026-10-27",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Consumer Confidence Rises for First Time in Four Months",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261027T070000Z",
+      "date_et": "2026-10-27",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. Durable Goods Orders Rise 1.8% in September, Exceeding Economists’ Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUFvY2hWaG9zWlBGRUJqVV9MSjhJSWNLV1BqSmMtZWgxU203V2xXQlJwODBmQ3Y3WHJmZm9XQUFLc1ZSTWt2M2RTRW9EeWtrdk91OTMyS2IzVlpfbzBuV2o0VHgyaGRfc08xMUJzR01JNGxxcm1rNmQta3ZhcDdGak5IdTE0eS04akVmcXNR?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261027T070000Z",
+      "date_et": "2026-10-27",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3289,7 +3304,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
       "time_et": "03:00",
@@ -3297,7 +3312,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
