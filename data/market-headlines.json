@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-05T10:50:48.283Z",
+  "generated_at": "2026-11-05T18:43:27.717Z",
   "articles": [
+    {
+      "title": "Previewing the jobs report: The Labor market is 'mixed at best'",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDJUYXh2cDg0VGZ5Tk1HR29NOE1PdTVqenJ0czdnSEJ5Y01qUVBlOGhWaC01b0t5OHdvdk9MZXk1RGVQMkZGeVR3dzVsOGVNd1BQdW5EMmpCWXBwWExhUVRJOW93YjZXalYtS19HaDVEcmZYckZmR0RpWlhRUjBZc1B0cGh4NlR0X3Bjc2hTVDhjYWtwU0t5bzBzSlhXTUl6YVJlMEpyUS1UcFU?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261105T145949Z",
+      "date_et": "2026-11-05",
+      "time_et": "09:59",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims unexpectedly fall to 189,000",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm1JVWI1Qm80UXQ2T0NCLXJhT3pzOHRIWHZKNkNJMWkwUHlmeENlVF9KV05YaE5YV09PbFZNNEY4dkdpaUVVZW04UkR1azJvU0NDNGhNTG9qLXpsR3Z6b2w5WFM4M3J6cEg4SkxwejRSMHBjeVZUY2VxcE9NNnNtWjJkMHpMUFZMTXpPS20wLWdObGlISEswR3ZtWQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261105T134837Z",
+      "date_et": "2026-11-05",
+      "time_et": "08:48",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims at 57-year lows amid low layoffs By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWs2cFdsQXNmaVlNWEJIR0h2dEcwY3YyQUE1YnYzNjlDdmlFdWNLVjJKOVpjSHY0SGxaVldFNUFWM0JsZ0VReEsybHczYWdyVE82MmJla0kybnBJSDAyRlJoM193Q0FtZDladjladjRMVHR2bkNNdWdabUlweHFIblJHSndLQnZBam9JVmhMNjdxYzU1M3lnMUsyMTQ2VG5iNFpQZnNfcDRUZzZia0hvbkoyN2huZw?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261105T134550Z",
+      "date_et": "2026-11-05",
+      "time_et": "08:45",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "A prolonged war in Iran is the market&#x2019;s real &#x2018;black swan,&#x2019; says this strategist",
       "url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
@@ -44,6 +89,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Fall Below Estimates to 189,000",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3BSMkVweTd4V3RYcUNadTg3WGJLQ3FIRkdZeUpySWxYbXFjcWI2a3pzTDJWVTNpbGpfS2FETnV6Q2ZiWDMyOXA3SWxiUlVBRmdoczhHVEVzREZWWjFLOWpWM1J3VG5UcXBvdVp6bEJsMmZmZUp1bVhrR3ZTSDMwdWJuR3VRYnd0aTMzMEdXLVJaODhzMDg1QmRuMko5WVRGSEJvX3RwOA?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261105T000000Z",
+      "date_et": "2026-11-04",
+      "time_et": "19:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -304,6 +364,21 @@
     {
       "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHfSAdQBQVVfeXFMT2NuOS1pNzNxMktDelROcUNpVWZRUXBxR2NFSFNQbUk1SV9weVZGcmhFMUsyaWhpVDR4bF83XzBZcmI3M2VQMC00QzV6cDBWTGpVVVQ1VUh0QzFlV2FFUDdDOHdlVVYydlBzZWY4TnZqaEpYLTRwOEZHM3VtWUFCMkZ2T3pFVEZNc0tGZE1CQk9wU3FpR09IS1RGYWZNelFBczJQZ3VIczNaT1RWRU9SQ2RuQWdZTmxnMXlUYXFjVkpSRFRZWGxCeURQTVU3SXR1YktfbUo?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261103T153734Z",
+      "date_et": "2026-11-03",
+      "time_et": "10:37",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHc?oc=5",
       "domain": "CNBC",
       "seendate": "20261103T153734Z",
       "date_et": "2026-11-03",
@@ -1127,7 +1202,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
+      "title": "Fed’s favorite inflation measure shows prices moved up in September, keeping expectations for a year-end hike",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261029T143025Z",
@@ -2780,8 +2855,8 @@
       "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
       "domain": "Reuters",
-      "seendate": "20261019T070000Z",
-      "date_et": "2026-10-19",
+      "seendate": "20261018T070000Z",
+      "date_et": "2026-10-18",
       "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
