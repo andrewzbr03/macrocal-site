@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T00:55:08.215Z",
+  "generated_at": "2026-11-07T07:07:23.930Z",
   "articles": [
     {
-      "title": "Four things to note from Friday's US jobs report",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcl9IZFVuS00zSjQyMTVpYjM4TldkamZJUDF5LWlKWkQ3NFE4VWtXbmFrVVhORkdKckRRcXU4cU5HQW5HQkF6NDNEYXJoXzR5eEFGV25aS1o4ZUlQQkwwRHV5M2ZSTVVTZG0zZnN2VUdyN1UwcnhtUC1HeERRQTBZVGlXNVhUUWUtWmFxWg?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261106T214107Z",
+      "title": "3 US Retail Stocks Worth Watching As A Strong Labor Market Lifts Consumer Spending",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXAxcUR2N0EwRHNkUmdLd3RFUnJnazNMczFKbXpnWTlkM0JqXzdrT1FVTkg2a0k3QndXSklJY0dWUUFFbzhOODVBazlEZ2JwOXdKdU81N2pTeVpLMG05a19ZSEwyZDhTOVhzRDNVUS1nNmhBaTVPNXVpWEgxYTd3Q3cybVNNTWdLSTVFX0QtbXIydVE?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261107T011500Z",
       "date_et": "2026-11-06",
-      "time_et": "16:41",
+      "time_et": "20:15",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Reuters",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -38,6 +38,21 @@
       "seendate": "20261106T205834Z",
       "date_et": "2026-11-06",
       "time_et": "15:58",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Four things to note from Friday's US jobs report",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcl9IZFVuS00zSjQyMTVpYjM4TldkamZJUDF5LWlKWkQ3NFE4VWtXbmFrVVhORkdKckRRcXU4cU5HQW5HQkF6NDNEYXJoXzR5eEFGV25aS1o4ZUlQQkwwRHV5M2ZSTVVTZG0zZnN2VUdyN1UwcnhtUC1HeERRQTBZVGlXNVhUUWUtWmFxWg?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261106T192100Z",
+      "date_et": "2026-11-06",
+      "time_et": "14:21",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
@@ -317,7 +332,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate at 4.1%",
+      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56MGdjWVJoQ0JqTmhlZVpRREt0eE1XOFd0VkdIdVBfZnZNcUQ3eFV6aVl0aGptRkpCVEk1Q1BuTXExaTlnb3dnOXpsQTE0THJlc0VZX0lQV0RrQmY0LXR2ajc1VHJkNmNjZzBVOER30gFzQVVfeXFMTldndzJuTUpwcExmUGd3N3pzNjM1NUZ3VkU4TGY0Q1R5Y1lfNTVsZWJfTVVHUGU5Qkh0LTZWcmZhMjE3ZW9DNmdZWlI4a3kyYmduMkVIQVB4Zjd6VDhPV0UyXy1kOU80WUlIaExhZ0tHeXBFMA?oc=5",
       "domain": "CNBC",
       "seendate": "20261106T133105Z",
@@ -613,6 +628,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "When will mortgage rates go down? They're down for the third week in a row",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWJ3eE1lUmhOVWw2VFhsTDdCem9JRXgyQnBrQVdVampVTXZ5UEg2VXpxYld6bUZ2aVdxZXhncmkxMU9sWnpzSTlES08tSHBRM3B2bFFqQ09yTVN6SHY2SWZacE1LYUlESm5MdHppS2U2UEloQmZleDdkS2dvVHllcGM5Nl9PV3pyRHlkUFNONzJJcHppaW1XYVgxYlJKZWl2bnNQNk9JQ1hSZTV5Q3JSVzhiX1VWWk1DRGIzUjNNQUo1bHNBM1hDVW9GUmQ4WTVBWHozVFdzRl9oc3Qxb01SOE13?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261105T210547Z",
+      "date_et": "2026-11-05",
+      "time_et": "16:05",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
