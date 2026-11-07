@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:07:23.930Z",
+  "generated_at": "2026-11-07T13:58:58.613Z",
   "articles": [
     {
       "title": "3 US Retail Stocks Worth Watching As A Strong Labor Market Lifts Consumer Spending",
@@ -2222,7 +2222,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Fed’s favorite inflation measure shows prices moved up in September, keeping expectations for a year-end hike",
+      "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261029T070000Z",
@@ -2533,6 +2533,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable goods orders rise, but miss forecasts By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZG5QSzd1bkFWQU01dnVSa1RRczlmeUJScFgwd0x6cmZyQ1BpV3BCSWcxS0NheHdySExnR3FVeVhJc0ZTMkhid21MZk1MMVdydkFqRTgtSFpNdUItbS04WGRPWlI5dER4Z19Da29JSmNmSUhGNmhiREgxV2JWeWNQNnh3cFg2b0R0dkFxUTM5Q0ZVRTFsQU9tSDJmbHlzTncwRlRyaHFLaWU?oc=5",
+      "domain": "Investing.com Canada",
+      "seendate": "20261027T123744Z",
+      "date_et": "2026-10-27",
+      "time_et": "08:37",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Canada",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
