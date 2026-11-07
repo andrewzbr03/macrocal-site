@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:45:54.096Z",
+  "generated_at": "2026-11-07T22:43:52.958Z",
   "articles": [
     {
       "title": "3 US Retail Stocks Worth Watching As A Strong Labor Market Lifts Consumer Spending",
@@ -92,21 +92,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "San Francisco Fed president on jobs report: This is good news for American workers",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGdGejQ4N2RHTk1tMm02d1hpX0gwN1VUMlhUNFI3SzFHZVNmZjQzQWF0d2hnYUF2MnJtaURyVzZNWG5USkd6RllOUEluZ2ZPWV96SXN4NjJDanNWMWo3RG1qYVNqTnFpOThsUFR4WnlydHFUZjlTc0NDelA5NXZwcDlxbWs3S1lUXzFGZVF6VV80SGpGSXUtTDkwRkVnS2NrSHd4eWhMR0xhWWtyTzU5TnJNSGU1bXhWTVdYRXRhajRDdw?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261106T183819Z",
-      "date_et": "2026-11-06",
-      "time_et": "13:38",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "White House hails 'skyrocketing' labor demand after blockbuster October jobs report",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZDRLOGdyTVcyUmY0TUI5VnExcFh1S1dMaEtRTmtIejZOMVRJdDIzOUNHbFVOd3NyOEVuOUVKS2lQQ0daQkttT01ST3NJM1d3OUR2ZDhfQk5vcXlxMzA0YUNSYXhZYkhhQ0NxZ3dSaHpPa1VlUHZHOVBobzJ6VVJsU1R4Y3dzNlBNNTNjZ2xFOFZqNzZsbUpRX2F6czNnLVFOb01oWEJ0eVk0and2aC1fNzZqZDFlbHI5TjhudGRMMk5DTldNcE9xeks5ZEFuTmo3eEtOa1VBYmRaakV2Wmc?oc=5",
       "domain": "Yahoo Finance",
@@ -118,6 +103,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "San Francisco Fed president on jobs report: This is good news for American workers",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGdGejQ4N2RHTk1tMm02d1hpX0gwN1VUMlhUNFI3SzFHZVNmZjQzQWF0d2hnYUF2MnJtaURyVzZNWG5USkd6RllOUEluZ2ZPWV96SXN4NjJDanNWMWo3RG1qYVNqTnFpOThsUFR4WnlydHFUZjlTc0NDelA5NXZwcDlxbWs3S1lUXzFGZVF6VV80SGpGSXUtTDkwRkVnS2NrSHd4eWhMR0xhWWtyTzU5TnJNSGU1bXhWTVdYRXRhajRDdw?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261106T180800Z",
+      "date_et": "2026-11-06",
+      "time_et": "13:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
