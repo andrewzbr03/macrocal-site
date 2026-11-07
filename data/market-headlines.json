@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:58:58.613Z",
+  "generated_at": "2026-11-07T18:45:54.096Z",
   "articles": [
     {
       "title": "3 US Retail Stocks Worth Watching As A Strong Labor Market Lifts Consumer Spending",
@@ -13,6 +13,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261106T220406Z",
+      "date_et": "2026-11-06",
+      "time_et": "17:04",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -133,21 +148,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "The White House (.gov)",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US job growth surges in October; unemployment rate falls to 4.1%",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261106T161627Z",
-      "date_et": "2026-11-06",
-      "time_et": "11:16",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -407,6 +407,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdW1KZjZvVFotYndxMEJWZEkzMWlBQmJqc3BkclBjVG1tZ1pMRGNuLXhuOW1xUncxa2E0QS1VYU9MQ1NHZTdXa2ZGY2FubzM5dW9rQjNac2lwUlY0OE9wcEs3SXlpRU5sZnR6RFFqNDNZNTRuOHZKY1BfSlFXaGRXdXVvbzZkT3ZZanNCVVVMeFRhSTdXVkwzVGwzZw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261106T093500Z",
+      "date_et": "2026-11-06",
+      "time_et": "04:35",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "10-year Treasury yield is little changed after stronger-than-expected October jobs report",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
       "domain": "CNBC",
@@ -414,6 +429,21 @@
       "date_et": "2026-11-06",
       "time_et": "04:34",
       "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "10-year Treasury yield rises after much stronger-than-expected October jobs report",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUo?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261106T093451Z",
+      "date_et": "2026-11-06",
+      "time_et": "04:34",
+      "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
@@ -1862,21 +1892,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US GDP accelerates to 3.4% in the third quarter, giving Trump a messaging boost on eve of midterms",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUHpDSDBYM3NyYUtGMEoyYTR5ZFM0NWpkSUxDMGJPQzdIVmNiUkM2SF9Nbk5ENmlrWm9RbUhhV1ZtYTNKa0FyeHJvMTlwdkgxOFFiRTQzazktUnh0bWtvcW5tY1RWUFZEbzk4MmFkZlN0Uzl0ODYwTFRWVUdsbGhmdHhpUTRMWGFLT2ZadWlBZDBKel9ORWNiZTY2MDdtNDFHT3dCLUtvZzViTXV6dkFzYlNsd2JsbkktYUM5LUpEQWRQUDlnb2VDS0VKUDN2ZXNvTEh2SmQ4ako5dGxZSHJWUUhYZUJrRjQ?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261029T150443Z",
-      "date_et": "2026-10-29",
-      "time_et": "11:04",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Growth / Demand",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Consumers are spending more, but they&#x2019;re not getting their money&#x2019;s worth due to inflation",
       "url": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2147,21 +2162,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYWdCbllHdWJ2UVZaYTROck9BUmdLejhXamVqQ3B5bFZlVU44UjJPalJXM1ZJTl8yR0tkTUh5Vmc2ZS1hV3BuN2s2bzdfanRqOFgzRnpmQkxNeWtWS3M4cGlfcTA0OUdZQzZUZV9ubzV1Z0RTZTJUUk1rMVpNelNrTGk4bUJrdDlONUVjVWoybEFRYjBzTm9CSWlLaDN4QkRDQVI1VEVZeGRBY0FIV3Z5QWdqX2RYTHc3R2dKMnRabHJKX05IYldpVGJVWEdBc2Y0Z3ZUalA5WGYxZWNESVNnV1NEa2Y?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261029T124300Z",
-      "date_et": "2026-10-29",
-      "time_et": "08:43",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "U.S. GDP Growth Surpasses Expectations, Boosts Economic Outlook By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWJuLUthanEzZGVBZjh5LW5zWGtjbWdleDU2WklXejFoNjFmQjJJMVFSNmZSNTlPLXBfNlExbVctd3hmR1ZqcnRULVBEUEpGb3IxaHNMLWNWbVRLcEdCOWtJVTF1VXFyNWdzTkpfYkZucVFIOG05emtUWk84UUFJWk16cWdCMklKRzZ0Mmk1RUVSQmtqUnZXNGdlSnNUMDcxcVBpUDJhc3VfQjRZclEyXzVkVTAtaTVET0tHdEtR?oc=5",
       "domain": "Investing.com Nigeria",
@@ -2188,6 +2188,36 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US GDP accelerates to 3.4% in the third quarter, giving Trump a messaging boost on eve of midterms",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUHpDSDBYM3NyYUtGMEoyYTR5ZFM0NWpkSUxDMGJPQzdIVmNiUkM2SF9Nbk5ENmlrWm9RbUhhV1ZtYTNKa0FyeHJvMTlwdkgxOFFiRTQzazktUnh0bWtvcW5tY1RWUFZEbzk4MmFkZlN0Uzl0ODYwTFRWVUdsbGhmdHhpUTRMWGFLT2ZadWlBZDBKel9ORWNiZTY2MDdtNDFHT3dCLUtvZzViTXV6dkFzYlNsd2JsbkktYUM5LUpEQWRQUDlnb2VDS0VKUDN2ZXNvTEh2SmQ4ako5dGxZSHJWUUhYZUJrRjQ?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261029T070000Z",
+      "date_et": "2026-10-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYWdCbllHdWJ2UVZaYTROck9BUmdLejhXamVqQ3B5bFZlVU44UjJPalJXM1ZJTl8yR0tkTUh5Vmc2ZS1hV3BuN2s2bzdfanRqOFgzRnpmQkxNeWtWS3M4cGlfcTA0OUdZQzZUZV9ubzV1Z0RTZTJUUk1rMVpNelNrTGk4bUJrdDlONUVjVWoybEFRYjBzTm9CSWlLaDN4QkRDQVI1VEVZeGRBY0FIV3Z5QWdqX2RYTHc3R2dKMnRabHJKX05IYldpVGJVWEdBc2Y0Z3ZUalA5WGYxZWNESVNnV1NEa2Y?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261029T070000Z",
+      "date_et": "2026-10-29",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
