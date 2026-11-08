@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-07T22:43:52.958Z",
+  "generated_at": "2026-11-08T02:27:51.114Z",
   "articles": [
+    {
+      "title": "PCE Inflation Report: How Rising Prices Could Lead to a Bigger Rate Hike in December",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45eHBJc2FQbHE5Z0RiZXJzQXB3dC13eU80LUVDYzhNM2U5V2M3N1pNTHRJTWtVNVZBTnVJd21fTVRDRHVmNmNUTlNNNWpqdGxET2E3Q3loMzJtbFpzUmVRNUtuU0FQRkpwLTFJNkE5QmRMd1QxR2tzUjVNWHFGQlk?oc=5",
+      "domain": "Barron's",
+      "seendate": "20261107T224046Z",
+      "date_et": "2026-11-07",
+      "time_et": "17:40",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Barron's",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "3 US Retail Stocks Worth Watching As A Strong Labor Market Lifts Consumer Spending",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXAxcUR2N0EwRHNkUmdLd3RFUnJnazNMczFKbXpnWTlkM0JqXzdrT1FVTkg2a0k3QndXSklJY0dWUUFFbzhOODVBazlEZ2JwOXdKdU81N2pTeVpLMG05a19ZSEwyZDhTOVhzRDNVUS1nNmhBaTVPNXVpWEgxYTd3Q3cybVNNTWdLSTVFX0QtbXIydVE?oc=5",
@@ -2218,21 +2233,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "PCE Inflation Report: How Rising Prices Could Lead to a Bigger Rate Hike in December",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45eHBJc2FQbHE5Z0RiZXJzQXB3dC13eU80LUVDYzhNM2U5V2M3N1pNTHRJTWtVNVZBTnVJd21fTVRDRHVmNmNUTlNNNWpqdGxET2E3Q3loMzJtbFpzUmVRNUtuU0FQRkpwLTFJNkE5QmRMd1QxR2tzUjVNWHFGQlk?oc=5",
-      "domain": "Barron's",
-      "seendate": "20261029T070000Z",
-      "date_et": "2026-10-29",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Barron's",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
