@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:16:56.489Z",
+  "generated_at": "2026-11-08T16:42:46.958Z",
   "articles": [
     {
       "title": "PCE Inflation Report: How Rising Prices Could Lead to a Bigger Rate Hike in December",
@@ -94,7 +94,7 @@
     {
       "title": "Why Is the US Jobs Report So Hard to Forecast?",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1RlZy13QlFxZ3ZxUnJNRmVXazYxSk5MdzNFRnFmQ21hS1FkNUVsM1JTTm5mVEVVWFFVcXgzZTAySzVCZmFQVDJlc2ZrN3dRRkFfLWp4djNfLWdTOWhjWXAzSDljRDV5ZUxKOThHOFZWRkJ0Y21wNUtiME1WQ3NwOHA2ZTk0aV80QXZaQk5IaDVteXhUQXM0R2RrZ3BaOGo3dUt2VE5Wd1NrTzR1QmR2enJsWFVfNjhJU1VpM0NR?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261106T190023Z",
       "date_et": "2026-11-06",
       "time_et": "14:00",
@@ -102,7 +102,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -482,6 +482,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Thailand CPI inflation hits near four-year high in October By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTZUTVAzMTBqcW1ZdlBHdnlqUnhlSGN1MmlDdExwUnFKU1FobHAybjktTUc0ZmJhU3pIdXphM2R4Ui13ZHc2STBaZlotbUNlcTVYbW5VVXlESnhyNnBVOGRBbmtJckdjZjdlZjVMSEk0b1VUSnBhTFFsSGNPREVDTkR6VnZhNjRxZFhDc1FxLTExdU5yVkF1OWFFeWhhVE9nRDg3MmRFRDlZLUdidlZnbFoxZG1Idw?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20261106T070335Z",
+      "date_et": "2026-11-06",
+      "time_et": "02:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Thailand CPI inflation hits near four-year high in October",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkNzRDRYTEc5al9ZWmNuNWxkY2ZHYU9FSEhpckhoSElEdFUwNm1SZmN5VnVSZUx5MXNJY3NTUE5HSFNkRGxQS0Vsd0VEVWNFT3ZrU3EtTWQ5d3RFOUNrbnozam83S2hZXzh1YlBlbHVZUVFhLTZIdkVLbWwyWHlvbWdyeFNXUl9STHJ5V0l2VFdpck9ZMFg1M01odExzd19LOWRpN1BNX2VodEp6S3dhTHdaYkp1bzA?oc=5",
       "domain": "Investing.com",
@@ -523,21 +538,6 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Yahoo Finance Singapore",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Thailand CPI inflation hits near four-year high in October By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTZUTVAzMTBqcW1ZdlBHdnlqUnhlSGN1MmlDdExwUnFKU1FobHAybjktTUc0ZmJhU3pIdXphM2R4Ui13ZHc2STBaZlotbUNlcTVYbW5VVXlESnhyNnBVOGRBbmtJckdjZjdlZjVMSEk0b1VUSnBhTFFsSGNPREVDTkR6VnZhNjRxZFhDc1FxLTExdU5yVkF1OWFFeWhhVE9nRDg3MmRFRDlZLUdidlZnbFoxZG1Idw?oc=5",
-      "domain": "Investing.com India",
-      "seendate": "20261106T052809Z",
-      "date_et": "2026-11-06",
-      "time_et": "00:28",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Investing.com India",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1459,7 +1459,7 @@
     {
       "title": "Watch US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3FRN0gyQ1loZnlGTnpDZTBxODJZeEY1MkN0NlJtRnJHSTl0MEJ0V01HTkxsUlpUYWcwSl9xQktnUHliUnd2Uk9XZGU0eUJ6bnNhY003ZkxwU1RhUUNSdFJHX0YwYUFNdDllV1YxcjY4MnJveXR6UFlkRDRxd3B5MUM2b0c2dGxVR3E0RTBjZXQtWWUyU0hORTNRd29lUG5IZThrSEtVaF91UQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261102T000000Z",
       "date_et": "2026-11-01",
       "time_et": "19:00",
@@ -1467,7 +1467,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2728,6 +2728,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Investing.com India",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Durable goods orders rise, but miss forecasts By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUdKWEJ1dlFWQWUtdlRLOVY3dmlHTWJ2WFhaS3d0cFhCMExieHZiQUJrSVRvQnV6MXFDUHBSY3BtZURiRVlXcE0tWUNPWC1tbUFjQ1BEUUJwUHZnZXZ4dXI4ci0wMHZ5V3dfb1YtVkJLNFpLUDRGQkswV1JZQnNWZVJ4UUJrVm5aTU96N2Y0SWZiZ2IzMjlabDFQMnQ4WEZyUTlzWExJS0w?oc=5",
+      "domain": "Investing.com UK",
+      "seendate": "20261027T070000Z",
+      "date_et": "2026-10-27",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com UK",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
