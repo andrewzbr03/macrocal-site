@@ -502,18 +502,20 @@
       "filter_id": "jolts",
       "metric_id": "openings",
       "field": "actual",
-      "value": "7.079M",
-      "source_url": "https://www.bls.gov/news.release/jolts.htm",
-      "verified_at": "2026-09-29T23:29:54.478Z"
+      "value": "7.190M",
+      "source_url": "https://www.bls.gov/news.release/archives/jolts_11032026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "7.079M"
     },
     {
       "date": "2026-09-29",
       "filter_id": "confidence",
       "metric_id": "confidence",
       "field": "actual",
-      "value": "81.9",
-      "source_url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
-      "verified_at": "2026-09-29T23:29:54.478Z"
+      "value": "84.2",
+      "source_url": "https://www.conference-board.org/topics/consumer-confidence/index.cfm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "81.9"
     },
     {
       "date": "2026-09-30",
@@ -538,9 +540,10 @@
       "filter_id": "adp",
       "metric_id": "employment",
       "field": "actual",
-      "value": "90K",
-      "source_url": "https://mediacenter.adp.com/2026-09-30-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-90,000-Jobs-in-September",
-      "verified_at": "2026-09-30T14:39:08.807Z"
+      "value": "86K",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "90K"
     },
     {
       "date": "2026-09-30",
@@ -656,9 +659,10 @@
       "filter_id": "jobs",
       "metric_id": "nfp",
       "field": "actual",
-      "value": "29K",
-      "source_url": "https://www.bls.gov/news.release/empsit.htm",
-      "verified_at": "2026-10-02T14:38:43.639Z"
+      "value": "60K",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "29K"
     },
     {
       "date": "2026-10-02",
@@ -764,9 +768,10 @@
       "filter_id": "claims",
       "metric_id": "claims",
       "field": "actual",
-      "value": "197K",
-      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
-      "verified_at": "2026-10-13T15:12:32.582Z"
+      "value": "198K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261599.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "197K"
     },
     {
       "date": "2026-10-08",
@@ -1008,9 +1013,10 @@
       "filter_id": "claims",
       "metric_id": "claims",
       "field": "previous",
-      "value": "197K",
-      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261561.pdf",
-      "verified_at": "2026-10-13T15:12:32.582Z"
+      "value": "198K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261613.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "197K"
     },
     {
       "date": "2026-10-15",
@@ -1044,9 +1050,10 @@
       "filter_id": "ppi",
       "metric_id": "headline_mom",
       "field": "previous",
-      "value": "0.4%",
-      "source_url": "https://www.bls.gov/news.release/ppi.htm",
-      "verified_at": "2026-10-13T15:12:32.582Z"
+      "value": "0.5%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "0.4%"
     },
     {
       "date": "2026-10-15",
@@ -1116,9 +1123,10 @@
       "filter_id": "retail",
       "metric_id": "headline",
       "field": "previous",
-      "value": "1.2%",
-      "source_url": "https://www.census.gov/retail/sales.html",
-      "verified_at": "2026-10-13T15:12:32.582Z"
+      "value": "1.3%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "1.1%"
     },
     {
       "date": "2026-10-23",
@@ -1236,6 +1244,962 @@
       "value": "3.7%",
       "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
       "verified_at": "2026-10-14T13:43:02.819Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_mom",
+      "field": "actual",
+      "value": "0.7%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "core_yoy",
+      "field": "actual",
+      "value": "5.0%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_mom",
+      "field": "actual",
+      "value": "1.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "ppi",
+      "metric_id": "headline_yoy",
+      "field": "actual",
+      "value": "6.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "core",
+      "field": "actual",
+      "value": "0.9%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "retail",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "0.8%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-15",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "actual",
+      "value": "200K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261613.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "199K"
+    },
+    {
+      "date": "2026-10-22",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "actual",
+      "value": "195K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261624.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "194K"
+    },
+    {
+      "date": "2026-10-22",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "200K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261624.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "199K"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "actual",
+      "value": "195K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261680.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "194K"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "195K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261680.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "194K"
+    },
+    {
+      "date": "2026-11-05",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "actual",
+      "value": "189K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261680.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-05",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "195K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261680.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "194K"
+    },
+    {
+      "date": "2026-11-12",
+      "filter_id": "claims",
+      "metric_id": "claims",
+      "field": "previous",
+      "value": "189K",
+      "source_url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261680.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-20",
+      "filter_id": "housing-starts",
+      "metric_id": "starts",
+      "field": "actual",
+      "value": "1.221M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-20",
+      "filter_id": "housing-starts",
+      "metric_id": "starts",
+      "field": "previous",
+      "value": "1.288M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-20",
+      "filter_id": "permits",
+      "metric_id": "permits",
+      "field": "actual",
+      "value": "1.400M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-20",
+      "filter_id": "permits",
+      "metric_id": "permits",
+      "field": "previous",
+      "value": "1.403M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "actual",
+      "value": "48.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "actual",
+      "value": "46.7",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "actual",
+      "value": "48.8",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "actual",
+      "value": "4.7%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-23",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "actual",
+      "value": "3.5%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-27",
+      "filter_id": "durable",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "1.8%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-27",
+      "filter_id": "durable",
+      "metric_id": "core",
+      "field": "actual",
+      "value": "0.5%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-27",
+      "filter_id": "durable",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "0.1%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "0.0%"
+    },
+    {
+      "date": "2026-10-27",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "actual",
+      "value": "91.7",
+      "source_url": "https://www.conference-board.org/topics/consumer-confidence/index.cfm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-27",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "previous",
+      "value": "84.2",
+      "source_url": "https://www.conference-board.org/topics/consumer-confidence/index.cfm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "81.9"
+    },
+    {
+      "date": "2026-10-28",
+      "filter_id": "fomc-decision",
+      "metric_id": "rate",
+      "field": "actual",
+      "value": "4.00%",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-28",
+      "filter_id": "fomc-decision",
+      "metric_id": "rate",
+      "field": "previous",
+      "value": "4.00%",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "gdp",
+      "metric_id": "gdp_qoq",
+      "field": "actual",
+      "value": "3.4%",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "gdp",
+      "metric_id": "gdp_qoq",
+      "field": "previous",
+      "value": "2.2%",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "core_mom",
+      "field": "actual",
+      "value": "0.3%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "core_yoy",
+      "field": "actual",
+      "value": "3.1%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "headline_mom",
+      "field": "actual",
+      "value": "0.5%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "headline_yoy",
+      "field": "actual",
+      "value": "3.6%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.2%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "3.0%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.3%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-29",
+      "filter_id": "pce",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "3.4%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-30",
+      "filter_id": "eci",
+      "metric_id": "eci",
+      "field": "actual",
+      "value": "0.8%",
+      "source_url": "https://www.bls.gov/news.release/archives/eci_10302026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-10-30",
+      "filter_id": "eci",
+      "metric_id": "eci",
+      "field": "previous",
+      "value": "0.9%",
+      "source_url": "https://www.bls.gov/news.release/archives/eci_10302026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "55.5",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "prices",
+      "field": "actual",
+      "value": "75.2",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "orders",
+      "field": "actual",
+      "value": "55.5",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "employment",
+      "field": "actual",
+      "value": "52.4",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "54.5",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "prices",
+      "field": "previous",
+      "value": "77.9",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "orders",
+      "field": "previous",
+      "value": "55.3",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-02",
+      "filter_id": "ism-manufacturing",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "52.7",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-03",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "actual",
+      "value": "7.523M",
+      "source_url": "https://www.bls.gov/news.release/archives/jolts_11032026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-03",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "previous",
+      "value": "7.190M",
+      "source_url": "https://www.bls.gov/news.release/archives/jolts_11032026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "7.079M"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "employment",
+      "field": "actual",
+      "value": "86K",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "86K",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "90K"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "stayers",
+      "field": "actual",
+      "value": "4.4%",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "stayers",
+      "field": "previous",
+      "value": "4.4%",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "changers",
+      "field": "actual",
+      "value": "7.6%",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "adp",
+      "metric_id": "changers",
+      "field": "previous",
+      "value": "7.3%",
+      "source_url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "54.5",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "prices",
+      "field": "actual",
+      "value": "73.0",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "employment",
+      "field": "actual",
+      "value": "51.4",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "54.9",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "prices",
+      "field": "previous",
+      "value": "74.0",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-04",
+      "filter_id": "ism-services",
+      "metric_id": "employment",
+      "field": "previous",
+      "value": "50.1",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "actual",
+      "value": "165K",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "previous",
+      "value": "60K",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z",
+      "original_value": "29K"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "actual",
+      "value": "4.1%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "previous",
+      "value": "4.2%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "actual",
+      "value": "0.4%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "previous",
+      "value": "0.1%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "actual",
+      "value": "51.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "previous",
+      "value": "48.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "actual",
+      "value": "51.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "previous",
+      "value": "46.7",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "actual",
+      "value": "50.9",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "previous",
+      "value": "48.8",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "actual",
+      "value": "4.3%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "previous",
+      "value": "4.7%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "actual",
+      "value": "3.4%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-06",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "previous",
+      "value": "3.5%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-13",
+      "filter_id": "ppi",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.7%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-13",
+      "filter_id": "ppi",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "5.0%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-13",
+      "filter_id": "ppi",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "1.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-13",
+      "filter_id": "ppi",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "6.3%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-17",
+      "filter_id": "retail",
+      "metric_id": "core",
+      "field": "previous",
+      "value": "0.9%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-17",
+      "filter_id": "retail",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "0.8%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-18",
+      "filter_id": "housing-starts",
+      "metric_id": "starts",
+      "field": "previous",
+      "value": "1.221M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-18",
+      "filter_id": "permits",
+      "metric_id": "permits",
+      "field": "previous",
+      "value": "1.400M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-20",
+      "filter_id": "michigan",
+      "metric_id": "sentiment",
+      "field": "previous",
+      "value": "51.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-20",
+      "filter_id": "michigan",
+      "metric_id": "conditions",
+      "field": "previous",
+      "value": "51.0",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-20",
+      "filter_id": "michigan",
+      "metric_id": "expectations",
+      "field": "previous",
+      "value": "50.9",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-20",
+      "filter_id": "michigan",
+      "metric_id": "infl1y",
+      "field": "previous",
+      "value": "4.3%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-20",
+      "filter_id": "michigan",
+      "metric_id": "infl5y",
+      "field": "previous",
+      "value": "3.4%",
+      "source_url": "https://www.sca.isr.umich.edu/",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-24",
+      "filter_id": "confidence",
+      "metric_id": "confidence",
+      "field": "previous",
+      "value": "91.7",
+      "source_url": "https://www.conference-board.org/topics/consumer-confidence/index.cfm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "gdp",
+      "metric_id": "gdp_qoq",
+      "field": "previous",
+      "value": "3.4%",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "pce",
+      "metric_id": "core_mom",
+      "field": "previous",
+      "value": "0.3%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "pce",
+      "metric_id": "core_yoy",
+      "field": "previous",
+      "value": "3.1%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "pce",
+      "metric_id": "headline_mom",
+      "field": "previous",
+      "value": "0.5%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "pce",
+      "metric_id": "headline_yoy",
+      "field": "previous",
+      "value": "3.6%",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "durable",
+      "metric_id": "headline",
+      "field": "previous",
+      "value": "1.8%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-11-25",
+      "filter_id": "durable",
+      "metric_id": "core",
+      "field": "previous",
+      "value": "0.5%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-12-01",
+      "filter_id": "jolts",
+      "metric_id": "openings",
+      "field": "previous",
+      "value": "7.523M",
+      "source_url": "https://www.bls.gov/news.release/archives/jolts_11032026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-12-04",
+      "filter_id": "jobs",
+      "metric_id": "nfp",
+      "field": "previous",
+      "value": "165K",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-12-04",
+      "filter_id": "jobs",
+      "metric_id": "unemployment",
+      "field": "previous",
+      "value": "4.1%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-12-04",
+      "filter_id": "jobs",
+      "metric_id": "wages",
+      "field": "previous",
+      "value": "0.4%",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "verified_at": "2026-11-09T15:00:27.967Z"
     }
   ]
 }
