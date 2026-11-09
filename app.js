@@ -691,6 +691,8 @@ function relevantContextFor(ev){
     if(ts>nowMs)continue;
     if(future){if(ts<nowMs-30*86400000)continue;}
     else{if(ts>eventTime||ts<eventTime-30*86400000)continue;}
+    // A headline describing a same-day post-release reaction cannot be pre-release context when its feed timestamp is wrong.
+    if(!future&&h.date_et===ev.date&&ts<eventTime&&DIRECT_REPORT_SIGNALS[ev.filterId]?.test(h.title)&&/\b(?:after|following)\b/i.test(h.title)&&/\b(?:report|release|data)\b/i.test(h.title))continue;
     if(!headlineMatchesEvent(ev.filterId,h.title))continue;
     if(!h.url||!h.title)continue;
     const tag=h.catalyst_tag||h.topic_tag||(h.effect_reported?'Market move':'Market context');
