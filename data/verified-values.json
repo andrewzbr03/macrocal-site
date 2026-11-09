@@ -189,9 +189,10 @@
       "filter_id": "durable",
       "metric_id": "headline",
       "field": "actual",
-      "value": "0.0%",
-      "source_url": "https://www.census.gov/manufacturing/m3/adv/pdf/table1a.pdf",
-      "verified_at": "2026-09-25T14:51:49.767Z"
+      "value": "0.1%",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "verified_at": "2026-11-09T15:05:36.250Z",
+      "original_value": "0.0%"
     },
     {
       "date": "2026-09-25",
@@ -2200,6 +2201,36 @@
       "value": "0.4%",
       "source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
       "verified_at": "2026-11-09T15:00:27.967Z"
+    },
+    {
+      "date": "2026-09-10",
+      "filter_id": "ppi",
+      "metric_id": "headline_mom",
+      "field": "actual",
+      "value": "0.5%",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "verified_at": "2026-11-09T15:05:36.250Z",
+      "original_value": "0.4%"
+    },
+    {
+      "date": "2026-09-16",
+      "filter_id": "retail",
+      "metric_id": "headline",
+      "field": "actual",
+      "value": "1.3%",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "verified_at": "2026-11-09T15:05:36.250Z",
+      "original_value": "1.1%"
+    },
+    {
+      "date": "2026-09-17",
+      "filter_id": "housing-starts",
+      "metric_id": "starts",
+      "field": "actual",
+      "value": "1.288M",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "verified_at": "2026-11-09T15:05:36.250Z",
+      "original_value": "1.275M"
     }
   ]
 }
