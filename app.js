@@ -189,7 +189,8 @@ function pad(n){return String(n).padStart(2,'0');}
 function ymdLocal(d){return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;}
 
 function archiveStartDate(){return new Date(`${ARCHIVE_START_DATE}T00:00:00-04:00`);}
-function isArchiveEligible(ev){if(ev?.chatHistorical)return true;const d=parseEventDate(ev);return !!d && d.getTime()>=archiveStartDate().getTime();}
+function isArchiveEligible(ev){if(ev?.filterId==='claims'&&ev.date==='2026-11-26')return false; // Thanksgiving release is Nov 25, not the recurring Thursday placeholder.
+  if(ev?.chatHistorical)return true;const d=parseEventDate(ev);return !!d && d.getTime()>=archiveStartDate().getTime();}
 function addDays(d,n){const x=new Date(d);x.setDate(x.getDate()+n);return x;}
 function monthLabel(d){return d.toLocaleDateString('en-US',{month:'long',year:'numeric'});}
 function fmtDate(d){return d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',year:'numeric'});}
