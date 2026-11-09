@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-11-09T00:51:52.978Z",
+  "generated_at": "2026-11-09T07:56:21.404Z",
   "articles": [
+    {
+      "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXFuOTVJWlZLczB0dENlc0E3QkRwZkJKckF0ZTIwU1BNQ184a3RmdWFiQVZvSWYyMlpfVjVFTWRic2w0TUtuYUVCX2tkdzhuT2lXbXNzYmFiNWdJTjJHLTlNb1U4a2J3YTNISW01WlBSZXVuSzFwNmE2T05YOTh5UzdIb2NUM0NIMy04RjdneUd3QXJoVW1ydlhsU1BIc2tIQWpNNUkwVVYydWpIZ2ZXQlF0ZkY5aVVhUjBQRnZSaFdkVDVfR1BDaHVsWV8?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261109T052713Z",
+      "date_et": "2026-11-09",
+      "time_et": "00:27",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1g0SjQ2VTRZVFZIM2FYbkNBLXRUSGIwYU5jYkd2ckk2X1QzYnRoblA0aDZiWDU5ME1CZUN6Y3pTQWlhcFlfNGpaZnh0UzJEeEpwdVFaUmVwUDlCbGtOaXRXMV9wYW5LanUwY0g2UF9tcFZFckU3RUZyVEVNWDl5N0ZMYVN3QTVrSXJyd1p0NmE4SFpycHlMVUdB?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261109T021500Z",
+      "date_et": "2026-11-08",
+      "time_et": "21:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "CPI Preview: 0.2% Favours a Hold, 0.3% Favours a Hike",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3R3Z0JEYnZKazFyYmdqLUdhM3hadGMxRU51MWRVWDd2aXNlQkFUSGRNN3gtbmZ3UExBWExsR1JHVEQwZVluOUt2NUlXel9UN3lid0M4SzE5RVJaVW4tVGZ2RV94dXNzSlBnNnlDbkRCNUhZTmNMYm1FSktfczFQcy1oaG8ta1FvNU9QR1dhTG8xdXBMR1E?oc=5",
@@ -94,7 +124,7 @@
     {
       "title": "Why Is the US Jobs Report So Hard to Forecast?",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1RlZy13QlFxZ3ZxUnJNRmVXazYxSk5MdzNFRnFmQ21hS1FkNUVsM1JTTm5mVEVVWFFVcXgzZTAySzVCZmFQVDJlc2ZrN3dRRkFfLWp4djNfLWdTOWhjWXAzSDljRDV5ZUxKOThHOFZWRkJ0Y21wNUtiME1WQ3NwOHA2ZTk0aV80QXZaQk5IaDVteXhUQXM0R2RrZ3BaOGo3dUt2VE5Wd1NrTzR1QmR2enJsWFVfNjhJU1VpM0NR?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261106T190023Z",
       "date_et": "2026-11-06",
       "time_et": "14:00",
@@ -102,7 +132,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -244,7 +274,7 @@
     {
       "title": "Here Are the Key Takeaways From the US Jobs Report for October",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG5vNWo1NG1HSlE3enFRYmJqb2tfVGdCeGFIUU8xSW83VGJsemQ4c25YWms1ZnJKZVVKQjlremZZcEdYRUNrSlh4UHY0VG1ydnQ4Y2M1RkZTamVDa3d1WmtOaUFiejlEVGRnRGF2VnItUzgzOGlna0daaU1rclhPVVhUZjZWeXdxWVAwcnJIYWRFNkdsNHQ3WC1xNWJfWGRvZkJJNlZLTW01RHdhOXBqWnNFWGJ0QQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261106T144012Z",
       "date_et": "2026-11-06",
       "time_et": "09:40",
@@ -252,7 +282,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1459,7 +1489,7 @@
     {
       "title": "Watch US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3FRN0gyQ1loZnlGTnpDZTBxODJZeEY1MkN0NlJtRnJHSTl0MEJ0V01HTkxsUlpUYWcwSl9xQktnUHliUnd2Uk9XZGU0eUJ6bnNhY003ZkxwU1RhUUNSdFJHX0YwYUFNdDllV1YxcjY4MnJveXR6UFlkRDRxd3B5MUM2b0c2dGxVR3E0RTBjZXQtWWUyU0hORTNRd29lUG5IZThrSEtVaF91UQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261102T000000Z",
       "date_et": "2026-11-01",
       "time_et": "19:00",
@@ -1467,7 +1497,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2433,21 +2463,6 @@
     },
     {
       "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjI1VnRaM2NYVEJKYVJwU192dG4yOTFjRmVDQkVXVlVGYi1oUGpvMkJjdFpvMTN5RGE3eGFCbUlheTU3RlVxZ3hKbk5xSHBwTXB2cjNBbTVLZG9aMDIwX2lmYmRPMUNaeUYtTjlRU2JqLUo3dWYxSUlxQ2g2WXUtS1BtbXd4LUpwa0ZTcFlDUk9ObDhCVmhaNlYtYXlWMWh6U1JLSDhOSDNreFN2anYzRnpoNGZBMVFNM0k2ZEpoV0VHTTQwb3c?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261028T040953Z",
-      "date_et": "2026-10-28",
-      "time_et": "00:09",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak5jaGdxWkFidzhncWs1dTk0TGJOdUVYZDVMUVpvdWp5TWZBa2JzdU5CUGFxSTc5SUlPd0VYQmNyT3NRSmotOG5BMkxzVmh0T0o5c0twVjh0MXJqS0MyZG1CQXRiZTk4dWltTkRnN2lrOTY2TDBVWHhTZi04SWFKem83Z25wamNLdWIzLTIzenBCUUtzOWlKckE0bWxpVjVsT1k5M04wWjZDT2ViR0tjVnpwdm5IRWh6NG83a01pdE5PZEJr?oc=5",
       "domain": "Investing.com UK",
       "seendate": "20261028T011000Z",
@@ -2621,6 +2636,21 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjI1VnRaM2NYVEJKYVJwU192dG4yOTFjRmVDQkVXVlVGYi1oUGpvMkJjdFpvMTN5RGE3eGFCbUlheTU3RlVxZ3hKbk5xSHBwTXB2cjNBbTVLZG9aMDIwX2lmYmRPMUNaeUYtTjlRU2JqLUo3dWYxSUlxQ2g2WXUtS1BtbXd4LUpwa0ZTcFlDUk9ObDhCVmhaNlYtYXlWMWh6U1JLSDhOSDNreFN2anYzRnpoNGZBMVFNM0k2ZEpoV0VHTTQwb3c?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261027T070000Z",
+      "date_et": "2026-10-27",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Investing.com",
       "link_type": "google_news",
@@ -4264,7 +4294,7 @@
     {
       "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJLQ1FfRlctVS1wdEpEbHY4YVdnRHhWaHMtOTNERElWSzlXcHo0Zm1hbU9senFjNkg0a0FMNW5nWXcyVTNfLTlIWFYtQktINDdXM3FfN3g0TlZlM3hReXV5NDdUc25uUHBFZE9uUkNlZHlfRDdzUnBGVVoxT1A3S2VJaGJDN0tsMWw1VVRSN0tQSmsyNUkwTnhxYXdyOU02WHJtM19xTFNMSXFpUmFVYg?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261015T070000Z",
       "date_et": "2026-10-15",
       "time_et": "03:00",
@@ -4272,7 +4302,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
