@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:17:35.030Z",
+  "generated_at": "2026-11-11T21:55:38.479Z",
   "articles": [
     {
       "title": "Micron and other AI stocks surge as CoreWeave calms Wall Street&#x2019;s worst fears",
@@ -1592,21 +1592,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHc?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261103T153734Z",
-      "date_et": "2026-11-03",
-      "time_et": "10:37",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US factory orders beat expectations in September amid broad strength",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXdmU2owbFp4b2pLNzBkbmRObUpzYWVtWlRxWVl4TGRQVTItM3pIZkhrak1SZHdlazFScmhrMy1OTndIcDMySnZhWHhqc0V0aWhCempkTXRBdU5NSlpFdF9OaGNKdVpWSmk0bHlqeXc4ZEZoTE53dzl6alI0bE9VVkVCSWZ3dmVuaWI2eDJnZE9RRUh2TEFCSUJyRF9VQkk3OXBJQ0Jpc2Npb18yOHlhV3JWRjZ5dFBreTZDVDdma2w2dHpFdklB?oc=5",
       "domain": "Reuters",
@@ -1706,6 +1691,21 @@
       "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHc?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261103T080000Z",
+      "date_et": "2026-11-03",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
       "link_type": "google_news",
