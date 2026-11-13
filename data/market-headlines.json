@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:19:13.031Z",
+  "generated_at": "2026-11-13T07:54:46.077Z",
   "articles": [
     {
       "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
@@ -47,7 +47,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "FRED Adds Median Inflation Data from the Cleveland Fed",
+      "title": "Price inflation measured by the Cleveland Fed's median PCE index",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampDUjkycFFDOFNpS3VmY2c2N0xJRjJLSTF4azdrLXU1U3d3djh5Zlc5aDFuSWhBRzU2YjBPS3FKdUZFS0JxS1JpVm9YMTFNSFRmblQtMjZQNkxqdGo2bDRWQWR6V0xKUW5Wb1NfdWFKb0xfN2tpbEYxZmlpM21nOTFrajIyUTVaOGNLeGthQktWNEhkV24xdEduQktxbHNxVkRGY2loTQ?oc=5",
       "domain": "Federal Reserve Bank of St. Louis",
       "seendate": "20261112T142125Z",
@@ -238,6 +238,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com Nigeria",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Jobless claims, existing home sales, and oil inventories due Thursday",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2FyLVdNSlhLTlducFg0V1pOaWNJcGhJZzNvbWZvMkVYWjRyU2xMZFoxVVNyZXdBa1pGS0p0ZXlOdXJRcU51LXNaU1lGTi1zSW5Nb2NyVWNPV3l5Wnltc2pmU1JJWUdfb3dCREh6YmZGMlhmZjl6eG9WZFQyZy1RcGJZTU8xQWRMempDaUpJN0pZdG01NlhPYk0tU3ZMYXVNaDlhRzVLZmtVS1BZUGtfWHlBS0MwWHhLU2hjMUNEdG1yYlotemlRZQ?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261111T190632Z",
+      "date_et": "2026-11-11",
+      "time_et": "14:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Investing.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1247,13 +1262,13 @@
       "timestamp_type": "published"
     },
     {
-      "title": "10-year Treasury yield is little changed after stronger-than-expected October jobs report",
+      "title": "10-year Treasury yield rises after much stronger-than-expected October jobs report",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
       "domain": "CNBC",
       "seendate": "20261106T093451Z",
       "date_et": "2026-11-06",
       "time_et": "04:34",
-      "effect_reported": false,
+      "effect_reported": true,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
@@ -1892,21 +1907,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US job openings increase more than expected in September",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk9TWHdQX2pucGQ3RFg1akNfQmZoM3FBck96enJ6VEtqR0ZNUGZScFdlM0dXRi1OV1FXZTZNLWw3ajlPNnlXN1ZRSmhTQlQ2OHNGTXJOekxPeVUtb1BDT0hPbm43QWpEOTFxbW12cEJKcW9YdnBoQ0RWQTlQLWpWbUdvU2tBNTVHQVMwM0NfaFg?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261103T163339Z",
-      "date_et": "2026-11-03",
-      "time_et": "11:33",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US factory orders beat expectations in September amid broad strength By Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYW45MVZIZzZzbl9semdkTWZvVVNKbnBiRmd6cWxLdjFmS2lTZ1lBRXdjbmVrNGJ3TEhhdU9zX0hrU3JMZzVEcGxLMEY3empPNUhoSl9mUFpheERiWHZ1aTFXV1NqNnFiVUlfRk95VFNkc282UGZOaFNna1hLMUd0Y0tOSDRFZ0ZVeWI0N090Y2ZIeWRFWG0wRmxfNk1ZVWpEYzdYaG9pNThqYXBoUE5TNEpRVm5kb0xiN0Vtcg?oc=5",
       "domain": "Investing.com",
@@ -2008,6 +2008,21 @@
       "catalyst_tag": "Fed / Rates",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US job openings increase more than expected in September",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk9TWHdQX2pucGQ3RFg1akNfQmZoM3FBck96enJ6VEtqR0ZNUGZScFdlM0dXRi1OV1FXZTZNLWw3ajlPNnlXN1ZRSmhTQlQ2OHNGTXJOekxPeVUtb1BDT0hPbm43QWpEOTFxbW12cEJKcW9YdnBoQ0RWQTlQLWpWbUdvU2tBNTVHQVMwM0NfaFg?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261103T080000Z",
+      "date_et": "2026-11-03",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4472,6 +4487,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US housing starts fall to four-month low as demand falters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXNjVHhUbS11Q05JZnQ5eXg0VEhRNXRNSWxqUWhwcW5KTWpyR0NReVpmOWdCelZHcTBMZXZfNUJYcl9oak9jbVA3bEJFcnNsUHdpM1lMVGdGTEZaSFN5eXh3WEZWN3FCNEVCeHRwTy1rOTRsVlpOOFltaHYxN20tMU93?oc=5",
+      "domain": "Yahoo Finance Singapore",
+      "seendate": "20261020T070000Z",
+      "date_et": "2026-10-20",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "US holiday retail sales forecast to reach US$1.013 trillion in 2026",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVpS1haWTlfTVNfWlcwY1NraHJ6RjFqT2dOS1BzNzZ0VVUxc2dxdWxWYVdCeHlWZlo2YVZSU0E4NkE5eVMxdFVQbkhrU2JNWUtFY2JnNWl3cWNzTFREZ0tCUWM3dnNqcHNlTGdTMkN5cjVvNjl2THJUS3c1MUUxSllnSEc?oc=5",
       "domain": "Yahoo Finance",
@@ -4574,21 +4604,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US housing starts fall to four-month low as demand falters",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXNjVHhUbS11Q05JZnQ5eXg0VEhRNXRNSWxqUWhwcW5KTWpyR0NReVpmOWdCelZHcTBMZXZfNUJYcl9oak9jbVA3bEJFcnNsUHdpM1lMVGdGTEZaSFN5eXh3WEZWN3FCNEVCeHRwTy1rOTRsVlpOOFltaHYxN20tMU93?oc=5",
-      "domain": "Yahoo Finance Singapore",
-      "seendate": "20261019T070000Z",
-      "date_et": "2026-10-19",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance Singapore",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -5839,6 +5854,21 @@
     {
       "title": "Consumer Price Index, Northeast region — September 2026",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkI1RjQ0cGlJTWM5NXlFaUFWSDdjNHZqWWxfVGFxYnVJX1M1eXhVR2tyV1Atd3RlVmRCamxoVUc5R205cDYzQjdCYWw2U1NlMVpURUFOVmtKZVFKZXdGa1pNalAtZkVfdXJfUUNvYnRta2RnZ2pFOHpmZGJ6N2JONkM4N0JoYnJnMUJ0OWJDMy11aTB2RHQ1S1o0aWNGOHJmM3c?oc=5",
+      "domain": "Bureau of Labor Statistics (.gov)",
+      "seendate": "20261014T070000Z",
+      "date_et": "2026-10-14",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Price Index, Boston-Cambridge-Newton — September 2026",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQm9BVkxpMlFEazVIVjhuQUtWRE1tUWktYTJFakhMWDBlbDdKeHR4d1BzTTZJZ3Zvb25fSWE1S1dEcld5S0djdUoxMDM5OThKcjUwMHExZkFXZVI5S0ZKS0ZRZUhwNTJTMV9sZ2hhaFV1blhkZzJmWmxuM0VuMmY3X1pFWmtXblU?oc=5",
       "domain": "Bureau of Labor Statistics (.gov)",
       "seendate": "20261014T070000Z",
       "date_et": "2026-10-14",
