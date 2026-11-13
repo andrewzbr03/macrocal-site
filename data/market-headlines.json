@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-13T07:54:46.077Z",
+  "generated_at": "2026-11-13T16:18:53.666Z",
   "articles": [
+    {
+      "title": "Home sales plummet to lowest level since &#x2018;Great Recession&#x2019; as prices hit all-time high",
+      "url": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "domain": "marketwatch.com",
+      "seendate": "20261113T150800Z",
+      "date_et": "2026-11-13",
+      "time_et": "10:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Publisher RSS",
+      "source": "marketwatch.com",
+      "link_type": "publisher",
+      "timestamp_type": "published"
+    },
     {
       "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
       "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
@@ -1488,21 +1503,6 @@
     },
     {
       "title": "The October jobs report is out Friday. Here's everything to expect",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pQXRhREViUFk0LWE3ZmpVUjlZZ0haUFhSLVBaZHlBZWtiWlpVdWtBUHZfUG00VzUzM3Uza1ByNGZtSnZhaUJtNU9zYVpSdUNlQ1YyaFRaZzUxc2Z4Qnk3RDRKd0Nkc1ktZE55TzdyTlhPQdIBd0FVX3lxTE1iak0wTE1QbnRtaUo1X1cxSktEWXVyRmN5VDVjQ3gycmluYURrSHdGcXZzQkk2aFZJUW14dDlOVFp5MUIxOTVmNVdGTEdyVVJuY1F6U0VmSzM4NzZHaFlzd3RtTV9uZ21zTXo4RUJCeXBQTUpUX3dn?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261105T213252Z",
-      "date_et": "2026-11-05",
-      "time_et": "16:32",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "The October jobs report is out Friday. Here's everything to expect",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pQXRhREViUFk0LWE3ZmpVUjlZZ0haUFhSLVBaZHlBZWtiWlpVdWtBUHZfUG00VzUzM3Uza1ByNGZtSnZhaUJtNU9zYVpSdUNlQ1YyaFRaZzUxc2Z4Qnk3RDRKd0Nkc1ktZE55TzdyTlhPQQ?oc=5",
       "domain": "CNBC",
       "seendate": "20261105T213252Z",
@@ -1649,6 +1649,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The October jobs report is out Friday. Here's everything to expect",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pQXRhREViUFk0LWE3ZmpVUjlZZ0haUFhSLVBaZHlBZWtiWlpVdWtBUHZfUG00VzUzM3Uza1ByNGZtSnZhaUJtNU9zYVpSdUNlQ1YyaFRaZzUxc2Z4Qnk3RDRKd0Nkc1ktZE55TzdyTlhPQdIBd0FVX3lxTE1iak0wTE1QbnRtaUo1X1cxSktEWXVyRmN5VDVjQ3gycmluYURrSHdGcXZzQkk2aFZJUW14dDlOVFp5MUIxOTVmNVdGTEdyVVJuY1F6U0VmSzM4NzZHaFlzd3RtTV9uZ21zTXo4RUJCeXBQTUpUX3dn?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261105T080000Z",
+      "date_et": "2026-11-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -3470,9 +3485,9 @@
       "title": "Durable goods orders rise, but miss forecasts",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnRlMldJeFN6eVFyLXpuclBpZzdSRFF2Y2U4MVRCWk9BUDJjTmppcDZJbEZIdnY1YnJ3NWRDZzZ0TTlLYUdLRkYycVJ4Q280SjMyVTZsZXo1QzBfbVVBdmREQk42SF9Ra3ktZzVHTlVPbnotOTNseVpZejdqVUtLNFg0aXpTU3Q1d3ZSQ0sxcXQyc0JMZEJZbzE5Rlg2bzQ3QmlJbGxtMmQ5T1Bi?oc=5",
       "domain": "Investing.com",
-      "seendate": "20261027T123612Z",
+      "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
-      "time_et": "08:36",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
@@ -4487,21 +4502,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "US housing starts fall to four-month low as demand falters",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXNjVHhUbS11Q05JZnQ5eXg0VEhRNXRNSWxqUWhwcW5KTWpyR0NReVpmOWdCelZHcTBMZXZfNUJYcl9oak9jbVA3bEJFcnNsUHdpM1lMVGdGTEZaSFN5eXh3WEZWN3FCNEVCeHRwTy1rOTRsVlpOOFltaHYxN20tMU93?oc=5",
-      "domain": "Yahoo Finance Singapore",
-      "seendate": "20261020T070000Z",
-      "date_et": "2026-10-20",
-      "time_et": "03:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Yahoo Finance Singapore",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US holiday retail sales forecast to reach US$1.013 trillion in 2026",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVpS1haWTlfTVNfWlcwY1NraHJ6RjFqT2dOS1BzNzZ0VVUxc2dxdWxWYVdCeHlWZlo2YVZSU0E4NkE5eVMxdFVQbkhrU2JNWUtFY2JnNWl3cWNzTFREZ0tCUWM3dnNqcHNlTGdTMkN5cjVvNjl2THJUS3c1MUUxSllnSEc?oc=5",
       "domain": "Yahoo Finance",
@@ -4604,6 +4604,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US housing starts fall to four-month low as demand falters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXNjVHhUbS11Q05JZnQ5eXg0VEhRNXRNSWxqUWhwcW5KTWpyR0NReVpmOWdCelZHcTBMZXZfNUJYcl9oak9jbVA3bEJFcnNsUHdpM1lMVGdGTEZaSFN5eXh3WEZWN3FCNEVCeHRwTy1rOTRsVlpOOFltaHYxN20tMU93?oc=5",
+      "domain": "Yahoo Finance Singapore",
+      "seendate": "20261019T070000Z",
+      "date_et": "2026-10-19",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Yahoo Finance Singapore",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
