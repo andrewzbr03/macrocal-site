@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-14T10:21:21.526Z",
+  "generated_at": "2026-11-14T17:04:18.294Z",
   "articles": [
+    {
+      "title": "Target Stock Faces A Fresh Test As US Consumer Spending Shifts",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzRJdm8zeU9wNDNXajdsNlhyWXNWMTY1VkxHQmM3UUduUlhyVWVOUjdzbkFZNEFDRXJUNXcyZzNTTDV0X3hoejZsY1JuTUpZWERtN1lDdzJKMFUzZllvSjFaMXkzeHlSc3l4SnVpMkdsUlFDZ2ZIV3lDWnVGMy1jNnhobk9zNEpMYnhGbjdYekRPeHpuemp0MUZn?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261114T101009Z",
+      "date_et": "2026-11-14",
+      "time_et": "05:10",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
       "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
@@ -1097,21 +1112,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1FMG9xY01MTmpnRWdxNWlIU0VvMmdKTm9fS2ZzUGtIQnZnV29aM3NqSWVYYzIwMjR5YjlTcHZWOHIxZ0pwMzZrOTRaZUNtRTlSOVZHYnk2eHR6NGZyZXZ3Q3NMSHVZV29MVFBHX1hhX1NuMGpGNUpjQ0NpVlFBMkRoT19FWXRrTzg4bUxUcmhweFY1bDBuMHdnbEktZGRwd3k4dGpaZF9Kb3I1MFJZZHpYSXQ?oc=5",
-      "domain": "The White House (.gov)",
-      "seendate": "20261106T175130Z",
-      "date_et": "2026-11-06",
-      "time_et": "12:51",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "The White House (.gov)",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Friday’s Jobs Report: Hiring Soars, Adding 165K Payrolls; Unemployment Ticks Down",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEhQdUI1VGdnOWQ2SFI1djR0d19QeEtlQWZ4WExYeWZuUGMzSTc0eVN4dTBOZU1pQjJUTFQ5eUQyd2VjMy1iY2hRV2d2V1RCWnRwNzNETDJiallydlRKcWtQbDNKdW8yYWlBcVFpTUxXaEVnVnk3Rm5EWlc2b1d4S2kyTkVrbWZhNHRDZnltbVVBUlU?oc=5",
       "domain": "Barron's",
@@ -1293,21 +1293,6 @@
     },
     {
       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56MGdjWVJoQ0JqTmhlZVpRREt0eE1XOFd0VkdIdVBfZnZNcUQ3eFV6aVl0aGptRkpCVEk1Q1BuTXExaTlnb3dnOXpsQTE0THJlc0VZX0lQV0RrQmY0LXR2ajc1VHJkNmNjZzBVOER30gFzQVVfeXFMTldndzJuTUpwcExmUGd3N3pzNjM1NUZ3VkU4TGY0Q1R5Y1lfNTVsZWJfTVVHUGU5Qkh0LTZWcmZhMjE3ZW9DNmdZWlI4a3kyYmduMkVIQVB4Zjd6VDhPV0UyXy1kOU80WUlIaExhZ0tHeXBFMA?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261106T133105Z",
-      "date_et": "2026-11-06",
-      "time_et": "08:31",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56MGdjWVJoQ0JqTmhlZVpRREt0eE1XOFd0VkdIdVBfZnZNcUQ3eFV6aVl0aGptRkpCVEk1Q1BuTXExaTlnb3dnOXpsQTE0THJlc0VZX0lQV0RrQmY0LXR2ajc1VHJkNmNjZzBVOER3?oc=5",
       "domain": "CNBC",
       "seendate": "20261106T133105Z",
@@ -1423,6 +1408,36 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1FMG9xY01MTmpnRWdxNWlIU0VvMmdKTm9fS2ZzUGtIQnZnV29aM3NqSWVYYzIwMjR5YjlTcHZWOHIxZ0pwMzZrOTRaZUNtRTlSOVZHYnk2eHR6NGZyZXZ3Q3NMSHVZV29MVFBHX1hhX1NuMGpGNUpjQ0NpVlFBMkRoT19FWXRrTzg4bUxUcmhweFY1bDBuMHdnbEktZGRwd3k4dGpaZF9Kb3I1MFJZZHpYSXQ?oc=5",
+      "domain": "The White House (.gov)",
+      "seendate": "20261106T080000Z",
+      "date_et": "2026-11-06",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "The White House (.gov)",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56MGdjWVJoQ0JqTmhlZVpRREt0eE1XOFd0VkdIdVBfZnZNcUQ3eFV6aVl0aGptRkpCVEk1Q1BuTXExaTlnb3dnOXpsQTE0THJlc0VZX0lQV0RrQmY0LXR2ajc1VHJkNmNjZzBVOER30gFzQVVfeXFMTldndzJuTUpwcExmUGd3N3pzNjM1NUZ3VkU4TGY0Q1R5Y1lfNTVsZWJfTVVHUGU5Qkh0LTZWcmZhMjE3ZW9DNmdZWlI4a3kyYmduMkVIQVB4Zjd6VDhPV0UyXy1kOU80WUlIaExhZ0tHeXBFMA?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261106T080000Z",
+      "date_et": "2026-11-06",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1768,6 +1783,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Italian retail sales rise 0.1% in September",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJVU01ld21JSTNDb2RfN21td3RxWmN5WWhrOXpDX1RIUnlTYTdvVjFselUyUWdnTDRwODNidjhUYUc1MHJ2YlF5aHRlaXRLTGZvTTUtV1JXU3UydEdUN0k4NTVFd2V4b01XUVJOVWxEX0hfNnVuVnoyc3J3QWV3YWNobHhFb0MtYnJDVnN3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261105T080000Z",
+      "date_et": "2026-11-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
