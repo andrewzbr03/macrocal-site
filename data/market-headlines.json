@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:35:45.735Z",
+  "generated_at": "2026-11-14T03:11:54.652Z",
   "articles": [
     {
       "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
@@ -79,7 +79,7 @@
     {
       "title": "Price inflation measured by the Cleveland Fed's median PCE index",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampDUjkycFFDOFNpS3VmY2c2N0xJRjJLSTF4azdrLXU1U3d3djh5Zlc5aDFuSWhBRzU2YjBPS3FKdUZFS0JxS1JpVm9YMTFNSFRmblQtMjZQNkxqdGo2bDRWQWR6V0xKUW5Wb1NfdWFKb0xfN2tpbEYxZmlpM21nOTFrajIyUTVaOGNLeGthQktWNEhkV24xdEduQktxbHNxVkRGY2loTQ?oc=5",
-      "domain": "Federal Reserve Bank of St. Louis",
+      "domain": "Federal Reserve Economic Data | FRED | St. Louis Fed",
       "seendate": "20261112T142125Z",
       "date_et": "2026-11-12",
       "time_et": "09:21",
@@ -87,7 +87,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Federal Reserve Bank of St. Louis",
+      "source": "Federal Reserve Economic Data | FRED | St. Louis Fed",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -662,6 +662,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "3 unexpected reasons the October jobs report was so strong",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HdGNXUC1XMlBfUnpOR1YwNkR2OGY4NmZDNERJUkZzWnA0LW9XaGluYlFIZEhfZXFyUlFsS3ltRDJQbXk2UFRqY0Q4R3ZhVkJXYUJfWDVrNjJBR1RGRWU4eTZQQnlwdVU1SGx4aGxLM2hublUyT2JmUncyVVl4d9IBgwFBVV95cUxOazEwZEJ6MmNUaUtKbjJkWS1XU3dBNVo4NmZiMnEzRWo2RVJkbEhFRFlmVWRQMlc3MnNBVDVXaVJNR0laZzlESDVRR3FWT19yNW14VjJSZTUyb0lSbGlXV291c3RnMHdwM1Q0YTE1UE1WZFpOTndId2ZnRDREdHRPR0E4MA?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261109T215230Z",
+      "date_et": "2026-11-09",
+      "time_et": "16:52",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
       "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -962,6 +977,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "Four things to note from Friday's US jobs report",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pbTBHZWNBVHpfWWdmMDRzY1ZvS1lHWVR5M3EtSXUxeVJFamdidzgyd1RvZkM1U2hzOUlQRndtaXZCSFptaE5wZnQwdmNNNFh1a1ZKOEpqN25Uck1tSTRkTmUxNDRxa0pOV2dIczJkLUgwMUJnOFlMSGM0OUMzdw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261106T192147Z",
+      "date_et": "2026-11-06",
+      "time_et": "14:21",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Why Is the US Jobs Report So Hard to Forecast?",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1RlZy13QlFxZ3ZxUnJNRmVXazYxSk5MdzNFRnFmQ21hS1FkNUVsM1JTTm5mVEVVWFFVcXgzZTAySzVCZmFQVDJlc2ZrN3dRRkFfLWp4djNfLWdTOWhjWXAzSDljRDV5ZUxKOThHOFZWRkJ0Y21wNUtiME1WQ3NwOHA2ZTk0aV80QXZaQk5IaDVteXhUQXM0R2RrZ3BaOGo3dUt2VE5Wd1NrTzR1QmR2enJsWFVfNjhJU1VpM0NR?oc=5",
       "domain": "Bloomberg.com",
@@ -1114,7 +1144,7 @@
     {
       "title": "Here Are the Key Takeaways From the US Jobs Report for October",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG5vNWo1NG1HSlE3enFRYmJqb2tfVGdCeGFIUU8xSW83VGJsemQ4c25YWms1ZnJKZVVKQjlremZZcEdYRUNrSlh4UHY0VG1ydnQ4Y2M1RkZTamVDa3d1WmtOaUFiejlEVGRnRGF2VnItUzgzOGlna0daaU1rclhPVVhUZjZWeXdxWVAwcnJIYWRFNkdsNHQ3WC1xNWJfWGRvZkJJNlZLTW01RHdhOXBqWnNFWGJ0QQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261106T144012Z",
       "date_et": "2026-11-06",
       "time_et": "09:40",
@@ -1122,7 +1152,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
