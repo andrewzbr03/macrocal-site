@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:02:27.332Z",
+  "generated_at": "2026-11-16T09:38:26.111Z",
   "articles": [
     {
       "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
@@ -514,7 +514,7 @@
     {
       "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261110T151603Z",
       "date_et": "2026-11-10",
       "time_et": "10:16",
@@ -522,7 +522,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -664,6 +664,21 @@
     {
       "title": "Consumer Price Index, San Francisco Area — October 2026",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTgzR3NqQ3Fkby04dGJfbVZJdnVFMjEtYUFieXpZcWVJQjNkYWx2Q2NHZXZzMy1CSndOYVBLT1RkWlcyVTVJUHU3X0pTRVB1SXNYdkczdXFzeDJZM05SUVJTOTRWaUdmNTJubFh0LUk1RnZZcWlXOURHZ2FJUGg5Snlia1ZhYlI1?oc=5",
+      "domain": "Bureau of Labor Statistics (.gov)",
+      "seendate": "20261110T080000Z",
+      "date_et": "2026-11-10",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Consumer Price Index, West Region — October 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdTNMX2E3REJVeDFfR1lpTW1DMENvX0NySVhvQlBWUlBHR3RZSnM3cUd6NE1fNTc3LWJwVGdwdno1NXZNa1Z5T3p1SGw1eFk1ek9YMGotOXFYbnlwMWxCRHVZN3ZSQWFfSnJtWTJIRmR1bllUc2V5N2MtT3R0dw?oc=5",
       "domain": "Bureau of Labor Statistics (.gov)",
       "seendate": "20261110T080000Z",
       "date_et": "2026-11-10",
@@ -2314,7 +2329,7 @@
     {
       "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjlQb09KVG56SVlQVURsTWVNakJJZHV6cmpPcmEzbVJJbGpRSHRrU201Nm5PRks5dmh2U3c1aXhOUk55WmJYSGhiV005RXg3MV9nRmhyUUdVLS1IWTI5VFNVWFMyWXFZOTZwbVZSbjMyZkctaG9VUnlyWFR0R3BvXzZVLTFTUVRxTVAwR01UNmZTTTZHQUZLdldteldUQ21tM2FjYzFnMnJMSGN6amhseA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261103T080000Z",
       "date_et": "2026-11-03",
       "time_et": "03:00",
@@ -2322,7 +2337,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4699,7 +4714,7 @@
     {
       "title": "US Housing Starts Fall to Four-Month Low as Demand Falters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hIUUFZUDVtRHZNZnJPNU9BMjdTU1hZaEtJZmZaOTJNWk1MbWY2ckpSWTJQQm9vN1ZRTno3cWJ3MTlBZk1pdW51dDVQSlU3RUJheFVIY0FFamtCb2VhUmtsei1rLWZjVVh2ckUtS3dFaV96WFQwcU9rb1hyMHRxT2xXY0VkXzVDMUNRSmoyVDI1SUg2WURsN1loQkxTOElNT0F3TGNydFRkeEY5NXc?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261020T070000Z",
       "date_et": "2026-10-20",
       "time_et": "03:00",
@@ -4707,7 +4722,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
