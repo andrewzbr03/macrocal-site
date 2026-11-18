@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-17T22:19:51.563Z",
+  "generated_at": "2026-11-18T04:17:32.207Z",
   "articles": [
+    {
+      "title": "Watch US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGtSUmxUTlVZdTk0dHphaDNiQ0FtZGlmS2tMWDh1US1Razg0d1NBaFdkU0pEY2oxQ0NhTzB0QVRrUlpfVE93bVRMZ3E1MTlTWlVsQWtsVjkxdzM1MTJ2VVQ3RTJtd2dycUppNUZNTE9BRVdGaWJweGRHMWhqaHVRcmNURVpjMmlRR0dBcFB6Ty1nNmRhTGxSYUk4LUJhOEk4SS1hNVpsRWZhb1lqLXc?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261117T183305Z",
+      "date_et": "2026-11-17",
+      "time_et": "13:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "US retail sales showcase underlying strength despite cost-of-living crunch",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFYQzF0Y092amNQX1ZybEpWNGF0TkJ6SDY0eWtIenJRRWE2by1QSXROdzVLLUF3MjJqNGxyZkJVVWEzeUZGNXlIekdaT0pMUFRmd2pPbl9BZTRGZERFSnFOend6M0FKU3laSWdPdEpiWkw3TlVTejkwdFZaeHJyR3dTb2o5Y0toVnZaVkxIeWEwZw?oc=5",
@@ -86,21 +101,6 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Bloomberg.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Watch US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGtSUmxUTlVZdTk0dHphaDNiQ0FtZGlmS2tMWDh1US1Razg0d1NBaFdkU0pEY2oxQ0NhTzB0QVRrUlpfVE93bVRMZ3E1MTlTWlVsQWtsVjkxdzM1MTJ2VVQ3RTJtd2dycUppNUZNTE9BRVdGaWJweGRHMWhqaHVRcmNURVpjMmlRR0dBcFB6Ty1nNmRhTGxSYUk4LUJhOEk4SS1hNVpsRWZhb1lqLXc?oc=5",
-      "domain": "Bloomberg.com",
-      "seendate": "20261117T000000Z",
-      "date_et": "2026-11-16",
-      "time_et": "19:00",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Bloomberg.com",
       "link_type": "google_news",
@@ -3572,7 +3572,7 @@
       "timestamp_type": "published"
     },
     {
-      "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
+      "title": "Fed’s favorite inflation measure shows prices moved up in September, keeping expectations for a year-end hike",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261029T070000Z",
