@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:25:39.480Z",
+  "generated_at": "2026-11-19T03:23:28.050Z",
   "articles": [
     {
       "title": "Fed minutes show growing unease about the outlook for inflation",
@@ -34,7 +34,7 @@
     {
       "title": "US Housing Starts Climb on Multifamily Construction Rebound",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZV9qcUlDaXl1M0d5QjlXVW1FWFJNWWx3NUtURGRjUmxlZmJrc1BfcThuNkpMdmhSa1hlX1JIUFFfaTZrOWZlMkJ2QnVXNkZycG5SdTVKdFpiVmFUeW5YcGpJNUtpbUpzWmx3eFhsZUNXUkd3OTJ4OVR1WmRqMjZOcHFUODhGOG9kRzRTYmlEdFZveUc4TlFMZzZqRWQ5MFZqWC1sV3puYkxaMTJqOEphN2ZxUQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261118T143352Z",
       "date_et": "2026-11-18",
       "time_et": "09:33",
@@ -42,7 +42,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -64,7 +64,7 @@
     {
       "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261118T121529Z",
       "date_et": "2026-11-18",
       "time_et": "07:15",
@@ -72,7 +72,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Trump / Policy",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1798,6 +1798,21 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "CNBC",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Great Jobs Report. Will It Matter to Market Participants?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcko1OXZRMEJBVVo1UFZMcFdZejJ3N3NpQjZ3Z09Jdk16YWdsbUNvdjVpaGlURFl0OFpyVXNIbjlMVzRYNW83dmZpenRsWTZocnhlUUNhS0NLbG9DeVVqUGctWmpMMkZKNzloTlcteml1d3podVk3M29pNHZwVU92d0ExekRRbVVEd25qUThqUnhtdmM?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261106T080000Z",
+      "date_et": "2026-11-06",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
