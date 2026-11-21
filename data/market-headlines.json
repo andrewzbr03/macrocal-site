@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:30:02.504Z",
+  "generated_at": "2026-11-21T09:46:34.287Z",
   "articles": [
     {
       "title": "The tech wreck is one stock trade Trump can&#x2019;t &#x2018;TACO&#x2019; away",
@@ -317,6 +317,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US single-family housing starts rebound, but trend remains subdued",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHNvWXhTdjFvTnd2ZWpsdjVvM29QLWdyUzZOMWFTTjdHUEdTazZZMGxPWFdtZk9TdVZ5WlhJb2FPbmtQbURFd1pTWUlnSS1LTk54Wk1RY2FSRWJ5cGdHOGl3NEVBaEZlcWlJVW1LblcySGxZVjUtdFNuMUlNbmhiNHJiM2tYZUZpdHg2LVdiS3dTZ1RmVjZqZzlhaXJua2JMc2FORFdFMTlNZTRSTUZpbWFIMExWdnM?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261119T043311Z",
+      "date_et": "2026-11-18",
+      "time_et": "23:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Housing / Mortgage",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Fed minutes show growing unease about the outlook for inflation",
       "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -373,21 +388,6 @@
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
       "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US single-family housing starts rebound, but trend remains subdued",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHNvWXhTdjFvTnd2ZWpsdjVvM29QLWdyUzZOMWFTTjdHUEdTazZZMGxPWFdtZk9TdVZ5WlhJb2FPbmtQbURFd1pTWUlnSS1LTk54Wk1RY2FSRWJ5cGdHOGl3NEVBaEZlcWlJVW1LblcySGxZVjUtdFNuMUlNbmhiNHJiM2tYZUZpdHg2LVdiS3dTZ1RmVjZqZzlhaXJua2JMc2FORFdFMTlNZTRSTUZpbWFIMExWdnM?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261118T133900Z",
-      "date_et": "2026-11-18",
-      "time_et": "08:39",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Housing / Mortgage",
-      "provider": "Google News",
-      "source": "Reuters",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4788,21 +4788,6 @@
     },
     {
       "title": "Michigan Consumer Sentiment Falls Slightly, Below Forecast By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFBodGZJTDRZWnQ5TlY1MEN5aDdDWEl5dDRLSWVQXzdqN21mdWdDdEJNY0lVbWRFVWdVbzNQZTdWSDJGRTFfbjd1YkZoU2RHNk1HbHhERE5rNzBkZkpwaTYyVmtrd2pGbjFacUVheTZSTjNSSFBoVkRvM1gtQldpSmM4bHhyUnZjSHNtb05wcW9XNDRQazBFWGVxLTdsV1hEQUplVnBfQnppNUxGYm1WMU9YanFNMjFjR2c?oc=5",
-      "domain": "Investing.com India",
-      "seendate": "20261023T140458Z",
-      "date_et": "2026-10-23",
-      "time_et": "10:04",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Investing.com India",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "Michigan Consumer Sentiment Falls Slightly, Below Forecast By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3k0RkZjeW1WV1MyTkJRVXd6a0c4VFpMZmMxcE1rY3dtVzlUdVVBZHJrckVuRDBIc2hoQWxPRUMxSk90bjhzWXR0TU50MlNzZVZCRTMta0tuRnlpWndySEFDNVFhcGVLYURTZzMwMUNrd1RNTFJLZDM4aDFnWUhacmVlZXRsbldZdkFaSlJ3US1KdWQxVHlDMjVDc1B0RGFaZXJ1NG9XUENyYjBISlkwaGJkUV9xcHVPQlE?oc=5",
       "domain": "Investing.com South Africa",
       "seendate": "20261023T140437Z",
@@ -4903,6 +4888,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan Consumer Sentiment Falls Slightly, Below Forecast By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFBodGZJTDRZWnQ5TlY1MEN5aDdDWEl5dDRLSWVQXzdqN21mdWdDdEJNY0lVbWRFVWdVbzNQZTdWSDJGRTFfbjd1YkZoU2RHNk1HbHhERE5rNzBkZkpwaTYyVmtrd2pGbjFacUVheTZSTjNSSFBoVkRvM1gtQldpSmM4bHhyUnZjSHNtb05wcW9XNDRQazBFWGVxLTdsV1hEQUplVnBfQnppNUxGYm1WMU9YanFNMjFjR2c?oc=5",
+      "domain": "Investing.com India",
+      "seendate": "20261023T070000Z",
+      "date_et": "2026-10-23",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com India",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
