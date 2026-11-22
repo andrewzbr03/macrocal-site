@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:12:53.099Z",
+  "generated_at": "2026-11-22T03:09:29.287Z",
   "articles": [
     {
       "title": "&#x2018;Buyers are out for blood&#x2019;: With home sales at a record low, buyers are calling the shots",
@@ -752,21 +752,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Price inflation measured by the Cleveland Fed's median PCE index",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampDUjkycFFDOFNpS3VmY2c2N0xJRjJLSTF4azdrLXU1U3d3djh5Zlc5aDFuSWhBRzU2YjBPS3FKdUZFS0JxS1JpVm9YMTFNSFRmblQtMjZQNkxqdGo2bDRWQWR6V0xKUW5Wb1NfdWFKb0xfN2tpbEYxZmlpM21nOTFrajIyUTVaOGNLeGthQktWNEhkV24xdEduQktxbHNxVkRGY2loTQ?oc=5",
-      "domain": "Federal Reserve Economic Data | FRED | St. Louis Fed",
-      "seendate": "20261112T142125Z",
-      "date_et": "2026-11-12",
-      "time_et": "09:21",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Federal Reserve Economic Data | FRED | St. Louis Fed",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US jobless claims rise to 200,000, remain near multi-decade lows",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE1xemNUYzdHTXpIb1dJbGhBSGNSalZnZnFWdVdYRUFMQnJ3V3gwaDBzcERfZ2U0bHFQdWVCZVBzXzJPN3Fla29QQXBGeUgyNUlBdHlqMjhhc2lDUHV5dndKQzhnM3FkNGk1TzlYTzFqNmFzSmZaR2xvcUFCTDdWdXdhSi1qTnpPd3hzd0pSeGxDUzlnMmpOcS12WjVZZnRBSHNNcEZQenZUZ9IBrwFBVV95cUxOcHVxTHpSUnJjS3FUVHRLN25EZndWTTB2SkhOLTBIWWxLX19qLWdHU2p4anZlMjgyeXJqZEpvZ2VHN2hsazFJNEVTQlZUTzUtVFJXckNjU3p2Yzc1RmxGdDBUZDJRYTNSdGcwc2VySHRiY1lCdHJtdm1TTFZjY1lHUk02YnpHUldHbEM5VG1YUUwxMHRycU1wZ2w3SGdtOXpWMDNOVS1lZjBaamtwX01r?oc=5",
       "domain": "CNBC TV18",
@@ -808,6 +793,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "CNBC TV18",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Price inflation measured by the Cleveland Fed's median PCE index",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampDUjkycFFDOFNpS3VmY2c2N0xJRjJLSTF4azdrLXU1U3d3djh5Zlc5aDFuSWhBRzU2YjBPS3FKdUZFS0JxS1JpVm9YMTFNSFRmblQtMjZQNkxqdGo2bDRWQWR6V0xKUW5Wb1NfdWFKb0xfN2tpbEYxZmlpM21nOTFrajIyUTVaOGNLeGthQktWNEhkV24xdEduQktxbHNxVkRGY2loTQ?oc=5",
+      "domain": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+      "seendate": "20261112T080000Z",
+      "date_et": "2026-11-12",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Federal Reserve Economic Data | FRED | St. Louis Fed",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
