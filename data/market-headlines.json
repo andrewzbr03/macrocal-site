@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-22T03:09:29.287Z",
+  "generated_at": "2026-11-22T11:17:49.287Z",
   "articles": [
+    {
+      "title": "3 Software Stocks to Watch Before PCE Inflation Data Moves Rate Sensitive Growth",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3hKZ1k3bDVTZmxWV052N3VlRTNWS3lDaHpCRkFYWVZudGJtX2IyNzZCOUlsWWJGZjhTZkNPb2lhSG9yNWxLZVZubGkxclZrLThVTllpUFhFMUJIdVBPQmV6TV9WckZmQTFkeTY2and3WUp1bUdWS1ZyRE5FSkd1WEs1NHlLSUt4YVlrYlhseHcxQnBFNmdN?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261122T070800Z",
+      "date_et": "2026-11-22",
+      "time_et": "02:08",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "&#x2018;Buyers are out for blood&#x2019;: With home sales at a record low, buyers are calling the shots",
       "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
@@ -544,7 +559,7 @@
     {
       "title": "US Retail Sales Rise 0.2% Amid Mixed Demand for Merchandise",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2k1UW1WejZUTnpFNU1INVhmLU43a2dmMEtrMlJJMk1Zdm8tSk4xd0hPMnJKTkJHcTlrb0dpMDJhQVgxLWNTT2tvMEdnWUZxZzFNSDh4NE11SzBuNmkzRHhMSzYyQ2M2NFNWZTY5TDhvdkVBSHZsMWpiemhMeWwxeC1VWlFOYWZCQnR2N1JnZ3h2a2N1LVFQbVgtc0hya3hKMzJKSFNNYzBTRWExOEE?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261117T141934Z",
       "date_et": "2026-11-17",
       "time_et": "09:19",
@@ -552,7 +567,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2687,21 +2702,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Unemployment claims drop to 189,000, the fewest since mid-July",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3R6TWZiV1VVMlJiS3dES2d1aVMxWEVqUnZYT0loR0tWMS0xQ28zTjRYS1I4OGFxQ3NUMHk3ZTVIa3ZoR0V5ZEFEeVJ6MExTdThHUU1NZDBmUkJUa2RTQTN0LW1xOVdhVTNfRGNVYnE4WUdEYXliSDNBeWY0R194anBURWtlOEx6bUdLZUQwaTNsWS1DVHM0?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261105T133204Z",
-      "date_et": "2026-11-05",
-      "time_et": "08:32",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "A prolonged war in Iran is the market&#x2019;s real &#x2018;black swan,&#x2019; says this strategist",
       "url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
       "domain": "marketwatch.com",
@@ -2714,6 +2714,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Unemployment claims drop to 189,000, the fewest since mid-July",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3R6TWZiV1VVMlJiS3dES2d1aVMxWEVqUnZYT0loR0tWMS0xQ28zTjRYS1I4OGFxQ3NUMHk3ZTVIa3ZoR0V5ZEFEeVJ6MExTdThHUU1NZDBmUkJUa2RTQTN0LW1xOVdhVTNfRGNVYnE4WUdEYXliSDNBeWY0R194anBURWtlOEx6bUdLZUQwaTNsWS1DVHM0?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261105T080000Z",
+      "date_et": "2026-11-05",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -3199,7 +3214,7 @@
     {
       "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjlQb09KVG56SVlQVURsTWVNakJJZHV6cmpPcmEzbVJJbGpRSHRrU201Nm5PRks5dmh2U3c1aXhOUk55WmJYSGhiV005RXg3MV9nRmhyUUdVLS1IWTI5VFNVWFMyWXFZOTZwbVZSbjMyZkctaG9VUnlyWFR0R3BvXzZVLTFTUVRxTVAwR01UNmZTTTZHQUZLdldteldUQ21tM2FjYzFnMnJMSGN6amhseA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261103T080000Z",
       "date_et": "2026-11-03",
       "time_et": "03:00",
@@ -3207,7 +3222,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3433,6 +3448,21 @@
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
       "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUFqb0J4VWQ2MndTN1JNbWNnLUJSOThlWHJ4NDZPekotWTlJQUtHbUpfRTlRVG0yR3J2Wkt3clY1NmNYUkdQaW1BWEJ6QVpWcUxJUExkN1E5QVpJZmppMVB3NkRuSGw3VDE0SXhhTHk2alRNWTFSQVBRcDFmRE5fVnF2NUdkaEdlMm9rR3daR0c1Q3F0ZjYxSWhKQTlYVjd6?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261102T080000Z",
+      "date_et": "2026-11-02",
+      "time_et": "03:00",
+      "effect_reported": true,
+      "major_catalyst": true,
+      "catalyst_tag": "Fed / Rates",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4684,7 +4714,7 @@
     {
       "title": "US Orders for Durable Goods Increase by Most in Five Months",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnF6WURETG9sTnd0cHFDZEFPVGtlekZhQ2o3c0xHRk85TnJwVGxRX0RKX1FxUzhTQVpnelZ6aktSM01QRi1sekd1ei1rd21MaHZBcXBGRDF1bmxjbzd4LXpaVEVySkdydTkxYWhFQ2VxaEJNOWEyQmpFYnZ5ZE1sdmNkY0xMWUhES1Z1UHBFRnFJd0Jac2pZWG1aVktEbnVRTlQ5Vnp2LW16NHo5dHV3?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
       "time_et": "03:00",
@@ -4692,7 +4722,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4729,7 +4759,7 @@
     {
       "title": "US Consumer Confidence Rises for First Time in Four Months",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
       "time_et": "03:00",
@@ -4737,7 +4767,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
