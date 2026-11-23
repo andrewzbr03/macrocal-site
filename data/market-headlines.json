@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:49:51.948Z",
+  "generated_at": "2026-11-23T08:59:25.047Z",
   "articles": [
     {
       "title": "3 Software Stocks to Watch Before PCE Inflation Data Moves Rate Sensitive Growth",
@@ -583,6 +583,21 @@
       "catalyst_tag": "Consumer",
       "provider": "Google News",
       "source": "Bloomberg",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US Retail Sales Rise 0.2% in October, Matching Economists’ Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXZUWl9tSGJ4WF9WOVA0dHlLVmM0dmlzZGhEd1B1VlRSM3lfOTNibFZQRWM3VWlWQU1pNXJIUFlmR2FfZXIxc0RMXzZsSzg2X3p2TW81TERtMTZwZTFOV1hOeWRoc2tjZDdzb1pQUjU2QTU1WEd5VUs1TlpoY3NmQ29DLXdwQ3M?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261117T141542Z",
+      "date_et": "2026-11-17",
+      "time_et": "09:15",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4744,7 +4759,7 @@
     {
       "title": "US Orders for Durable Goods Increase by Most in Five Months",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnF6WURETG9sTnd0cHFDZEFPVGtlekZhQ2o3c0xHRk85TnJwVGxRX0RKX1FxUzhTQVpnelZ6aktSM01QRi1sekd1ei1rd21MaHZBcXBGRDF1bmxjbzd4LXpaVEVySkdydTkxYWhFQ2VxaEJNOWEyQmpFYnZ5ZE1sdmNkY0xMWUhES1Z1UHBFRnFJd0Jac2pZWG1aVktEbnVRTlQ5Vnp2LW16NHo5dHV3?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
       "time_et": "03:00",
@@ -4752,7 +4767,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4789,7 +4804,7 @@
     {
       "title": "US Consumer Confidence Rises for First Time in Four Months",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
       "time_et": "03:00",
@@ -4797,7 +4812,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
