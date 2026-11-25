@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-24T17:39:39.335Z",
+  "generated_at": "2026-11-25T02:23:49.286Z",
   "articles": [
+    {
+      "title": "Consumer sentiment surges following midterm elections: Conference Board",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM3FBVEtPb3VwbUJNb1lQYldaS3dhUW9XelF2ZFcwYTRaQzFpbkpNOVJLOUpEcHZocjVvanR5S045WkExOFlSTUJHei1mbXlIeXIwRnFLYTlUcVRlUlpMbmxDd1pjMjk2cC1XMGhLWV9wVDRtbUlnUktGS2pmaVZMQmNSc2llWGNLVjhtbjNSd0o2cUYtV1lNZ29KcWFXcjF5N3F3?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261124T204927Z",
+      "date_et": "2026-11-24",
+      "time_et": "15:49",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "GDP, jobless claims, and PCE among key data due Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHVjNU41Ulc1S1RtYnVQTE5rSGJYRUJYdDlRUUlzcnpISFhFV3ZBOEY5Ri1nclRROHZzSUdBLUhUTnlmUjJRRm40Q3VqQ185WlVsZldDNEdWeE5seUpZMW9NYm1Mb0R1czZ2bmxQU084emF4WDB5SDRYSVhSMkRaZ09vbUM2YmNrZFVUOUREVjlidGlSTU1lTEp5NVNxendKSmhvdWwydV9qZEdNR05fNXJaaGwwUmZ6?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261124T200741Z",
+      "date_et": "2026-11-24",
+      "time_et": "15:07",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US consumer confidence jumps to highest level in nearly two years",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlNZMXlsT1hncHloZ0owYU5ZTlZmbFVsTlFtSFRNdGNhTVFia0RMVGVEeE4wbHVYalhxWkl1WkdJNzRGajN4cVN2N2N6YU1Kc3N0dWo3RGVRQXBpel9sSUNFNDVRMDYyeHhHczQ0RkVNbnF5d3pBMTAzTVQ3WjZ1cVFvSWZEcnpSSWR1cDl5MElSNm54ek9UbER6ZE51Q1BTT28tR25Ya3A?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261124T172547Z",
+      "date_et": "2026-11-24",
+      "time_et": "12:25",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "&#x2018;Buyers are out for blood&#x2019;: With home sales at a record low, buyers are calling the shots",
       "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
