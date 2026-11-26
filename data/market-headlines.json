@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:10:28.628Z",
+  "generated_at": "2026-11-26T23:50:31.151Z",
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -1159,7 +1159,7 @@
     {
       "title": "US Housing Starts Climb on Multifamily Construction Rebound",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZV9qcUlDaXl1M0d5QjlXVW1FWFJNWWx3NUtURGRjUmxlZmJrc1BfcThuNkpMdmhSa1hlX1JIUFFfaTZrOWZlMkJ2QnVXNkZycG5SdTVKdFpiVmFUeW5YcGpJNUtpbUpzWmx3eFhsZUNXUkd3OTJ4OVR1WmRqMjZOcHFUODhGOG9kRzRTYmlEdFZveUc4TlFMZzZqRWQ5MFZqWC1sV3puYkxaMTJqOEphN2ZxUQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261118T080000Z",
       "date_et": "2026-11-18",
       "time_et": "03:00",
@@ -1167,7 +1167,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1220,9 +1220,9 @@
       "title": "US Retail Sales Rise 0.2% in October, Matching Economists’ Forecasts",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXZUWl9tSGJ4WF9WOVA0dHlLVmM0dmlzZGhEd1B1VlRSM3lfOTNibFZQRWM3VWlWQU1pNXJIUFlmR2FfZXIxc0RMXzZsSzg2X3p2TW81TERtMTZwZTFOV1hOeWRoc2tjZDdzb1pQUjU2QTU1WEd5VUs1TlpoY3NmQ29DLXdwQ3M?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261117T141542Z",
+      "seendate": "20261117T080000Z",
       "date_et": "2026-11-17",
-      "time_et": "09:15",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -2402,21 +2402,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "The surprising October jobs report will mean more questions for the Fed",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1JLa0ZSbkE5TVRJZC13S3pBaGpidWJXbjdDNXc3YWdDdjBpWDhDN2hFUjBlVkxhZV9sUFRjNi1fOHgwTWc5VnVlTXh1eUF1dlU0dDBlY3ZiQkdRQy0xZDMxNXhJSW9JZFFsTUxEdVBGSmpZRC1POHNNVmJtYTN5allsT25HeUdPbmFjbVhnVlRkWjZLVnNFSzFZNk1SM3pMNGlRUy14SElZU1pwaFU5ZS1FWjA?oc=5",
-      "domain": "CNBC",
-      "seendate": "20261109T155019Z",
-      "date_et": "2026-11-09",
-      "time_et": "10:50",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "CNBC",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
       "url": "https://www.reuters.com/world/india/gold-gains-more-than-1-softer-oil-prices-ease-inflation-worries-2026-11-09/",
       "domain": "reuters.com",
@@ -2458,6 +2443,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Investing.com UK",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "The surprising October jobs report will mean more questions for the Fed",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1JLa0ZSbkE5TVRJZC13S3pBaGpidWJXbjdDNXc3YWdDdjBpWDhDN2hFUjBlVkxhZV9sUFRjNi1fOHgwTWc5VnVlTXh1eUF1dlU0dDBlY3ZiQkdRQy0xZDMxNXhJSW9JZFFsTUxEdVBGSmpZRC1POHNNVmJtYTN5allsT25HeUdPbmFjbVhnVlRkWjZLVnNFSzFZNk1SM3pMNGlRUy14SElZU1pwaFU5ZS1FWjA?oc=5",
+      "domain": "CNBC",
+      "seendate": "20261109T080000Z",
+      "date_et": "2026-11-09",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "CNBC",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2944,7 +2944,7 @@
     {
       "title": "Here Are the Key Takeaways From the US Jobs Report for October",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG5vNWo1NG1HSlE3enFRYmJqb2tfVGdCeGFIUU8xSW83VGJsemQ4c25YWms1ZnJKZVVKQjlremZZcEdYRUNrSlh4UHY0VG1ydnQ4Y2M1RkZTamVDa3d1WmtOaUFiejlEVGRnRGF2VnItUzgzOGlna0daaU1rclhPVVhUZjZWeXdxWVAwcnJIYWRFNkdsNHQ3WC1xNWJfWGRvZkJJNlZLTW01RHdhOXBqWnNFWGJ0QQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261106T080000Z",
       "date_et": "2026-11-06",
       "time_et": "03:00",
@@ -2952,7 +2952,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3193,6 +3193,21 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "AP News",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "3 Consumer Discretionary Stocks To Watch After The Strong US Jobs Report",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2RMNWZwWk5HLXlEaFFlUGRVZGVDOE40VUxPdThKWS1wRWdaUjdVLWxzdDJoamdvbHpWdDZwWXRPSTBUcXBWcWlkYU1KT3NNTGduVDEyNklocTJ1VFNOZ0dhS01oMDRLdEhWUkNJWmpIekc3TUplQXdJbHktY0NhdXd6RXZmbXRtclNvZV9udkM5S0xFU3o4TVVBTFg0eHVRNjVEVw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261106T080000Z",
+      "date_et": "2026-11-06",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4219,7 +4234,7 @@
     {
       "title": "Watch US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3FRN0gyQ1loZnlGTnpDZTBxODJZeEY1MkN0NlJtRnJHSTl0MEJ0V01HTkxsUlpUYWcwSl9xQktnUHliUnd2Uk9XZGU0eUJ6bnNhY003ZkxwU1RhUUNSdFJHX0YwYUFNdDllV1YxcjY4MnJveXR6UFlkRDRxd3B5MUM2b0c2dGxVR3E0RTBjZXQtWWUyU0hORTNRd29lUG5IZThrSEtVaF91UQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261102T080000Z",
       "date_et": "2026-11-02",
       "time_et": "03:00",
@@ -4227,7 +4242,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4427,21 +4442,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Manufacturing PMI and ISM Manufacturing PMI due Monday By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHRYclhvRm5KZEhGQTU4R1RnRTFvMm94OEdSYUlydXUwMGtGSVNHb2kxLVNJOUJINUlwNnZzdGhBV3JHQnBKZGlYZndZRmplT3VJSERjOHg5QkJSOGpzeUlpWExjcWtlbXVPdkxGMklpYXJHSUU5SWIwOUY0ZlVST0dpV010YXQ0V3lGU3JacEZ4V1QteVBXeUlETzB4Q09kWWZjQmdYcGhBSHAxN3dnLVo1Z3hNZw?oc=5",
-      "domain": "Investing.com Nigeria",
-      "seendate": "20261030T182235Z",
-      "date_et": "2026-10-30",
-      "time_et": "14:22",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Manufacturing",
-      "provider": "Google News",
-      "source": "Investing.com Nigeria",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "A 3.4% GDP print hides a ‘haunted’ housing market and a September stall in the economy",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZCVi1jLWUwb1JocElsUmI3djVpYjRtRWFoenNpN1VuaHhKd2Z5Zzllbm9IRHpNaGpRbmJ1bmJjRTI1NGFQMmNlZ2xFQkdRdEk1NmlfNEt5MXFmZ0tRd1E0MC1hN1RlUEtncUpXYWo4eHZoVy1JZTFnd1pYbnF2X1NZYllwWHUtbzNtMjJLald5ODNGQUVlMWJOY3F6c2o5alE?oc=5",
       "domain": "Fortune",
@@ -4453,6 +4453,21 @@
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
       "source": "Fortune",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Manufacturing PMI and ISM Manufacturing PMI due Monday By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHRYclhvRm5KZEhGQTU4R1RnRTFvMm94OEdSYUlydXUwMGtGSVNHb2kxLVNJOUJINUlwNnZzdGhBV3JHQnBKZGlYZndZRmplT3VJSERjOHg5QkJSOGpzeUlpWExjcWtlbXVPdkxGMklpYXJHSUU5SWIwOUY0ZlVST0dpV010YXQ0V3lGU3JacEZ4V1QteVBXeUlETzB4Q09kWWZjQmdYcGhBSHAxN3dnLVo1Z3hNZw?oc=5",
+      "domain": "Investing.com Nigeria",
+      "seendate": "20261030T070000Z",
+      "date_et": "2026-10-30",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Manufacturing",
+      "provider": "Google News",
+      "source": "Investing.com Nigeria",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4939,7 +4954,7 @@
     {
       "title": "Watch Business Investment, Government Spending Bolster US GDP",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUM5aXNPNDI4T2RYb1o5RkUzd3AxZDJTbDFWbjhRRjF0ck5Dcjk3WU84VFdpdVZDMXNIQTRjcFYtUkVfb19GMnJ6Z3NzX29xREp5SjdVdF9qdUxYN3NXNlZ4cFlzeGtCa0g2aGpfRkhDMmQyRDFYZXAxdzZ4Uy1yOFlfUE5oSnlVblJ5R3E0RTctbmQ0ME1fNFZILWV0NTlpcThrZm90bmZFbGRycFE?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261029T070000Z",
       "date_et": "2026-10-29",
       "time_et": "03:00",
@@ -4947,7 +4962,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
