@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-25T22:29:31.753Z",
+  "generated_at": "2026-11-26T05:00:10.156Z",
   "articles": [
+    {
+      "title": "US GDP growth accelerated sharply in third quarter",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUlQ1bk5kV1lIVXF3YjVqME9NaXU5clBRZ1p3ZWp3Q0FqeTc5QVd2d3NuczV5WnJ1WGVkcHhIODJoVEFVcXpSdkxHc1BnYkZXRC1yaWMySmhOTkU?oc=5",
+      "domain": "Fox Business",
+      "seendate": "20261126T003811Z",
+      "date_et": "2026-11-25",
+      "time_et": "19:38",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Fox Business",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
     {
       "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
       "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
@@ -14,6 +29,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US economy roars ahead in third quarter, inflation remains high in October",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261125T220655Z",
+      "date_et": "2026-11-25",
+      "time_et": "17:06",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -44,21 +74,6 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US economy roars ahead in third quarter, inflation remains high in October",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
-      "domain": "Reuters",
-      "seendate": "20261125T185040Z",
-      "date_et": "2026-11-25",
-      "time_et": "13:50",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Inflation",
-      "provider": "Google News",
-      "source": "Reuters",
-      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -146,6 +161,36 @@
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Growth / Demand",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US economy roars ahead in third quarter, inflation remains high in October By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlpSUE9aeTF1a0hoa0NvSVdGUkRsQ2h6eUVVa1RKNTVRcDN4UndnbVFPLXA3T1JiOVJ6TW1JakgtejZFOHk5MFVSTmhuQXd3MThNUGd1TE9DSzNQWnVySWJqQWFVS20tVjBpeDYtVHZGbW0zU1JTdjZPUkdOUC1KNkd5MVY1N2lzcnNPdWUxNXpreGc?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261125T143355Z",
+      "date_et": "2026-11-25",
+      "time_et": "09:33",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "U.S. Initial Jobless Claims Drop, Beating Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHRuWkVMd3V1N09seW41SEF0U19RcldnMDF1MVB1b25ySGpEcHNVWVE5ODA1NGlZRmVwQS1KOHdzXzZmZno1QW9vUmM1R0ZMUVd0bXhZUm12em8zZkpLUkcwdVlETl9objczb0h4RnFtdUlueTFvT1pmRU85RHNjSmp3UW5fMUFFRm9fbFdFeHZTX2UxS1A5cWl4b05BVGhCT1hfNHFlRlZxY0FYZDV6a0JR?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261125T141734Z",
+      "date_et": "2026-11-25",
+      "time_et": "09:17",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Investing.com",
       "link_type": "google_news",
@@ -494,6 +539,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "How Inflation Is Reshaping the 2026 Holiday Season Spending",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1FXYndZRVQzUWhmTlFzaFRwYVZBbW53YlJoTlpSRl9xMjdqX3V4TVFtZk44YnB1QnFPVmEzd2dWWklNdTFkZWotNkRpR2NNVDU4bzcxWmstWXFhZjJMb1UweG9HMmtURFF6SVFnMVQ3bmVTR2xzUE82eWZOenNXbm9ZOEY3dVpJelEyeXd1VXdqZVQ1UnlZTDFXRXlWSVZuSFBvWVBJNERDTjRwX0lGSDRaclN1a3pfeVBJUTFUaw?oc=5",
+      "domain": "The Conference Board",
+      "seendate": "20261123T123630Z",
+      "date_et": "2026-11-23",
+      "time_et": "07:36",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "The Conference Board",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -949,7 +1009,7 @@
     {
       "title": "US Housing Starts Climb on Multifamily Construction Rebound",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZV9qcUlDaXl1M0d5QjlXVW1FWFJNWWx3NUtURGRjUmxlZmJrc1BfcThuNkpMdmhSa1hlX1JIUFFfaTZrOWZlMkJ2QnVXNkZycG5SdTVKdFpiVmFUeW5YcGpJNUtpbUpzWmx3eFhsZUNXUkd3OTJ4OVR1WmRqMjZOcHFUODhGOG9kRzRTYmlEdFZveUc4TlFMZzZqRWQ5MFZqWC1sV3puYkxaMTJqOEphN2ZxUQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261118T143352Z",
       "date_et": "2026-11-18",
       "time_et": "09:33",
@@ -957,7 +1017,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1144,7 +1204,7 @@
     {
       "title": "Watch US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGtSUmxUTlVZdTk0dHphaDNiQ0FtZGlmS2tMWDh1US1Razg0d1NBaFdkU0pEY2oxQ0NhTzB0QVRrUlpfVE93bVRMZ3E1MTlTWlVsQWtsVjkxdzM1MTJ2VVQ3RTJtd2dycUppNUZNTE9BRVdGaWJweGRHMWhqaHVRcmNURVpjMmlRR0dBcFB6Ty1nNmRhTGxSYUk4LUJhOEk4SS1hNVpsRWZhb1lqLXc?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261117T000000Z",
       "date_et": "2026-11-16",
       "time_et": "19:00",
@@ -1152,7 +1212,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1759,7 +1819,7 @@
     {
       "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261110T080000Z",
       "date_et": "2026-11-10",
       "time_et": "03:00",
@@ -1767,7 +1827,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3394,7 +3454,7 @@
     {
       "title": "Watch US Economy: Jobless Claims Fall Below Estimates to 189,000",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3BSMkVweTd4V3RYcUNadTg3WGJLQ3FIRkdZeUpySWxYbXFjcWI2a3pzTDJWVTNpbGpfS2FETnV6Q2ZiWDMyOXA3SWxiUlVBRmdoczhHVEVzREZWWjFLOWpWM1J3VG5UcXBvdVp6bEJsMmZmZUp1bVhrR3ZTSDMwdWJuR3VRYnd0aTMzMEdXLVJaODhzMDg1QmRuMko5WVRGSEJvX3RwOA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261105T080000Z",
       "date_et": "2026-11-05",
       "time_et": "03:00",
@@ -3402,7 +3462,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4054,7 +4114,7 @@
     {
       "title": "Watch US Economy: ISM Manufacturing Activity Picks Up as Production Grows",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaVp2NS1RQzNiVlBjX00tSkIxVmpFZnNmRjdnUHBPdXM4ZXcwYTRLdGF6RTBwTXNKMXZLQ2dLWFE3M2hoYTFqMGVIMkdCMnlFcl9yZjVHOTNQZUhrSGI2bW1CVV9tVDlDSlZkTXlxaXpmOE5hVEZnZ1pSdmNzMHphUXdudzhpVElseXpSeWFfOEwtRzM0U3hTVDdVSm9WS1dackpKLXcwVk1ZX3luNkE?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261102T080000Z",
       "date_et": "2026-11-02",
       "time_et": "03:00",
@@ -4062,7 +4122,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -5329,7 +5389,7 @@
     {
       "title": "US Orders for Durable Goods Increase by Most in Five Months",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnF6WURETG9sTnd0cHFDZEFPVGtlekZhQ2o3c0xHRk85TnJwVGxRX0RKX1FxUzhTQVpnelZ6aktSM01QRi1sekd1ei1rd21MaHZBcXBGRDF1bmxjbzd4LXpaVEVySkdydTkxYWhFQ2VxaEJNOWEyQmpFYnZ5ZE1sdmNkY0xMWUhES1Z1UHBFRnFJd0Jac2pZWG1aVktEbnVRTlQ5Vnp2LW16NHo5dHV3?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261027T070000Z",
       "date_et": "2026-10-27",
       "time_et": "03:00",
@@ -5337,7 +5397,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Manufacturing",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
