@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:50:31.151Z",
+  "generated_at": "2026-11-27T08:24:35.414Z",
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -29,6 +29,21 @@
       "provider": "Publisher RSS",
       "source": "marketwatch.com",
       "link_type": "publisher",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Trump's new tariffs aim to prise global trade from China's grip",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
+      "domain": "Reuters",
+      "seendate": "20261126T070300Z",
+      "date_et": "2026-11-26",
+      "time_et": "02:03",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Trump / Policy",
+      "provider": "Google News",
+      "source": "Reuters",
+      "link_type": "google_news",
       "timestamp_type": "published"
     },
     {
@@ -65,7 +80,7 @@
       "title": "US GDP growth accelerated sharply in third quarter",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUlQ1bk5kV1lIVXF3YjVqME9NaXU5clBRZ1p3ZWp3Q0FqeTc5QVd2d3NuczV5WnJ1WGVkcHhIODJoVEFVcXpSdkxHc1BnYkZXRC1yaWMySmhOTkU?oc=5",
       "domain": "Fox Business",
-      "seendate": "20261126T003811Z",
+      "seendate": "20261126T003857Z",
       "date_et": "2026-11-25",
       "time_et": "19:38",
       "effect_reported": false,
@@ -578,6 +593,21 @@
       "seendate": "20261124T163640Z",
       "date_et": "2026-11-24",
       "time_et": "11:36",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Inflation",
+      "provider": "Google News",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Producer Price Index up 6.5 percent for the year ended October 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPay1BbWZGQmZuY2JsaXlLS0xxU0M3X0dITWhBQUhWXzFVTXhXRjE3bU1CdTk5cmRHTjktOTB4aUg0VlRXendvY2JsNGNuQTBRdTVjUVJNT0NsNXY4OVFDdzRtUGZCc0hQaGJ3VDdsbEtlRzAtV3lYRTljRmFna1FubVNjYTBiLVM4ZE80S25aYjlYNGhtck0yQTVVQ2FDOTZ3WXpBODNneWE?oc=5",
+      "domain": "Bureau of Labor Statistics (.gov)",
+      "seendate": "20261124T161136Z",
+      "date_et": "2026-11-24",
+      "time_et": "11:11",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
@@ -1159,7 +1189,7 @@
     {
       "title": "US Housing Starts Climb on Multifamily Construction Rebound",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZV9qcUlDaXl1M0d5QjlXVW1FWFJNWWx3NUtURGRjUmxlZmJrc1BfcThuNkpMdmhSa1hlX1JIUFFfaTZrOWZlMkJ2QnVXNkZycG5SdTVKdFpiVmFUeW5YcGpJNUtpbUpzWmx3eFhsZUNXUkd3OTJ4OVR1WmRqMjZOcHFUODhGOG9kRzRTYmlEdFZveUc4TlFMZzZqRWQ5MFZqWC1sV3puYkxaMTJqOEphN2ZxUQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261118T080000Z",
       "date_et": "2026-11-18",
       "time_et": "03:00",
@@ -1167,7 +1197,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Housing / Mortgage",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -2944,7 +2974,7 @@
     {
       "title": "Here Are the Key Takeaways From the US Jobs Report for October",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG5vNWo1NG1HSlE3enFRYmJqb2tfVGdCeGFIUU8xSW83VGJsemQ4c25YWms1ZnJKZVVKQjlremZZcEdYRUNrSlh4UHY0VG1ydnQ4Y2M1RkZTamVDa3d1WmtOaUFiejlEVGRnRGF2VnItUzgzOGlna0daaU1rclhPVVhUZjZWeXdxWVAwcnJIYWRFNkdsNHQ3WC1xNWJfWGRvZkJJNlZLTW01RHdhOXBqWnNFWGJ0QQ?oc=5",
-      "domain": "Bloomberg",
+      "domain": "Bloomberg.com",
       "seendate": "20261106T080000Z",
       "date_et": "2026-11-06",
       "time_et": "03:00",
@@ -2952,7 +2982,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -3199,6 +3229,21 @@
     {
       "title": "3 Consumer Discretionary Stocks To Watch After The Strong US Jobs Report",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2RMNWZwWk5HLXlEaFFlUGRVZGVDOE40VUxPdThKWS1wRWdaUjdVLWxzdDJoamdvbHpWdDZwWXRPSTBUcXBWcWlkYU1KT3NNTGduVDEyNklocTJ1VFNOZ0dhS01oMDRLdEhWUkNJWmpIekc3TUplQXdJbHktY0NhdXd6RXZmbXRtclNvZV9udkM5S0xFU3o4TVVBTFg0eHVRNjVEVw?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261106T080000Z",
+      "date_et": "2026-11-06",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Friday’s jobs report is expected to show the labor market chugging along",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFMzd0lzMk5DTVZ6TjBBOWR1QWMzQ1Zya0lId29ybVRCaDRKYW1hSEJVQzJWXzU3b0pvdVpHeER4RlI3eE1HWmpLWFNrcW9QaTkxXzNtWUNxZ1pZd0NkTnlrRFhUUE9rSDVDLUhBcUE0S3NzQlpEVS1COENPRjhWVnBNWlZXNHhUSXIyS1FFa0tOQzF6a1U3eWhjWDIwM1E5VC1URlNpNmtoZUE4dTMyZFJsR3ZRUTRsSnJHdzJR?oc=5",
       "domain": "Yahoo Finance",
       "seendate": "20261106T080000Z",
       "date_et": "2026-11-06",
@@ -5149,7 +5194,7 @@
     {
       "title": "FRED Adds Median Inflation Data from the Cleveland Fed | FRED News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEFyaEpGeHEzdVZkczg1Mk1ESExzd0Qyd2VvN3lJeG9MMmgwaXl0SDctX293ZXBqSXM0LU5IQVp4UTFnYk9IR1otQjhiUHBDSzRPVVl2TTZoSlFTbFI4cTlqcGFVNjlBaG1haVkydUU2dDZSQi1Ybm9qNm1mcThrVzlrUHhLUk4yQXVIaHp0VGZXbEt3TXc?oc=5",
-      "domain": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+      "domain": "Federal Reserve Bank of St. Louis",
       "seendate": "20261029T070000Z",
       "date_et": "2026-10-29",
       "time_et": "03:00",
@@ -5157,7 +5202,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Inflation",
       "provider": "Google News",
-      "source": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+      "source": "Federal Reserve Bank of St. Louis",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
