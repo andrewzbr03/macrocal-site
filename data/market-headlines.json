@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:56:48.737Z",
+  "generated_at": "2026-11-28T01:57:12.162Z",
   "articles": [
     {
       "title": "What you should expect from the November jobs report",
@@ -722,6 +722,21 @@
       "timestamp_type": "published"
     },
     {
+      "title": "US Consumer Confidence Surges to Highest Since Early 2025",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWhseFBMOEVOZUE5MUNaLUkydmFGT1hKS1VRT0RwdFpNRjdzNWkwRURjVWh3WllKSEpiVXlBam90aW5saW9yWm1aVk1kVlJTUnZGR3RzUjl3bVFaOVFQNVpvTkxleEtEMXpQWlVhNXlOenQ5b3pMUnhNbUYxYmp3UFJrWnlxRTFaai1qS1U1WHk0SW9ZTGJkUk1GZ0xxOGo0MGE1Y0toY1V2N3Rm?oc=5",
+      "domain": "Bloomberg.com",
+      "seendate": "20261124T154236Z",
+      "date_et": "2026-11-24",
+      "time_et": "10:42",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Bloomberg.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
       "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGVtV0RfOUJwVGVoSGRhek1WM0Jhbk9Zb3FwdGpyUFI4WWE0ci1YTVYtR3JsWC1mc2M4dnFiYTdMeGhGUGRpVU83WWJ4YVlXLUpOVHNhelVFcFZ4QUZNWjFSTlRCZENDek9JQUx5Yzlta2ZBU255SWQwMUlwOElKcW9Md2lScjQ4VlHSAY8BQVVfeXFMTlJfNUY3Q0hNNXNEVjRfTHp0bGZGYlB6ZkpEQlpTNllyamc0Y2NjczJhM2NLRTJ6SzFya2ZvbkFOLUEzRzVZQUJ6ZHp6M0xhQVJUbGtpNU01Tm9XMXZMamFMbG90UkFYMzFDN0tSdExhVWtXa2lGV1JVRTZCVUw2dEk5NFNsS2p1VlJQbUpqOEk?oc=5",
       "domain": "CNBC",
@@ -1052,21 +1067,6 @@
       "timestamp_type": "published"
     },
     {
-      "title": "Michigan consumer sentiment and Baker Hughes rig count due Friday",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVJQNEhibVF2SkdLUzltNG4tT21VTHBZUDNkOUxFSV9MeEFSSVRyUEkwLTlyaUxNY1dndTQ3TV9Ma3ZpRkV4UzhBSXhFQ3VQWmpCQldyRXJpVTlwU2RNeTZ2M2ZFVlp0TU9FNE1tVDNPajVWUm1BVHQ3eUJ5dHVZQkhXbUoxa1puMzl3UWZ2bXNkZVJ4ZTlSeXJDYnpxSEZ2VzZaS0ZtdFRKSzN2cjNaZHkxT01OUGNoaGk5NGhEYlRlLWJma1E?oc=5",
-      "domain": "Investing.com",
-      "seendate": "20261119T190204Z",
-      "date_et": "2026-11-19",
-      "time_et": "14:02",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Consumer",
-      "provider": "Google News",
-      "source": "Investing.com",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
       "title": "US weekly jobless claims edge up, but labor market remains resilient",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjdpV0lCY3lUWlhjZzVkdTNNa1hrazREdFRCMjFSRlpzYmpXNlpYeXdOeXJyZk44NGQwT0FuN1cxdWRyUWtLenNCTGNDSVM0NERhNW5PemtfbTI1UkFtcDdvUklKdjZZM2c4NTZlUVBlYVF5SVBubVFnbkhueHNTWDhLd1c4MVJLM2g1ekQ3bHo?oc=5",
       "domain": "Reuters",
@@ -1078,21 +1078,6 @@
       "catalyst_tag": "Labor",
       "provider": "Google News",
       "source": "Reuters",
-      "link_type": "google_news",
-      "timestamp_type": "published"
-    },
-    {
-      "title": "US weekly jobless claims edge up, but labor market remains resilient",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDRmSE1YQ2MxTXhZTWNaSWZSOTBiVFlxV3lhZXZ3TFpyTVpWRlZGSGhtaGVXdUFZZFlRZE1UQlNfY3ZxeGhDdlNuNWxYY0N4UUJoSWl0Z2lRMkl0UnlhazBQc3FoQ1h6Z2lXSkJKODUxbkVnYV9wSnVpWTU3allhUGhUeElEZGhzcElYQlVCQ1VINDNmbFdmRk9VMDZGVTA?oc=5",
-      "domain": "Yahoo Finance",
-      "seendate": "20261119T170350Z",
-      "date_et": "2026-11-19",
-      "time_et": "12:03",
-      "effect_reported": false,
-      "major_catalyst": true,
-      "catalyst_tag": "Labor",
-      "provider": "Google News",
-      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1183,6 +1168,36 @@
       "catalyst_tag": "Inflation",
       "provider": "Google News",
       "source": "Federal Reserve Bank of Boston",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "Michigan consumer sentiment and Baker Hughes rig count due Friday",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVJQNEhibVF2SkdLUzltNG4tT21VTHBZUDNkOUxFSV9MeEFSSVRyUEkwLTlyaUxNY1dndTQ3TV9Ma3ZpRkV4UzhBSXhFQ3VQWmpCQldyRXJpVTlwU2RNeTZ2M2ZFVlp0TU9FNE1tVDNPajVWUm1BVHQ3eUJ5dHVZQkhXbUoxa1puMzl3UWZ2bXNkZVJ4ZTlSeXJDYnpxSEZ2VzZaS0ZtdFRKSzN2cjNaZHkxT01OUGNoaGk5NGhEYlRlLWJma1E?oc=5",
+      "domain": "Investing.com",
+      "seendate": "20261119T080000Z",
+      "date_et": "2026-11-19",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Consumer",
+      "provider": "Google News",
+      "source": "Investing.com",
+      "link_type": "google_news",
+      "timestamp_type": "published"
+    },
+    {
+      "title": "US weekly jobless claims edge up, but labor market remains resilient",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDRmSE1YQ2MxTXhZTWNaSWZSOTBiVFlxV3lhZXZ3TFpyTVpWRlZGSGhtaGVXdUFZZFlRZE1UQlNfY3ZxeGhDdlNuNWxYY0N4UUJoSWl0Z2lRMkl0UnlhazBQc3FoQ1h6Z2lXSkJKODUxbkVnYV9wSnVpWTU3allhUGhUeElEZGhzcElYQlVCQ1VINDNmbFdmRk9VMDZGVTA?oc=5",
+      "domain": "Yahoo Finance",
+      "seendate": "20261119T080000Z",
+      "date_et": "2026-11-19",
+      "time_et": "03:00",
+      "effect_reported": false,
+      "major_catalyst": true,
+      "catalyst_tag": "Labor",
+      "provider": "Google News",
+      "source": "Yahoo Finance",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -1340,9 +1355,9 @@
       "title": "US Retail Sales Rise 0.2% in October, Matching Economists’ Forecasts",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXZUWl9tSGJ4WF9WOVA0dHlLVmM0dmlzZGhEd1B1VlRSM3lfOTNibFZQRWM3VWlWQU1pNXJIUFlmR2FfZXIxc0RMXzZsSzg2X3p2TW81TERtMTZwZTFOV1hOeWRoc2tjZDdzb1pQUjU2QTU1WEd5VUs1TlpoY3NmQ29DLXdwQ3M?oc=5",
       "domain": "Yahoo Finance",
-      "seendate": "20261117T141542Z",
+      "seendate": "20261117T080000Z",
       "date_et": "2026-11-17",
-      "time_et": "09:15",
+      "time_et": "03:00",
       "effect_reported": false,
       "major_catalyst": true,
       "catalyst_tag": "Consumer",
@@ -3064,7 +3079,7 @@
     {
       "title": "Here Are the Key Takeaways From the US Jobs Report for October",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdG5vNWo1NG1HSlE3enFRYmJqb2tfVGdCeGFIUU8xSW83VGJsemQ4c25YWms1ZnJKZVVKQjlremZZcEdYRUNrSlh4UHY0VG1ydnQ4Y2M1RkZTamVDa3d1WmtOaUFiejlEVGRnRGF2VnItUzgzOGlna0daaU1rclhPVVhUZjZWeXdxWVAwcnJIYWRFNkdsNHQ3WC1xNWJfWGRvZkJJNlZLTW01RHdhOXBqWnNFWGJ0QQ?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261106T080000Z",
       "date_et": "2026-11-06",
       "time_et": "03:00",
@@ -3072,7 +3087,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
@@ -4159,7 +4174,7 @@
     {
       "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjlQb09KVG56SVlQVURsTWVNakJJZHV6cmpPcmEzbVJJbGpRSHRrU201Nm5PRks5dmh2U3c1aXhOUk55WmJYSGhiV005RXg3MV9nRmhyUUdVLS1IWTI5VFNVWFMyWXFZOTZwbVZSbjMyZkctaG9VUnlyWFR0R3BvXzZVLTFTUVRxTVAwR01UNmZTTTZHQUZLdldteldUQ21tM2FjYzFnMnJMSGN6amhseA?oc=5",
-      "domain": "Bloomberg.com",
+      "domain": "Bloomberg",
       "seendate": "20261103T080000Z",
       "date_et": "2026-11-03",
       "time_et": "03:00",
@@ -4167,7 +4182,7 @@
       "major_catalyst": true,
       "catalyst_tag": "Labor",
       "provider": "Google News",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link_type": "google_news",
       "timestamp_type": "published"
     },
